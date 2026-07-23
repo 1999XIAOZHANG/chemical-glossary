@@ -1,0 +1,7256 @@
+[
+  {
+    "en": "absorbent textile fiber",
+    "zh": "吸收性纺织纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerated porcelain dish test",
+    "zh": "加速瓷皿试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid brick",
+    "zh": "耐酸砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-proof brick",
+    "zh": "耐酸砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid refractory",
+    "zh": "酸性耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid resistant enamelled glass coating",
+    "zh": "耐酸搪玻璃(涂)层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid-resisting brick",
+    "zh": "耐酸砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acryl glass",
+    "zh": "丙烯酸酯类有机玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acrylic glass",
+    "zh": "丙烯酸酯类有机玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "actinic glass",
+    "zh": "闪光玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorbent-coated glass strip",
+    "zh": "涂吸附剂玻璃条",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "agrotextile",
+    "zh": "农用纺织品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air brick",
+    "zh": "风干砖；砖坯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air dried brick",
+    "zh": "风干砖；砖坯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air hardening refractory cement",
+    "zh": "气硬性耐火水泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air insulation(=air isolation)",
+    "zh": "空气绝缘",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air isolation(=air insulation)",
+    "zh": "空气绝缘",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alabaster glass",
+    "zh": "雪花玻璃；乳色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali containing glass fibre （",
+    "zh": "中）碱玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali free glass fibre",
+    "zh": "无碱玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkaline-error of glass pH electrode",
+    "zh": "玻璃 pH 电极的碱误差",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali-resistant glass fibre AR",
+    "zh": "玻璃纤维；耐碱玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "all glass heated inlet system",
+    "zh": "全玻璃加热进样系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "all glass solid injector",
+    "zh": "全玻璃固体进样器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alpha ferrite α",
+    "zh": "铁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alumina",
+    "zh": "矾土；氧化铝 alumina base catalyst 氧化铝载体催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina based fibre",
+    "zh": "氧化铝基纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina bead",
+    "zh": "氧化铝珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-blanc fixe",
+    "zh": "氧化铝-重晶石粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina boria catalyst",
+    "zh": "氧化铝-氧化硼催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-boria-silica fibre",
+    "zh": "铝硼硅(氧化物)纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina borosilicate glass",
+    "zh": "硼硅酸铝玻璃",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "alumina brick",
+    "zh": "高铝砖",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "alumina cement",
+    "zh": "高铝水泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-ceramic",
+    "zh": "氧化铝陶瓷；矾土陶瓷",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "alumina chromatography",
+    "zh": "氧化铝色谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina column",
+    "zh": "氧化铝柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina cream",
+    "zh": "矾土霜；氢氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina film",
+    "zh": "氧化铝(薄)膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina for chromatography",
+    "zh": "色谱(法)用氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina G",
+    "zh": "氧化铝 G（氧化铝中加烧石膏）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina gel",
+    "zh": "氧化铝凝胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina granules",
+    "zh": "颗粒状氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina hydrate",
+    "zh": "水合氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina hydrogel",
+    "zh": "氧化铝水凝胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-impregnated paper",
+    "zh": "氧化铝浸渍过的纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina minium",
+    "zh": "铝红",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina on silica",
+    "zh": "硅石上氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina pellets",
+    "zh": "锭形氧化铝；氧化铝锭片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-silica fibre",
+    "zh": "铝硅纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina-silica hydrogel",
+    "zh": "硅铝水凝胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina silica refractory",
+    "zh": "硅酸铝耐火材料",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "alumina silicate",
+    "zh": "水合硅酸铝；板岩粉（体质颜料，有灰、黑二色）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina soap",
+    "zh": "铝皂 γ-alumina spinel γ型氧化铝尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina supporter",
+    "zh": "氧化铝载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminate",
+    "zh": "铝酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aluminate coupling agent",
+    "zh": "铝酸酯偶联剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aluminate-nitrile rubber",
+    "zh": "铝-丁腈橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alumina trihydrate",
+    "zh": "三水氧化铝；氢氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina whisker",
+    "zh": "氧化铝晶须",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina white",
+    "zh": "矾土白（不叫铝白，用天然氧化铝作白色颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alumina white lake",
+    "zh": "矾土白色淀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminosilicate (glass) fibre",
+    "zh": "硅铝酸盐玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminum ceramic",
+    "zh": "铝陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminium silicate refractory fibrous material",
+    "zh": "硅酸铝耐高温纤维材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amber glass",
+    "zh": "琥珀玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ammonium aluminate",
+    "zh": "铝酸铵 NH₄AlO₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anhydrous alumina",
+    "zh": "无水氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anisotropic glass-ceramic",
+    "zh": "各向异性玻璃陶瓷；非均质玻璃陶瓷",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "antiferroelectric ceramics",
+    "zh": "反铁电陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-glare glass",
+    "zh": "防眩玻璃；太阳镜用玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antimonial glass",
+    "zh": "锑玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-sintering number",
+    "zh": "抗烧结值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "apparent double glass transition",
+    "zh": "表观双重玻璃化转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aquamarine glass",
+    "zh": "海蓝玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "arch brick",
+    "zh": "拱砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "armoured glass",
+    "zh": "装甲玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "arsenic glass",
+    "zh": "砷玻璃（玻璃状的三氧化二砷）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "art glass",
+    "zh": "美术玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asbestos brick",
+    "zh": "石棉砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asbestos-ceramic fibre composite",
+    "zh": "石棉-陶瓷纤维复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ashlar brick",
+    "zh": "琢石砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asphalt tile",
+    "zh": "沥青砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asphalt volatile constituents",
+    "zh": "沥青挥发分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aventurine glass",
+    "zh": "金星玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baking of brick",
+    "zh": "烧砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bare glass",
+    "zh": "原玻璃(纤维)；未处理的玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baria-alumina-silica fibre",
+    "zh": "氧化钡-氧化铝-氧化硅纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "barium aluminate",
+    "zh": "铝酸钡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "barium ferrite",
+    "zh": "亚铁酸钡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "barium glass",
+    "zh": "钡玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "barium titanate ceramics",
+    "zh": "钛酸钡陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic brick",
+    "zh": "碱性砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bath brick",
+    "zh": "砂砖；巴士磨石",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery glass",
+    "zh": "电池用玻璃(容器)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bauxite brick",
+    "zh": "铝土砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bauxite refractory",
+    "zh": "铝矾土耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bayer alumina",
+    "zh": "拜耳氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bayer process (for purifying alumina)",
+    "zh": "拜耳(精炼矾土)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beaded glass",
+    "zh": "玻璃珠；粒状玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bell glass (",
+    "zh": "玻璃)钟罩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beryl based glass",
+    "zh": "绿玉基玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beryllium-glass composite fibre",
+    "zh": "铍基玻璃复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beta glass fibre β-",
+    "zh": "玻璃纤维；超细玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Biemann-Watson separator(=fritted glass separator)",
+    "zh": "比曼-瓦特森分离器；多孔玻璃分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "binary system ceramics",
+    "zh": "二元系陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biorefractory",
+    "zh": "抗生物(降解)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black glass",
+    "zh": "黑色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blown glass",
+    "zh": "吹制(的)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "body brick",
+    "zh": "炉体砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bohemian glass",
+    "zh": "波希米亚玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bohemian glass tube",
+    "zh": "波希米亚玻璃管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bone glass",
+    "zh": "乳色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "borax glass",
+    "zh": "硼砂玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "borosilicate glass",
+    "zh": "硼硅(酸盐)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "borosilicate glass bead",
+    "zh": "硼硅酸盐玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bottle glass",
+    "zh": "瓶玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bottom brick",
+    "zh": "底砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick clay",
+    "zh": "砖土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick condenser",
+    "zh": "砖制冷凝器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick die",
+    "zh": "砖模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick earth",
+    "zh": "砖土",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bricked-in",
+    "zh": "砖衬的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick furnace(=brick kiln)",
+    "zh": "砖窑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick grease",
+    "zh": "脂砖；砖块状润滑脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bricking",
+    "zh": "砖衬",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bricking-up",
+    "zh": "用砖填塞",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick kiln(=brick furnace)",
+    "zh": "砖窑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick lining",
+    "zh": "砖衬",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick machine",
+    "zh": "造砖机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick oil",
+    "zh": "砖油；压砖机润滑油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick press",
+    "zh": "压砖器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick red",
+    "zh": "砖红色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brick setting",
+    "zh": "砖砌体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brickwork",
+    "zh": "砌砖工作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brickwork casing",
+    "zh": "砖工刷灰；砖工整理;砌砖工作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brittle ductile transition",
+    "zh": "脆韧性转变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brittle-ductile transition temperature",
+    "zh": "脆性-延性转变温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "building brick",
+    "zh": "建筑砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "built-in electrical insulation",
+    "zh": "内部(电)绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulb-type glass electrode",
+    "zh": "球型玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bullet-proof glass",
+    "zh": "防弹玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "burner tile",
+    "zh": "炉瓦；耐火瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Ca-alumina soap",
+    "zh": "钙-氧化铝皂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ca-aluminate-silicate base",
+    "zh": "铝酸钙-硅酸钙载体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcareous brick",
+    "zh": "钙质砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcia-alumina-silica fibre",
+    "zh": "氧化钙-氧化铝-氧化硅纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcic silicate glass",
+    "zh": "硅酸钙玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcination",
+    "zh": "焙烧*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcination plant",
+    "zh": "煅烧车间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcination ratio",
+    "zh": "煅烧出产率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcined alumina",
+    "zh": "煅烧氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcioferrite",
+    "zh": "钙磷铁矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium aluminate",
+    "zh": "铝酸钙 Ca(AlO₂)₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium ferricyanide",
+    "zh": "氰铁酸钙 Ca [Fe(CN) ] calcium ferrite 铁酸钙 Ca(FeO ) calcium ferrocyanide 氰亚铁酸钙 Ca [Fe(CN) ]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium metaaluminate",
+    "zh": "偏铝酸钙 Ca(AlO₂)₂;Al₂(CaO₄)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium sulphoaluminate",
+    "zh": "硫铝酸钙",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Cannon-Ubbelohde glass capillary viscometer",
+    "zh": "坎农-乌贝洛德玻璃毛细管黏度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cantilever-balance",
+    "zh": "悬臂式天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cantilever beam impact test (=Izod impact test)",
+    "zh": "悬臂梁式冲击试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cantilever beam impact test machine",
+    "zh": "悬臂梁式碰撞试验机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cantilevered dual side construction",
+    "zh": "双侧悬臂式结构capacitively coupled microwave plasma torch 电容耦合微波等离子体焰炬*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cantilever softening point",
+    "zh": "悬臂(法)软化点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cantilever winder",
+    "zh": "悬臂式收卷机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capillary glass tube",
+    "zh": "玻璃毛细管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbide brick",
+    "zh": "碳硅砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon-glass hybrid tape",
+    "zh": "碳纤维-玻璃纤维混杂带",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carborundum (=silicon carbide)",
+    "zh": "碳化硅；金刚砂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carborundum brick",
+    "zh": "金刚砂砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carborundum refractory",
+    "zh": "碳化硅耐火材料；金刚砂耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Carrara glass",
+    "zh": "卡拉拉玻璃（一种结构玻璃）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Carrara porcelain",
+    "zh": "卡拉拉瓷（伯利安瓷的别名）;素烧（似白大理石）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "casing glass",
+    "zh": "镶色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cast glass",
+    "zh": "铸玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "castile soap",
+    "zh": "橄榄油皂; 马赛皂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cation glass electrode",
+    "zh": "阳离子玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation-selective glass membrane",
+    "zh": "阳离子选择性玻璃膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic",
+    "zh": "陶瓷的;无机非金属材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic abrasive",
+    "zh": "陶瓷磨料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic adhesive",
+    "zh": "陶瓷胶黏剂；陶瓷黏合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic aerator",
+    "zh": "陶瓷曝气器；陶瓷通气装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic block",
+    "zh": "陶瓷均热块",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic body",
+    "zh": "陶瓷体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic bond",
+    "zh": "陶瓷黏合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic cleaning",
+    "zh": "陶瓷清洗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic coating",
+    "zh": "陶瓷涂层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic cobalt blue",
+    "zh": "瓷蓝；钴蓝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic condenser",
+    "zh": "瓷电容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic duct",
+    "zh": "陶瓷管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic entrapment guide",
+    "zh": "陶瓷夹持式导丝器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic fibre",
+    "zh": "硅酸盐纤维；陶瓷纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic fibre blanket",
+    "zh": "陶瓷纤维毛毯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic fibre reinforced composite",
+    "zh": "陶瓷纤维增强复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic filter",
+    "zh": "陶瓷过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic foam",
+    "zh": "多孔陶瓷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic former",
+    "zh": "瓷模",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic glaze (",
+    "zh": "陶)瓷釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic grinding media",
+    "zh": "陶瓷研磨介质；瓷球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic heater",
+    "zh": "陶瓷加热器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic humidity sensor",
+    "zh": "陶瓷湿度传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic hygrometer",
+    "zh": "陶瓷湿度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic industry",
+    "zh": "陶瓷工业",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic ink",
+    "zh": "瓷墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic insulation",
+    "zh": "陶瓷绝缘",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "ceramic jet",
+    "zh": "陶瓷喷嘴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic media",
+    "zh": "陶瓷研磨介质；瓷球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic membrane electrode",
+    "zh": "陶瓷膜电极*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic metal",
+    "zh": "金属陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic-metal coating (=metallized ceramic coating)",
+    "zh": "金属陶瓷涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic-metal composite system",
+    "zh": "陶瓷-金属复合材料系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic mosaic",
+    "zh": "陶瓷锦砖；陶瓷马赛克",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic nuclear fuel",
+    "zh": "陶瓷核燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic oil",
+    "zh": "陶瓷用油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic oxide",
+    "zh": "氧化陶瓷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic packing",
+    "zh": "陶瓷填料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic plasma",
+    "zh": "陶瓷等离子体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic plate",
+    "zh": "陶瓷板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic precursor",
+    "zh": "陶瓷前体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic ring",
+    "zh": "陶瓷环",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic rod",
+    "zh": "陶瓷棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramics",
+    "zh": "陶瓷学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ceramic seal",
+    "zh": "陶瓷封接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic sensor",
+    "zh": "陶瓷传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic source",
+    "zh": "陶瓷(放射)源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic sponge",
+    "zh": "陶瓷海绵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic stator",
+    "zh": "陶瓷定子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic substrate",
+    "zh": "陶瓷基质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic-to-metal seal",
+    "zh": "陶瓷金属封接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic tube",
+    "zh": "陶瓷管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic tube psychrometer",
+    "zh": "陶瓷管干湿球湿度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic twist stop wheel",
+    "zh": "陶瓷止捻轮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic veneer",
+    "zh": "陶瓷镶面板：陶瓷面砖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic wax",
+    "zh": "地蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic whisker",
+    "zh": "陶瓷晶须",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chalcogen glass",
+    "zh": "硫属玻璃（半导体玻璃）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chalcogenide glass",
+    "zh": "硫属(化合物)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chalcogenide glass electrode",
+    "zh": "硫属化物玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "checker brick",
+    "zh": "格子砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "checker brickwork",
+    "zh": "方格式砌砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical brick",
+    "zh": "化学砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical glass",
+    "zh": "化学玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical porcelain",
+    "zh": "化学瓷器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chopped glass strand",
+    "zh": "短切玻璃丝束",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chrome brick",
+    "zh": "氧化铬(耐火)砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chrome refractory",
+    "zh": "铬质耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromia-alumina catalyst",
+    "zh": "氧化铬-氧化铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromic oxide-on-alumina catalyst (",
+    "zh": "氧化)铬-(氧化)铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromite brick",
+    "zh": "铬砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chromium glass",
+    "zh": "铬玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clear-glass bottle",
+    "zh": "透明玻璃瓶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clinker brick",
+    "zh": "硬砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clock glass",
+    "zh": "表(面)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cloth counting glass",
+    "zh": "织物密度镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clouded glass",
+    "zh": "毛玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coal brick",
+    "zh": "煤砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal-dust brick",
+    "zh": "煤屑砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal firing",
+    "zh": "用煤加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coated glass fibre products",
+    "zh": "玻璃纤维涂覆制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cobalt aluminate",
+    "zh": "铝酸钴 Co(AlO₂)₂; Al₂(CoO₄)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cobalt glass",
+    "zh": "钴玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cobalt glass dosimeter",
+    "zh": "钴玻璃(放射)剂量计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coefficient of thermal conductivity",
+    "zh": "导热系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "co-firing",
+    "zh": "共烧",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold insulation",
+    "zh": "保冷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold insulation mastic",
+    "zh": "冷绝缘(防潮)胶合辅料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloidal alumina",
+    "zh": "胶体氧化铝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colored glass",
+    "zh": "有色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colored glass filter",
+    "zh": "有色玻璃滤片",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "common brick",
+    "zh": "普通砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "common brick clay",
+    "zh": "普通砖土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compound glass",
+    "zh": "多层玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conducting glass electrode",
+    "zh": "传导性玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled pore glass granule",
+    "zh": "可控孔径玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled porosity glass",
+    "zh": "可控多孔性玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled surface pore glass",
+    "zh": "可控表面多孔玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convection-diffusion thermal conductivity cell",
+    "zh": "对流扩散式热导池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coppeferrite",
+    "zh": "铁酸铜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper-glass composite fibre",
+    "zh": "铜-玻璃复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper ruby glass",
+    "zh": "铜玉红玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cordierite-based glass fibre",
+    "zh": "萃青石基玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cork brick",
+    "zh": "多孔砖：软木块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cork tile",
+    "zh": "软木砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counting glass",
+    "zh": "织物分析镜；织物密度镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cover glass",
+    "zh": "保护玻璃;盖玻片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crown glass",
+    "zh": "冕玻璃；无铅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cryolite glass",
+    "zh": "冰晶玻璃；冰晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal glass",
+    "zh": "结晶玻璃；富铅玻璃；水晶玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline silica-aluminate",
+    "zh": "晶体硅铝酸盐；分子筛；人造泡沸石",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallized glass fibre",
+    "zh": "微晶玻璃纤维；晶化玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cupric aluminate",
+    "zh": "铝酸铜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cut glass",
+    "zh": "雕玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "daylight filter glass",
+    "zh": "日光过滤玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "decorative porcelain",
+    "zh": "彩瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "defective insulation",
+    "zh": "不良绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "desk for glass blowing",
+    "zh": "吹制玻璃(操作)台",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of volatile matter",
+    "zh": "挥发物测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "devitrified glass fibre",
+    "zh": "微晶玻璃纤维；失透玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "D glass fibre D",
+    "zh": "玻璃纤维；低介电玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diamond glass cutter",
+    "zh": "金刚石切玻刀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dielectric glass fibre D",
+    "zh": "玻璃纤维；低介电玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dielectric insulation",
+    "zh": "介电绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dimensionless glass transition",
+    "zh": "无因次玻璃化转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct firing",
+    "zh": "直接烧；直接用火加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct firing furnace",
+    "zh": "直接火焰炉；直焰炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doped rutile",
+    "zh": "金红石型晶格颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double cantilever beam cleavage test",
+    "zh": "双悬臂梁开裂试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double glass transition",
+    "zh": "双玻璃化转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double layer warp-knitted geotextile",
+    "zh": "双层经编土工布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double water glass",
+    "zh": "双料水玻璃（即钾钠均有）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry press brick",
+    "zh": "干压砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry press brick machine",
+    "zh": "干压压砖机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual firing (",
+    "zh": "煤与石油)混合加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ductile",
+    "zh": "延性的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile base oil",
+    "zh": "优等延性油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile-brittle transition",
+    "zh": "韧脆转变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile coating",
+    "zh": "延展性涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile-crack-growth fracture",
+    "zh": "延性裂纹增长断裂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile fracture",
+    "zh": "延性破裂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductile iron",
+    "zh": "延性铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductileness(=ductility)",
+    "zh": "延性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility(=ductileness)",
+    "zh": "延性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Dutch brick",
+    "zh": "荷兰砖; 高温烧结砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ecotextile",
+    "zh": "生态纺织品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "E fiber glass E",
+    "zh": "玻璃纤维；无碱玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrical glass fibre (",
+    "zh": "低碱)电绝缘玻璃纤维；E型玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrical insulation compound",
+    "zh": "电绝缘胶(料);电绝缘混合料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric porcelain",
+    "zh": "电瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electroinsulation varnish",
+    "zh": "电绝缘清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "embossed glass",
+    "zh": "浮雕玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion opal glasses（",
+    "zh": "复） 乳光玻璃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enamel glass",
+    "zh": "釉彩玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enamelled tile",
+    "zh": "釉瓷瓦；琉璃瓦",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "encaustic brick",
+    "zh": "琉璃砖；彩(釉)砖；釉面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "encaustic tile",
+    "zh": "烧彩瓦；琉璃丸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "English crystal glass",
+    "zh": "全铅晶质玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "environment friendly textile",
+    "zh": "环保纺织品",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy glass substrate",
+    "zh": "环氧玻璃基板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "etched glass beads",
+    "zh": "经刻蚀的玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face brick",
+    "zh": "面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "face brick clay",
+    "zh": "面砖土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "facing brick",
+    "zh": "贴面砖；饰面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "facing tile",
+    "zh": "饰面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "faience tile",
+    "zh": "釉陶面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feed glass",
+    "zh": "进料玻璃；控制玻璃（注油器的）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feldspathic porcelain",
+    "zh": "长石瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ferrite",
+    "zh": "铁酸盐;纯粒铁;铁素体；铁氧体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrite matrix",
+    "zh": "铁氧体(铁素体)晶体；铁氧体基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrite red (",
+    "zh": "合成)铁红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrite steel",
+    "zh": "铁素体钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrite yellow",
+    "zh": "铁黄",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric ceramics",
+    "zh": "铁电陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric ceramic thin films",
+    "zh": "铁电陶瓷薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fertile",
+    "zh": "可转换的；可再生的；可增殖的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fertile absorber",
+    "zh": "有效吸收剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fertile mycelial filament",
+    "zh": "结果菌丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fertile mycelium",
+    "zh": "结实菌丝体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fertile nuclide",
+    "zh": "可转换核素*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fertile-to-fissile ratio",
+    "zh": "可转换的与易裂变的核素的比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Féry glass prism",
+    "zh": "费里玻璃棱镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiber glass(=spun glass)",
+    "zh": "玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiber glass coating",
+    "zh": "玻璃纤维套",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiberglass drum",
+    "zh": "玻璃钢转鼓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiber glass packing",
+    "zh": "玻璃纤维垫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiber glass reinforced plastic",
+    "zh": "玻璃纤维增强塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibreglass",
+    "zh": "玻璃纤维；玻璃丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre glass casement fabric",
+    "zh": "玻璃丝窗帘布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre glass reinforced laminate",
+    "zh": "玻璃纤维增强层合塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibreglass reinforced thermoplastic",
+    "zh": "玻璃纤维增强热塑性塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrillar alumina",
+    "zh": "丝状氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibroferrite",
+    "zh": "纤铁矾",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrous alumina",
+    "zh": "纤维状氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrous glass",
+    "zh": "玻璃纤维；玻璃丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrous glass mat",
+    "zh": "玻璃纤维席",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fill-type insulation",
+    "zh": "疏松隔热层；填充型隔热层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filter glass",
+    "zh": "滤色(光)玻璃；滤光镜；玻璃滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fine ceramics",
+    "zh": "精细陶瓷；精制陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fire brick (",
+    "zh": "耐)火砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "firebrick support",
+    "zh": "耐火砖载体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fire clay brick",
+    "zh": "火泥砖；耐火砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fired ceramic coating",
+    "zh": "烧成陶瓷涂料；烧结陶瓷涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing",
+    "zh": "射击；放枪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing chamber",
+    "zh": "火室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing equipment",
+    "zh": "加热设备",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing pin",
+    "zh": "撞针（军）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing point",
+    "zh": "燃点；着火温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing pot",
+    "zh": "火加热罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing range",
+    "zh": "着火范围（指着火温度的范围）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing resistance",
+    "zh": "耐燃性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing ring",
+    "zh": "测热圈",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing shrinkage",
+    "zh": "烧缩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing temperature",
+    "zh": "燃点；着火温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing time test",
+    "zh": "燃烧速度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firing voltage",
+    "zh": "点火电压；开始放电电压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flame-sprayed ceramic",
+    "zh": "火焰喷涂陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flashed glass",
+    "zh": "镶色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flint glass",
+    "zh": "燧石玻璃；火石玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "float glass",
+    "zh": "浮法玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "floor tile",
+    "zh": "铺地瓷砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow glass",
+    "zh": "流动观察玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foamglass",
+    "zh": "泡沫玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free sintering",
+    "zh": "自由熔结（即无模烧结）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "frited glass separator",
+    "zh": "多孔玻璃分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass(=sintered glass)",
+    "zh": "烧结玻璃；多孔玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass crucible",
+    "zh": "烧结玻璃(过滤)坩埚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass filter",
+    "zh": "多孔玻璃过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass filter plate",
+    "zh": "多孔玻璃滤板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass separator(=Biemann-Watson separator)",
+    "zh": "比曼-瓦特森分离器；多孔玻璃分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted glass ware",
+    "zh": "烧结玻璃器皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fritted porcelain",
+    "zh": "烘炙陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "front brick",
+    "zh": "面砖；正面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "frosted glass",
+    "zh": "毛玻璃；磨砂玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "frosted glass plate",
+    "zh": "毛玻璃片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel brick",
+    "zh": "燃料块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full sized brick",
+    "zh": "整砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gage glass",
+    "zh": "玻璃液面计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gamma ferrite γ",
+    "zh": "铁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas firing",
+    "zh": "燃气供暖法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gauge glass",
+    "zh": "计液玻管；锅炉水位指示玻璃管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gauging glass",
+    "zh": "计水玻管；锅炉水位指示玻璃管；玻璃水位计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gel-rutile",
+    "zh": "胶金红石（矿）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass",
+    "zh": "玻璃;镜;玻盅；玻(璃)杯;玻片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass adhesive",
+    "zh": "玻璃胶黏剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass antidimmer",
+    "zh": "玻璃防雾剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass atomizer",
+    "zh": "玻璃雾化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass backing-plate",
+    "zh": "玻璃衬板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-base laminated material",
+    "zh": "玻璃基层压制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass bead",
+    "zh": "玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass bead column",
+    "zh": "玻璃珠柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass beads support",
+    "zh": "玻璃球载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass beaker",
+    "zh": "玻璃烧杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass black",
+    "zh": "灯黑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass blower",
+    "zh": "玻璃吹制工",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass blower's burner",
+    "zh": "吹玻璃用喷灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass blower tool",
+    "zh": "吹玻璃用具",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass blowing",
+    "zh": "玻璃吹制",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass bonded mica",
+    "zh": "玻璃云母",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass bonded refractory coating",
+    "zh": "玻璃质耐火涂层",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "glass bubbles",
+    "zh": "玻璃小孔；玻璃泡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass capillary",
+    "zh": "玻璃毛细管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass capillary gas chromatography",
+    "zh": "玻璃毛细管气相色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass capillary viscometer",
+    "zh": "玻璃毛细管黏度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cell",
+    "zh": "玻璃吸收池；玻璃比色池；玻璃比色杯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cement",
+    "zh": "玻璃胶泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass ceramic",
+    "zh": "玻璃陶瓷",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "glass-ceramic fiber",
+    "zh": "玻璃-陶瓷纤维 glass-clad platinum iridium thermal conductivity detector玻璃封裹铂铱热导检测器",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "glass cloth",
+    "zh": "玻璃布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass coating",
+    "zh": "搪玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass colors",
+    "zh": "玻璃(着色用的)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass color standard",
+    "zh": "玻璃颜色标准",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass column",
+    "zh": "玻璃柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cover-plate",
+    "zh": "玻璃盖板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass crucible",
+    "zh": "玻璃坩埚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cullet",
+    "zh": "碎玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cutter",
+    "zh": "玻璃割刀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cutting",
+    "zh": "玻璃切割",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cylinder",
+    "zh": "玻璃杯；玻璃量筒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass diaphragm manometer",
+    "zh": "玻璃薄膜压力计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass dish evaporation test(=glass dish gum test)",
+    "zh": "玻璃皿蒸发试验；玻璃皿胶质试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass dish gum test(=glass dish evaporation test)",
+    "zh": "玻璃皿蒸发试验；玻璃皿胶质试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass dosimeter",
+    "zh": "玻璃(制放射性)剂量计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass drawing",
+    "zh": "拖玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass drops",
+    "zh": "玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassed vessels",
+    "zh": "覆盖有玻璃的钢质容器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass effect",
+    "zh": "玻璃化效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass electrode",
+    "zh": "玻璃电极*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass enamel",
+    "zh": "搪玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fabric",
+    "zh": "玻璃布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass felt",
+    "zh": "玻璃毡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fiber",
+    "zh": "玻璃纤维；玻璃丝；玻璃毛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fiber coating",
+    "zh": "玻璃纤维涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fiber lubricant",
+    "zh": "玻璃纤维润滑剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fiber paper",
+    "zh": "玻璃纤维纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fiber reinforced plastic(GFRP)",
+    "zh": "玻璃纤维增强塑料;玻璃钢（俗）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassfibre",
+    "zh": "玻璃纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass fibre cloth",
+    "zh": "玻璃纤维布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre coupled",
+    "zh": "玻璃纤维黏结的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre covering",
+    "zh": "玻璃丝被覆；玻璃丝包缠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre-epoxy laminate",
+    "zh": "玻璃纤维-环氧(树脂)层压物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre filter",
+    "zh": "玻璃纤维过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre membrane",
+    "zh": "玻璃纤维膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-fibre reinforced polyamide",
+    "zh": "玻璃纤维增强聚酰胺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre reinforcement",
+    "zh": "玻璃纤维增强材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass filter plate",
+    "zh": "玻璃滤板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass flake",
+    "zh": "玻璃(鳞)片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass flake coatings",
+    "zh": "玻璃叶片(鳞片)涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass flour",
+    "zh": "玻璃粉（磨料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-former",
+    "zh": "成玻璃材料；玻璃形成体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass forming substance",
+    "zh": "玻璃形成物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass frame",
+    "zh": "玻璃架；玻璃框",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass funnel",
+    "zh": "玻璃漏斗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass furnace",
+    "zh": "熔玻璃炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass gauge",
+    "zh": "玻璃管规；玻璃液位表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass glazed",
+    "zh": "浓釉的（釉得很浓，以至于很亮）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass glazing",
+    "zh": "浓釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass grinding media",
+    "zh": "玻璃研磨介质；玻璃球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass helices",
+    "zh": "玻璃单环填充物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass house",
+    "zh": "玻璃工厂；温室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass hydrometer",
+    "zh": "玻璃比重计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-indicating electrode",
+    "zh": "玻璃指示电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassine(=glassine paper)",
+    "zh": "半透明玻璃纸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassine paper(=glassine)",
+    "zh": "半透明玻璃纸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassiness",
+    "zh": "玻璃状态；玻璃质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassing",
+    "zh": "磨光；打光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassing jack(=glassing machine)",
+    "zh": "磨光机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassing machine(=glassing jack)",
+    "zh": "磨光机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass ink",
+    "zh": "玻璃墨水（在玻璃上写字用）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass inlet port",
+    "zh": "玻璃入口",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass insert",
+    "zh": "玻璃插入物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass introduction port",
+    "zh": "玻璃进样口",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassivation",
+    "zh": "玻璃钝化；玻璃保护层;玻璃熔封(密封)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass jar",
+    "zh": "玻璃缸(瓶)(实验室用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glasslike polymer",
+    "zh": "类玻璃聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass lined",
+    "zh": "搪玻璃的；搪瓷的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-lined kettle",
+    "zh": "搪玻璃釜；玻璃衬里反应釜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-lined knotting jar",
+    "zh": "搪玻璃的木节封闭剂专用罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass lined reaction vessel",
+    "zh": "搪玻璃反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-lined steel",
+    "zh": "搪玻璃钢；搪瓷钢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass lined tubing",
+    "zh": "玻璃内衬管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass lining",
+    "zh": "搪玻璃；搪瓷内衬",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass making",
+    "zh": "玻璃制造",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass marker",
+    "zh": "玻璃的刻度器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass mats",
+    "zh": "玻璃纤维垫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass measure (",
+    "zh": "玻璃)量杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass melt",
+    "zh": "熔融玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass melting",
+    "zh": "玻璃熔融",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane electrode",
+    "zh": "玻璃膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane ion-selective electrode",
+    "zh": "玻璃膜离子选择电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass metal",
+    "zh": "玻璃金属",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass microballoon",
+    "zh": "玻璃微珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass microelectrode",
+    "zh": "微型玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass microfiber filter media",
+    "zh": "玻璃微纤维过滤介质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass monofilament",
+    "zh": "玻璃单丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass paddle",
+    "zh": "玻璃搅拌桨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass paper",
+    "zh": "玻璃砂纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pearls",
+    "zh": "玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pear-shaped bulb",
+    "zh": "梨形玻璃灯泡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pencil",
+    "zh": "玻璃铅笔（在玻璃上写字的铅笔）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pipe",
+    "zh": "玻璃管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pipe line",
+    "zh": "玻璃制输送管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass plate",
+    "zh": "玻璃片；玻璃板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass plate level gauge",
+    "zh": "玻璃板液面计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass point",
+    "zh": "玻璃点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pot",
+    "zh": "玻璃罐；玻璃坩锅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass powder",
+    "zh": "玻璃粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass pressure reactor",
+    "zh": "玻璃耐压反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-reinforced",
+    "zh": "玻璃(纤维)增强的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-reinforced polypropylene",
+    "zh": "玻璃纤维增强聚丙烯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass retort",
+    "zh": "玻璃甑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass rod",
+    "zh": "玻璃棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass roving",
+    "zh": "玻璃粗纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass roving cloth",
+    "zh": "玻璃纤维无捻纱布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-rubber transition",
+    "zh": "玻璃-橡胶态转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-rubber transition point",
+    "zh": "玻璃态-橡胶态转变点；二级转变点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-rubber transition temperature",
+    "zh": "玻璃态橡胶态转换温度；二级转变温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass sampling bulb",
+    "zh": "玻璃进样球(形管)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass sand",
+    "zh": "玻璃砂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass sheet",
+    "zh": "玻璃片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-silicide coating",
+    "zh": "玻璃-硅化物涂层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass silk",
+    "zh": "玻璃丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass slicker",
+    "zh": "玻璃刮刀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass spatula",
+    "zh": "玻璃刮铲",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass spinning",
+    "zh": "玻璃丝纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass spreading rod",
+    "zh": "玻璃涂布棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass state",
+    "zh": "玻璃态*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass state temperature",
+    "zh": "玻璃化温度；二次转变温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-stem thermometer",
+    "zh": "玻璃温度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass stopper",
+    "zh": "玻璃塞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-stoppered bottle",
+    "zh": "玻璃塞瓶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tank",
+    "zh": "玻璃桶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tiff",
+    "zh": "方解石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tile",
+    "zh": "玻璃瓦",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "glass-to-metal seal",
+    "zh": "玻璃-金属封接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass transition",
+    "zh": "玻璃化转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass transition point",
+    "zh": "玻璃化点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-transition temperature",
+    "zh": "玻璃化转变温度*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass trap",
+    "zh": "玻璃分水器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tube",
+    "zh": "玻璃管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tube level gauge",
+    "zh": "玻璃管液面计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tubes of chromometer",
+    "zh": "比色计玻管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass tubing gauge",
+    "zh": "玻管量规",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-type ceramic coating",
+    "zh": "玻璃质陶瓷涂层",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "glass valve",
+    "zh": "玻璃阀",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass veil",
+    "zh": "覆盖毡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassware",
+    "zh": "玻璃器皿;玻璃仪器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass wool",
+    "zh": "玻璃棉；玻璃绒；玻璃毛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass wool extractor",
+    "zh": "玻璃棉抽出器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass wool filter",
+    "zh": "玻璃棉滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass wool inserter",
+    "zh": "玻璃棉塞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass work",
+    "zh": "玻璃制造(业)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glasswort",
+    "zh": "玻璃草（自其灰中可取得碱）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass writing pencil",
+    "zh": "刻玻笔;蜡笔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassy",
+    "zh": "玻璃状的；透明的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass yarn",
+    "zh": "玻璃丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassy carbon",
+    "zh": "玻璃化炭黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy carbon composite",
+    "zh": "玻璃态碳素复合材料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy carbon electrode",
+    "zh": "玻(璃)碳电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy carbon tube",
+    "zh": "玻(璃状)碳管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy compliance",
+    "zh": "玻璃态柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy corn",
+    "zh": "玻璃质粒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy deformation",
+    "zh": "玻璃态形变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy elastic deformation",
+    "zh": "玻璃态弹性形变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy phosphate",
+    "zh": "玻璃状磷酸盐（偏磷酸盐）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy polymer",
+    "zh": "玻璃状聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy shear modulus",
+    "zh": "玻璃态剪切模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy solvent",
+    "zh": "玻璃状溶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy state",
+    "zh": "玻璃态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy tensile modulus",
+    "zh": "玻璃态拉伸模量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy yellow",
+    "zh": "透明黄色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy zone",
+    "zh": "玻璃(态)区域",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glaze brick",
+    "zh": "釉面砖；玻璃砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glazed brick",
+    "zh": "玻璃砖；面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glazed porcelain casserole",
+    "zh": "上釉(带把)瓷皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glazed tile",
+    "zh": "琉璃瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glaze firing",
+    "zh": "上釉焙烧；烧釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glazing glass",
+    "zh": "打光玻璃辊",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glost firing",
+    "zh": "烧釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glowing ceramic rod",
+    "zh": "辉光磁棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gold ruby glass",
+    "zh": "金红玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granulated glass sphere",
+    "zh": "玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graphite tube coated with refractory metal carbide",
+    "zh": "难熔金属碳化物涂层石墨管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grazed relief tile",
+    "zh": "釉面浮雕瓷砖；浮雕琉璃砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "green brick",
+    "zh": "砖坯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grog brick",
+    "zh": "耐火砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ground glass",
+    "zh": "磨砂玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ground glass apparatus",
+    "zh": "磨口玻璃仪器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ground glass joint",
+    "zh": "磨口玻璃接头；玻璃磨片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ground glass stopper",
+    "zh": "磨口玻璃塞；毛玻璃塞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ground glass stoppered flask",
+    "zh": "磨口玻璃瓶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gun-applied furnace insulation (",
+    "zh": "油)枪喷(涂)炉绝缘（一种可以利用混凝土枪来喷射的加热炉保温材料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gypsum tile",
+    "zh": "石膏瓦(板)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hand glassing",
+    "zh": "手工推光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard borosilicate glass",
+    "zh": "硬质硼硅酸玻璃；耐火玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hard glass",
+    "zh": "硬质玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hard porcelain",
+    "zh": "硬瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "head variation in glass capillary viscometer",
+    "zh": "玻璃毛细管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat insulation",
+    "zh": "热(的)绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-proof glass",
+    "zh": "耐热玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat-proof porcelain",
+    "zh": "耐热瓷器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat resisting glass",
+    "zh": "耐热玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heavy flint glass",
+    "zh": "重火石玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high alumina",
+    "zh": "富矾土的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high alumina cement",
+    "zh": "高铝水泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high alumina clay",
+    "zh": "高铝黏土",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high alumina refractory",
+    "zh": "高铝耐火材料",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "high alumina shale",
+    "zh": "高铝页岩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high density glass",
+    "zh": "高密度玻璃珠（研磨介质）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "highly volatile",
+    "zh": "易挥发的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high melting glass",
+    "zh": "难熔玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high melting glass fiber",
+    "zh": "高熔点玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high modulus glass fiber M",
+    "zh": "玻璃纤维；高模量玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high silica glass fiber",
+    "zh": "高硅氧玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high strength glass fibre S",
+    "zh": "玻璃纤维；高强玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high volatile coal",
+    "zh": "高挥发分煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hollow glass fibre",
+    "zh": "中空玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow tile",
+    "zh": "空心瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hollow ware glass",
+    "zh": "空心玻皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot wire glass tubing cutter",
+    "zh": "热线玻管切断机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot wire thermal conductivity detector",
+    "zh": "热丝热导检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hyalite (=Müller's glass)",
+    "zh": "玻璃蛋白石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrated alumina",
+    "zh": "水合氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "illuminating glass",
+    "zh": "照光玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impregnated glass-fiber cloth",
+    "zh": "浸渍玻璃布；玻璃漆布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "incipient sintering",
+    "zh": "初期熔结作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insulating brick",
+    "zh": "保温砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulating ceramic",
+    "zh": "绝缘陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insulating ceramic foam",
+    "zh": "绝缘泡沫陶瓷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insulating refractory",
+    "zh": "隔热耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insulation can",
+    "zh": "保温箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation",
+    "zh": "绝缘;保温",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation against heat",
+    "zh": "热绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation class",
+    "zh": "绝缘等级(种类)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation coating",
+    "zh": "绝缘涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation compound",
+    "zh": "绝缘混合剂；绝缘涂料；绝缘材料;保温(隔热)混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation course(=insulation layer)",
+    "zh": "保温层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation donating agent",
+    "zh": "电绝缘性配合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation lacquer (",
+    "zh": "挥发性)绝缘漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation layer(=insulation course)",
+    "zh": "保温层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation paper",
+    "zh": "绝缘纸；隔电纸（商）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation resistance",
+    "zh": "绝缘强度;绝缘电阻",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation tank",
+    "zh": "绝缘槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation tape",
+    "zh": "绝缘胶带",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insulation tube",
+    "zh": "绝缘管：隔电管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral insulation",
+    "zh": "整体绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interchangeable ground glass joint",
+    "zh": "可互换的玻璃磨口接头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "interlocking lead brick",
+    "zh": "联锁型铅砖；嵌入式铅砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "involatile",
+    "zh": "不挥发性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "involatile sample",
+    "zh": "不挥发性试样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "involatile substance",
+    "zh": "不挥发性物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Irany glass capillary viscometer",
+    "zh": "艾拉奈玻璃毛细管黏度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iridescent glass",
+    "zh": "虹彩玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron glass",
+    "zh": "铁玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isinglass",
+    "zh": "鱼胶；明胶；云母",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Izod impact test(=cantilever beam impact test)",
+    "zh": "悬臂梁式冲击试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Jena glass",
+    "zh": "耶那玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kilbrickenite",
+    "zh": "块辉锑铅矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "King'blue(=cobalt aluminate)",
+    "zh": "钴兰 Co(AlO₂)₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "krystalglass",
+    "zh": "富铅玻璃;富铅玻璃器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminated glass",
+    "zh": "层压玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminated insulation",
+    "zh": "层状绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lamp glass",
+    "zh": "灯玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "large shape of brick",
+    "zh": "大砖模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lattice of rutile type",
+    "zh": "金红石型晶格",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead aluminate",
+    "zh": "铝酸铅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead and cadmium release from ceramics",
+    "zh": "陶瓷铅镉溶出量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead brick",
+    "zh": "铅砖*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead glass",
+    "zh": "铅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead titanate ceramic",
+    "zh": "钛酸铅陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead zirconate ceramic",
+    "zh": "锆钛酸铅陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "L glass L",
+    "zh": "玻璃；含铅玻璃；防辐射玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light alumina hydrate",
+    "zh": "轻体水合氧化铝; 轻体矾土白 light amplification by stimulated emission of radiation (=laser) ;激光;激光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light volatile",
+    "zh": "易挥发的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light volatile fuel",
+    "zh": "易挥发燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lime glass",
+    "zh": "石灰玻璃；钙玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lime lead glass",
+    "zh": "钙铅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lime-sand brick",
+    "zh": "硅石砖：火砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lime silicate glass",
+    "zh": "石灰玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lining brick",
+    "zh": "衬砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lining tile",
+    "zh": "衬瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-in-glass thermometer",
+    "zh": "液体温度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lithium aluminate",
+    "zh": "铝酸锂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lithium manganate",
+    "zh": "锰酸锂 lithium metaaluminate 偏铝酸锂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "looking-glass ore",
+    "zh": "有光泽赤铁矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-loss ferrite",
+    "zh": "低损耗铁氧体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-loss glass",
+    "zh": "低(介电)损失玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-loss insulation",
+    "zh": "低(介电)损耗绝缘材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-volatile coal",
+    "zh": "低挥发分煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnesia borosilicate glass",
+    "zh": "硼硅酸镁玻璃 $$",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnesioferrite",
+    "zh": "镁铁矿 $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "manganese glass",
+    "zh": "锰质玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "marbled glass",
+    "zh": "大理石纹玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "measuring glass",
+    "zh": "量(液)杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medical cyclotron",
+    "zh": "医用回旋加速器medical glass 医用玻璃",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "medium-alkali glass fibre",
+    "zh": "中碱玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury-in-glass thermometer",
+    "zh": "汞柱玻璃温度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "meta-aluminate",
+    "zh": "偏铝酸盐 MAIO₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal ceramic",
+    "zh": "金属陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal-ceramic coating",
+    "zh": "金属陶瓷涂层；金属陶瓷涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal ceramic filter",
+    "zh": "金属陶瓷过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metalceramics",
+    "zh": "金属陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal coated glass fibre",
+    "zh": "涂金属玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallized ceramic coating(=ceramic-metal coating)",
+    "zh": "金属陶瓷涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metasilicate glass",
+    "zh": "硅酸盐玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "M glass fibre M",
+    "zh": "玻璃纤维；高模量玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro glass beads",
+    "zh": "细玻璃珠；微粒玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "milk glass",
+    "zh": "乳白玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moderately volatile fuel",
+    "zh": "中等挥发性燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molybdena-alumina catalyst",
+    "zh": "钼铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moulded brick",
+    "zh": "模制砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moulded glass",
+    "zh": "模压玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Müller's glass(=hyalite)",
+    "zh": "玻璃蛋白石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multidose glass vial",
+    "zh": "多次剂量玻璃瓶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multilevel",
+    "zh": "多水平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multilevel ionization",
+    "zh": "多级电离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "musa textile neonee",
+    "zh": "蕉麻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neodymium glass",
+    "zh": "钕玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neodymium glass laser",
+    "zh": "钕玻璃激光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral water glass",
+    "zh": "中性水玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "new ceramics",
+    "zh": "新型陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niobate system piezoelectric ceramics",
+    "zh": "铌酸盐系陶瓷",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "niobium rutile",
+    "zh": "铌金红石",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-alkali glass",
+    "zh": "无碱玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-ductile",
+    "zh": "无延性的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-shatterable glass",
+    "zh": "抗震玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-volatile",
+    "zh": "不挥发的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-volatile bonding agent",
+    "zh": "非挥发性键合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-volatile content",
+    "zh": "不挥发分；不挥发物含量形长丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-volatile matter",
+    "zh": "不挥发物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-volatile swelling agent",
+    "zh": "不挥发的溶胀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-volatile residue",
+    "zh": "不挥发性残余物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal glass",
+    "zh": "标准玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleating glass",
+    "zh": "成核玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "object glass",
+    "zh": "物镜; 载物片; 载玻片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil firing",
+    "zh": "烧油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-firing burner",
+    "zh": "油燃烧器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil heated brick chamber",
+    "zh": "砖砌燃油燃烧室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-gauge glass",
+    "zh": "油面玻璃（观察油面的玻窗或玻管）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil sight glass",
+    "zh": "油面观察玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "olive castile soap",
+    "zh": "马赛皂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "opalescent glass",
+    "zh": "乳光玻璃；不透明玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "opal glass",
+    "zh": "乳白玻璃；玻璃瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "opaque glass",
+    "zh": "乳白玻璃;不透明玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optical glass",
+    "zh": "光学玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic volatile compound",
+    "zh": "有机挥发(性化合)物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ornamental brick",
+    "zh": "釉面砖；装饰性花砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ornamental glass (ware)",
+    "zh": "装饰性玻璃(器皿)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ortho-aluminate",
+    "zh": "原铝酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overfiring",
+    "zh": "烧损；烧毁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pantile",
+    "zh": "波形瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paving brick",
+    "zh": "铺地砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paving brick clay",
+    "zh": "铺地砖土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peat brick",
+    "zh": "泥煤砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Pederson process (for alumina)",
+    "zh": "彼得森(制氧化铝)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pH glass electrode pH",
+    "zh": "玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphate glass solidification",
+    "zh": "磷酸盐玻璃固化(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphoferrite",
+    "zh": "铁磷锰矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photosensitive glass",
+    "zh": "光敏玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pick glass",
+    "zh": "织物分析镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezoelectric ceramics",
+    "zh": "压电陶瓷",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "pigmented glass",
+    "zh": "有色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piping insulation",
+    "zh": "管道保温",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic and glass fiber pipes",
+    "zh": "塑料与玻璃纤维管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate glass",
+    "zh": "平板玻璃；玻璃砖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pNa glass electrode pNa",
+    "zh": "玻璃电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer glass state",
+    "zh": "高聚物的玻璃态",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain",
+    "zh": "瓷(器)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain ball",
+    "zh": "瓷球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain ball mill",
+    "zh": "瓷(制)球磨机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain boat",
+    "zh": "瓷舟",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain body",
+    "zh": "瓷骨；瓷体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain burner",
+    "zh": "瓷燃烧炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain casserole",
+    "zh": "瓷勺皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain clay",
+    "zh": "瓷土（矿）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain cleat",
+    "zh": "瓷夹板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain clip",
+    "zh": "瓷夹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain color",
+    "zh": "瓷色料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain crucible",
+    "zh": "瓷坩埚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain cup",
+    "zh": "瓷杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain dish",
+    "zh": "瓷皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain dish gum",
+    "zh": "瓷皿(测定)的胶质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain enamel",
+    "zh": "搪瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain filter(ing) crucible",
+    "zh": "瓷过滤坩埚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain filter stick",
+    "zh": "瓷滤棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain fracture",
+    "zh": "瓷断面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain glaze",
+    "zh": "瓷釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain insulator",
+    "zh": "瓷绝缘物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain mill",
+    "zh": "瓷磨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain nozzle",
+    "zh": "瓷质纺丝头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain plaque",
+    "zh": "瓷渣",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain spot plate",
+    "zh": "瓷点滴板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain utensils",
+    "zh": "瓷仪器;瓷器皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain ware",
+    "zh": "瓷器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous alumina",
+    "zh": "多孔氧化铝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous ceramic junction",
+    "zh": "多孔陶瓷连接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous ceramic separator",
+    "zh": "多孔陶瓷分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous glass",
+    "zh": "多孔玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous glass separator",
+    "zh": "多孔玻璃分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous glass tube",
+    "zh": "多孔玻璃管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous layer glass bead",
+    "zh": "多孔层玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous porcelain cup",
+    "zh": "素烧(瓷)杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous tile",
+    "zh": "素烧(瓷)板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-calcination treatment",
+    "zh": "后煅烧处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potash glass",
+    "zh": "钾玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potash-lead glass",
+    "zh": "钾铅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potash-lime glass",
+    "zh": "钾钙玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potash water glass",
+    "zh": "钾水玻璃；硅酸钾",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassic glass",
+    "zh": "钾玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium ferrite",
+    "zh": "铁酸钾 KFeO₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powdered steatile(=talc)",
+    "zh": "滑石粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preceramic polymer",
+    "zh": "陶瓷前驱聚合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precipitated alumina hydrate",
+    "zh": "沉淀矾土白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premature firing",
+    "zh": "过早点火",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premature sintering",
+    "zh": "早期烧结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "presintering",
+    "zh": "初步熔结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure sintering",
+    "zh": "加压烧结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "projectile",
+    "zh": "弹丸；射弹;(以力)射出的;轰击粒子；入射粒子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "projectile impingement",
+    "zh": "弹丸撞击式分散设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Pyrex glass",
+    "zh": "派热克斯(牌硬)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrolytic silicon carbide",
+    "zh": "热解碳化硅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quantile fractile",
+    "zh": "分位数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quarry-tile",
+    "zh": "方砖；缸砖：大瓷砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quartile",
+    "zh": "四分位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quartz glass",
+    "zh": "石英玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation proof glass fibre",
+    "zh": "防辐射玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding glass",
+    "zh": "放射线屏蔽玻璃;辐射防护玻璃;防辐射玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiophotoluminescent glass",
+    "zh": "放射光致发光玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rain glass",
+    "zh": "气压表；晴雨表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reading glass",
+    "zh": "读数镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "red arsenic glass",
+    "zh": "雄黄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reflectorizing glass bead",
+    "zh": "反光玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refraction attenuated glass optical fibre",
+    "zh": "渐变型玻璃光导纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory alloy",
+    "zh": "耐火合金",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory brick",
+    "zh": "耐火砖",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "refractory cements",
+    "zh": "耐火水泥; 耐火胶黏材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory chamber",
+    "zh": "耐火室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory clay",
+    "zh": "耐火泥; 耐火黏土",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory concrete",
+    "zh": "耐火混凝土",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory fiber",
+    "zh": "耐火纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory fibre reinforced plastic",
+    "zh": "耐火纤维增强塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory gas oil",
+    "zh": "耐热瓦斯油; 抗热性高的粗柴油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory glass",
+    "zh": "耐火玻璃",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "refractory glass fiber",
+    "zh": "耐火玻璃纤维",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "refractory insulator",
+    "zh": "耐火绝缘体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory iron ore",
+    "zh": "耐火的铁矿石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory-lined ovens",
+    "zh": "耐火炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory lining",
+    "zh": "耐火衬",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory material",
+    "zh": "耐火材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory metal",
+    "zh": "高熔点金属",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory metal fibre reinforced ceramic",
+    "zh": "耐高温金属纤维增强陶瓷",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "refractory mortar",
+    "zh": "耐火泥；耐火砂浆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory nitride",
+    "zh": "耐火氮化物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory oxide",
+    "zh": "高熔点氧化物；耐高温氧化物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory paint",
+    "zh": "耐火涂料；耐火漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory pebbles",
+    "zh": "耐火石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory period",
+    "zh": "不应期",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory pigment",
+    "zh": "难熔颜料；硬质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory porcelain",
+    "zh": "耐火瓷",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "refractory products（",
+    "zh": "复） 耐火产品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory reaction product",
+    "zh": "耐火反应产物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory rocks（",
+    "zh": "复） 耐火岩石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory slag",
+    "zh": "难熔炉渣",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory stock",
+    "zh": "抗热原料油；难于裂化的原料油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory surface",
+    "zh": "耐火面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory tube",
+    "zh": "耐火管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "relative thermal conductivity",
+    "zh": "相对导热率；相对导热性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "repress brick",
+    "zh": "再压砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual volatile matter",
+    "zh": "残余挥发物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resilient floor tile",
+    "zh": "弹性地面砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resilient floor tile adhesive",
+    "zh": "弹性地板层(用)黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resilient tile",
+    "zh": "弹性瓦;弹性砖；弹性地面砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reversibly contractile",
+    "zh": "可以逆收缩的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ribbed glass",
+    "zh": "柳条玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rigid glass solvent",
+    "zh": "玻璃状溶剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rod-shaped porcelain media",
+    "zh": "棒形瓷质研磨介质；瓷棒介质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rolled glass",
+    "zh": "轧制玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "roofing tile",
+    "zh": "屋瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "roof tiles",
+    "zh": "屋瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubbed brickwork",
+    "zh": "磨砖对缝砌筑(砌体)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber insulation",
+    "zh": "橡皮绝缘；橡胶绝缘;橡皮布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber insulation wire",
+    "zh": "绝缘线；包皮线（电）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubberizing textile",
+    "zh": "涂(有)橡胶(的)织物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber-textile article",
+    "zh": "橡胶-织物物品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ruby glass",
+    "zh": "宝石红玻璃；玉红玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile",
+    "zh": "金红石",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile-calcium white (",
+    "zh": "金红石型)钛钙白（钛钙复合颜料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile mixed phase pigment",
+    "zh": "金红石型混相颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile pigment",
+    "zh": "金红石型颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile pigmentary",
+    "zh": "颜料级金红石型(二氧化钛)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile titania",
+    "zh": "金红石型二氧化钛",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rutile-type structure",
+    "zh": "金红石型结构",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "safety glass",
+    "zh": "安全玻璃；不碎玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt cake glass",
+    "zh": "硫酸盐玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt glazed brick",
+    "zh": "瓷砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salt brick",
+    "zh": "盐砖",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sal volatile",
+    "zh": "碳酸铵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sand glass",
+    "zh": "砂玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sand-lime brick (",
+    "zh": "石)灰砂(粒)砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation glass",
+    "zh": "沉淀杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-leafing glass flake",
+    "zh": "自漂浮玻璃(磷)片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconducting glass fibre",
+    "zh": "半导体玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconducting insulation",
+    "zh": "半导体绝缘(层)(电缆)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semisilica brick",
+    "zh": "半硅砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "s glass fibre s",
+    "zh": "玻璃纤维；强玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shaped brick",
+    "zh": "异型砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shatter proof glass",
+    "zh": "不碎玻璃；耐震玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet glass",
+    "zh": "玻璃片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet-glass process",
+    "zh": "平板玻璃制造法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet-glass tank furnace",
+    "zh": "平板玻璃池窑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sight glass",
+    "zh": "视镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silex glass",
+    "zh": "石英玻璃；硅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-alumina anionic leg",
+    "zh": "硅铝阴离子结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-alumina catalyst",
+    "zh": "硅铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-alumina hydrogel",
+    "zh": "硅铝水胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-alumina ratio (",
+    "zh": "氧化)硅铝比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica brick",
+    "zh": "硅砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicate ceramics",
+    "zh": "硅酸盐陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicate glass",
+    "zh": "硅酸盐玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silicate glass fiber",
+    "zh": "硅酸盐玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica gel-sintered glass plate",
+    "zh": "硅胶烧结玻璃板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-titania ceramic (",
+    "zh": "氧化)硅-钛陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica glass",
+    "zh": "石英玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-zirconia catalyst",
+    "zh": "硅锆催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silicon carbide (=carborundum)",
+    "zh": "碳化硅; 金刚砂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon carbide abrasive",
+    "zh": "碳化硅磨料; 金刚砂磨料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon carbide canals (",
+    "zh": "管式炉的)碳化硅烟道",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon carbide coated fibre",
+    "zh": "碳化硅涂覆纤维",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon carbide fiber",
+    "zh": "碳化硅纤维",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon carbide waterproof paper",
+    "zh": "碳化硅防水砂纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silicon nitride",
+    "zh": "四氮化三硅 silicon nitride whisker 氮化硅须晶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silver coated glass bead",
+    "zh": "涂银玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silvered (window) glass",
+    "zh": "镀银玻璃板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simple glass",
+    "zh": "普通玻璃；钾钠玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single firing",
+    "zh": "一烧",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered alumina cylinder",
+    "zh": "熔融烧结柱形氧化铝（一种研磨介质）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass (=fritted glass)",
+    "zh": "烧结玻璃；多孔玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass bead",
+    "zh": "烧结玻璃珠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass crucibles",
+    "zh": "烧结玻璃坩埚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass filter",
+    "zh": "烧结玻璃滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered-glass filter crucible (",
+    "zh": "烧结)玻璃砂(滤)坩埚*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass filter funnel",
+    "zh": "烧结玻璃砂滤漏斗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered glass funnel",
+    "zh": "烧结玻(璃)板漏斗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering",
+    "zh": "烧结*；熔结；热压结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering coal",
+    "zh": "烧结煤；炼焦煤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering furnace",
+    "zh": "烧结炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering machine",
+    "zh": "矿石烧结机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering metal",
+    "zh": "烧结金属；金属陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering method",
+    "zh": "烧结法；熔结法；软化成形法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering of catalyst",
+    "zh": "催化剂的烧结",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering oven",
+    "zh": "烧结炉;(粉末涂料)高温固化炉；高温烘炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering point",
+    "zh": "烧结点；烧结温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering powder",
+    "zh": "烧结粉料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering process",
+    "zh": "烧结法；烧结过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering temperature",
+    "zh": "烧结温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "slag brick",
+    "zh": "矿渣砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slide glass",
+    "zh": "滑片；载片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sleeking glass",
+    "zh": "磨光玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "slicking glass",
+    "zh": "磨光玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "smoked glass",
+    "zh": "烟色玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda ash glass",
+    "zh": "钠玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda glass",
+    "zh": "钠玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda lime glass(=soda lime silica glass)",
+    "zh": "钠钙玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda lime silica glass (=soda lime glass)",
+    "zh": "钠钙玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda pearl ash glass(=soda potash glass)",
+    "zh": "钠钾玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda potash glass (=soda pearl ash glass)",
+    "zh": "钠钾玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium ferrite",
+    "zh": "铁酸钠 (ferrous acid 中文叫(正)铁酸)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sodium fluoroaluminate",
+    "zh": "氟铝酸钠; 冰晶石",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sodium silicoaluminate(=sodium aluminosilicate)",
+    "zh": "硅酸铝钠",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft firing",
+    "zh": "轻烧",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soft glass",
+    "zh": "软玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soft mud brick machine",
+    "zh": "软泥造砖机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft paste porcelain",
+    "zh": "软瓷器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soft porcelain",
+    "zh": "软瓷器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid brick",
+    "zh": "实心砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soluble glass",
+    "zh": "水玻璃；可溶性硅酸钠；泡花碱 $$",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sound insulation",
+    "zh": "隔音；绝音；消音",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "special insulation",
+    "zh": "特制绝缘层；特制隔热层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific insulation resistance",
+    "zh": "比绝缘电阻",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific refractory power",
+    "zh": "折射率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific thermal conductivity",
+    "zh": "比导热率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spherical ground glass joint",
+    "zh": "球形磨口玻璃接头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spirally traced pipe-line insulation",
+    "zh": "管道绝缘层的螺旋形安装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "split-brick",
+    "zh": "剖半砖；半厚砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "split volatile matter ratio",
+    "zh": "分挥发率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spontaneous firing",
+    "zh": "自然燃烧",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sprayed insulation",
+    "zh": "喷淋绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spun glass(=fiber glass)",
+    "zh": "玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sputtered glass",
+    "zh": "溅镀玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stained glass",
+    "zh": "冰屑玻璃;(烧成)彩画的玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard opal glass",
+    "zh": "标准乳浊玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard piece glass",
+    "zh": "织物(标准)分析镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "staple glass fiber",
+    "zh": "常产玻璃纤维；标准玻璃纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam-volatile oil",
+    "zh": "水蒸气蒸馏挥发油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steatite ceramics",
+    "zh": "块滑石陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stiff mud brick",
+    "zh": "坚硬泥砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stiff mud brick machine",
+    "zh": "硬泥造砖机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stile",
+    "zh": "门梃；窗梃;侧柱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stove tile",
+    "zh": "搪炉砖；面砖；瓷砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "streak on porcelain",
+    "zh": "素烧瓷上的条痕",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfate of soda glass",
+    "zh": "硫酸盐玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supplemental firing",
+    "zh": "补充烧炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "suspended refractory arch",
+    "zh": "架空耐火拱穹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sustained firing",
+    "zh": "长射；持续喷射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tactile sensor",
+    "zh": "触觉传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "talc(=talcum;powdered steatile)",
+    "zh": "滑石粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank insulation",
+    "zh": "油罐(热)绝缘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ternary system ceramic",
+    "zh": "三元系陶瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "test glass",
+    "zh": "试管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "textile",
+    "zh": "织物;纺织的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile assistant",
+    "zh": "纺织(用)助剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile auxiliary",
+    "zh": "纺织助剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile bleaching agent",
+    "zh": "纺织品漂白剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile board",
+    "zh": "织板；压板（纺）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile coating",
+    "zh": "织物涂料；织物涂胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile composite material",
+    "zh": "纺织复合材料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile degumming detergent",
+    "zh": "织物脱胶用洗涤剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile end product",
+    "zh": "纺织复制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile fabric",
+    "zh": "织物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile finishing agent",
+    "zh": "纺织品整理剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile glass",
+    "zh": "纺织玻璃纤维",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "textile glass multifilament product",
+    "zh": "连续玻璃纤维制品",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "textile glass staple fibre product",
+    "zh": "定长玻璃纤维制品",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "textile lacquer",
+    "zh": "织品用漆；织物用漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile lubrication",
+    "zh": "纺织机的润滑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile machinery leather",
+    "zh": "纺织机用革",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile material",
+    "zh": "纺织材料;纺织品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile mill effluent",
+    "zh": "纺织厂排出(的废)物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile oil",
+    "zh": "纺织用油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile processing",
+    "zh": "纺织加工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile size",
+    "zh": "纺织型浸润剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile soap",
+    "zh": "丝光皂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile softener",
+    "zh": "纺织柔软剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile spirit",
+    "zh": "纺织品用溶剂汽油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile spool paper",
+    "zh": "卷线(筒)纸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile treating agent",
+    "zh": "纺织品处理剂；纺织原料加工助剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile washing",
+    "zh": "纺织品洗涤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile wetting",
+    "zh": "纺织品润湿",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textured surface glass bead",
+    "zh": "网纹表面玻璃珠",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal conductivity",
+    "zh": "导热系数；热导率;导热性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity analyzer",
+    "zh": "热导分析器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity bridge",
+    "zh": "热导率桥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity cell",
+    "zh": "热导池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity cell detector",
+    "zh": "热导池检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity detector (TCD)",
+    "zh": "热导式检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity gauge",
+    "zh": "热导真空规",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal conductivity method",
+    "zh": "热导法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal shock",
+    "zh": "热(冲)击",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal shock cracking",
+    "zh": "热振动龟裂；热冲击断裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal shocking",
+    "zh": "热冲击；热振荡；温度急变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal shock test",
+    "zh": "热冲击试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermoplastic tile",
+    "zh": "热塑性瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoretractile",
+    "zh": "热缩性的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-way glass stopcock",
+    "zh": "三通玻璃栓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tile",
+    "zh": "瓦;砖：片砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile floor",
+    "zh": "砖地",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile flooring",
+    "zh": "砖铺地的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile furnace",
+    "zh": "瓦窑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile kiln",
+    "zh": "瓦窑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile kilning",
+    "zh": "烧瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile-like coating",
+    "zh": "仿瓷砖涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile-lined",
+    "zh": "瓦衬（炉）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile lining",
+    "zh": "衬瓦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile-packed column",
+    "zh": "瓦片填充塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile packing",
+    "zh": "瓦填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile pipe",
+    "zh": "瓦管；瓦筒",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile press",
+    "zh": "压瓦机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tilery",
+    "zh": "瓦厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tilestone",
+    "zh": "石板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titania ceramics",
+    "zh": "钛氧陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titania porcelain",
+    "zh": "钛质瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titanium oxide ceramics",
+    "zh": "氧化钛陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titanium porcelain",
+    "zh": "钛瓷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "top firing",
+    "zh": "顶部加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "total volatile alkaline",
+    "zh": "总挥发碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total volatile content",
+    "zh": "总挥发分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total volatile organic compounds",
+    "zh": "总挥发性有机物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "travelling counting glass",
+    "zh": "游动式织物密度镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "turnstile",
+    "zh": "转盘；转台",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultraviolet ray absorbing glass",
+    "zh": "紫外吸收玻璃；防紫外线玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet ray intercepting glass",
+    "zh": "紫外吸收玻璃；防紫外线玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet ray transmitting glass",
+    "zh": "透紫外线玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "underfiring",
+    "zh": "欠火；欠熟",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unglazed porcelain",
+    "zh": "素(烧)瓷;素烧瓷的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uniform cantilever beam",
+    "zh": "等载悬臂深式试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "upper quartile length",
+    "zh": "上四分位长度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uranium glass",
+    "zh": "铀玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uranotile",
+    "zh": "硅钙铀矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uviol glass",
+    "zh": "透紫外线玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vacuum sintering",
+    "zh": "真空垂熔；减压熔结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vacuum sintering technique",
+    "zh": "真空熔结技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "versatile adhesives",
+    "zh": "万能黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "versatile column oven",
+    "zh": "通用柱(加热)炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "versatile rotary rheometer",
+    "zh": "通用型旋转流变仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vitaglass",
+    "zh": "维他玻璃；透紫外线玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volatile",
+    "zh": "挥发组分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile acid",
+    "zh": "挥发性酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile alkali",
+    "zh": "挥发性碱（指：氨；氨气 NH₃）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile ammonia",
+    "zh": "挥发性氨",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile base nitrogen",
+    "zh": "挥发性碱性氮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile base value",
+    "zh": "挥发碱值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile carbon in oil",
+    "zh": "油中游离碳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile caustic",
+    "zh": "氢氧化铵 NH₄OH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile coal",
+    "zh": "挥发性煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile combustible matter",
+    "zh": "挥发可燃物(质)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile component",
+    "zh": "挥发性组分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile compound",
+    "zh": "挥发性化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile constituent",
+    "zh": "挥发性组分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile content",
+    "zh": "挥发物含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile crystals",
+    "zh": "挥发性结晶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile distillates",
+    "zh": "挥发性馏分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile fatty acid",
+    "zh": "挥发性脂肪酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile fatty acid number",
+    "zh": "挥发性脂肪酸值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile flux",
+    "zh": "挥发性助熔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile foreign matter",
+    "zh": "挥发性杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile fraction",
+    "zh": "挥发部分；挥发性馏分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile fuel",
+    "zh": "挥发性燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile grade",
+    "zh": "挥发度；蒸发度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile impurity",
+    "zh": "挥发性杂质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile inflammable liquid",
+    "zh": "挥发性可燃液体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile liquid",
+    "zh": "挥发性液体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile loss",
+    "zh": "挥发减量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile material",
+    "zh": "挥发物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile matter",
+    "zh": "挥发物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile oil",
+    "zh": "挥发油；香精油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile oil determination apparatus",
+    "zh": "挥发油测定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile oil of mustard",
+    "zh": "芥子挥发油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile organic compounds",
+    "zh": "挥发性有机物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile poisons",
+    "zh": "挥发性毒物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile products",
+    "zh": "挥发性产物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile recovery system",
+    "zh": "挥发物回收装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile resistance",
+    "zh": "耐挥发性;耐挥发度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile salt",
+    "zh": "碳酸铵 (NH₄)₂CO₃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile separation",
+    "zh": "耐挥发分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile solid",
+    "zh": "挥发性固体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile solvent",
+    "zh": "挥发性溶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile solvent-dispersed grease",
+    "zh": "用挥发性溶剂分散的润滑脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile spirits",
+    "zh": "挥发精油（汽油馏分的旧称）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile with steam",
+    "zh": "随水蒸气挥发的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volcanic glass",
+    "zh": "火山玻璃；松脂石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volumetric glass",
+    "zh": "量器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volumetric glass ware",
+    "zh": "容量玻璃器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wall-insulation",
+    "zh": "墙壁保温",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wall tile",
+    "zh": "墙面贴砖；面砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wall tile press",
+    "zh": "瓷砖机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "waste calcination facility(WCF)",
+    "zh": "放射性废液煅烧设施",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "watch-glass (=watch crystal)",
+    "zh": "表面皿*；表(面)玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "watch glass clamp",
+    "zh": "表面玻璃夹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "watch-glass test",
+    "zh": "表面玻璃试验（测定油的干性或汽油中胶质）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "watching gauge glass",
+    "zh": "计液玻管；看水玻璃管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water glass",
+    "zh": "水玻璃*；硅酸钠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-glass color (=water-glass paint)",
+    "zh": "水玻璃颜料；硅酸盐颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-glass enamel (=water-glass paint)",
+    "zh": "水玻璃颜料；硅酸盐颜料 water-glass paint(=water-glass color; water-glass enamel)水玻璃颜料；硅酸盐颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water pearl ash glass",
+    "zh": "水珠灰玻璃；硅酸钾玻璃；水钾玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water soda ash glass",
+    "zh": "水苏打灰玻璃；硅酸钠玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water soda glass",
+    "zh": "水苏打玻璃；硅酸钠玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wedge brick",
+    "zh": "楔砖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whirl sintering",
+    "zh": "旋流烧结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white carrara glass",
+    "zh": "白色卡拉拉玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white glass",
+    "zh": "白玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white sulfate of alumina",
+    "zh": "纯硫酸铝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "window glass",
+    "zh": "窗玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wired glass(=wire glass)",
+    "zh": "络网玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wire glass(=wired glass)",
+    "zh": "络网玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Wood's glass",
+    "zh": "伍德玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "woven glass fabric",
+    "zh": "玻璃纤维布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "yellow zinc titanium ferrite",
+    "zh": "铁酸锌钛黄（耐高温颜料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yttrium aluminate laser",
+    "zh": "铝酸钇激光器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc silicate glass",
+    "zh": "硅酸锌玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zircoaluminate coupling agent",
+    "zh": "锆铝酸盐偶联剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zirconia tube furnace",
+    "zh": "氧化锆管电炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zirconia whisker",
+    "zh": "氧化锆须晶",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

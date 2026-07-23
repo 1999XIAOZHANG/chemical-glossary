@@ -1,0 +1,5066 @@
+[
+  {
+    "en": "absolute activity",
+    "zh": "绝对活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absolute boiling point",
+    "zh": "绝对沸点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid-base equilibrium",
+    "zh": "酸碱平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity",
+    "zh": "光化性：光化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activation enthalpy",
+    "zh": "活化焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activation entropy",
+    "zh": "活化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activity (",
+    "zh": "放射性)活度*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity coefficient(=activity quotient)",
+    "zh": "活度系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity limit",
+    "zh": "活度极限",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity of catalyst",
+    "zh": "催化剂活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity of H ion",
+    "zh": "氢离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity of initiator",
+    "zh": "引发剂活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity product",
+    "zh": "活度积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity quotient(=activity coefficient)",
+    "zh": "活度系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity rating of catalyst",
+    "zh": "催化剂的活性评价",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity ratio",
+    "zh": "活度比率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity release method",
+    "zh": "放射性释放法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity series",
+    "zh": "活度(顺)序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity standard",
+    "zh": "活度标准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activity test (",
+    "zh": "催化剂的)活性试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actual calorific value",
+    "zh": "实际热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "actual equilibrium constant",
+    "zh": "真实平衡常数；实际平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "adiabatic calorimeter",
+    "zh": "绝热式热量计*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "adiabatic scanning calorimetry",
+    "zh": "绝热扫描量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "admissible thermodynamic process",
+    "zh": "容许热力学过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorbent activity",
+    "zh": "吸附剂活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorbent activity function",
+    "zh": "吸附剂活度函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption equilibrium",
+    "zh": "吸附平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption equilibrium constant",
+    "zh": "吸附平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "adsorption free energy",
+    "zh": "吸附自由能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aerothermochemistry",
+    "zh": "空气热化学；气动热化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "airborne activity",
+    "zh": "气载放射性；大气中放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "algicidal activity",
+    "zh": "杀藻活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "algistatic activity",
+    "zh": "抑藻活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alpha-activity α",
+    "zh": "放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternation of melting points",
+    "zh": "熔点的交替",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "American melting point",
+    "zh": "美国法(蜡)熔点(比 ASTM 法测定者高 F)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amylolytic activity",
+    "zh": "淀粉分解力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analysis by radioactivity",
+    "zh": "放射分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animal calorimeter",
+    "zh": "动物量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antioxygenic activity",
+    "zh": "抗氧活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent exchange equilibrium constant",
+    "zh": "表观交换平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "artificial radioactivity",
+    "zh": "人工放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "association-disassociation equilibrium",
+    "zh": "缔合解离平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ASTM melting point of paraffin ASTM",
+    "zh": "石蜡熔点（根据 ASTM 方法测定的石蜡熔点）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atomic heat capacity",
+    "zh": "原子热容",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atomic refractivity",
+    "zh": "原子折射度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Atwater calorimeter",
+    "zh": "阿特沃特量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "average boiling point",
+    "zh": "平均沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "average melting point",
+    "zh": "平均熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "background equivalent activity(BEA) (",
+    "zh": "天然)本底放射性当量强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "background vapor pressure",
+    "zh": "本底蒸汽压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta activity β",
+    "zh": "放射性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bifunctional reactivity",
+    "zh": "双官能反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binary phase diagram",
+    "zh": "二元相图",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bioactivity monitor",
+    "zh": "生物活性监测器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological activity detection",
+    "zh": "生物活性检测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boiling point depression(=boiling point lowering)",
+    "zh": "沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiling point diagram",
+    "zh": "沸点图 boiling point-gravity constant(=boiling point gravity",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiling point range",
+    "zh": "沸点范围",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiling point rising",
+    "zh": "沸点升高",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiling point rule of retention",
+    "zh": "保留值沸点规律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiling point-viscosity constant",
+    "zh": "沸点-黏度常数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bomb calorimeter",
+    "zh": "弹式热量计*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bomb calorimetry",
+    "zh": "弹式量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bomb calorimetry study",
+    "zh": "弹式量热法研究",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bond enthalpy",
+    "zh": "键焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bond refractivity",
+    "zh": "键的折射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Boys calorimeter",
+    "zh": "博伊斯量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Brockmann activity grade",
+    "zh": "布鲁克曼活性级别",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Brockmann activity scale",
+    "zh": "布鲁克曼活度值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk melting point of lubricant",
+    "zh": "润滑剂整体熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "caloric",
+    "zh": "热;热的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric effect",
+    "zh": "热效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric heat unit",
+    "zh": "卡热单位",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloricity",
+    "zh": "热值；卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloricity of gas",
+    "zh": "煤气的热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric power",
+    "zh": "热值；发热量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric power of gas",
+    "zh": "煤气热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric receptivity",
+    "zh": "吸热量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric requirement",
+    "zh": "热需要量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric unit",
+    "zh": "热(量)单位",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloric value (=calorific value)",
+    "zh": "热值；卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorie",
+    "zh": "卡（热量单位）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorifacient",
+    "zh": "生热质；产生热(量)的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific",
+    "zh": "热量的；卡的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific capacity (=calorific efficiency)",
+    "zh": "发热量；热效率；热值；卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific effect",
+    "zh": "热效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific efficiency (=calorific capacity)",
+    "zh": "发热量；热值；卡值；热容(量)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific intensity",
+    "zh": "热强度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific power",
+    "zh": "热值；卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorific value (=caloric value)",
+    "zh": "热值；卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorifier",
+    "zh": "发热器；加热器;热风炉",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorigenic",
+    "zh": "生热的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimeter",
+    "zh": "热量计*；量热器；卡计；量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimeter for heat of dilution",
+    "zh": "稀释热量热计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimeter of fusion",
+    "zh": "熔凝量热器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric",
+    "zh": "量热的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric analysis",
+    "zh": "量热分析",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric block",
+    "zh": "量热块",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric bomb",
+    "zh": "量热弹；卡计弹",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric correction",
+    "zh": "量热校正",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric entropy",
+    "zh": "量热熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calorimetric gas meter",
+    "zh": "量热煤气表",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric pyrometer",
+    "zh": "量热高温计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetric titration",
+    "zh": "量热滴定；温度滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorimetry",
+    "zh": "量热学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calorisator",
+    "zh": "热法浸提器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloristat",
+    "zh": "恒温器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caloritropic (=thermotropic)",
+    "zh": "亲热的；向热的；趋热的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorization",
+    "zh": "铝化作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorizator (=calorizer)",
+    "zh": "热法浸提器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorizer (=calorizator)",
+    "zh": "热法浸提器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calorizing",
+    "zh": "热镀(铝)法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "canonical free energy",
+    "zh": "正则自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary activity",
+    "zh": "毛细活性;表面活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capillary melting point determination",
+    "zh": "毛细管熔点测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbonic acid equilibrium",
+    "zh": "碳酸平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon tetrachloride activity",
+    "zh": "四氯化碳活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carboxy reactivity",
+    "zh": "羧基反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyst activity",
+    "zh": "催化剂活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic activity",
+    "zh": "催化活性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cathodic activity",
+    "zh": "阴极活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cationoid activity",
+    "zh": "类阳离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain stopping activity",
+    "zh": "链终止活性；链终止活动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical activity",
+    "zh": "化学活性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical equilibrium",
+    "zh": "化学平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical equilibrium constant",
+    "zh": "化学平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "chemical equilibrium in a homogeneous system",
+    "zh": "均相体系化学平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical potential (=partial potential)",
+    "zh": "化学势",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical reactivity",
+    "zh": "化学反应性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical thermodynamics",
+    "zh": "化学热力学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cis-trans equilibrium",
+    "zh": "顺-反式平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clausius-Clapeyron equation",
+    "zh": "克劳修斯-克拉贝龙公式（平衡状态下的纯物质随着温度的微小变化而产生蒸气压变化的公式）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "classical thermodynamics",
+    "zh": "经典热力学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coagulation equilibrium",
+    "zh": "凝固平衡；凝结平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient corrected for elevation in boiling point",
+    "zh": "经沸点上升校正的系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combustion calorimetry",
+    "zh": "燃烧量热法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "comparative reactivity",
+    "zh": "比较反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complete equilibrium",
+    "zh": "完全平衡；不可逆平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concentration equilibrium constant",
+    "zh": "浓度平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "conditional equilibrium constant",
+    "zh": "条件平衡常数*",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "cone calorimeter",
+    "zh": "锥形量热仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "configurational entropy",
+    "zh": "构型熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "configurational free energy",
+    "zh": "构型自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "congruent melting point",
+    "zh": "相合熔点（固液同成分熔点）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "conformational entropy",
+    "zh": "构象熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant boiling point",
+    "zh": "恒沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "constant drying condition",
+    "zh": "恒干燥情况 constant energy synchronous fluorescence spectrometry等能量同步荧光光谱法 constant entropy compression (=isentropic compression)等熵压缩",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "constant equilibrium",
+    "zh": "恒常平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous flow calorimeter",
+    "zh": "续流量热器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "conventional entropy",
+    "zh": "规定熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convention cutting",
+    "zh": "逆向切削 convention for estimation of single ion activity coefficient单离子活度系数计算法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinative activity",
+    "zh": "配位活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolymerization activity",
+    "zh": "共聚合活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolymerization reactivity ratio",
+    "zh": "共聚合(单体)竞聚率;共聚合单体反应性比率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper activity",
+    "zh": "铜活性 (润滑剂侵蚀铜零件的倾向)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coreactivity",
+    "zh": "共反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cracking activity (",
+    "zh": "催化剂的)裂化活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallochemical reactivity",
+    "zh": "结晶化学反应性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cubic average boiling point",
+    "zh": "立方平均沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "definite melting point",
+    "zh": "固定熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deformation free energy",
+    "zh": "形变自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of activity",
+    "zh": "活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deposited activity",
+    "zh": "沉积放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of coagulation factor activity",
+    "zh": "凝血因子活性测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "device for radioactivity measurement",
+    "zh": "放射性测定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential calorimeter",
+    "zh": "示差量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential calorimetry",
+    "zh": "微分量热法；示差量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential enthalpic analysis",
+    "zh": "差示热焓分析",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential scanning calorimeter",
+    "zh": "差示扫描量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential scanning calorimetric curve",
+    "zh": "差示扫描量热曲线",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential scanning calorimetry(DSC)",
+    "zh": "示差扫描量热法* differential scanning calorimetry method 差热分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential scanning photocalorimetry",
+    "zh": "光差量热扫描分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential thermodynamic parameter",
+    "zh": "差热力学参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential vapor pressure thermometer",
+    "zh": "差示蒸气压温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "digital ion activity meter",
+    "zh": "数字式离子活度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diphenyl ether calorimeter (",
+    "zh": "二)苯醚量热计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dissociation equilibrium",
+    "zh": "解离平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distillation plus loss activity",
+    "zh": "馏出量加损失活性（催化剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Donnan equilibrium",
+    "zh": "唐南平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double melting point",
+    "zh": "复熔点；双重熔化点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "driven equilibrium",
+    "zh": "驱动平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Durran's melting point",
+    "zh": "达兰(水银法)熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dustborne radioactivity",
+    "zh": "放射性尘埃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dyeing equilibrium",
+    "zh": "染色平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic deactivity",
+    "zh": "动态脱活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic equilibrium",
+    "zh": "动态平衡;动力平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective enthalpy",
+    "zh": "有效焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elastic entropy",
+    "zh": "弹性熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electric calorimeter",
+    "zh": "电量热器；电热量计；电卡计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrocalorio effect",
+    "zh": "电热效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrochemical equilibrium",
+    "zh": "电化(学)平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical free energy",
+    "zh": "电化学自由能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrochemical potential",
+    "zh": "电化学势(位)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrolytic dissociation equilibrium",
+    "zh": "电离平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic equilibrium",
+    "zh": "电解平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromotive equilibrium",
+    "zh": "电动平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron attractivity",
+    "zh": "电子吸引性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electronic equilibrium",
+    "zh": "电子平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrophilic reactivity",
+    "zh": "亲电子反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrostatic free energy",
+    "zh": "静电自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elevation of boiling point",
+    "zh": "沸点升高",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Emerson calorimeter",
+    "zh": "爱默生量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "end boiling point",
+    "zh": "终沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "end boiling point analyzer",
+    "zh": "终馏点分析仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy content(=internal energy)",
+    "zh": "能含量；内能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy without pollution(=pollution-free energy)",
+    "zh": "无污染能源",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "engineering thermodynamics",
+    "zh": "工程热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "English melting point",
+    "zh": "英国熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enthalpic effect",
+    "zh": "热函效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpic elasticity",
+    "zh": "焓弹性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpic method",
+    "zh": "热焓法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpimetric",
+    "zh": "量焓的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpimetric analysis",
+    "zh": "量热分析",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpimetric titration",
+    "zh": "量热滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpimetry",
+    "zh": "测焓；热焓测量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpogram",
+    "zh": "焓测定(曲线)图",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enthalpy(=heat content;heat function)",
+    "zh": "热函；焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy change",
+    "zh": "焓变；热函变化；热函改变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy-concentration diagram",
+    "zh": "焓浓度图；热函浓度图",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy-controlled",
+    "zh": "焓控制的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy correction",
+    "zh": "修正焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy-entropy compensation",
+    "zh": "焓-熵补偿",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enthalpy function",
+    "zh": "焓函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of activation",
+    "zh": "活化焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of adsorption",
+    "zh": "吸附热函",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of humid air",
+    "zh": "湿空气的焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of melting",
+    "zh": "熔融热函；熔融焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of polymerization",
+    "zh": "聚合焓",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy of relaxation",
+    "zh": "弛豫焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy recovery factor",
+    "zh": "焓恢复系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enthalpy titration(=thermometric titration)",
+    "zh": "热函滴定；温度滴定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropically elastic component",
+    "zh": "熵弹性分量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic configuration",
+    "zh": "熵构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic deformation mechanism",
+    "zh": "熵形变机理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic effect",
+    "zh": "熵效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic elasticity",
+    "zh": "熵弹性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic force",
+    "zh": "熵力",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic interaction",
+    "zh": "熵相互作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic stabilization",
+    "zh": "熵稳定性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropic-stabilized dispersion",
+    "zh": "熵稳定分散",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entropy",
+    "zh": "熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy balance",
+    "zh": "熵平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy change",
+    "zh": "熵变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy contribution",
+    "zh": "熵基值（数）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy effect",
+    "zh": "熵效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy-elastic deformation",
+    "zh": "熵弹性形变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy-elasticity",
+    "zh": "熵弹性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy-elastic stress",
+    "zh": "熵弹性应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy flow",
+    "zh": "熵流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy flux",
+    "zh": "熵流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy increase",
+    "zh": "熵的增加",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of absolute zero",
+    "zh": "绝对零点熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of activation",
+    "zh": "活化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of dilution",
+    "zh": "稀释熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of disorientation",
+    "zh": "消向熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of dissolution",
+    "zh": "溶解熵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of elasticity",
+    "zh": "弹性熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of evaporation",
+    "zh": "汽化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of melting",
+    "zh": "熔融熵；熔化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of mixing",
+    "zh": "混合熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of network formation",
+    "zh": "网络组成熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy of superheating",
+    "zh": "过热熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy parameter",
+    "zh": "熵参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy production",
+    "zh": "熵增量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy source strength",
+    "zh": "熵源强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entropy spring",
+    "zh": "熵跃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme activity",
+    "zh": "酶活性;酶活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activity unit",
+    "zh": "酶活性单位",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium",
+    "zh": "平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium adsorption model",
+    "zh": "平衡吸附模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium boiling point",
+    "zh": "平衡沸点",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "equilibrium box",
+    "zh": "平衡箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium coefficient",
+    "zh": "平衡系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium compliance",
+    "zh": "平衡柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium composition",
+    "zh": "平衡成分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium concentration",
+    "zh": "平衡浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium condensation curve",
+    "zh": "平衡冷凝曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium condition",
+    "zh": "平衡状态；平衡条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium constant",
+    "zh": "平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "equilibrium constants for isotope-exchange reactions",
+    "zh": "同位素交换反应的平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "equilibrium contact angle",
+    "zh": "平衡接触角",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium-controlled reaction",
+    "zh": "平衡控制反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium conversion",
+    "zh": "平衡转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium copolymerization",
+    "zh": "平衡共聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium curve",
+    "zh": "平衡曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium data",
+    "zh": "平衡(状态时的)数据",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium dew point",
+    "zh": "平衡露点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium diagram",
+    "zh": "平衡图(表)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium dialysis",
+    "zh": "平衡透析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium dialysis method",
+    "zh": "平衡渗析法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium distillation",
+    "zh": "平衡蒸馏",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium distribution",
+    "zh": "平衡分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium distribution of sizes (",
+    "zh": "分子)大小的平衡分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium drainage",
+    "zh": "稳定泄油；均衡排泄",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium electrode potential",
+    "zh": "平衡电极电位",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium elution",
+    "zh": "平衡洗脱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium energy of wetting",
+    "zh": "润湿平衡能",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium equation",
+    "zh": "平衡方程式",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium establishment",
+    "zh": "建立平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium exchange current density",
+    "zh": "平衡交换电流密度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium exclusion theory",
+    "zh": "平衡排斥理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium flash still",
+    "zh": "平衡闪蒸锅",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium flash vaporization",
+    "zh": "平衡闪蒸；平衡急骤蒸发",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium flash vaporizer",
+    "zh": "平衡闪蒸设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium gradient separation method",
+    "zh": "平衡梯度分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium hygroscopicity",
+    "zh": "平衡吸湿性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium hypothesis",
+    "zh": "平衡假设",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium law",
+    "zh": "平衡定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium melting point",
+    "zh": "平衡熔点",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "equilibrium mixture",
+    "zh": "平衡混合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium mode distribution length",
+    "zh": "稳态模式分布长度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium modulus",
+    "zh": "平衡模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium moisture",
+    "zh": "平衡湿度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium moisture content",
+    "zh": "平衡湿量；平衡含水率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium moisture regain",
+    "zh": "平衡回潮率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium moisture regain value",
+    "zh": "平衡回潮(率)值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium oil",
+    "zh": "平衡油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium osmotic pressure",
+    "zh": "平衡渗透压",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium phase",
+    "zh": "平衡相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium point",
+    "zh": "平衡点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium polycondensation",
+    "zh": "平衡缩聚(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium polymer",
+    "zh": "均衡聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium polymerization",
+    "zh": "平衡聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium potential",
+    "zh": "平衡电势",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium pressure",
+    "zh": "平衡压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium ratio",
+    "zh": "平衡比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium regain",
+    "zh": "平衡回潮率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium relationship",
+    "zh": "平衡关系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium relative humidity",
+    "zh": "平衡相对湿度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium response function",
+    "zh": "平衡响应函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium saturation",
+    "zh": "平衡饱和度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium segregation coefficient",
+    "zh": "平衡分凝系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium shear compliance",
+    "zh": "平衡剪切柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium shear modulus",
+    "zh": "平衡剪切模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium shifting method",
+    "zh": "平衡移动法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium solubility",
+    "zh": "平衡溶解度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium stage",
+    "zh": "平衡级",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium state",
+    "zh": "平衡态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium still",
+    "zh": "平衡蒸馏锅",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium surface structure",
+    "zh": "平衡表面结构",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium surface tension",
+    "zh": "平衡表面张力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium swelling",
+    "zh": "平衡溶胀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium system",
+    "zh": "平衡系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium temperature",
+    "zh": "平衡温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium theory",
+    "zh": "平衡理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium time",
+    "zh": "平衡时间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium unit",
+    "zh": "平衡单元",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium value",
+    "zh": "平衡常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium vaporization",
+    "zh": "平衡蒸发",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium water",
+    "zh": "平衡水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium water content",
+    "zh": "平衡水分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eutectic melting point",
+    "zh": "低共熔点；共晶熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "excess chemical potential",
+    "zh": "超额化学势",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "excess enthalpy",
+    "zh": "超额焓*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excess entropy",
+    "zh": "超额熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excess free energy",
+    "zh": "超额自由能*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "excess (thermodynamic) function",
+    "zh": "超额(热力学)函数;过量(热力学)函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excess (thermodynamic) property",
+    "zh": "过剩(热力学)性质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exchange equilibrium",
+    "zh": "交换平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exchange equilibrium constant",
+    "zh": "交换平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "extraction equilibrium",
+    "zh": "萃取平衡；抽提平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction equilibrium constant",
+    "zh": "萃取平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "extra entropy production",
+    "zh": "额外熵产生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extraordinary chemical activity",
+    "zh": "超高化学活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "false equilibrium",
+    "zh": "假平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibre melting point microscope",
+    "zh": "纤维熔点显微镜",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fibre melting point tester",
+    "zh": "纤维熔点仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "field of activity",
+    "zh": "活性范围（分子链）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "final boiling point",
+    "zh": "终馏点；终沸点；干点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first law of thermodynamics",
+    "zh": "热力学第一定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "first order phase transition",
+    "zh": "一级相变*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flame calorimeter",
+    "zh": "火焰量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flow calorimeter (",
+    "zh": "气体)流(动)量(热)计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flow microcalorimetry",
+    "zh": "流动微量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free energy",
+    "zh": "自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free energy change",
+    "zh": "自由能变化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free energy function",
+    "zh": "自由能函数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free energy functional",
+    "zh": "自由能泛函",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free energy of activation",
+    "zh": "活化自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free energy of formation of hydrocarbon",
+    "zh": "烃生成的自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free enthalpy",
+    "zh": "自由焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel calorimeter",
+    "zh": "燃料量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fugacity",
+    "zh": "逸度；逸性；有效压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fugacity coefficient",
+    "zh": "逸度系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full boiling point",
+    "zh": "终沸点（全部馏分蒸出时的温度）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusion enthalpy",
+    "zh": "熔化焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas calorimeter",
+    "zh": "煤气量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gaseous equilibrium",
+    "zh": "气相平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous fuel calorific value",
+    "zh": "气体燃料的热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gel melting point",
+    "zh": "凝胶熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Gibbs adsorption equation",
+    "zh": "吉布斯吸附公式",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs convention",
+    "zh": "吉布斯规定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs-Duhem equation",
+    "zh": "吉布斯-杜亥姆方程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs-Duhem relation",
+    "zh": "吉布斯-杜亥姆关系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs elasticity",
+    "zh": "吉布斯弹性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs ensemble",
+    "zh": "吉布斯系综",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs free energy",
+    "zh": "吉布斯自由能*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "Gibbs free energy of activation",
+    "zh": "活化吉布斯自由能",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "Gibbs function",
+    "zh": "吉布斯函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs indophenol test",
+    "zh": "吉布斯靛酚试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gibbsite",
+    "zh": "三水铝石*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs-Konovalow's rule",
+    "zh": "吉布斯-孔诺伐洛夫定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs'method",
+    "zh": "吉布斯氏法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs process (",
+    "zh": "醇酸树脂)吉布斯法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gibbs'reagent",
+    "zh": "吉布斯氏试剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gram calorie",
+    "zh": "克卡；卡；小卡（相对于大卡即千卡）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "grease melting point",
+    "zh": "润滑脂熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "great calorie",
+    "zh": "大卡；千卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gross calorific power(=gross calorific value)",
+    "zh": "总热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gross calorific value(=gross calorific power)",
+    "zh": "总热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gross thermal value(=gross calorific value)",
+    "zh": "总热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heat capacity",
+    "zh": "热容*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat capacity at constant pressure",
+    "zh": "等压热容",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat capacity at constant volume",
+    "zh": "等容热容",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat conduction calorimeter",
+    "zh": "热导式热量计*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heat content (=enthalpy; heat function)",
+    "zh": "热函；焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat flux differential scanning calorimetry",
+    "zh": "热流型差示扫描量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat function (=enthalpy; heat content)",
+    "zh": "热函；焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat reactivity",
+    "zh": "热反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Helmholtz free energy",
+    "zh": "亥姆霍兹自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heterogeneous equilibrium",
+    "zh": "多相平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high activity electrode",
+    "zh": "高活性电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high boiling point",
+    "zh": "高沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high specific activity",
+    "zh": "高比放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hill's measuring apparatus of vapor pressure",
+    "zh": "希尔蒸气压测定仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homoentropic",
+    "zh": "同熵的；匀熵的;高熵的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homogeneous equilibrium",
+    "zh": "均相平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot stage melting point determination",
+    "zh": "热台熔点测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "humidenthalpy",
+    "zh": "湿焓；湿热函",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrodynamic equilibrium system",
+    "zh": "流体动力学平衡体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen ion activity",
+    "zh": "氢离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxylic gibbsite-like surface",
+    "zh": "羟基三水铝型表面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ice calorimeter",
+    "zh": "冰量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "incomplete equilibrium",
+    "zh": "不完全平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incongruent melting point",
+    "zh": "异元熔点；(固液)异成分熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "index of activity",
+    "zh": "活度指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indirect calorimetry",
+    "zh": "间接量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "induced activity",
+    "zh": "诱导活动性;诱导放射性：感生放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induced radioactivity",
+    "zh": "感生放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "infinite dilution activity coefficient",
+    "zh": "无限稀释活度系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initial boiling point",
+    "zh": "初沸点；初馏点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "initial true boiling point",
+    "zh": "最初实沸点；最初真沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "initiator activity",
+    "zh": "引发剂活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inner equilibrium",
+    "zh": "内平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interface activity",
+    "zh": "表面活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial activity",
+    "zh": "界面活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial free energy",
+    "zh": "界面自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "interfacial thermodynamics",
+    "zh": "界面热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermicellar equilibrium",
+    "zh": "胶束间平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal energy",
+    "zh": "内能*;内部能量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intrinsic activity",
+    "zh": "固有活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intrinsic energy(=internal energy; energy content)",
+    "zh": "内能;蕴能; 能含量; 能藏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intrinsic reactivity",
+    "zh": "本征反应性; 本质反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "invariant equilibrium",
+    "zh": "无变度平衡；不变(更)平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion activity",
+    "zh": "离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion activity electrode",
+    "zh": "离子活性电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange equilibrium",
+    "zh": "离子交换平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange equilibrium constant",
+    "zh": "离子交换平衡系数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "ionic activity",
+    "zh": "离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionic activity coefficient",
+    "zh": "离子活度系数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionic equilibrium",
+    "zh": "离子平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionization equilibrium",
+    "zh": "电离平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irreversible thermodynamics",
+    "zh": "不可逆热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isenthalpic",
+    "zh": "等焓的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isenthalpic process",
+    "zh": "等焓过程*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isentropic",
+    "zh": "等熵的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isentropic change",
+    "zh": "等熵变化 isentropic compression(=constant entropy compression)等熵压缩",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "isentropic flow",
+    "zh": "等熵流动",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isentropic index",
+    "zh": "等熵指数",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isentropic process",
+    "zh": "等熵过程*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoenthalpic reaction series",
+    "zh": "等焓反应系列",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoenthalpy",
+    "zh": "等焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isoenthalpy change",
+    "zh": "等焓变化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isoentropic change",
+    "zh": "等熵变化",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoentropic process",
+    "zh": "等熵过程",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoentropic reaction series",
+    "zh": "等熵反应系列",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoentropic tangential modulus",
+    "zh": "等熵切向模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoequilibrium relationship",
+    "zh": "等平衡关系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomerization equilibrium",
+    "zh": "异构化平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoperibolic calorimeter",
+    "zh": "等环境热量计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoreactivity",
+    "zh": "等活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isothermal calorimeter",
+    "zh": "等温量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isothermal titration calorimetry",
+    "zh": "等温滴定量热计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Junker's gas calorimeter",
+    "zh": "荣克气体量热计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Junker's calorimeter",
+    "zh": "荣克量热器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kelvin's thermodynamic scale",
+    "zh": "开氏温标；绝对温标",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kilocalorie",
+    "zh": "千卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kilogram calorie",
+    "zh": "大卡；千(克)卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kinetic equilibrium",
+    "zh": "动态平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "labile equilibrium",
+    "zh": "不稳平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser thermal lens calorimetry",
+    "zh": "激光热透镜量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "law of mobile equilibrium",
+    "zh": "移动平衡定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "law of thermal equilibrium",
+    "zh": "热平衡定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "LeBel-van't Hoff theory",
+    "zh": "勒贝尔-范特霍夫理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limiting melting point",
+    "zh": "极限熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linear free energy",
+    "zh": "线性自由能*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linear free energy relationship(LFER)",
+    "zh": "线性自由能关系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linear Gibbs free energy relation",
+    "zh": "线性吉布斯自由能关系",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "liquid calorimeter",
+    "zh": "液体量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "liquid-liquid equilibrium",
+    "zh": "液-液平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local distortion free energy",
+    "zh": "局部畸变自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "local isoentropic stress-strain law",
+    "zh": "局部等熵应力-应变律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "local thermal equilibrium",
+    "zh": "局部热平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low activity process",
+    "zh": "低活性法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low boiling point solvent",
+    "zh": "低沸点溶剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low reactivity",
+    "zh": "低活化性；低反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macroring-chain equilibrium",
+    "zh": "大环-链间平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Mahler calorimeter",
+    "zh": "马勒量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "magnetothermodynamics",
+    "zh": "磁热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "maximum boiling point",
+    "zh": "最高沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maximum entropy method(MEM)",
+    "zh": "最大熵法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mean activity",
+    "zh": "平均活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean activity coefficient of ions",
+    "zh": "离子平均活度系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean activity product",
+    "zh": "平均活度积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean calorie",
+    "zh": "平均卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mean heat capacity",
+    "zh": "平均热容量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "measuring apparatus of vapor pressure",
+    "zh": "蒸气压测定装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting enthalpy",
+    "zh": "熔融焓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melting entropy",
+    "zh": "熔化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melting point",
+    "zh": "熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting point apparatus",
+    "zh": "熔点测定装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting point diagram",
+    "zh": "熔点图",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting point lowering",
+    "zh": "熔点降低",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting point method",
+    "zh": "熔点法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melting point tube",
+    "zh": "熔点测定管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "membrane equilibrium",
+    "zh": "膜(渗)平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal block calorimeter",
+    "zh": "金属热量计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "metastable equilibrium",
+    "zh": "亚稳平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbiological activity",
+    "zh": "微生物活性(活动)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcalorie",
+    "zh": "小卡；微卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro calorimeter",
+    "zh": "微型量热器；微热量计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microcalorimetric method",
+    "zh": "微量热法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microcalorimetry",
+    "zh": "微量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro melting point apparatus",
+    "zh": "微熔点测定仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mid-boiling point",
+    "zh": "中沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "minimum boiling point azeotrope",
+    "zh": "最低共沸混合物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "minimum detectable activity(MDA)",
+    "zh": "最小(可)检出(放射性)量；最低(可)检出(放射性)量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mitotic activity",
+    "zh": "核分裂能力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed melting point",
+    "zh": "混合熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mixed melting point method",
+    "zh": "混合熔点法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mobile equilibrium",
+    "zh": "流动平衡；动态平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modulated differential scanning calorimeter",
+    "zh": "调幅式差示扫描量热仪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "moisture equilibrium",
+    "zh": "水分平衡；湿度平衡；吸湿平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molal free energy",
+    "zh": "摩尔自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molal heat capacity",
+    "zh": "摩尔热容(量)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar average boiling point",
+    "zh": "摩尔平均沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar elevation (of boiling point)",
+    "zh": "摩尔沸点升高",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar entropy",
+    "zh": "摩尔熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molar free energy",
+    "zh": "摩尔自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar heat capacity",
+    "zh": "摩尔热容*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar internal energy",
+    "zh": "摩尔内能*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar melting entropy",
+    "zh": "摩尔熔化熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular (boiling point) elevation",
+    "zh": "分子沸点升高",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molecular elevation of boiling point",
+    "zh": "分子沸点升高",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molecular equilibrium",
+    "zh": "分子平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular heat capacity",
+    "zh": "摩尔热函; 分子热函",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molecular refractivity",
+    "zh": "分子折射率；分子折射度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular thermodynamics",
+    "zh": "分子热力学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monomeric reactivity ratio",
+    "zh": "单体竟聚率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monomer reactivity",
+    "zh": "单体(聚合)活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monomer reactivity ratio",
+    "zh": "单体竞聚率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural radioactivity",
+    "zh": "天然放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negentropy",
+    "zh": "负熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "net caloric power",
+    "zh": "净热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "net caloric value(=net caloric power)",
+    "zh": "净热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "net calorific power(=net caloric power)",
+    "zh": "净热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "net calorific value(=net caloric power)",
+    "zh": "净热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neutral equilibrium",
+    "zh": "随遇平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogen equilibrium",
+    "zh": "氮平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogenous equilibrium",
+    "zh": "等氮平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "noncongruent melting point",
+    "zh": "非相合熔点*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonequilibrium",
+    "zh": "不平衡(的)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium elution",
+    "zh": "非平衡洗脱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-equilibrium isotopic exchange method",
+    "zh": "非平衡同位素交换法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium plasma reactor",
+    "zh": "不平衡等离子反应器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-equilibrium polycondensation",
+    "zh": "非平衡缩聚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-equilibrium reaction kinetics",
+    "zh": "非平衡态反应动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium situations",
+    "zh": "非平衡状态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium state",
+    "zh": "非平衡态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium system",
+    "zh": "非平衡系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium theory",
+    "zh": "非平衡理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonequilibrium thermodynamics",
+    "zh": "非平衡态热力学",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "non-isoentropic flow",
+    "zh": "非等熵流",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "non-isothermal calorimeter",
+    "zh": "非等温量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "non-isothermal differential scanning calorimetry",
+    "zh": "非等温示差热扫描量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal boiling point",
+    "zh": "标准沸点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nucleophilic reactivity",
+    "zh": "亲核反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil reactivity",
+    "zh": "油反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical activity",
+    "zh": "光学活性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orientational entropy",
+    "zh": "取向熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "osmotic equilibrium",
+    "zh": "渗透平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxycalorimeter (",
+    "zh": "用)氧量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxygen bomb calorimeter",
+    "zh": "氧弹量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxygen vapor pressure thermometer",
+    "zh": "氧蒸气压温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paper-solvent equilibrium",
+    "zh": "纸溶剂平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paraffin wax melting point test",
+    "zh": "石蜡熔点试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Parr calorimeter",
+    "zh": "帕尔量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "partial molal entropy",
+    "zh": "偏摩尔熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial molal free energy",
+    "zh": "偏摩尔自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partial molar enthalpy",
+    "zh": "偏摩尔焓*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial molar free energy",
+    "zh": "偏摩尔自由能*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partial potential(=chemical potential)",
+    "zh": "化学势",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partial vapor pressure",
+    "zh": "蒸气分压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partition equilibrium",
+    "zh": "分配平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partition equilibrium constant",
+    "zh": "分配(平衡)指数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "peak melting point",
+    "zh": "最高熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxide bomb calorimeter",
+    "zh": "过氧化量热器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "petrolatum melting point",
+    "zh": "矿脂熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pharmacologic activity",
+    "zh": "药物学活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase diagram",
+    "zh": "相图*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phase equilibrium",
+    "zh": "相平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase transition",
+    "zh": "相变*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phase transition humidity sensor",
+    "zh": "相变湿度传感器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phase transition temperature",
+    "zh": "相变温度",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "photochemical equilibrium",
+    "zh": "光化平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photochemical reactivity",
+    "zh": "光化反应性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-equilibrium",
+    "zh": "光平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physical equilibrium",
+    "zh": "物理平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physiological activity",
+    "zh": "生理活动(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physiological equilibrium",
+    "zh": "生理平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollution-free energy(=energy without pollution)",
+    "zh": "无污染能源",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polycondensation equilibrium",
+    "zh": "缩聚平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerisation equilibrium",
+    "zh": "聚合平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerisation reactivity",
+    "zh": "聚合活性；聚合反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization activity",
+    "zh": "聚合活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization-depolymerization equilibrium",
+    "zh": "聚合-解聚平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization equilibrium",
+    "zh": "聚合平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization thermodynamics",
+    "zh": "聚合热力学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyphase equilibrium",
+    "zh": "多相平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "postreaction heat treatment",
+    "zh": "反应后热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potentially-reactivity",
+    "zh": "潜反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pound calorie",
+    "zh": "磅卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "power-compensation differential scanning calorimetry",
+    "zh": "功率补偿型差示扫描量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure-enthalpy chart",
+    "zh": "压焓图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary activity (",
+    "zh": "催化剂)初期活性；基本活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "principle of entropy increase",
+    "zh": "熵增原理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "principle of entropy production",
+    "zh": "熵原理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "principle of mobile equilibrium",
+    "zh": "动态平衡原理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proteolytic activity",
+    "zh": "解蛋白活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton activity",
+    "zh": "质子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton equilibrium",
+    "zh": "质子平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-equilibrium compliance",
+    "zh": "假平衡柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-equilibrium modulus",
+    "zh": "假平衡模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudoequilibrium state",
+    "zh": "假平衡态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-equilibrium zone",
+    "zh": "假平衡区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse calorimetry",
+    "zh": "脉冲量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulsed laser photoacoustic calorimetry",
+    "zh": "脉冲激光光声(微量)量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "purity determined by differential scanning calorimetry",
+    "zh": "差示扫描量热法测定纯度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrogenic activity",
+    "zh": "生热活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantitative structure-activity relation",
+    "zh": "定量构效关系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-chemical equilibrium",
+    "zh": "准化学平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-chemical equilibrium of defect",
+    "zh": "缺陷的类化学平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-equilibrium",
+    "zh": "准平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-equilibrium state",
+    "zh": "准平衡态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-equilibrium theory(QET)",
+    "zh": "准平衡理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-equilibrium theory of mass spectrum",
+    "zh": "质谱准平衡原理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation equilibrium",
+    "zh": "辐射平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive equilibrium",
+    "zh": "放射性平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive secular equilibrium",
+    "zh": "放射性长期平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive transient equilibrium",
+    "zh": "放射性暂时平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactivity",
+    "zh": "放射性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactivity detector",
+    "zh": "放射性检测器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactivity logging",
+    "zh": "放射性测井",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactivity measurement",
+    "zh": "放射性测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactivity monitoring",
+    "zh": "放射性监测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiometric calorimetry",
+    "zh": "放射量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Raman activity",
+    "zh": "拉曼活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Raman inactivity",
+    "zh": "拉曼非活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction heat",
+    "zh": "反应热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reactiveness(=reactivity)",
+    "zh": "反应性;活动性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity(=reactiveness)",
+    "zh": "反应性;活动性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity coefficient",
+    "zh": "活性系数；反应性系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity index",
+    "zh": "反应活性指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity parameter",
+    "zh": "活性参数；反应性参数（反应能力指标）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity ratio(=monomer reactivity ratio) (",
+    "zh": "单体)反应竞聚率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivity ratio of monomer",
+    "zh": "单体竞聚率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redox equilibrium",
+    "zh": "氧化还原平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redox thermochemistry",
+    "zh": "氧化还原热化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractivity",
+    "zh": "折射系数; 折射率差;折射性; 折射本领",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refractivity intercept",
+    "zh": "比折射度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative activity",
+    "zh": "相对活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative catalytic activity",
+    "zh": "相对的催化活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative equilibrium",
+    "zh": "相对平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative molal free energy",
+    "zh": "相对摩尔自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative partial free energy",
+    "zh": "相对微分自由能；相对定浓",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative reactivity",
+    "zh": "相对活性；相对反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative thermodynamic stability",
+    "zh": "热力学比稳性；热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "residual activity",
+    "zh": "剩余活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual entropy",
+    "zh": "残余熵*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "residual photolytic activity",
+    "zh": "残余光活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "retentive activity",
+    "zh": "保留活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheological equilibrium",
+    "zh": "流变平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring and ball melting point",
+    "zh": "环球法熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Rosenhain calorimeter",
+    "zh": "罗森痕量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rotational equilibrium",
+    "zh": "转动平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saturated vapor pressure",
+    "zh": "饱和蒸气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saturation activity",
+    "zh": "饱和放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scanning calorimetry",
+    "zh": "扫描量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second chemical equilibrium",
+    "zh": "二次化学平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second law of thermodynamics",
+    "zh": "热力学第二定律*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second order phase transition",
+    "zh": "二级相变*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "secular equilibrium",
+    "zh": "久期平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation equilibrium",
+    "zh": "沉降平衡*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation equilibrium method",
+    "zh": "沉降平衡法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective entropy",
+    "zh": "选择熵;选择的平均信息量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sequestering activity",
+    "zh": "螯合活性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "short-lived activity",
+    "zh": "短期活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sigma gas calorimeter σ",
+    "zh": "气体量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "simple thermodynamic material",
+    "zh": "简单热力学材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "small calorie(=small calory)",
+    "zh": "小卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "small calory(=small calorie)",
+    "zh": "小卡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "smelting point",
+    "zh": "熔点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid-liquid equilibrium",
+    "zh": "固-液平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid-solid equilibrium",
+    "zh": "固体间平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sorption equilibrium",
+    "zh": "吸着平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "special boiling point spirits",
+    "zh": "特定沸点石油溶剂油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific activity",
+    "zh": "比活度*；比放射性(活度)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific enthalpy",
+    "zh": "比热含(量)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific entropy",
+    "zh": "比熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific heat capacity",
+    "zh": "比热容",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific Helmhotz free energy",
+    "zh": "单位亥姆霍兹自由能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific internal energy",
+    "zh": "比内能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific refractivity",
+    "zh": "折射率系数；折射率差度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific surface free energy",
+    "zh": "比表面自由能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stable equilibrium",
+    "zh": "稳定平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard equilibrium constant",
+    "zh": "标准平衡常数",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "standard free energy change",
+    "zh": "标准自由能变化*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard free energy of formation",
+    "zh": "标准生成自由能*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard heat (enthalpy) of formation",
+    "zh": "标准生成热(焓)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard source of radioactivity",
+    "zh": "标准放射源",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard state chemical potential",
+    "zh": "标准态化学势",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard (thermodynamic) scale",
+    "zh": "标准(热力学)温标；绝对温标",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static equilibrium",
+    "zh": "静态平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "statistical entropy",
+    "zh": "统计熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "statistical thermodynamic method",
+    "zh": "统计热力学方法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "statistical thermodynamics",
+    "zh": "统计热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam calorifier",
+    "zh": "蒸汽热水器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "steam calorimeter",
+    "zh": "蒸汽量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "succinic-fumaric equilibrium",
+    "zh": "琥珀酸-反丁烯二酸平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superactivity",
+    "zh": "超活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface activity",
+    "zh": "表面活性；表面活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface entropy",
+    "zh": "表面熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surface free energy",
+    "zh": "表面自由能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surfactivity",
+    "zh": "表面活性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tautomeric equilibrium",
+    "zh": "互变(异构)平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "temperature enthalpy curve",
+    "zh": "温度-热函曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "temperature-entropy diagram",
+    "zh": "温熵图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "temperature equilibrium",
+    "zh": "温度平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "teracalorie",
+    "zh": "兆兆卡；万亿卡（= 卡）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ternary phase diagrams",
+    "zh": "三元相图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary vapour-liquid equilibrium",
+    "zh": "三元蒸气-液体平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "test of calorific value",
+    "zh": "热值试验；卡值试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "theory of chemical equilibrium",
+    "zh": "化学平衡理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal entropy",
+    "zh": "温度熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal equilibrium",
+    "zh": "热平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermionic activity",
+    "zh": "热离子活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermochemical equilibrium",
+    "zh": "热化学平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermochemistry",
+    "zh": "热化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic",
+    "zh": "热力学的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic acidity",
+    "zh": "热力学酸度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical coordinate",
+    "zh": "热力学坐标；热力学参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical criterion of equilibrium",
+    "zh": "平衡的热力学判据",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "thermodynamic(al) efficiency",
+    "zh": "热力学效率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical equilibrium",
+    "zh": "热力学平衡",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "thermodynamical function",
+    "zh": "热力学函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamically admissible process",
+    "zh": "热力学容许过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamically equivalent sphere",
+    "zh": "热力学等效球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical probability",
+    "zh": "热力学概率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical restriction",
+    "zh": "热力学约束；热力学限制 thermodynamical system 热力学系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic analysis",
+    "zh": "热力学分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic change",
+    "zh": "热力学转化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic concentration",
+    "zh": "热力有效浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic constant",
+    "zh": "热力学常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic control",
+    "zh": "热力学控制*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic data",
+    "zh": "热力学数据",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic duct",
+    "zh": "热力学管;液体喷气发动机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic efficiency",
+    "zh": "热力学效率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic energy",
+    "zh": "热力学能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic equilibrium",
+    "zh": "热力学平衡*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "thermodynamic equilibrium constant",
+    "zh": "热力学平衡常数",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "thermodynamic exchange equilibrium constant",
+    "zh": "热力学交换平衡常数",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "thermodynamic function",
+    "zh": "热力学函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic liquid crystalline polymer",
+    "zh": "热力学液晶聚合物；热致性液晶聚合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic of polymer solution",
+    "zh": "高分子溶液的热力学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic parameter",
+    "zh": "热力学参数*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic partition coefficient",
+    "zh": "热力学分配系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic potential",
+    "zh": "热力学势",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic pressure",
+    "zh": "热力学压力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic probability",
+    "zh": "热力学概率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic property",
+    "zh": "热力学性质*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic quality of solvent",
+    "zh": "溶剂热力学性质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic relation",
+    "zh": "热力学关系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamics",
+    "zh": "热力学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamics of constrained material",
+    "zh": "受限材料热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamics of elasticity",
+    "zh": "弹性热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamics of material with memory",
+    "zh": "记忆材料热力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic stability",
+    "zh": "热力学稳定性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic system",
+    "zh": "热力学体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic temperature",
+    "zh": "热力学温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic temperature scale",
+    "zh": "热力学温标",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic variable",
+    "zh": "热力学变量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermolytic reactivity",
+    "zh": "热解反应性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermometric titration calorimetry",
+    "zh": "测温滴定量热法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermotropic(=caloritropic)",
+    "zh": "亲热的；向热的；趋热的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "third law of thermodynamics",
+    "zh": "热力学第三定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "throttling calorimeter",
+    "zh": "节流量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "total calorific value",
+    "zh": "总发热量；总热值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "transient equilibrium",
+    "zh": "瞬间平衡；暂时平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transient isentropic tangential modulus",
+    "zh": "瞬态等熵切向模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "triangular phase diagram",
+    "zh": "三角形相图",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "true equilibrium",
+    "zh": "真稳定平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true heat capacity",
+    "zh": "真热容量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "twin calorimeter",
+    "zh": "李形热量计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ubbelodhe melting point",
+    "zh": "乌伯娄德熔点（润滑脂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit activity",
+    "zh": "单位活度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unstable equilibrium",
+    "zh": "不稳定平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "van der Waals'calorimeter",
+    "zh": "范德华热量计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Van't Hoff's equilibrium box",
+    "zh": "范特霍夫平衡箱",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "Van't Hoff's factor",
+    "zh": "范特霍夫因数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Van't Hoff's law",
+    "zh": "范特霍夫定律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Van't Hoff theory",
+    "zh": "范特霍夫理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor-liquid equilibrium",
+    "zh": "汽液平衡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor pressure",
+    "zh": "蒸气(汽)压(力)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor pressure index",
+    "zh": "蒸气(汽)压指数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor pressure isotope effect(VPIE)",
+    "zh": "蒸气(汽)压同位素效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor pressure lowering",
+    "zh": "蒸气(汽)压下降",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor pressure osmometry(VPO)",
+    "zh": "蒸气(汽)压渗透法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor pressure ratio",
+    "zh": "蒸气(汽)压比",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vibrational entropy",
+    "zh": "振动熵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volumetric calorific value",
+    "zh": "容积热量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "volumetric heat capacity",
+    "zh": "体积热容",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water absorption equilibrium",
+    "zh": "平均吸水率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-borne radioactivity",
+    "zh": "水中放射性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water calorimeter",
+    "zh": "水量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "water-flow calorimeter",
+    "zh": "水流量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "water vapor pressure",
+    "zh": "水蒸气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wet calorific power",
+    "zh": "湿热值；湿卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wet calorific value(=wet calorific power)",
+    "zh": "湿热值；湿卡值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "widest boiling point range",
+    "zh": "最宽沸程范围",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero calorie",
+    "zh": "零点卡（物化）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "zeroth law of thermodynamics",
+    "zh": "热力学第零定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zwitter ion equilibrium",
+    "zh": "两性离子平衡",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

@@ -1,0 +1,7214 @@
+[
+  {
+    "en": "abrasion hardness",
+    "zh": "磨蚀硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "abrasive hardness",
+    "zh": "磨料硬度 abrasive-laden lubricant(=abrasive containing lubricant)含磨料的润滑油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "absolute hardness",
+    "zh": "绝对硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accelerated corrosion test",
+    "zh": "加速腐蚀试验；加速锈蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerated creep",
+    "zh": "加速蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accelerating creep",
+    "zh": "增速蠕变；第三阶段蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid-proof alloy",
+    "zh": "耐酸合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid proof steel",
+    "zh": "耐酸钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-resisting steel",
+    "zh": "耐酸钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid steel",
+    "zh": "酸性钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acoustical fatigue",
+    "zh": "声致疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "after-annealing",
+    "zh": "后退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agricultural ply steel",
+    "zh": "农业层合钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air hardening steel",
+    "zh": "气冷硬化钢；风钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air quenching",
+    "zh": "空气急冷;空气骤冷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air quenching chamber",
+    "zh": "空气骤冷室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air-quenching rate",
+    "zh": "空气冷却速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkali corrosion prevention method",
+    "zh": "碱蚀防止法；防碱腐蚀法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline corrosion",
+    "zh": "碱性腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy",
+    "zh": "合金；齐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloyage",
+    "zh": "合金法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy clading",
+    "zh": "包合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy-coloring alumite",
+    "zh": "合金着色阳极氧化铝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy composition",
+    "zh": "合金组成",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloyed oil",
+    "zh": "掺和油；添加植物或动物油的润滑油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloyed powder",
+    "zh": "合金粉末",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy fibre",
+    "zh": "多组分纤维；合金型熔合纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy fuel",
+    "zh": "合金燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloying",
+    "zh": "制造合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloying addition (agent)",
+    "zh": "掺杂添加(剂)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloying agent",
+    "zh": "共混剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloying element",
+    "zh": "成合金元素;掺杂元素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloyohimbine",
+    "zh": "别育亨宾",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy plastics",
+    "zh": "塑料合金；合金化塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy plating",
+    "zh": "合金电镀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy rubber",
+    "zh": "并用胶；共混胶；橡胶共混物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy separation process",
+    "zh": "合金分离过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy steel",
+    "zh": "合金钢",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "alloy superconductor",
+    "zh": "合金超导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy tool steel",
+    "zh": "合金工具钢",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "all steel embossing plate",
+    "zh": "全钢压花板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating current arc welding",
+    "zh": "交流电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating immersion corrosion test",
+    "zh": "交替浸渍腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aluminum alloy",
+    "zh": "铝合金",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "aluminum alloy ingot",
+    "zh": "铝合金锭",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "ammoina corrosion prevention",
+    "zh": "氨腐蚀防止法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia corrosion",
+    "zh": "氨腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia corrosion prevention",
+    "zh": "氨腐蚀防止法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous alloy",
+    "zh": "无定形合金；非晶形合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anelastic creep",
+    "zh": "滞弹性蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "angle steel",
+    "zh": "角钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing",
+    "zh": "退火的;退火(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing carbon",
+    "zh": "退火炭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing color",
+    "zh": "退火色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing device",
+    "zh": "缓冷装置；热处理装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing effect",
+    "zh": "退火效应；热处理效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing furnace",
+    "zh": "退火炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing hearth",
+    "zh": "退火敞炉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing oil",
+    "zh": "退火油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing point(=annealing temperature)",
+    "zh": "退火温度；热处理温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing process",
+    "zh": "退火过程；熟练过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing shrinkage",
+    "zh": "退火收缩;退火收缩率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing temperature(=annealing point)",
+    "zh": "退火温度；热处理温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing treatment",
+    "zh": "退火处理；热处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anode corrosion efficiency",
+    "zh": "阳极侵蚀效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anodic corrosion",
+    "zh": "阳极腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticorrosion",
+    "zh": "防腐;防锈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion agent",
+    "zh": "防腐剂；防蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion grease",
+    "zh": "防腐润滑脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticorrosion property",
+    "zh": "抗腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-fatigue agent",
+    "zh": "抗疲劳剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antifriction alloy",
+    "zh": "抗摩擦合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiwelding action",
+    "zh": "抗焊作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiwelding compound",
+    "zh": "抗焊化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent creep",
+    "zh": "表观蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "appearance of fracture",
+    "zh": "断口外观",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aqueous corrosion",
+    "zh": "水腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arc flash welding",
+    "zh": "电弧闪光焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ARCO process （",
+    "zh": "词源: Alloy Reguline Chlorination Oxidation）阿尔科过程：合金块氯化氧化法（核燃料后处理首端过程之一。在氯化铅熔盐中通氯气溶解锆合金燃料元件外壳）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arc spot welding",
+    "zh": "电铆焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arc welding",
+    "zh": "电弧焊接；电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arc welding machine (",
+    "zh": "电)弧焊机；电焊机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "argon welding",
+    "zh": "氩焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "artificial corrosion product",
+    "zh": "人工锈蚀物;人工锈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomic hydrogen welding",
+    "zh": "原子氢焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "austenic steel",
+    "zh": "奥氏体钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autogenous soldering",
+    "zh": "自焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autogenous welding",
+    "zh": "自熔接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic corrosion protection system",
+    "zh": "自动防腐蚀装置（体系）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic steelyard",
+    "zh": "自动弹簧秤；自动磅秤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic submerged arc welding",
+    "zh": "埋弧自动焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic welding",
+    "zh": "自动焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic welding machine",
+    "zh": "自动焊机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "average fracture strength",
+    "zh": "平均断裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "axis-direction fatigue test",
+    "zh": "轴向载荷疲劳性能测试",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "backstep sequence welding",
+    "zh": "分段退焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "backstep welding",
+    "zh": "退焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "backward welding",
+    "zh": "后焊法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacteria corrosion prevention method",
+    "zh": "防细菌腐蚀法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bamboo steel",
+    "zh": "竹节钢；札钢（俗）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "banded corrosion",
+    "zh": "带状腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Barcol hardness",
+    "zh": "巴(科尔)氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bar steel",
+    "zh": "棒钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic converter steel",
+    "zh": "碱性转炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic open-hearth steel",
+    "zh": "碱性平炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bench-mounted hardness tester",
+    "zh": "台式硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bending creep",
+    "zh": "弯曲蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bercular corrosion",
+    "zh": "点状腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bergsman micro hardness meter",
+    "zh": "伯格斯曼显微(镜式)硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bessemer iron(=Bessemer steel)",
+    "zh": "酸性转炉钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bessemer pig(=Bessemer steel)",
+    "zh": "酸性转炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bessemer steel(=Bessemer iron; Bessemer pig)",
+    "zh": "酸性转炉钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biaxial creep",
+    "zh": "双轴蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bicarbonate hardness",
+    "zh": "重碳酸盐硬度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bierbaum scratch hardness",
+    "zh": "比尔鲍姆划痕硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bimolecular quenching",
+    "zh": "双分子猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binary alloy",
+    "zh": "二元合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bismuth alloy",
+    "zh": "铋合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blister steel",
+    "zh": "泡钢；疤钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blue annealing",
+    "zh": "蓝回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bolt steel tank",
+    "zh": "螺栓连接钢罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "both sides welding",
+    "zh": "双面焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brazing",
+    "zh": "铜焊(接);钎焊;硬钎焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brazing filler metal",
+    "zh": "钎料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brazing solder",
+    "zh": "焊铜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bright fracture",
+    "zh": "亮断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brilliant fracture",
+    "zh": "亮断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brine corrosion",
+    "zh": "盐水腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Brinell hardness",
+    "zh": "布氏硬度*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Brinell hardness tester",
+    "zh": "布氏硬度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "British water hardness units",
+    "zh": "英国的水硬度单位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brittle creep failure",
+    "zh": "脆性蠕变破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brittle fracture",
+    "zh": "脆(性断)裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "build-up welding technique",
+    "zh": "堆焊技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk creep compliance",
+    "zh": "体积蠕变柔量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk tensile property",
+    "zh": "体积拉伸性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "burner rig(=corrosion chamber)",
+    "zh": "燃烧试验装置；腐蚀室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butt welding",
+    "zh": "对缝焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcined halloysite",
+    "zh": "煅烧多水高岭土",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium hardness (",
+    "zh": "水的)钙(质)硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capacitor discharge welding",
+    "zh": "电容放电焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbide alloy",
+    "zh": "硬质合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbide steel cutting tool",
+    "zh": "碳素钢刀具",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon arc welding",
+    "zh": "碳弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbonate hardness",
+    "zh": "碳酸盐硬度；(水的)暂时硬度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbondioxide gas shield welding",
+    "zh": "二氧化碳气体保护焊carbon dioxide ice 干冰",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon steel",
+    "zh": "碳钢；碳素钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon tool steel",
+    "zh": "碳素工具钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "case-hardening steel",
+    "zh": "表面硬化钢；表层硬化钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast alloy",
+    "zh": "铸合金; 铸齐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast alloy iron",
+    "zh": "合金铸铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast-iron cold welding",
+    "zh": "铸铁冷焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast steel",
+    "zh": "铸钢；浇钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast steel shot",
+    "zh": "铸钢球；铸钢砂(丸)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catastrophic creep",
+    "zh": "灾变蠕变；致毁蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathodic corrosion",
+    "zh": "阴极腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caulk welding",
+    "zh": "填缝焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caustic corrosion",
+    "zh": "碱腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cavitation corrosion",
+    "zh": "空化腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulose alloy fiber",
+    "zh": "纤维素合金型纤维；纤维素共混纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cement steel",
+    "zh": "渗碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cementation steel",
+    "zh": "渗碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cemented steel",
+    "zh": "渗碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel steel",
+    "zh": "槽钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical creep",
+    "zh": "化学蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical quenching",
+    "zh": "化学猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical welding",
+    "zh": "化学焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemocreep",
+    "zh": "化学蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chilled steel",
+    "zh": "淬火钢；硬化钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chrome molybdenum steel",
+    "zh": "铬钼钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chrome nickel steel",
+    "zh": "铬镍钢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chrome steel",
+    "zh": "铬钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chrome-vanadium steel",
+    "zh": "铬钒钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clad steel plate",
+    "zh": "复合钢板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "classification of corrosion preventive",
+    "zh": "防蚀剂分类(等级)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cleft welding",
+    "zh": "裂口焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clemen hardness tester",
+    "zh": "克里门式硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coefficient of corrosion",
+    "zh": "腐蚀系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of corrosion inhibition",
+    "zh": "缓蚀系数*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of hardness",
+    "zh": "硬度系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coefficient of tensile viscosity",
+    "zh": "拉伸黏度系数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coke quenching",
+    "zh": "淬焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coke quenching car",
+    "zh": "淬焦车",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold creep",
+    "zh": "冷蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold rolled steel",
+    "zh": "冷轧钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold-welding",
+    "zh": "冷焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collisional quenching",
+    "zh": "碰撞猝灭*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colored zinc plated steel",
+    "zh": "彩色镀锌钢板；彩板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "color quenching",
+    "zh": "色致猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "combined creep",
+    "zh": "综合蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compact steel cord",
+    "zh": "密封结构钢丝帘线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "composite pre-coated steels",
+    "zh": "复合预涂钢板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compression annealing",
+    "zh": "压缩熟炼；压缩退火（热原子化学）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compression creep",
+    "zh": "压缩蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compression fatigue test",
+    "zh": "压缩疲劳试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compression-tension fatigue",
+    "zh": "压(缩)张(拉)疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compressive creep",
+    "zh": "压缩蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compressive yield strength",
+    "zh": "压缩屈服强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "concentration quenching",
+    "zh": "浓度猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conchoidal fracture",
+    "zh": "贝壳状破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant-length heat treatment",
+    "zh": "定长热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "constant load compression fatigue tester",
+    "zh": "定负荷压缩疲劳试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant rate creep",
+    "zh": "等速蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact corrosion (=crevice corrosion)",
+    "zh": "接触腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous welding",
+    "zh": "连续焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled-shrinkage annealing",
+    "zh": "受控收缩热处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "control of corrosion",
+    "zh": "腐蚀控制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper alloys",
+    "zh": "铜合金类",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "copper-base alloy",
+    "zh": "铜基合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper-nickel-chromium plated steel",
+    "zh": "镀铜镍铬钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper welding rod",
+    "zh": "铜焊条",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core hardness tester",
+    "zh": "铁心硬度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosion",
+    "zh": "腐蚀；侵蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion accelerator",
+    "zh": "腐蚀加速剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion agent",
+    "zh": "腐蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion allowance",
+    "zh": "腐蚀余度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion at initial boiling point",
+    "zh": "初沸点腐蚀性（样品温度等于初沸点温度时对铜片的腐蚀性）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion behavior",
+    "zh": "腐蚀行为",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by gas",
+    "zh": "气体腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by oxygen blowing",
+    "zh": "吹氧腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by restoration water",
+    "zh": "回收水腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by saturated dissolved hydrogen",
+    "zh": "吹氢腐蚀；饱和氢溶液腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion chamber (=burner rig)",
+    "zh": "燃烧试验装置；腐蚀室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion current",
+    "zh": "腐蚀电流*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion depth",
+    "zh": "腐蚀深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion due to welding",
+    "zh": "焊接腐蚀",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "corrosion embrittlement",
+    "zh": "腐蚀脆变",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion fatigue",
+    "zh": "腐蚀疲劳",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "corrosion fatigue cracking",
+    "zh": "腐蚀疲劳龟裂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "corrosion fatigue limit",
+    "zh": "腐蚀疲劳极限",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "corrosion fatigue test method",
+    "zh": "腐蚀疲劳试验法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "corrosion figure",
+    "zh": "蚀图；蚀像",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion film",
+    "zh": "腐蚀膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion form",
+    "zh": "腐蚀形(状)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion gas",
+    "zh": "腐蚀性气体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion gauge",
+    "zh": "腐蚀计",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion ga(u)ge point",
+    "zh": "腐蚀检测点；腐蚀测定点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion index",
+    "zh": "腐蚀指数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibited fuel",
+    "zh": "防腐蚀燃料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting",
+    "zh": "耐腐蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting film",
+    "zh": "腐蚀抑制膜；缓蚀膜；防腐蚀膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting layer",
+    "zh": "缓蚀层；腐蚀抑制层；防锈层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibition",
+    "zh": "腐蚀抑制(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibitive function",
+    "zh": "腐蚀抑制功能；缓蚀功能",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion loss",
+    "zh": "腐蚀损耗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion monitoring",
+    "zh": "腐蚀监测",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion pacifier",
+    "zh": "缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion penetration",
+    "zh": "腐蚀深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion pit",
+    "zh": "腐蚀斑点；侵蚀点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion plate target",
+    "zh": "腐蚀板极(阳极)靶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion potential",
+    "zh": "腐蚀电势*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion prevention",
+    "zh": "腐蚀防护",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion preventive",
+    "zh": "防腐蚀;防腐剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-prone",
+    "zh": "易于腐蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-proof",
+    "zh": "耐腐蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion protection",
+    "zh": "防腐*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion protection value",
+    "zh": "防腐蚀值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate",
+    "zh": "腐蚀速率;腐蚀率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate numbering",
+    "zh": "腐蚀速率计数系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate-ocean current diagram",
+    "zh": "海水流速-腐蚀速度图",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion remover",
+    "zh": "防腐剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resisting alloy",
+    "zh": "抗腐蚀合金",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "corrosion resisting steel",
+    "zh": "抗腐蚀钢；耐蚀钢",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "corrosion spool",
+    "zh": "腐蚀试片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion stability",
+    "zh": "耐腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion strength",
+    "zh": "腐蚀强度；腐蚀力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion system",
+    "zh": "腐蚀体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-tank finishing process (",
+    "zh": "酸)浸蚀工艺(碱式碳酸铅的生产工艺)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion target",
+    "zh": "腐蚀电极；腐蚀阳极靶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion test",
+    "zh": "腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion test for oils",
+    "zh": "油类腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion testing of lubricating oils",
+    "zh": "润滑油腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion type",
+    "zh": "腐蚀类型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion weight loss",
+    "zh": "腐蚀减重",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "covered arc welding",
+    "zh": "手工电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep",
+    "zh": "蠕变*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creepage",
+    "zh": "蠕变;蠕动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creepage track",
+    "zh": "蠕变痕迹；塑性变形纹",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep back",
+    "zh": "蠕变回缩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep compliance",
+    "zh": "蠕变柔量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep corrosion",
+    "zh": "裂隙腐蚀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "creep curve",
+    "zh": "蠕变曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep effect",
+    "zh": "蠕变效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep elongation",
+    "zh": "蠕变伸长;蠕变伸长率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep extension",
+    "zh": "蠕变延伸;蠕变延伸率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep flow",
+    "zh": "蠕变流动",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep fluidity",
+    "zh": "蠕变流度；蠕变流动性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep fracture",
+    "zh": "蠕变破坏",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "creep function",
+    "zh": "蠕变函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creeping",
+    "zh": "蠕升",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping effect",
+    "zh": "蠕动作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping film",
+    "zh": "蠕升膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping flow",
+    "zh": "蠕动流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping lateral contraction ratio",
+    "zh": "侧向蠕变收缩比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping traverse mechanism",
+    "zh": "滞缓横动机构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creeping willow",
+    "zh": "匍匐柳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep limit",
+    "zh": "蠕升极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep modulus",
+    "zh": "蠕变模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creepocity",
+    "zh": "易蠕变性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep path (",
+    "zh": "电花)径迹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep rate",
+    "zh": "蠕变速率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep recovery",
+    "zh": "蠕变回复",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep relaxation",
+    "zh": "蠕变松弛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep resistance",
+    "zh": "蠕变阻力；抗蠕变力;蠕变强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep rupture",
+    "zh": "蠕变破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep rupture strength",
+    "zh": "蠕变破裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep rupture test",
+    "zh": "蠕变破坏试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep strain",
+    "zh": "蠕变变形；蠕变应变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep strength",
+    "zh": "抗蠕变强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep stress",
+    "zh": "蠕变应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep test",
+    "zh": "蠕升试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep tester",
+    "zh": "蠕变试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep time curve",
+    "zh": "蠕变时间曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep under constant pressure",
+    "zh": "定压蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "creep yield time",
+    "zh": "蠕变屈服时间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crevice corrosion",
+    "zh": "裂隙腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crevice corrosion speed",
+    "zh": "缝隙腐蚀速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross direction tensile strength",
+    "zh": "横向抗张强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crucible steel",
+    "zh": "坩埚钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crucible cast steel",
+    "zh": "坩埚(铸)钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalline fracture",
+    "zh": "结晶断面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cutting hardness",
+    "zh": "切削硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "DC arc welding(=direct current arc welding)",
+    "zh": "直流电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead soft steel",
+    "zh": "极软钢（碳含量少于0.1%）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deep penetration welding",
+    "zh": "深熔焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Defo hardness",
+    "zh": "迪福硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "degree of hardness",
+    "zh": "硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "delayed fracture",
+    "zh": "延迟断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "delay quenching collar",
+    "zh": "徐冷环套",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dental alloy",
+    "zh": "补齿合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deposit corrosion",
+    "zh": "沉积腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "depth of corrosion",
+    "zh": "腐蚀深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Deutschland hardness",
+    "zh": "德国硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Devarda alloy",
+    "zh": "德瓦达合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dew corrosion",
+    "zh": "露点腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dew point corrosion test",
+    "zh": "露点腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamond pyramid hardness",
+    "zh": "金刚石棱锥压入硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "die casting zinc alloy",
+    "zh": "膜铸锌合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dielectric fatigue",
+    "zh": "介电疲乏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffusional creep",
+    "zh": "扩散蠕动",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct current arc welding(=DC arc welding)",
+    "zh": "直流电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct welding",
+    "zh": "双面点焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "discontinuous welding",
+    "zh": "断续焊(接)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry corrosion",
+    "zh": "干腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry heat treatment method",
+    "zh": "干热处理法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dry quenching (of coke)",
+    "zh": "干法熄焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry tensile strength",
+    "zh": "干拉力；干抗拉强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ductile-crack-growth fracture",
+    "zh": "延性裂纹增长断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ductile fracture",
+    "zh": "延性破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ductileness(=ductility)",
+    "zh": "延性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility(=ductileness)",
+    "zh": "延性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility machine",
+    "zh": "延性试验机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility retention",
+    "zh": "延性保留;延性残留率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility test",
+    "zh": "延展性试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ductility transition temperature",
+    "zh": "塑性转变温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duplex alloy",
+    "zh": "二相合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "durometer-hardness(=Shore hardness)",
+    "zh": "肖氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dust corrosion experiment",
+    "zh": "尘埃腐蚀实验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamical creep",
+    "zh": "动态蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic creep",
+    "zh": "动态蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic fatigue",
+    "zh": "动态疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic fatigue test",
+    "zh": "动态疲劳试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic hardness",
+    "zh": "冲击硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic loss tensile modulus",
+    "zh": "动态拉伸耗能模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic quenching",
+    "zh": "动态猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic storage tensile modulus",
+    "zh": "动态拉伸储能模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elastic fatigue",
+    "zh": "弹性疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elastic tensile modulus",
+    "zh": "弹性拉伸模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electric arc welding",
+    "zh": "电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric steel",
+    "zh": "电炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric steel furnace",
+    "zh": "电炉钢炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric welding",
+    "zh": "电焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric welding rod",
+    "zh": "电焊条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrocorrosion",
+    "zh": "电腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-galvanized steel",
+    "zh": "热浸镀锌钢；电镀锌钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic corrosion",
+    "zh": "电解腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic corrosion test",
+    "zh": "电腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron-beam welding",
+    "zh": "电子束焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electronic quenching",
+    "zh": "电子猝灭*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electronic self-propelled stitch frequency welding",
+    "zh": "电子自动推进缝编高频熔接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-slag welding",
+    "zh": "电渣焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endurance limit(=fatigue limit)",
+    "zh": "疲劳极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "energy to fracture",
+    "zh": "破裂能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "erosion-corrosion",
+    "zh": "侵蚀腐蚀；磨(损腐)蚀；溃蚀;冲击(刷)腐蚀;紊流；腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eutectic alloy",
+    "zh": "低共熔合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eutectoid steel",
+    "zh": "共析钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exfoliation corrosion",
+    "zh": "片状剥落腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "existent corrosion",
+    "zh": "原在腐蚀（油品中固有的物质造成的腐蚀）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosive bonding (welding)",
+    "zh": "爆炸焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosive welding",
+    "zh": "爆炸焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extensile(=extensible)",
+    "zh": "可伸长的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extent of corrosion",
+    "zh": "腐蚀程度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "failure(=brittle; fracture; rupture)",
+    "zh": "破坏；衰坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue crack",
+    "zh": "疲劳裂缝；疲劳断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue curve",
+    "zh": "疲劳曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue data",
+    "zh": "疲劳数据;疲劳值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue endurance",
+    "zh": "耐疲劳性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue endurance limit",
+    "zh": "疲劳持久极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue failure",
+    "zh": "疲劳衰坏；疲劳破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue life",
+    "zh": "疲劳寿命",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue limit(=endurance limit)",
+    "zh": "疲劳极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue loss",
+    "zh": "疲劳损耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue machine",
+    "zh": "疲劳试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue mechanism",
+    "zh": "疲劳机理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue notch factor",
+    "zh": "疲劳缺口因数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue notch sensitivity",
+    "zh": "疲劳缺口敏度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue-proof rubber",
+    "zh": "防疲劳橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue protective agent",
+    "zh": "抗疲劳剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue ratio",
+    "zh": "疲劳比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue resistance",
+    "zh": "耐疲劳性；抗疲劳性;动强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue strength",
+    "zh": "疲劳强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue test",
+    "zh": "疲劳试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue tester",
+    "zh": "疲劳试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue tester of flexural property",
+    "zh": "挠曲性能疲劳试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue under flexing",
+    "zh": "挠曲疲劳；弯曲疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue under scrubbing",
+    "zh": "挠曲疲劳；搓擦疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue wear",
+    "zh": "疲劳磨损",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue",
+    "zh": "疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue break-down",
+    "zh": "疲劳破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue breaking",
+    "zh": "疲劳断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue corrosion crack",
+    "zh": "疲劳腐蚀开裂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "feat position welding",
+    "zh": "平焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrite steel",
+    "zh": "铁素体钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferritic-austenitic alloy",
+    "zh": "铁素奥氏体合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferritic steel",
+    "zh": "铁素体钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferro-alloy",
+    "zh": "铁合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferro-silicon alloy",
+    "zh": "硅铁(合金)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibre bending fatigue tester",
+    "zh": "纤维弯曲疲劳测试仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre torsion fatigue tester",
+    "zh": "纤维扭转疲劳测试仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrous fracture",
+    "zh": "纤维裂痕",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filiform corrosion",
+    "zh": "丝状锈蚀；起红丝（俗）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fillet welding",
+    "zh": "角焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film hardness",
+    "zh": "薄膜硬度;漆膜硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "final hardness",
+    "zh": "最终硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fireproof alloy",
+    "zh": "耐热合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Firestone steel ball rebound tester",
+    "zh": "费尔斯通落球式弹性计",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flame-quenching polymer",
+    "zh": "自熄性聚合物；火焰淬熄性聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash welding",
+    "zh": "闪光焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat and round steel-chain",
+    "zh": "平圆式钢链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat position welding",
+    "zh": "平焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat steel",
+    "zh": "扁钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat strip steel",
+    "zh": "平钢带",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat welding",
+    "zh": "平焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flex fatigue",
+    "zh": "挠曲疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flexible connection",
+    "zh": "挠性连接；活动连接 flexing fatigue 挠曲疲劳",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flexing fatigue life",
+    "zh": "抗挠疲劳寿命；耐挠曲疲劳性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flexural creep",
+    "zh": "挠曲蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flexural offset yield strength",
+    "zh": "弯曲偏置屈服强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flexural yield strength",
+    "zh": "挠曲屈服强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluid fracture",
+    "zh": "流体破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorescence quenching",
+    "zh": "荧光猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescence quenching analysis",
+    "zh": "荧光猝灭分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescence quenching method",
+    "zh": "荧光猝灭法*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flush welding",
+    "zh": "闪光焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam-rubber hardness tester",
+    "zh": "海绵橡胶硬度计",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foreward welding",
+    "zh": "左焊法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "forged steel",
+    "zh": "锻钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "forged steel roller",
+    "zh": "锻钢滚筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "forge welding",
+    "zh": "锻焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "forging steel",
+    "zh": "锻钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fracture",
+    "zh": "破碎;断面;骨折;断裂;破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture initiation test",
+    "zh": "开裂试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture length",
+    "zh": "裂断长",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture mechanics",
+    "zh": "断裂力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture plane",
+    "zh": "破裂面；断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture propagation",
+    "zh": "裂纹蔓延",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture strength",
+    "zh": "断裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture stress",
+    "zh": "断裂应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture surface",
+    "zh": "断面；破裂面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture surface energy",
+    "zh": "断裂表面能",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture toughness",
+    "zh": "断裂韧性*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fracture transition temperature",
+    "zh": "断裂转变温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free corrosion potential",
+    "zh": "自然腐蚀电位",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free machining steel",
+    "zh": "快削钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion",
+    "zh": "摩擦磨蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion mechanism",
+    "zh": "摩擦腐蚀机理；磨蚀机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion preventive",
+    "zh": "摩擦腐蚀防止法；磨蚀防止法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting fatigue",
+    "zh": "磨蚀疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "friction welding",
+    "zh": "摩擦焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel ash corrosion",
+    "zh": "燃料灰腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel corrosion",
+    "zh": "燃料腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full hardness",
+    "zh": "全干硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "full killed steel (",
+    "zh": "完全)镇静钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusible alloy",
+    "zh": "易熔合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusing soldering",
+    "zh": "熔焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusion welding",
+    "zh": "熔焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galloyl",
+    "zh": "榕酰；3,4,5-三羟苯甲酰 (3,4,5)-(OH)₃C₆H₂CO—",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galvanic corrosion",
+    "zh": "原电池腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galvanised steel",
+    "zh": "镀锌钢;镀锌钢材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gardner-Park's tensile strength meter",
+    "zh": "加德纳-帕克抗张强度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas corrosion",
+    "zh": "气体腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous corrosion",
+    "zh": "气相腐蚀；气体腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous quenching device",
+    "zh": "气体骤冷装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas shielded arc welding",
+    "zh": "气体保护电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas tungsten arc welding(GTAW)",
+    "zh": "钨电极惰性气体保护焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas welding",
+    "zh": "气焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gehman creep apparatus",
+    "zh": "吉曼蠕变试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "general corrosion",
+    "zh": "均匀腐蚀; 全面腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "general yield fracture mechanics",
+    "zh": "全面屈服断裂力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "girth welding",
+    "zh": "环缝焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass-lined steel",
+    "zh": "搪玻璃钢；搪瓷钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glassy tensile modulus",
+    "zh": "玻璃态拉伸模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Goodyear ozone fatigue tester",
+    "zh": "固特异臭氧疲劳试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granular fracture",
+    "zh": "粒状破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gray corrosion",
+    "zh": "灰色斑点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grease creeping",
+    "zh": "润滑脂蠕升",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Griffith's fracture criterion",
+    "zh": "格里菲思断裂判据",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "groove corrosion",
+    "zh": "槽腐蚀; 焊接部位腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "groove welding",
+    "zh": "坡口焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "half-quenching concentration",
+    "zh": "半猝灭浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "halogen quenching counter",
+    "zh": "卤素猝灭计数管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard alloy",
+    "zh": "硬质合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardened steel",
+    "zh": "硬化钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardness",
+    "zh": "硬度;硬性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness creep",
+    "zh": "硬度蠕变",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "hardness degree",
+    "zh": "硬度标度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness index of catalyst",
+    "zh": "催化剂硬度指数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness ions",
+    "zh": "硬性离子（指水中的钙、镁等离子）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness meter",
+    "zh": "硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness number",
+    "zh": "硬度值；硬度指标",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness of water",
+    "zh": "水的硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness of X-rays X",
+    "zh": "射线硬性；X射线硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness scale",
+    "zh": "硬度标(度)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness test",
+    "zh": "硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness tester",
+    "zh": "硬度试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hardness testing machine",
+    "zh": "硬度实验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hard soldering",
+    "zh": "硬焊接；用焊料焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard steel",
+    "zh": "硬钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heated-tool welding",
+    "zh": "热烙铁焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heating electrode welding",
+    "zh": "加热电极焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat resisting alloy",
+    "zh": "耐热合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat resisting alloy steel",
+    "zh": "耐热合金钢",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "heat resisting steel",
+    "zh": "耐热钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat treatment",
+    "zh": "热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment after welding",
+    "zh": "焊后热处理",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "heat treatment controller",
+    "zh": "热处理控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment oil",
+    "zh": "热处理用油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heavy atom quenching",
+    "zh": "重原子猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy corrosion",
+    "zh": "重腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy-duty corrosion inhibiting",
+    "zh": "重防蚀(涂装)的；高效防蚀(涂装)的；重役阻蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heliarc welding",
+    "zh": "氦弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-carbon alloy steel",
+    "zh": "高碳合金钢",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "high carbon steel",
+    "zh": "高碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high cycle fatigue",
+    "zh": "高周疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high frequency welding",
+    "zh": "高频焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resistance alloy",
+    "zh": "高电阻合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high speed steel",
+    "zh": "高速钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature annealing",
+    "zh": "高温退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature corrosion",
+    "zh": "高温腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature-steel",
+    "zh": "耐高温钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature tempering",
+    "zh": "高温回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high tempering",
+    "zh": "高温回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high tensile brass",
+    "zh": "高拉力(强度)黄铜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high tensile steel",
+    "zh": "高级钢",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "high tensile wire",
+    "zh": "高强力钢丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "horizontal position welding",
+    "zh": "横焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot atom annealing",
+    "zh": "热原子退火*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot-gas welding",
+    "zh": "热气焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot jet welding",
+    "zh": "热风焊接；热风熔接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot tensile (strength)",
+    "zh": "高温抗张(强度)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "H-section steel (=I-section steel)",
+    "zh": "工字钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hybrid effect of fiber fracture strain",
+    "zh": "纤维断裂应变混杂效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrated halloysite",
+    "zh": "水埃洛石；多水高岭土",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrofracture",
+    "zh": "水力破碎",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogen-absorbing alloy",
+    "zh": "储氢合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen soldering",
+    "zh": "氢焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrostatic creep",
+    "zh": "流体静力蠕变；静水力学蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrostatic tensile component",
+    "zh": "静水拉力分量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Imconel (nickel alloys)",
+    "zh": "因康镍合金；铬镍铁合金",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "impact fatigue",
+    "zh": "冲击疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impact fatigue test",
+    "zh": "冲击疲劳试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impact fracture",
+    "zh": "冲击破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impact hardness",
+    "zh": "冲击硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impinging corrosion",
+    "zh": "冲击腐蚀；水锤腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impulse welding",
+    "zh": "脉冲焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Incoby nickel alloys",
+    "zh": "因科比镍合金；耐热镍合金",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "increasing creep",
+    "zh": "渐增蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indentation hardness",
+    "zh": "压痕硬度*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indirect welding",
+    "zh": "单面点焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induction welding",
+    "zh": "感应焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inert-gas arc welding",
+    "zh": "惰性气体保护焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inert gas welding",
+    "zh": "惰性气体焊接(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initial creep",
+    "zh": "初蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "injection welding",
+    "zh": "注塑焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inner granular stress corrosion crack",
+    "zh": "穿晶应力腐蚀开裂：晶内应力腐蚀开裂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inorganic alloys",
+    "zh": "无机合金（金属和非金属的合金）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inside corrosion",
+    "zh": "内表面腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Instron tensile tester",
+    "zh": "英斯特朗张力试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intercrystalline fracture",
+    "zh": "晶间破裂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intergranular corrosion",
+    "zh": "晶间腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interlaminar tensile strength",
+    "zh": "层间拉伸强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermediate alloy",
+    "zh": "中间合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermittent tensile stress",
+    "zh": "间歇抗张应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermittent welding",
+    "zh": "断续焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron-base alloy",
+    "zh": "铁基合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "IR quenching phosphor",
+    "zh": "红外猝灭磷光体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irrecoverable creep",
+    "zh": "不可复原蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "I-section steel(=H-section steel)",
+    "zh": "工字钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isometric annealing",
+    "zh": "等容热处理;定长热处理;等容退火(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotensile head contour",
+    "zh": "等张力封头曲面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isothermal annealing",
+    "zh": "等温熟炼; 等温退火(热原子化学)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "joist steel",
+    "zh": "梁钢；工字钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "killed steel",
+    "zh": "镇静钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "knife line corrosion",
+    "zh": "刀蚀；线状腐蚀；划线腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Knoop hardness number",
+    "zh": "努普硬度值；努氏硬度值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Knoop hardness test",
+    "zh": "努氏硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Knoop indentation hardness",
+    "zh": "努普压痕硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Knoop microhardness test",
+    "zh": "努普微硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lamellated fracture",
+    "zh": "成层断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminar fracture",
+    "zh": "成层断裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lapwelding",
+    "zh": "搭焊；搭头焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser annealing",
+    "zh": "激光退火技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser welding",
+    "zh": "激光焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead alloys",
+    "zh": "铅合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Levol's alloy",
+    "zh": "勒伏耳银铜合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light alloy",
+    "zh": "轻合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light beam welding",
+    "zh": "光束焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light corrosion",
+    "zh": "轻度腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light gauge steel",
+    "zh": "轻量型钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limit of fatigue",
+    "zh": "疲劳限度；疲劳极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear creep",
+    "zh": "线性蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear elastic fracture mechanics",
+    "zh": "线弹性断裂力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear elastoplastic fracture mechanic",
+    "zh": "线(性)弹塑性断裂力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear tempering",
+    "zh": "线性回火；线性调温",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid corrosion",
+    "zh": "液蚀(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "load input tensile tester",
+    "zh": "输入负荷强力试验仪；输入载荷强力试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "local annealing",
+    "zh": "局部退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local corrosion",
+    "zh": "局部腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "long-term corrosion",
+    "zh": "长期腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "long-term static fatigue failure",
+    "zh": "长期静态疲劳破损",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loss of tensile strength",
+    "zh": "抗张强度损失",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low alloyed steel",
+    "zh": "低合金钢",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "low-carbon steel",
+    "zh": "低碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low cycle fatigue",
+    "zh": "低循环疲劳；低周疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low melting alloy",
+    "zh": "低熔合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low steel",
+    "zh": "低碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature annealing",
+    "zh": "低温退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature heat treatment",
+    "zh": "低温热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low-temperature tempering",
+    "zh": "低温回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low tempering",
+    "zh": "低温回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "luminescence quenching",
+    "zh": "发光猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lustreless fracture",
+    "zh": "无泽断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "machine direction tensile strength",
+    "zh": "纵向抗张强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "machine steel",
+    "zh": "件钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macro-creep",
+    "zh": "宏观蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnesium alloy die casting",
+    "zh": "镁合金压(模)铸件 $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field welding",
+    "zh": "磁场焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "manganese steel",
+    "zh": "锰钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "marine corrosion",
+    "zh": "海洋腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "marine corrosion rate",
+    "zh": "海洋腐蚀速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Martens hardness tester",
+    "zh": "马滕斯硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "master creep curve",
+    "zh": "叠合蠕变曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanism of corrosion",
+    "zh": "腐蚀机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium carbon steel",
+    "zh": "中碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium term corrosion prevention",
+    "zh": "中效防锈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melt fracture",
+    "zh": "熔体破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melting welding technique",
+    "zh": "熔结技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "merchant steel",
+    "zh": "商品钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mercury alloys",
+    "zh": "汞合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal alloy",
+    "zh": "金属合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal alloy coating (",
+    "zh": "金属)合金涂料; (金属)合金涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal arc welding",
+    "zh": "金属电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metallic creep",
+    "zh": "金属型蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "method by inserting steel sheet on guide way",
+    "zh": "导轨镶钢法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Meyer hardness",
+    "zh": "迈耶硬度：迈氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbeam plasma welding",
+    "zh": "微束等离子焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbiological corrosion",
+    "zh": "微生物腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcreep",
+    "zh": "微观蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microhardness",
+    "zh": "显微硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-hardness tester",
+    "zh": "微型硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microhardness value",
+    "zh": "显微硬度(值)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micropulse resistance welding",
+    "zh": "微脉冲电阻焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mild corrosion",
+    "zh": "轻度腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mild steel",
+    "zh": "低碳钢；软钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed gas shield welding",
+    "zh": "混合气体保护焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified alloy",
+    "zh": "改良合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Mohs' hardness",
+    "zh": "莫氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Mohs' hardness scale",
+    "zh": "莫氏硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Mohs' scale of hardness",
+    "zh": "莫氏硬度标;莫氏硬度分级法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moisture corrosion test",
+    "zh": "湿度腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molybdenum steel",
+    "zh": "钼钢 </div>",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mother alloy",
+    "zh": "母合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moulded steel",
+    "zh": "模铸钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multilayer welding",
+    "zh": "多层焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multipass welding",
+    "zh": "多道焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-welding pressure vessel",
+    "zh": "电渣重熔式压力容器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural corrosion test",
+    "zh": "自然(条件)腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negative concentration quenching",
+    "zh": "负浓度猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Newton's alloy",
+    "zh": "牛顿合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel alloy",
+    "zh": "镍合金",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "nickel alloy steel",
+    "zh": "镍合金钢",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "nickel boron alloy",
+    "zh": "硼镍合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel-chrome steel",
+    "zh": "铬镍钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel-chromium alloy",
+    "zh": "镍铬合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel chromium steel",
+    "zh": "铬镍钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel-free zircalloy-2",
+    "zh": "无镍锆-2合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nil ductility temperature(NDT)",
+    "zh": "无延性转变温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nimonic alloys",
+    "zh": "耐氧化镍合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitralloy",
+    "zh": "渗氮钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitriding steel",
+    "zh": "氮化钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-carbonate hardness",
+    "zh": "非碳酸盐硬度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-ferrous alloy",
+    "zh": "非铁(金属)合金；有色(金属)合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-recoverable creep",
+    "zh": "不可恢复蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-rust steel",
+    "zh": "不锈钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-weldable steel",
+    "zh": "不可焊接的钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal alloy",
+    "zh": "正常合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "notch ductility",
+    "zh": "缺口塑性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "off-axis tensile",
+    "zh": "偏心张力拉伸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "off-directional tensile test",
+    "zh": "偏轴拉伸测试",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "offset yield strength",
+    "zh": "补偿屈服强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil annealing",
+    "zh": "油淬火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil corrosion",
+    "zh": "油腐蚀（油中酸性物质的腐蚀）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil corrosion test",
+    "zh": "油腐蚀试验（石油产品的金属腐蚀试验）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil quenching",
+    "zh": "油急冷;油淬；油中淬火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-steel reaction",
+    "zh": "油钢反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil tempering",
+    "zh": "油回火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Olsen type hardness tester",
+    "zh": "奥尔森型硬度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "one side welding",
+    "zh": "单面焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ooze corrosion",
+    "zh": "海泥腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open-hearth steel",
+    "zh": "平炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical quenching",
+    "zh": "光猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ordered alloy",
+    "zh": "有序合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overhead position welding",
+    "zh": "仰焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overhead welding",
+    "zh": "仰焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overlay welding",
+    "zh": "堆焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxy-acetylene welding",
+    "zh": "气焊；氧-乙炔焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxygen diffusion type corrosion",
+    "zh": "氧扩散型腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxygen quenching",
+    "zh": "氧抑制；氧猝熄；抑制氧化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxyhydrogen welding",
+    "zh": "氢氧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pencil hardness test",
+    "zh": "铅笔硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pendulum fibre bundle tensile tester",
+    "zh": "摆式束纤维强力仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pendulum hardness",
+    "zh": "摆测硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pendulum-rocker hardness",
+    "zh": "摆杆硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pentadigalloylglucose",
+    "zh": "双榕酰单宁；五双鞣酰基葡萄糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentagalloyl glucose",
+    "zh": "黄桔酰单宁；五没食子酰葡萄糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permalloy",
+    "zh": "坡莫合金；镍铁导磁合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permanent hardness",
+    "zh": "永久硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permanent hardness of water",
+    "zh": "水的永久硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permanent magnet alloy",
+    "zh": "永磁合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Persooz hardness",
+    "zh": "帕萨兹硬度 (单位: 秒)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Pfund hardness number",
+    "zh": "普芬德硬度值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Pfund indentation hardness",
+    "zh": "普芬德压痕硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photo-annealing",
+    "zh": "光退火；光熟炼",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-creep method",
+    "zh": "光测蠕变法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectric steelometer",
+    "zh": "光电析钢仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pin-holing corrosion",
+    "zh": "针孔形腐蚀；针孔形锈蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pipe-line fracture test",
+    "zh": "管道破裂试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pit corrosion",
+    "zh": "点蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plane fracture",
+    "zh": "平面破裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pitting corrosion",
+    "zh": "小孔腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion depth",
+    "zh": "点蚀深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion speed",
+    "zh": "点蚀速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion test",
+    "zh": "点(腐)蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plain carbon steel",
+    "zh": "普通碳钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plasma arc welding",
+    "zh": "等离子弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plasma welding",
+    "zh": "等离子焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic alloy(=polyblend)",
+    "zh": "塑料合金；共混塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic fracture",
+    "zh": "塑性破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic friction welding",
+    "zh": "塑料摩擦焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plug welding",
+    "zh": "塞焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyalloy",
+    "zh": "高分子合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer alloy",
+    "zh": "聚合物合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer creep",
+    "zh": "高聚物蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer fatigue",
+    "zh": "高聚物疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcelain fracture",
+    "zh": "瓷断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous stainless steel separator",
+    "zh": "多孔不锈钢分离器",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "position welding",
+    "zh": "定位焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "postdeposition heat treatment",
+    "zh": "沉积后热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-heat treatment",
+    "zh": "后热处理；二次热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "postreaction heat treatment",
+    "zh": "反应后热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "postweld heat treatment",
+    "zh": "焊后热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pot steel",
+    "zh": "坩埚钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preliminary heat treatment in oxidizing",
+    "zh": "初步氧化热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature brittle fracture",
+    "zh": "早期脆化破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premier alloy",
+    "zh": "镍铁铬锰合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure thermit welding",
+    "zh": "加压热剂焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure welding",
+    "zh": "压焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "press welding",
+    "zh": "压焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary creep",
+    "zh": "初级蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "projection welding",
+    "zh": "凸焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protection against corrosion",
+    "zh": "防腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-alloy coating",
+    "zh": "假合金涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudohardness",
+    "zh": "假硬",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulse welding",
+    "zh": "脉冲焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Pusey-Jones hardness tester",
+    "zh": "普西-琼斯硬度试验器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyramid hardness",
+    "zh": "棱锥体硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrolic alloy",
+    "zh": "镍铬合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrophoric alloy",
+    "zh": "引火合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quad alloy",
+    "zh": "四元合金（指含钼、锆、铌、钛的铀合金）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "qualitative tensile property",
+    "zh": "定性拉伸性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quarternary alloy",
+    "zh": "四元合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quart-hard annealing",
+    "zh": "低硬度退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-viscous creep",
+    "zh": "准黏性蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quaternary alloy",
+    "zh": "四元合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenched and tempered steel",
+    "zh": "调质钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching",
+    "zh": "猝灭*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching agent",
+    "zh": "(紫外线)猝灭剂;淬火剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching and tempering (",
+    "zh": "钢的)调质处理",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "quenching apparatus",
+    "zh": "淬火器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching bath",
+    "zh": "淬火浴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching broadening",
+    "zh": "猝灭变宽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching car",
+    "zh": "淬火车",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching chamber",
+    "zh": "淬火室；骤冷室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching circuit",
+    "zh": "猝灭电路",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching compound (",
+    "zh": "紫外光)猝灭化合物；激发(态)抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching condition",
+    "zh": "骤冷条件;淬火条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching constant",
+    "zh": "猝灭常数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching crack",
+    "zh": "淬致裂痕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching cross section",
+    "zh": "猝灭截面*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching diameter",
+    "zh": "猝灭直径",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching distortion",
+    "zh": "淬火变形(畸变)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching effect",
+    "zh": "猝灭效应*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching effect of atomic fluorescence",
+    "zh": "原子荧光猝灭效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching fluorometry",
+    "zh": "猝灭荧光测定法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching furnace",
+    "zh": "淬火炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching gas",
+    "zh": "猝灭气体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching medium",
+    "zh": "猝灭剂；猝灭介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching of fluorescence",
+    "zh": "荧光猝灭",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching of gases",
+    "zh": "气体骤冷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching oil",
+    "zh": "急冷油；骤冷油;淬火油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching stress",
+    "zh": "骤冷应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quenching temperature",
+    "zh": "淬火温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quench oil(=quenching oil)",
+    "zh": "淬火油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quick-turning steel",
+    "zh": "快削钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quiet steel",
+    "zh": "软钢(低碳钢)；全脱氧钢；全镇静钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinary alloy",
+    "zh": "五元合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinary steel",
+    "zh": "五元合金钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation annealing",
+    "zh": "辐射退火；辐射熟练",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radio-frequency welding",
+    "zh": "射频焊接；高频焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Raney nickel alloy",
+    "zh": "拉尼镍合金",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "Raney's alloy",
+    "zh": "拉尼镍铝合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid steel",
+    "zh": "高速钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid steel tool",
+    "zh": "高速钢工具",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid tool steel",
+    "zh": "高速工具钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rare earth alloy",
+    "zh": "稀土合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ratio-frequency welding",
+    "zh": "高频焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "raw steel",
+    "zh": "粗钢；原钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction soldering",
+    "zh": "反应焊接；还原焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reannealing",
+    "zh": "重退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rebound hardness",
+    "zh": "回弹硬度；反跳硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rebound hardness tester",
+    "zh": "回弹硬度试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refining steel",
+    "zh": "精炼钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refractory alloy",
+    "zh": "耐火合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reinforcing steel bar",
+    "zh": "增强钢筋",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "repairing welding",
+    "zh": "补焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "repair welding",
+    "zh": "维修焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual hardness",
+    "zh": "残留硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "residual hardness of water",
+    "zh": "水的残留硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin alloy(=polyblend)",
+    "zh": "树脂合金；树脂共混",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to creep",
+    "zh": "抗蠕变性(力)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance to fatigue",
+    "zh": "耐疲劳性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance welding",
+    "zh": "接触焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resonance type bending fatigue tester",
+    "zh": "共振型弯曲疲劳试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "restless steel",
+    "zh": "不锈钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resufacing welding",
+    "zh": "堆焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rewelding",
+    "zh": "重焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rimmed steel",
+    "zh": "沸腾钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring tensile",
+    "zh": "环状试片抗张力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rocker hardness tester",
+    "zh": "摆杆硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Rockwell hardness",
+    "zh": "洛氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rolled steel",
+    "zh": "辊轧钢；轧制钢材",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rolled steel wire",
+    "zh": "盘条；铁丝盘",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotating arc welding",
+    "zh": "旋转电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "round steel",
+    "zh": "圆钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber alloy",
+    "zh": "并用胶；共混胶（高聚物和橡胶的掺和物）；橡塑胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber-resin alloy",
+    "zh": "橡胶树脂并用胶；耐冲击性塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubbery tensile modulus",
+    "zh": "橡胶态拉伸模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "run-away corrosion",
+    "zh": "骤增腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust corrosion",
+    "zh": "锈蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust creep",
+    "zh": "锈蚀蔓延；锈迹蔓延",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rust creepage",
+    "zh": "锈蚀蔓延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rustless steel",
+    "zh": "不锈钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust resisting steel",
+    "zh": "不锈钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salt-bath dip brazing",
+    "zh": "盐浴钎(浸)焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scale of hardness",
+    "zh": "硬度标度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Schopper tensile tester",
+    "zh": "肖伯尔抗拉试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scleroscope hardness (",
+    "zh": "验出的)硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scleroscope hardness test",
+    "zh": "肖氏硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scleroscope hardness test of Share",
+    "zh": "肖(尔)氏回跳硬度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scratch hardness",
+    "zh": "刮痕硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scratch hardness tester",
+    "zh": "划痕硬度试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "seamless steel pipe",
+    "zh": "无缝钢管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seam welding",
+    "zh": "缝焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sea water corrosion",
+    "zh": "海水腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sea weed corrosion",
+    "zh": "海藻腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary creep",
+    "zh": "第二阶段蠕变；蠕变恒速区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "section steel",
+    "zh": "型钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective corrosion",
+    "zh": "选择性腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-fluxing alloy",
+    "zh": "自熔融合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-fluxing alloy powder",
+    "zh": "自熔性合金粉末",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-hardening steel",
+    "zh": "自硬钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self quenching",
+    "zh": "自猝灭*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-quenching counter",
+    "zh": "自猝灭计数管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selfshield arc welding",
+    "zh": "自保护电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-automatic metal arc welding",
+    "zh": "半自动金属电弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-automatic welding",
+    "zh": "半自动焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semisteel",
+    "zh": "半钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "series spot welding",
+    "zh": "单面多点点焊；单面点焊；连续点焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shape memory alloy",
+    "zh": "形状记忆合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shear creep",
+    "zh": "剪切蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shear fracture",
+    "zh": "剪切破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shearing fatigue tester",
+    "zh": "剪切疲劳试验仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shear steel",
+    "zh": "高速切削钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet steel",
+    "zh": "钢板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet steel enamel",
+    "zh": "钢片搪瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet steel enclosure",
+    "zh": "薄钢板外壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet steel housing",
+    "zh": "钢板槽间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet steel piling",
+    "zh": "钢板桩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shielded arc welding",
+    "zh": "气体保护焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Shore creep",
+    "zh": "肖氏蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Shore durometer hardness",
+    "zh": "肖氏压痕硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Shore hardness(=durometer-hardness)",
+    "zh": "肖氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Shore hardness tester",
+    "zh": "肖氏硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "short annealing",
+    "zh": "快速退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Siemens-Martin steel",
+    "zh": "西门子-马丁钢；平炉钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silchrome (steel)",
+    "zh": "硅铬耐热钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silico-manganese steel",
+    "zh": "硅锰钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon alloys",
+    "zh": "硅合金(类)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone alloy",
+    "zh": "聚硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silver-alloy brazing",
+    "zh": "银钎焊",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "silver alloys",
+    "zh": "银合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silver brazing",
+    "zh": "银焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silver soldering",
+    "zh": "银焊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silvery fracture",
+    "zh": "银白色断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simulated annealing",
+    "zh": "模拟退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simulated annealing algorithm",
+    "zh": "模拟退火算法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-layer welding",
+    "zh": "单层焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-pass welding",
+    "zh": "单道焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-phased alloy",
+    "zh": "单相合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-run welding",
+    "zh": "单道焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-U groove welding",
+    "zh": "单面U形槽焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-V groove welding",
+    "zh": "单面V形槽焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "skip welding",
+    "zh": "跳焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slag welding",
+    "zh": "电渣焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft soldering",
+    "zh": "软焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft steel(=mild steel)",
+    "zh": "低碳钢；软钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soil corrosion",
+    "zh": "土力侵蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering",
+    "zh": "软钎焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering apparatus",
+    "zh": "焊接器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering flame",
+    "zh": "焊接焰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering fluid",
+    "zh": "焊(接)液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering flux",
+    "zh": "助焊剂；焊液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering lamp",
+    "zh": "喷灯；焊接灯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soldering tin",
+    "zh": "焊锡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sole fracture",
+    "zh": "断底",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid solution alloy",
+    "zh": "固溶体合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sour corrosion",
+    "zh": "二氧化硫腐蚀；(含硫的)酸性腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sparking alloy",
+    "zh": "引火合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "special steel",
+    "zh": "特种钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "special tool steel",
+    "zh": "特殊工具钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific tensile strength",
+    "zh": "比拉伸强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin welding",
+    "zh": "旋转焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "splash zone corrosion",
+    "zh": "飞溅带腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spot welding",
+    "zh": "点焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spot welding machine",
+    "zh": "点焊机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spot welding primer",
+    "zh": "点焊底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spraying welding",
+    "zh": "喷焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spray welding coating",
+    "zh": "喷焊层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spring steel",
+    "zh": "弹簧钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "square steel",
+    "zh": "方钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stainless steel",
+    "zh": "不锈钢",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "stainless steel helices",
+    "zh": "不锈钢填料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "stainless steel syringe needle",
+    "zh": "不锈钢注射针头",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "stalloy",
+    "zh": "高硅钢片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard block of hardness",
+    "zh": "标准硬度块(片)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static fatigue",
+    "zh": "静态疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static fatigue failure",
+    "zh": "静疲劳失效",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static quenching",
+    "zh": "静态消光；静态猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "static water drop corrosion test",
+    "zh": "静态水滴腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel",
+    "zh": "钢;钢(制)的;似钢的;钢制品；钢块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel alloy",
+    "zh": "合金钢",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "steel ball bearing",
+    "zh": "钢球轴承",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel band",
+    "zh": "钢带；载重带",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel band tape",
+    "zh": "钢带（测量储罐用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel bar",
+    "zh": "钢条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel bomb",
+    "zh": "钢弹；钢制反应釜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel brush",
+    "zh": "钢刷(子)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel casting",
+    "zh": "钢铸件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel chain",
+    "zh": "钢链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel clad",
+    "zh": "钢片衬",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel coil",
+    "zh": "钢旋管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel-cord conveyor belt",
+    "zh": "钢丝绳运输带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel-cutting compound",
+    "zh": "钢材切削化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel cylinder",
+    "zh": "钢筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steele acid (",
+    "zh": "可氧化的)松香酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel file",
+    "zh": "钢锉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel foil",
+    "zh": "钢箔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel forging",
+    "zh": "锻钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel framework",
+    "zh": "钢框；钢架",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel grits",
+    "zh": "钢砂（喷洗用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel hammer",
+    "zh": "钢锤；铁锤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel hardening oil",
+    "zh": "钢材硬化油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel ingot",
+    "zh": "钢锭；钢块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel lined",
+    "zh": "衬钢的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel magnet",
+    "zh": "磁钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel mortar",
+    "zh": "钢研钵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steeloscope",
+    "zh": "看谱镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel plate",
+    "zh": "钢板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel plate thickness gauge",
+    "zh": "铁板厚度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel plating",
+    "zh": "镀钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel product",
+    "zh": "钢材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel roll",
+    "zh": "钢辊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel rule",
+    "zh": "钢尺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel sections(=steel shapes)",
+    "zh": "型钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel shapes(=steel sections)",
+    "zh": "型钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel sheet pile",
+    "zh": "钢板桩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel shot",
+    "zh": "钢砂；钢丸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel spatula",
+    "zh": "钢刮刀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel strip",
+    "zh": "钢带；带钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel structure coating",
+    "zh": "钢结构用涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel tape",
+    "zh": "钢(卷)尺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel wire",
+    "zh": "钢丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel wire cord",
+    "zh": "钢丝帘线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel wire rope",
+    "zh": "钢丝绳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel wool",
+    "zh": "钢(丝)棉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steel works (",
+    "zh": "铸)钢厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steelyard",
+    "zh": "大磅秤；弹簧秤；吊秤；杆秤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steely iron",
+    "zh": "炼钢(用)铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stony fracture",
+    "zh": "石裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight nickel steel",
+    "zh": "直镍钢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight side long pitch steel chain",
+    "zh": "直边长节式钢链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stray current corrosion",
+    "zh": "漏泄电流腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stress corrosion",
+    "zh": "应力腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strip steel",
+    "zh": "带钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structural steel",
+    "zh": "结构钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structural steel coating",
+    "zh": "钢构筑物涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stud welding",
+    "zh": "电栓焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "submerged arc welding",
+    "zh": "埋弧焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulphate hardness",
+    "zh": "硫酸盐硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superalloy",
+    "zh": "高温合金",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "superconducting alloy",
+    "zh": "超导合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supermalloy",
+    "zh": "镍钼铁锰合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supersteel",
+    "zh": "高速钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface fracture",
+    "zh": "表面破损",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surfacing build-up welding",
+    "zh": "堆焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sweating soldering",
+    "zh": "热熔焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sweet corrosion",
+    "zh": "载硫腐蚀；淡水腐蚀（淡水中的 CO₂ 腐蚀）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "swinging beam hardness tester",
+    "zh": "摆杆硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchronous fluorescence quenching method",
+    "zh": "同步荧光猝灭法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank welding",
+    "zh": "油罐焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tape welding",
+    "zh": "带焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tee welding T",
+    "zh": "形焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "temperature quenching",
+    "zh": "温度消光；温度猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempered steel",
+    "zh": "回火钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering",
+    "zh": "回火;人工老化;混合；调和;退鞣（皮革）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering bath",
+    "zh": "回火浴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering coil",
+    "zh": "调温旋管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering color",
+    "zh": "回火颜色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering furnace",
+    "zh": "回火炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering oil",
+    "zh": "回火油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering stove",
+    "zh": "回火炉；硬化炉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering tank",
+    "zh": "混合桶；混合槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tempering tower",
+    "zh": "缓冲塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "temporary hardness",
+    "zh": "暂时硬度;暂时硬性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile",
+    "zh": "张力的；抗张的;拉伸的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile breaking force",
+    "zh": "拉伸断裂强力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile breaking strength",
+    "zh": "拉伸断裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile breaking tenacity",
+    "zh": "拉伸断裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile break strength",
+    "zh": "拉伸断裂强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile compliance",
+    "zh": "拉伸柔量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile creep",
+    "zh": "拉伸蠕变",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "tensile creep compliance",
+    "zh": "拉伸蠕变柔量",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "tensile crimp modulus",
+    "zh": "拉伸卷曲模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile curve",
+    "zh": "拉伸曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile elasticity",
+    "zh": "拉伸弹性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile elongation",
+    "zh": "拉伸长度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile energy",
+    "zh": "抗张本领",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile figure",
+    "zh": "拉伸指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile force",
+    "zh": "张力；拉力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile force-extension relation",
+    "zh": "张力-拉伸关系式",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile heat distortion",
+    "zh": "热变形张力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile load",
+    "zh": "拉伸载荷；张力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile machine",
+    "zh": "拉力试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile modules of elasticity",
+    "zh": "拉伸弹性模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile modulus",
+    "zh": "拉伸模量；抗张模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile-permanent set",
+    "zh": "拉伸变定；永久伸长",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile product",
+    "zh": "抗张积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile property",
+    "zh": "拉伸性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile rigidity",
+    "zh": "拉伸刚度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile shear strength",
+    "zh": "拉伸剪切强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile strain",
+    "zh": "拉伸应变；张应变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile strength",
+    "zh": "拉伸强度*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile strength test",
+    "zh": "抗张强度试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile strength tester",
+    "zh": "拉伸强度测定仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile stress",
+    "zh": "拉伸应力；张应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile stress relaxation",
+    "zh": "拉伸应力弛豫；拉伸应力松弛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile test",
+    "zh": "张力试验；拉伸试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile testing apparatus",
+    "zh": "张力试验器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile testing machine",
+    "zh": "张力试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile test specimen",
+    "zh": "拉伸试片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile ultimate strength",
+    "zh": "拉伸极限强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile viscosity",
+    "zh": "拉伸黏性；拉伸黏度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile yield",
+    "zh": "扯断伸长率;张力屈服值；张力屈服点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ternary steel",
+    "zh": "三元钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tertiary creep",
+    "zh": "三重蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tetragalloyl erythrite",
+    "zh": "四桔酰赤藓醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal creep",
+    "zh": "热力蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal stress fatigue",
+    "zh": "热应力疲劳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermit welding",
+    "zh": "热剂焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin alloy zone crystallization(TAZC)",
+    "zh": "薄合金区域结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three o'clock welding",
+    "zh": "横向自动焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tin soldering",
+    "zh": "锡焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tool steel",
+    "zh": "工具(用)钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "torsional creep",
+    "zh": "扭曲蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "torsional yield strength",
+    "zh": "抗扭强度极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total hardness",
+    "zh": "总硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "total hardness of water",
+    "zh": "水的总硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tough hardness",
+    "zh": "韧硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "track annealing",
+    "zh": "径迹退火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tribochemistry fatigue wear",
+    "zh": "摩擦化学疲劳磨损",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trimethylgalloyl azide",
+    "zh": "叠氮三甲基榕酰 2,3,6-trimethyl glucose 2,3,6-三甲基葡萄糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true hardness",
+    "zh": "真硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tube steel",
+    "zh": "管钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tube welding machine",
+    "zh": "焊管机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Tukon hardness tester",
+    "zh": "屠康硬度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tungsten alloy",
+    "zh": "钨合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tungsten-rhenium alloy",
+    "zh": "铬钨合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tungsten steel",
+    "zh": "钨钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultimate tensile elongation",
+    "zh": "极限拉伸伸长;极限拉伸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultimate tensile strength",
+    "zh": "极限拉伸强度*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultrahigh-strength steel",
+    "zh": "超高强度钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic annealing",
+    "zh": "超声退火；超声熟练",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic metal welding",
+    "zh": "超声波金属焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic welding",
+    "zh": "超声波焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underground corrosion",
+    "zh": "地下腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underwater welding",
+    "zh": "水下焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uneven fracture",
+    "zh": "粗糙断面；不平断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ungalvanized iron and steel",
+    "zh": "未镀锌钢铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uniaxial tensile deformation",
+    "zh": "单轴拉伸形变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "union melt welding",
+    "zh": "埋弧自动焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unoxidizable alloy",
+    "zh": "不锈合金；不可氧化的合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsymmetrically quenching",
+    "zh": "不对称骤冷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum welding",
+    "zh": "真空焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vertical position welding",
+    "zh": "立焊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vicalloy",
+    "zh": "钴铁钒合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Vickers hardness",
+    "zh": "维氏硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Vickers hardness tester",
+    "zh": "维氏硬度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "visco-elastic creep",
+    "zh": "黏-弹性蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "viscous fracture",
+    "zh": "黏性破坏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitreous fracture",
+    "zh": "玻璃状断面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volume quenching effect",
+    "zh": "体猝灭效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-cooled welding torch",
+    "zh": "水冷焊炬",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water hardness",
+    "zh": "水(的)硬度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water hardness ions",
+    "zh": "水硬离子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water quenching",
+    "zh": "水淬火",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wear hardness",
+    "zh": "耐磨性；磨耗性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "weld(able) steel",
+    "zh": "焊接钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welded steel tank",
+    "zh": "金属焊接油罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding",
+    "zh": "焊接；熔接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding assembly",
+    "zh": "焊接构件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding base metal",
+    "zh": "焊接金属；焊接母材",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding bead",
+    "zh": "焊道；焊蚕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding booth(=welding shop)",
+    "zh": "焊接车间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding condition",
+    "zh": "焊接规范",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding defect(=welding flaw)",
+    "zh": "焊接缺陷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding deformation",
+    "zh": "焊接变形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding direction",
+    "zh": "焊接方向",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding equipment",
+    "zh": "焊接设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding flaw(=welding defect)",
+    "zh": "焊接缺陷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding flux",
+    "zh": "焊药；焊剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding head",
+    "zh": "烧焊枪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding machine",
+    "zh": "焊接机；熔接机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding mask",
+    "zh": "电焊面",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding metal cracking",
+    "zh": "焊缝金属裂纹",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding method",
+    "zh": "焊接方法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding neck flange",
+    "zh": "焊颈法兰",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding plant",
+    "zh": "焊接装置;焊接厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding position",
+    "zh": "焊接位置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding positioner roller",
+    "zh": "焊接定位滚轮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding process",
+    "zh": "焊接工艺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding rod",
+    "zh": "焊条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding roll",
+    "zh": "焊滚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding seam",
+    "zh": "焊缝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding sequence",
+    "zh": "焊接顺序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding set",
+    "zh": "焊接设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding shop(=welding booth)",
+    "zh": "焊接车间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding stress",
+    "zh": "焊接应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding symbol",
+    "zh": "焊接符号",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding technological parameter",
+    "zh": "焊接工艺参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding tip",
+    "zh": "焊嘴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding together",
+    "zh": "焊接",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding tool",
+    "zh": "电焊工具",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "welding wire",
+    "zh": "焊丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weld steel",
+    "zh": "焊接钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet corrosion",
+    "zh": "湿腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet quenching",
+    "zh": "湿淬火；湿法熄焦；湿猝灭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet tensile strength",
+    "zh": "湿拉力；湿抗拉强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "whale quenching oil",
+    "zh": "淬火鲸油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wolfram steel",
+    "zh": "钨钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Wood's alloy",
+    "zh": "伍德合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wrought steel",
+    "zh": "焊接钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wrought steel cylinder",
+    "zh": "熟钢滚筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-alloy X",
+    "zh": "合金（含高硼的镍铁）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-alloy-lined cylinder X",
+    "zh": "合金衬里的机筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-fracture",
+    "zh": "十字形裂口 (轮胎)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "yield strength",
+    "zh": "屈服强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero creep",
+    "zh": "零蠕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zero (hardness) water",
+    "zh": "零硬水；软水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zero span tensile strength",
+    "zh": "零档断裂强度；零跨距拉伸强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc alloy die casting",
+    "zh": "锌合金压(模)铸件",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zirconium alloy",
+    "zh": "锆合金 zirconium ammonium fluoride(=ammonium zirconifluoride)氟化锆铵；锆氟酸铵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zone-annealing method",
+    "zh": "区域热处理法",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

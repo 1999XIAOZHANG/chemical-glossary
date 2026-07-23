@@ -1,0 +1,8516 @@
+[
+  {
+    "en": "accelerated corrosion test",
+    "zh": "加速腐蚀试验；加速锈蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerating electrode",
+    "zh": "加速电极；促进电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid corrosion",
+    "zh": "酸腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid corrosion inhibitor",
+    "zh": "抗酸缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid storage battery",
+    "zh": "酸性蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "AC impedance method",
+    "zh": "交流阻抗法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acoustic impedance",
+    "zh": "声阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acoustic impedance per unit area",
+    "zh": "单位面积声阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylic polyelectrolyte",
+    "zh": "丙烯酸聚合电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "active electrode",
+    "zh": "活性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "AC voltammetry",
+    "zh": "交流伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorptive (stripping) voltammetry",
+    "zh": "吸附(溶出)伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air bubble electrode",
+    "zh": "空气泡电极；气泡电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air-depolarized electrode (",
+    "zh": "空气)去极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air electrode",
+    "zh": "空气电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air gap electrode",
+    "zh": "气隙电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali corrosion prevention method",
+    "zh": "碱蚀防止法；防碱腐蚀法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline corrosion",
+    "zh": "碱性腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline dropping corrosion resistance test (",
+    "zh": "耐)滴碱腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline-error of glass pH electrode",
+    "zh": "玻璃 pH 电极的碱误差",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "all-solid state reference electrode",
+    "zh": "全固态参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alternating current electrolysis",
+    "zh": "交流电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating current impedance",
+    "zh": "交流阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating current voltammetry",
+    "zh": "交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alternating immersion corrosion test",
+    "zh": "交替浸渍腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating voltammetry",
+    "zh": "交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminium anodes",
+    "zh": "铝阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminium electrode",
+    "zh": "铝电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amalgam electrode",
+    "zh": "汞齐电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ammoina corrosion prevention",
+    "zh": "氨腐蚀防止法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia corrosion",
+    "zh": "氨腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia corrosion prevention",
+    "zh": "氨腐蚀防止法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia gas sensing electrode",
+    "zh": "氨气敏电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ammonia selective electrode",
+    "zh": "氨选择性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ammonium ion selective electrode",
+    "zh": "铵离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "amperometry with two indicator electrodes",
+    "zh": "双指示电极电流滴定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amphoteric electrolyte",
+    "zh": "两性电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amphoteric polyelectrolyte",
+    "zh": "两性聚合电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anelectrolyte",
+    "zh": "非电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion exchange electrode",
+    "zh": "阴离子交换电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion selective electrode",
+    "zh": "阴离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "anion selective membrane electrode",
+    "zh": "阴离子选择性膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode",
+    "zh": "阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode active material",
+    "zh": "阳极活性物质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode bag",
+    "zh": "阳极袋",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode bar",
+    "zh": "阳极棒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode carrier (",
+    "zh": "电镀)阳极支架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode-cathode ratio",
+    "zh": "阳极-阴极比率",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "anode chamber(=anode compartment)",
+    "zh": "阳极室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode coagulant dip process",
+    "zh": "阳极凝固浸渍法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode compartment(=anode chamber)",
+    "zh": "阳极室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode consumption",
+    "zh": "阳极消耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode corrosion efficiency",
+    "zh": "阳极侵蚀效率",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "anode current",
+    "zh": "阳极电流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode drop",
+    "zh": "阳极(电势)降",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode effect",
+    "zh": "阳极效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode glow",
+    "zh": "阳极辉光",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode light",
+    "zh": "阳极射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode liquor",
+    "zh": "阳极(电解)液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode mud",
+    "zh": "阳极泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode oxidation",
+    "zh": "阳极氧化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode packing material",
+    "zh": "阳极包裹材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode potential",
+    "zh": "阳极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode process",
+    "zh": "阳极法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode ray",
+    "zh": "阳极射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode reaction",
+    "zh": "阳极反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode scrap",
+    "zh": "阳极屑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode slime",
+    "zh": "阳极淀渣；阳极附着物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode slime (sludge)",
+    "zh": "阳极泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anode spot",
+    "zh": "阳极光点；阳极(斑)点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anodic corrosion",
+    "zh": "阳极腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anodic stripping voltammetry(ASV)",
+    "zh": "阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anteiso-",
+    "zh": "反异",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anticathode",
+    "zh": "对阴极（X射线管）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticorrosion",
+    "zh": "防腐;防锈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion additive",
+    "zh": "抗腐蚀添加剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion adhesive",
+    "zh": "防腐性黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion agent",
+    "zh": "防腐剂；防蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion cleaning compound",
+    "zh": "防腐蚀清洗剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion coating",
+    "zh": "防腐蚀涂饰",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-corrosion grease",
+    "zh": "防腐润滑脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticorrosion property",
+    "zh": "抗腐蚀性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "applied voltage electrolytic current curve",
+    "zh": "外加电压电解电流曲线",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aqueous corrosion",
+    "zh": "水腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arndt-Eistert synthesis",
+    "zh": "阿恩特-艾斯特尔特合成",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Arrhenius theory of electrolytic dissociation",
+    "zh": "阿伦尼乌斯电离理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "artificial corrosion product",
+    "zh": "人工锈蚀物;人工锈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aseismic design",
+    "zh": "抗震设计；耐(地)震设计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "attractor electrode",
+    "zh": "吸(引)力电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "automatic corrosion protection system",
+    "zh": "自动防腐蚀装置（体系）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autoxidation-reduction process",
+    "zh": "自身氧化还原反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auxiliary anode",
+    "zh": "辅助阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "auxiliary battery",
+    "zh": "辅助电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auxiliary cathode",
+    "zh": "辅助阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "auxiliary electrode",
+    "zh": "辅(助)电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "azofermo(=molybdoferredoxin)",
+    "zh": "固氮铁钼(氧还)蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "background electrolyte",
+    "zh": "背景电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "background electrolyte effect",
+    "zh": "本底电解质效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bacteria corrosion prevention method",
+    "zh": "防细菌腐蚀法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacterial electrode",
+    "zh": "细菌电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bacterial membrane electrode",
+    "zh": "细菌膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "balancing battery",
+    "zh": "缓冲电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "banded corrosion",
+    "zh": "带状腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bare electrode",
+    "zh": "光焊条；裸露焊条；裸露电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bare silver electrode",
+    "zh": "裸银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "base electrode",
+    "zh": "基极电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "base electrolyte",
+    "zh": "基底电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basic electrode",
+    "zh": "碱性焊条；碱性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basket electrode",
+    "zh": "篮形电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "battery",
+    "zh": "电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery acid",
+    "zh": "电池用酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery bench",
+    "zh": "电池桌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery box",
+    "zh": "电池(组的)箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery car",
+    "zh": "电瓶车",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery carbon",
+    "zh": "电池用碳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery case",
+    "zh": "蓄电池箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery cell",
+    "zh": "电池组电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery charger",
+    "zh": "电池充电器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery circuit",
+    "zh": "电池电流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery contact",
+    "zh": "电池接头",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery container",
+    "zh": "蓄电池箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery glass",
+    "zh": "电池用玻璃(容器)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery hut",
+    "zh": "电池棚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery jar",
+    "zh": "电池槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery limit",
+    "zh": "界区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery mud",
+    "zh": "电池淤渣",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery ore",
+    "zh": "电池用(软锰)矿",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery reversing switch",
+    "zh": "电池转向(电)闸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery room",
+    "zh": "电池室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery separator",
+    "zh": "蓄电池隔板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery switch",
+    "zh": "电池(组的)开关",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery syringe",
+    "zh": "电池注射器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery terminal",
+    "zh": "电池(组的)端钮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery tester",
+    "zh": "电池检验器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "battery voltage",
+    "zh": "电池组电压",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bercular corrosion",
+    "zh": "点状腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "best anode temperature",
+    "zh": "最佳阳极温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "betavoltaic conversion β",
+    "zh": "辐射电转换",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beveled carbon-fiber bundle microelectrode",
+    "zh": "斜削碳纤维束复合微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bi-electrode amperometric flow-through detector",
+    "zh": "双电极电流流通型检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bimetallic electrode method",
+    "zh": "双金属电极法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bimetallic electrodes",
+    "zh": "双金属电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "binary electrolyte",
+    "zh": "二元电解质：二元电解(溶)液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biocatalytic membrane electrode",
+    "zh": "生物催化膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biocatalyzing electrode",
+    "zh": "生物催化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bioelectrode",
+    "zh": "生物电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biological electrode",
+    "zh": "生物电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biological redox standard state",
+    "zh": "生物氧化还原标准状态",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biomembrane electrode",
+    "zh": "生物膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biomimic electrode",
+    "zh": "仿生传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bipolar electrode",
+    "zh": "双性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bismuth cesium photo cathode",
+    "zh": "铋-铯光电阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bridged impedance",
+    "zh": "桥接阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brine corrosion",
+    "zh": "盐水腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brine corrosion inhibitor",
+    "zh": "盐水腐蚀缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromide ion-selective electrode",
+    "zh": "溴离子选择性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "buffer battery",
+    "zh": "缓冲电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buffer for electrode calibration",
+    "zh": "电极校正用缓冲溶液；电极校准用缓冲液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulb-type glass electrode",
+    "zh": "球型玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "buret electrode",
+    "zh": "滴管电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "burner rig(=corrosion chamber)",
+    "zh": "燃烧试验装置；腐蚀室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "by-pass electrode",
+    "zh": "旁路电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cadmium ion selective electrode",
+    "zh": "镉离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "calcium iodate (=calcinol)",
+    "zh": "碘酸钙 Ca(IO ) calcium iodide 碘化钙 CaI calcium ion-selective electrode 钙离子选择电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "calomel electrode",
+    "zh": "甘汞电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calomel (normal) electrode",
+    "zh": "甘汞(标准)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calomel reference electrode",
+    "zh": "甘汞参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capacitance curve of electrode double layer",
+    "zh": "电极电双层电容曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capillary electrode",
+    "zh": "毛细管电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon battery",
+    "zh": "碳电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon dioxide electrode",
+    "zh": "二氧化碳电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon dioxide gas sensing electrode",
+    "zh": "二氧化碳气敏电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon electrode",
+    "zh": "碳电极；炭精电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon fiber micro-disk electrode",
+    "zh": "碳纤维微盘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon fiber microelectrode",
+    "zh": "碳纤维微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon-hydrogen electrode",
+    "zh": "碳氢电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon monoxide electrode",
+    "zh": "一氧化碳电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon paste electrode",
+    "zh": "碳糊电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cascade battery",
+    "zh": "阶式蒸浓装置;级联电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catelectrode",
+    "zh": "阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode",
+    "zh": "阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode box",
+    "zh": "阴极箱 cathode chamber (=cathode compartment; cathode",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode compartment (=cathode chamber)",
+    "zh": "阴极区；阴极室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode coupled D.C amplifier",
+    "zh": "阴极耦合直流放大器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode dark current",
+    "zh": "阴极暗电流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode density",
+    "zh": "阴极密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode department (=cathode chamber)",
+    "zh": "阴极区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode deposit",
+    "zh": "阴极淀积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode drainage",
+    "zh": "阴极漏电",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode drop",
+    "zh": "阴极电位降",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode excitation",
+    "zh": "阴极激发",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode fall",
+    "zh": "阴极势降",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode fluorescence",
+    "zh": "阴极荧光",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode fluorescence image",
+    "zh": "阴极荧光像",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode follower",
+    "zh": "阴极输出器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode glow",
+    "zh": "阴极辉光；阴极电辉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode layer arc method",
+    "zh": "阴极层弧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode layer enrichment",
+    "zh": "阴极层富集",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode layer enrichment method",
+    "zh": "阴极区富集法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode layer method",
+    "zh": "阴极层弧光法（用于金属分析）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode liquor",
+    "zh": "阴极电解液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode luminescence",
+    "zh": "阴极发光",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode material",
+    "zh": "阴极材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode particle",
+    "zh": "阴极粒子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode potential",
+    "zh": "阴极电势",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray",
+    "zh": "阴极射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray beam",
+    "zh": "阴极射线束",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray excited emission spectroscopic analysis",
+    "zh": "阴极射线激发发射光谱分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray oscillographic polarography",
+    "zh": "阴极射线示波极谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray oscilloscope",
+    "zh": "阴极射线示波器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray polarograph",
+    "zh": "阴极射线极谱仪*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray polarography",
+    "zh": "阴极射线极谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode ray tube",
+    "zh": "阴极射线管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode space",
+    "zh": "阴极区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode spot",
+    "zh": "阴极斑点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode sputtering",
+    "zh": "阴极溅射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode sputtering process",
+    "zh": "阴极溅射镀膜法：阴极溅射沉积法（真空镀膜法之一）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathode stripping voltammetry",
+    "zh": "阴极溶出伏安法",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "cathodically polarized platinum electrode",
+    "zh": "阴极极化铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathodic corrosion",
+    "zh": "阴极腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cathodic electrodeposition",
+    "zh": "阴极电沉积",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cathodic stripping voltammetry",
+    "zh": "阴极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation active high-molecular electrolyte",
+    "zh": "阳离子活性高分子电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation exchange electrode",
+    "zh": "阳离子交换电极 cationics (=cation surface active agent) 阳离子剂；阳离子表面活性剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation glass electrode",
+    "zh": "阳离子玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation-selective electrode",
+    "zh": "阳离子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cationic polyelectrolyte",
+    "zh": "阳离子型聚电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "caustic corrosion",
+    "zh": "碱腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cavitation corrosion",
+    "zh": "空化腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ceramic membrane electrode",
+    "zh": "陶瓷膜电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cerate redox method",
+    "zh": "铈酸盐氧化还原滴定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cesium electrode",
+    "zh": "铯电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chalcogenide glass electrode",
+    "zh": "硫属化物玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "characteristic impedance",
+    "zh": "特征阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charged electrode",
+    "zh": "带电电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "charging electrode",
+    "zh": "带电电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical corrosion",
+    "zh": "化学腐蚀*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemically modified carbon electrode",
+    "zh": "化学修饰碳电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically modified electrode",
+    "zh": "化学修饰电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically modified microelectrode",
+    "zh": "化学修饰微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically modified optically transparent electrode",
+    "zh": "化学修饰光透电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical modification electrode",
+    "zh": "化学修饰电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical reaction of caustic corrosion",
+    "zh": "碱腐蚀的化学反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemiluminescence-redox detector",
+    "zh": "化学发光-氧化还原检测器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chirality sensing electrode",
+    "zh": "对映异构体敏感电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chloranil electrode",
+    "zh": "氯醌电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "choline esterase electrode",
+    "zh": "胆碱酯酶电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chronovoltammetry",
+    "zh": "计时伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "circular electrode",
+    "zh": "盘状电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Clarke's internal electrolysis apparatus",
+    "zh": "克拉克内电解装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clark oxygen electrode",
+    "zh": "克拉克氧电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Classen's electrode",
+    "zh": "克拉森电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "classification of corrosion preventive",
+    "zh": "防蚀剂分类(等级)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "classification of ion selective electrodes",
+    "zh": "离子选择电极分类法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "clay membrane electrode",
+    "zh": "黏土膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed storage battery",
+    "zh": "密闭式蓄电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coated metallic electrode",
+    "zh": "涂层金属电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coated wire electrode",
+    "zh": "涂丝电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coated-wire ion-selective electrode",
+    "zh": "涂层离子选择性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coefficient of corrosion",
+    "zh": "腐蚀系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of corrosion inhibition",
+    "zh": "缓蚀系数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coelectrodeposition",
+    "zh": "共电沉积",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coke oven battery",
+    "zh": "焦炉群",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold cathode discharge",
+    "zh": "冷阴极放电",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold cathode glow tube",
+    "zh": "冷阴极辉光放电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold cathode ionization gauge",
+    "zh": "冷阴极电离真空规",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold cathode ion pump",
+    "zh": "冷阴极离子泵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold cathode ion source",
+    "zh": "冷阴极离子源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold cathode tube",
+    "zh": "冷阴极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collecting electrode",
+    "zh": "接收电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collector electrode",
+    "zh": "收集电极；捕集电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collodion membrane electrode",
+    "zh": "火棉胶膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colloidal electrolyte",
+    "zh": "胶体电解质*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combination electrode",
+    "zh": "复合电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "commercial and industrial zone atmospheric corrosion",
+    "zh": "工商业区大气腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complete polarizable electrode",
+    "zh": "完全可极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound electrode",
+    "zh": "组合电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentration corrosion cell",
+    "zh": "浓差腐蚀电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conductance electrode",
+    "zh": "电导电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conducting glass electrode",
+    "zh": "传导性玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant current electrolysis",
+    "zh": "恒电流电解法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact corrosion (=crevice corrosion)",
+    "zh": "接触腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact electrode process (for sodium)",
+    "zh": "密接电极(炼钠)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contacting electrode",
+    "zh": "接触电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous battery still",
+    "zh": "连续蒸馏锅组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous still battery",
+    "zh": "连续蒸馏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled current electrolysis",
+    "zh": "控制电流电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled potential electrolysis",
+    "zh": "控制电势电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled potential electrolysis apparatus",
+    "zh": "控制电位电",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "control of corrosion",
+    "zh": "腐蚀控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "convection electrode",
+    "zh": "对流电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convergence electrode",
+    "zh": "会聚电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conversion corrosion",
+    "zh": "转化型腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "convolution-integral linear sweep voltammetry",
+    "zh": "卷积积分线性扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convolution voltammetry",
+    "zh": "卷积伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper corrosion index",
+    "zh": "铜腐蚀指数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper corrosion-inhibited grease",
+    "zh": "防铜腐蚀润滑脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper corrosion test",
+    "zh": "铜板腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper ion selective electrode",
+    "zh": "铜离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "copper storage battery",
+    "zh": "铜蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corroding electrode",
+    "zh": "腐蚀电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosion",
+    "zh": "腐蚀；侵蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion accelerator",
+    "zh": "腐蚀加速剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion agent",
+    "zh": "腐蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion allowance",
+    "zh": "腐蚀余度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion at initial boiling point",
+    "zh": "初沸点腐蚀性（样品温度等于初沸点温度时对铜片的腐蚀性）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion behavior",
+    "zh": "腐蚀行为",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by common salt",
+    "zh": "食盐腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by gas",
+    "zh": "气体腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by non-freezing solution",
+    "zh": "不冻液腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by oxygen blowing",
+    "zh": "吹氧腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by restoration water",
+    "zh": "回收水腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by saturated dissolved hydrogen",
+    "zh": "吹氢腐蚀；饱和氢溶液腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion cell",
+    "zh": "腐蚀电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion chamber (=burner rig)",
+    "zh": "燃烧试验装置；腐蚀室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion contaminant",
+    "zh": "腐蚀污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion cracking",
+    "zh": "腐蚀龟裂；腐蚀断裂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion current",
+    "zh": "腐蚀电流*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion depth",
+    "zh": "腐蚀深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion due to welding",
+    "zh": "焊接腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion during distillation",
+    "zh": "蒸馏时(铜片上)的腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion embrittlement",
+    "zh": "腐蚀脆变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion environment",
+    "zh": "腐蚀环境",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion fatigue",
+    "zh": "腐蚀疲劳",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion fatigue limit",
+    "zh": "腐蚀疲劳极限",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion fatigue test method",
+    "zh": "腐蚀疲劳试验法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion figure",
+    "zh": "蚀图；蚀像",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion film",
+    "zh": "腐蚀膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion form",
+    "zh": "腐蚀形(状)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion gas",
+    "zh": "腐蚀性气体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion gauge",
+    "zh": "腐蚀计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion ga(u)ge point",
+    "zh": "腐蚀检测点；腐蚀测定点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion index",
+    "zh": "腐蚀指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibited fuel",
+    "zh": "防腐蚀燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting",
+    "zh": "耐腐蚀的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting coating",
+    "zh": "防腐蚀涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting film",
+    "zh": "腐蚀抑制膜；缓蚀膜；防腐蚀膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-inhibiting layer",
+    "zh": "缓蚀层；腐蚀抑制层；防锈层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibition",
+    "zh": "腐蚀抑制(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibitive function",
+    "zh": "腐蚀抑制功能；缓蚀功能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibitive pigment",
+    "zh": "腐蚀抑制性颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibitor",
+    "zh": "缓蚀剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion loss",
+    "zh": "腐蚀损耗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion monitoring",
+    "zh": "腐蚀监测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-oxidation attack",
+    "zh": "腐蚀氧化侵蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion pacifier",
+    "zh": "缓蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion penetration",
+    "zh": "腐蚀深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion pit",
+    "zh": "腐蚀斑点；侵蚀点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion plate target",
+    "zh": "腐蚀板极(阳极)靶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion potential",
+    "zh": "腐蚀电势*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion prevention",
+    "zh": "腐蚀防护",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion preventive",
+    "zh": "防腐蚀;防腐剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion preventive compound",
+    "zh": "防腐化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-prone",
+    "zh": "易于腐蚀的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-proof",
+    "zh": "耐腐蚀的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion protection",
+    "zh": "防腐*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion protection value",
+    "zh": "防腐蚀值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate",
+    "zh": "腐蚀速率;腐蚀率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate numbering",
+    "zh": "腐蚀速率计数系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate-ocean current diagram",
+    "zh": "海水流速-腐蚀速度图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion rate of zinc",
+    "zh": "锌腐蚀率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion remover",
+    "zh": "防腐剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resistance",
+    "zh": "抗蚀性；耐蚀型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resistance measurement",
+    "zh": "耐腐蚀性测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resistant (=corrosion resisting)",
+    "zh": "耐腐蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resistant coating",
+    "zh": "耐腐蚀涂料；防腐蚀涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-resistant finishes",
+    "zh": "耐腐蚀漆;耐腐蚀涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-resistant water-reducible alkyd coatings",
+    "zh": "水稀释性醇酸耐(防)腐蚀涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resisting (=corrosion resistant)",
+    "zh": "耐腐蚀的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resisting alloy",
+    "zh": "抗腐蚀合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resisting steel",
+    "zh": "抗腐蚀钢；耐蚀钢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion resistivity",
+    "zh": "耐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion spool",
+    "zh": "腐蚀试片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion stability",
+    "zh": "耐腐蚀性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion strength",
+    "zh": "腐蚀强度；腐蚀力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion system",
+    "zh": "腐蚀体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion-tank finishing process (",
+    "zh": "酸)浸蚀工艺(碱式碳酸铅的生产工艺)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion target",
+    "zh": "腐蚀电极；腐蚀阳极靶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion test",
+    "zh": "腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion test for oils",
+    "zh": "油类腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion testing of lubricating oils",
+    "zh": "润滑油腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion type",
+    "zh": "腐蚀类型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion weight loss",
+    "zh": "腐蚀减重",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic attraction",
+    "zh": "库仑引力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic barrier energy",
+    "zh": "库仑能障",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic energy",
+    "zh": "库仑能*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic force",
+    "zh": "库仑引力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic interaction",
+    "zh": "电荷相互作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulombic repulsion",
+    "zh": "库仑斥力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter electrode",
+    "zh": "对电极；反电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coupled oxidation-reduction",
+    "zh": "偶合氧化还原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep corrosion",
+    "zh": "裂隙腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crevice corrosion",
+    "zh": "裂隙腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crevice corrosion speed",
+    "zh": "缝隙腐蚀速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude battery",
+    "zh": "原油(蒸馏)装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystal face corrosion speed ratio",
+    "zh": "晶面腐蚀速度比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalline electrode",
+    "zh": "晶体电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal membrane electrode (",
+    "zh": "单)晶膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cultured cell electrode array",
+    "zh": "培养细胞电极阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Curie-Weiss law",
+    "zh": "居里-韦斯定律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "current-sampled voltammetry",
+    "zh": "电流取样伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "current-scan voltammetry",
+    "zh": "电流扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyanide selective electrode",
+    "zh": "氰离子选择电极；氰根选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic AC voltammetry",
+    "zh": "循环交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic alternating current voltammetry",
+    "zh": "循环交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic potential-sweep voltammetry",
+    "zh": "循环电位扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic staircase voltammetry",
+    "zh": "循环阶梯伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic stationary electrode voltammetry",
+    "zh": "循环静止电极伏安法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cyclic triangular wave voltammetry",
+    "zh": "循环三角波伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic voltammetry",
+    "zh": "循环伏安法*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "Daly electrode",
+    "zh": "戴里电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Daniell battery",
+    "zh": "丹尼耳电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Debye-Hückel theory of strong electrolyte",
+    "zh": "德拜-休克尔强电解质理论*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Debye-Onsager theory of electrolytic conductance",
+    "zh": "德拜-昂萨格电导理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deep penetration electrode",
+    "zh": "深熔焊条",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deflection electrode",
+    "zh": "偏转电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "degree of electrolytic dissociation",
+    "zh": "电离度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deisobutanizer",
+    "zh": "脱异丁烷塔",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deisopropyl dehydroabietate",
+    "zh": "脱异丙基脱氢枞酸盐(或酯)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demountable hollow cathode lamp",
+    "zh": "可拆卸空心阴极灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depolarized electrode",
+    "zh": "去极化电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deposit corrosion",
+    "zh": "沉积腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "depth of corrosion",
+    "zh": "腐蚀深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "derivative anodic stripping voltammetry",
+    "zh": "导数阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "derivative pulse anodic stripping voltammetry",
+    "zh": "导数脉冲阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "detector electrode",
+    "zh": "检测器电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dew corrosion",
+    "zh": "露点腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dew cycle corrosion tester",
+    "zh": "露点循环腐蚀试验机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dew point corrosion test",
+    "zh": "露点腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential anodic stripping voltammetry",
+    "zh": "微分阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential electrolytic potentiometry",
+    "zh": "微分电解电位法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential pulse anodic stripping voltammetry",
+    "zh": "差示脉冲阳极提溶伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential pulse voltammetry",
+    "zh": "示差脉冲伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential voltammetry",
+    "zh": "微分伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffusion battery",
+    "zh": "浸提器组;扩散池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diffusion cell electrolytic hygrometer",
+    "zh": "扩散池电解湿度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffusion electrode",
+    "zh": "扩散电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimensionally stable anode(DSA)",
+    "zh": "尺寸稳定阳极：形稳阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dinitro hydroxyazo",
+    "zh": "二硝基羟偶氮 2,4-dinitro-Meisenheimer complexes 2,4-二硝基-迈森海默配合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipped electrode method",
+    "zh": "浸渍电极法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dipping electrode",
+    "zh": "浸液电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dipping platinum microelectrode",
+    "zh": "浸入式铂微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct anodic stripping voltammetry",
+    "zh": "直接阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "disk electrode",
+    "zh": "圆盘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "disk-ring electrode",
+    "zh": "盘环电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distilled water corrosion",
+    "zh": "蒸馏水腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double battery switch",
+    "zh": "双电池开关",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double chamber electrode",
+    "zh": "双腔电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double electrode layer",
+    "zh": "双电层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double high input impedance amplifier",
+    "zh": "双高输入阻抗放大器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double high input impedance ion meter",
+    "zh": "双高输入阻抗离子计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double junction reference electrode",
+    "zh": "双液接参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double-skeleton catalyst electrode",
+    "zh": "双骨架催化电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drop electrode",
+    "zh": "滴(液)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dropping amalgam electrode",
+    "zh": "滴汞齐电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dropping electrode",
+    "zh": "滴液电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dropping mercury cathode",
+    "zh": "滴汞阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dropping mercury electrode(DME)",
+    "zh": "滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dropping pipet type electrode",
+    "zh": "滴管型电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry atmospheric corrosion",
+    "zh": "干大气腐蚀；干腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry battery",
+    "zh": "干电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry cell battery",
+    "zh": "干电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry corrosion",
+    "zh": "干腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drying battery",
+    "zh": "干电池；化学干燥器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dust collecting electrode",
+    "zh": "集尘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dust corrosion experiment",
+    "zh": "尘埃腐蚀实验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "earthed electrode",
+    "zh": "接地电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Edison storage battery(=iron nickel accumulator)",
+    "zh": "爱迪生 effect ;效应；效；效果;结果;影响",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effusive electrode",
+    "zh": "喷汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrical impedance",
+    "zh": "阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric battery",
+    "zh": "电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical corrosion",
+    "zh": "电化学腐蚀*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical force of corrosion",
+    "zh": "腐蚀的电化学力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrocorrosion",
+    "zh": "电腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrode",
+    "zh": "电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode array",
+    "zh": "电极阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodecantation",
+    "zh": "电倾析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode capacity",
+    "zh": "电极电容*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode carbon",
+    "zh": "电极炭",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode chamber",
+    "zh": "电极室；电极腔体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode concentration cell",
+    "zh": "电极浓差电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodecontamination",
+    "zh": "电去污；电净化electrode deposit 电极沉积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode function potential",
+    "zh": "功能电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode gap",
+    "zh": "电极隙；电极间距",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode holder",
+    "zh": "电极(固定)架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode impedance",
+    "zh": "电极阻抗",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electrode interfacial phenomenon",
+    "zh": "电极界面现象",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode interference",
+    "zh": "电极干扰",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode kinetics",
+    "zh": "电极(过程)动力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless",
+    "zh": "无电极的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless discharge",
+    "zh": "无极放电",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless discharge detector",
+    "zh": "无(电)极放电检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless discharge lamp",
+    "zh": "无极放电灯*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless discharge tube",
+    "zh": "无极放电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeless heating",
+    "zh": "无极加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode of first kind",
+    "zh": "第一类电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode of second kind",
+    "zh": "第二类电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode of third kind",
+    "zh": "第三类电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode of zeroth kind",
+    "zh": "第零类电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode pair",
+    "zh": "电极对",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode polarization",
+    "zh": "电极极化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposit",
+    "zh": "电解淀积；电镀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposited cadmium coating",
+    "zh": "电沉积镉涂层；电镀镉膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposited chromium",
+    "zh": "电沉积铬；电镀铬",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposited coating(=electrophoretic coating)",
+    "zh": "电沉积涂覆法；电泳涂覆法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposited paint film",
+    "zh": "电沉积漆膜；电泳漆膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodeposition",
+    "zh": "电沉积*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electrodeposition coating",
+    "zh": "电泳涂料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electrode potential",
+    "zh": "电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode potential under electrolysis",
+    "zh": "电解(电极)电位",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electrode probe",
+    "zh": "电极探测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode process",
+    "zh": "电极过程*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode reaction",
+    "zh": "电极反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodesalting",
+    "zh": "电气脱盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode stand",
+    "zh": "电极架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode stem",
+    "zh": "电极杆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode storage",
+    "zh": "电极保存",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode surface",
+    "zh": "电极表面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodetarrer",
+    "zh": "焦油静电沉降器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode time constant",
+    "zh": "电极时间常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode vessel",
+    "zh": "电极室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode voltage",
+    "zh": "电极电压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolysis",
+    "zh": "电解*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis at constant current",
+    "zh": "恒电流电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis at controlled current",
+    "zh": "控制电流电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis at controlled potential",
+    "zh": "控制电位电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis bath",
+    "zh": "电解槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis humidity sensor",
+    "zh": "电解法湿度传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis in fused salt",
+    "zh": "熔盐电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis in molten salt",
+    "zh": "熔盐电解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis polymerization",
+    "zh": "电解(引发)聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolysis vessel",
+    "zh": "电解瓶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolyte",
+    "zh": "电解质;电解(溶)液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte conductivity detector",
+    "zh": "电解质电导检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte hydrometer",
+    "zh": "电液比重计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte impedance humidity sensor",
+    "zh": "电解质阻抗湿度传感器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electrolyte number",
+    "zh": "电解质值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte solution",
+    "zh": "电解质溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte strength",
+    "zh": "电解质强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolyte transition range",
+    "zh": "电解质转变范围",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic",
+    "zh": "电解的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic agent",
+    "zh": "电解剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytical(=electrolytic)",
+    "zh": "电解的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic analysis",
+    "zh": "电解分析(法)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic anodising process",
+    "zh": "电解阳极氧化法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic apparatus",
+    "zh": "电解仪器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic assay",
+    "zh": "电解检验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic bath",
+    "zh": "电解槽",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic bleaching",
+    "zh": "电解漂白",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic caustic regeneration",
+    "zh": "苛性钠电解再生法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic caustic soda",
+    "zh": "电解苛性钠；电解氢氧化钠",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic cell",
+    "zh": "电解池*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic chlorine",
+    "zh": "电解氯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic chromatography",
+    "zh": "电解色谱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic cleaning",
+    "zh": "电解净化",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic common salt process",
+    "zh": "电解食盐法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic conductance cell",
+    "zh": "电解(质)电导电池;电解(质)电导管",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic conduction",
+    "zh": "电解导电",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic conductivity",
+    "zh": "电解(质)电导率;电解质导电性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic conductor",
+    "zh": "电解导电体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic corrosion",
+    "zh": "电解腐蚀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic corrosion test",
+    "zh": "电腐蚀试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic coupling",
+    "zh": "电解偶合(工艺)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic current",
+    "zh": "电解电流",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic degreasing",
+    "zh": "电解脱脂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic deposition",
+    "zh": "电解沉积",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic dimerization",
+    "zh": "电解二聚化(反应)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic dissociation",
+    "zh": "电离(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic dissociation constant",
+    "zh": "电离常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic dissociation equilibrium",
+    "zh": "电离平衡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic double layer",
+    "zh": "双电层",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic equilibrium",
+    "zh": "电解平衡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic etching",
+    "zh": "电解浸蚀",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic etching technique",
+    "zh": "电解浸蚀技术（可用于制金属长丝）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic furnace",
+    "zh": "电解炉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic gas",
+    "zh": "电解气；爆鸣气",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic gravimetry",
+    "zh": "电解重量分析(法)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic grinding",
+    "zh": "电解磨削",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic hydrodimerization",
+    "zh": "电解加氢二聚化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic hygrometer",
+    "zh": "电解湿度计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic industry",
+    "zh": "电解工业",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic initiation",
+    "zh": "电解引发",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic ion (",
+    "zh": "电解)离子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic ionization",
+    "zh": "电解电离",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic labeling",
+    "zh": "电解标记",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic method",
+    "zh": "电解法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic moisture analyzer",
+    "zh": "电解(法)水分测定仪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic nebulizer",
+    "zh": "电解雾化器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic oxidation",
+    "zh": "电解氧化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic pickling",
+    "zh": "电解酸洗",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic polarization",
+    "zh": "电解极化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic polishing",
+    "zh": "电解抛光",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic polymerization",
+    "zh": "电解聚合*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic potential",
+    "zh": "电解势",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic preparation",
+    "zh": "电解制备",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic process",
+    "zh": "电解法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic reaction",
+    "zh": "电解反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic rectifier",
+    "zh": "电解整流器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic reduction",
+    "zh": "电解还原",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic refining",
+    "zh": "电解精炼",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic regeneration",
+    "zh": "电解再生",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic scrubbing",
+    "zh": "电解洗涤",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic separation",
+    "zh": "电解分离",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic separation factor",
+    "zh": "电解分离因子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic soda process",
+    "zh": "电解制碱法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic synthesis",
+    "zh": "电解合成",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic tension",
+    "zh": "电解压；电解溶液张力",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic tin plate",
+    "zh": "电镀锡薄板；电镀马口铁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic titration",
+    "zh": "电势滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic transport",
+    "zh": "电解迁移法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic voltage",
+    "zh": "电解(槽)电压",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic water",
+    "zh": "电解水",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic water analyzer",
+    "zh": "水分电解分析器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic white lead",
+    "zh": "电解铝白",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electrolytic winning",
+    "zh": "电解提取；电解冶金法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron number of electrode reaction",
+    "zh": "电极反应的电子数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrophoretic coating(=electrodeposited coating)",
+    "zh": "电沉积涂覆法；电泳涂覆法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electroplating",
+    "zh": "电镀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electroplating bath",
+    "zh": "电镀浴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electroplating technology",
+    "zh": "电镀工艺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electroplating template",
+    "zh": "电镀模板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emission cathodes",
+    "zh": "发射阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emitting electrode",
+    "zh": "发射电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enhanced corrosion resistance",
+    "zh": "增强的耐腐蚀性；强化耐腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "environmental corrosion (",
+    "zh": "周围介质)接触腐蚀; 环境腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme electrode",
+    "zh": "酶电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme substrate electrode",
+    "zh": "酶底物电极；酶电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "equilibrium electrode potential",
+    "zh": "平衡电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "erosion-corrosion",
+    "zh": "侵蚀腐蚀；磨(损腐)蚀；溃蚀;冲击(刷)腐蚀;紊流；腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exfoliation corrosion",
+    "zh": "片状剥落腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "existent corrosion",
+    "zh": "原在腐蚀（油品中固有的物质造成的腐蚀）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosion seismology",
+    "zh": "爆炸地震学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extent of corrosion",
+    "zh": "腐蚀程度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "external reference electrode",
+    "zh": "外参考电极；外参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extraction battery",
+    "zh": "抽提器组；萃取组",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extractive electrode",
+    "zh": "萃取电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "faraday",
+    "zh": "法拉第（电量单位）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday balance",
+    "zh": "法拉第天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday cage",
+    "zh": "法拉第筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday cage effect",
+    "zh": "法拉第笼蔽效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday caging",
+    "zh": "法拉第笼蔽效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday constant",
+    "zh": "法拉第常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday cup",
+    "zh": "法拉第杯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday cup detector",
+    "zh": "法拉第杯检测器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday cylinder",
+    "zh": "法拉第筒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday dark space",
+    "zh": "法拉第暗区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday effect",
+    "zh": "法拉第效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday impedance",
+    "zh": "法拉第阻抗",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "Faraday rectification",
+    "zh": "法拉第整流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday rotation",
+    "zh": "法拉第旋转",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Faraday's law",
+    "zh": "法拉第定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast linear sweep voltammetry",
+    "zh": "快速线性扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fatigue corrosion crack",
+    "zh": "疲劳腐蚀开裂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferriferrous gneiss",
+    "zh": "铁质片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "filament battery",
+    "zh": "灯丝电池；灯丝蓄电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filiform corrosion",
+    "zh": "丝状锈蚀；起红丝（俗）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filiform corrosion resistance",
+    "zh": "耐丝状锈蚀；耐红丝腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "first kind oxidation-reduction electrode",
+    "zh": "第一类氧化还原电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Fleischman brew buffer",
+    "zh": "弗雷斯克曼发酵液缓冲剂(面团改良剂)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "floating gate electrode",
+    "zh": "浮置控制极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow electrolysis and thin layer method",
+    "zh": "流动电解和薄层技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flowing mercury electrode",
+    "zh": "流汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow thru electrode",
+    "zh": "流通电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid core electrolytic cable",
+    "zh": "液体芯线电缆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluoride ion selective electrode",
+    "zh": "氟离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "fluorine ion-selective electrode",
+    "zh": "氟离子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluoroborate ion selective electrode",
+    "zh": "氟硼酸根离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "focusing electrode",
+    "zh": "聚焦电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Fourier transform AC voltammetry",
+    "zh": "傅里叶变换交流伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fraueneis",
+    "zh": "透明石膏 CaSO₄·2H₂O",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free corrosion potential",
+    "zh": "自然腐蚀电位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion",
+    "zh": "摩擦磨蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion mechanism",
+    "zh": "摩擦腐蚀机理；磨蚀机理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fretting corrosion preventive",
+    "zh": "摩擦腐蚀防止法；磨蚀防止法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel ash corrosion",
+    "zh": "燃料灰腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel battery",
+    "zh": "燃料电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel cell",
+    "zh": "燃料电池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuel cell bottom",
+    "zh": "燃料电池底",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuel cell detector",
+    "zh": "燃料电池检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuel corrosion",
+    "zh": "燃料腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "functional electrode",
+    "zh": "功能电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fused electrolytic cell",
+    "zh": "熔质电池",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fused salt electrolysis process",
+    "zh": "熔盐电解法（复合多晶纤维成形法之一）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusion electrolysis",
+    "zh": "熔(融)盐电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galvanic",
+    "zh": "电流的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic action",
+    "zh": "动电(化学)作用；电池作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic anode",
+    "zh": "自发阳极；流电阳极；动电阳板；牺牲阳极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "galvanic battery",
+    "zh": "蓄电池组；原电池组",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "galvanic cell",
+    "zh": "伽伐尼电池；原电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic corrosion",
+    "zh": "原电池腐蚀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "galvanic current",
+    "zh": "动电电流；直流电流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic deposit",
+    "zh": "电沉积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic effect",
+    "zh": "电化(学)效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic electricity",
+    "zh": "动电；流电",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Galvanic electric potential difference",
+    "zh": "伽伐尼电位差；绝对电位差",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic element (",
+    "zh": "原)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic pile(=voltaic pile)",
+    "zh": "电堆",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "galvanic polarization",
+    "zh": "电极极化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic potential",
+    "zh": "伽伐尼电位；电转电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic protection",
+    "zh": "防原电池腐蚀；防电流腐蚀;阴极保护",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic series",
+    "zh": "电势序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic series in sea water",
+    "zh": "海水中腐蚀电位序表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvano-voltammeter(=voltammeter)",
+    "zh": "伏安计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gas battery",
+    "zh": "气体电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas corrosion",
+    "zh": "气体腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas diffusion electrode",
+    "zh": "气体扩散电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas electrode",
+    "zh": "气体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gaseous corrosion",
+    "zh": "气相腐蚀；气体腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas flow impedance detector",
+    "zh": "气流阻抗检测器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline corrosion",
+    "zh": "汽油腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline corrosion test cup",
+    "zh": "汽油试蚀杯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas sensing electrode",
+    "zh": "气敏电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gauze platinum electrode",
+    "zh": "铂网电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Geissler pycnometer",
+    "zh": "盖斯勒比重瓶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Geissler tube",
+    "zh": "盖斯勒管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "geissoschizoline(=pereirine)",
+    "zh": "缝籽木早灵；缝籽碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "geissospermine",
+    "zh": "缝籽碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "general corrosion",
+    "zh": "均匀腐蚀; 全面腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "generating electrode",
+    "zh": "发生电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "generator electrode",
+    "zh": "发生电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gengshengmeisu",
+    "zh": "更生霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass electrode",
+    "zh": "玻璃电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass-indicating electrode",
+    "zh": "玻璃指示电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane electrode",
+    "zh": "玻璃膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane ion-selective electrode",
+    "zh": "玻璃膜离子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass microelectrode",
+    "zh": "微型玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glassy carbon electrode",
+    "zh": "玻(璃)碳电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gneiss",
+    "zh": "片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold electrode",
+    "zh": "金电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gneiss-granite",
+    "zh": "片麻花岗岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gneissic structure",
+    "zh": "片麻结构（岩）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gneissose granite",
+    "zh": "片麻花岗岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "graphite anode",
+    "zh": "石墨阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graphite corrosion",
+    "zh": "石墨腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graphite cup electrode",
+    "zh": "石墨杯电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graphite electrode",
+    "zh": "石墨电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graphitized electrode",
+    "zh": "石墨敷面电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gravity stamp battery",
+    "zh": "捣磨机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gray corrosion",
+    "zh": "灰色斑点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "greisen",
+    "zh": "云英岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grid battery",
+    "zh": "栅极电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grid electrode",
+    "zh": "栅(形电)极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "groove corrosion",
+    "zh": "槽腐蚀; 焊接部位腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "guanghuimeisu",
+    "zh": "光辉霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "halide ion electrode",
+    "zh": "卤离子电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hanging mercury electrode",
+    "zh": "悬汞电极；滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hanging mercury drop electrode",
+    "zh": "悬汞电极 ；滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "head stage of microelectrode amplifier",
+    "zh": "微电极放大器前级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heating electrode welding",
+    "zh": "加热电极焊接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heavy coated electrode",
+    "zh": "厚涂层电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heavy corrosion",
+    "zh": "重腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy duty “B” battery",
+    "zh": "大容量乙电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy-duty corrosion inhibiting",
+    "zh": "重防蚀(涂装)的；高效防蚀(涂装)的；重役阻蚀的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Heisenberg representation",
+    "zh": "海森堡表象",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Heisenberg-Slater function",
+    "zh": "海森堡-斯莱特函数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Heisenberg uncertainty principle",
+    "zh": "海森堡测不准原理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Heisenberg uncertainty relation",
+    "zh": "海森堡测不准关系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heterogeneous electrode",
+    "zh": "非均相电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous membrane electrode",
+    "zh": "非均相膜电极；多相晶膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexoseisomerase",
+    "zh": "己糖异构酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high activity electrode",
+    "zh": "高活性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high electrolyte",
+    "zh": "强(性)电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high energy battery",
+    "zh": "高能电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high input impedance",
+    "zh": "高输入阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high intensity hollow cathode lamp",
+    "zh": "高亮度空心阴极灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high iron oxide type electrode",
+    "zh": "氧化铁型焊条",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high overpotential electrode",
+    "zh": "高过电位电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high polymeric polyelectrolyte",
+    "zh": "高聚物电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature corrosion",
+    "zh": "高温腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature electrode",
+    "zh": "高温电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high titania type electrode",
+    "zh": "氧化钛型焊条",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high voltage electrode",
+    "zh": "高压电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hofmeister series (=lyotropic series)",
+    "zh": "感胶离子序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hollow cathode",
+    "zh": "空心阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode atomizer",
+    "zh": "空心阴极原子化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode discharge",
+    "zh": "空心阴极放电",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode discharge emission spectroscopic analysis",
+    "zh": "空心阴极放电发射光谱分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode discharge lamp",
+    "zh": "空心阴极灯；空心阴极放电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode discharge spectroscopic analysis",
+    "zh": "空心阴极放电光谱分析*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode discharge tube (HCDT)",
+    "zh": "空心阴极放电管；空心阴极灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode duoplasmatron",
+    "zh": "空心阴极双等离子体源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode lamp",
+    "zh": "空心阴极灯*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow cathode plume",
+    "zh": "空心阴极羽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous electrode",
+    "zh": "均相电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous membrane electrode",
+    "zh": "均相膜电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cathode",
+    "zh": "热阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cathode hydrogen discharge tube",
+    "zh": "热阴极氢放电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cathode ionization gauge",
+    "zh": "热阴极电离规",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cathode low-pressure mercury lamp",
+    "zh": "热阴极低压汞灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cathode X-ray tube",
+    "zh": "热阴极X射线管；热阴极电子管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot work in the battery",
+    "zh": "电池组中的热功",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrodynamic voltammetry",
+    "zh": "流体动力学伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogen electrode",
+    "zh": "氢电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogen ion selective electrode",
+    "zh": "氢离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "hydrogen-oxygen fuel cell",
+    "zh": "氢氧燃料电池*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrophilic gas electrode",
+    "zh": "亲水气体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophobic gas electrode",
+    "zh": "疏水气体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophobic polyelectrolyte",
+    "zh": "疏水性聚合电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ICPP electrolytic dissolver",
+    "zh": "爱达荷化学处理工厂电解溶解器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ideal nonpolarized electrode",
+    "zh": "理想的非极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ideal polarized electrode",
+    "zh": "理想极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "immersion battery",
+    "zh": "浸液电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immersion electrode",
+    "zh": "浸液电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "immunity electrode",
+    "zh": "免疫电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impedance",
+    "zh": "阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impedance bridge",
+    "zh": "阻抗电桥",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impedance-coupled amplifier",
+    "zh": "阻抗耦合放大器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impedance method",
+    "zh": "阻抗法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impinging corrosion",
+    "zh": "冲击腐蚀；水锤腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indicating electrode",
+    "zh": "指示电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indicator electrode",
+    "zh": "指示电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indifferent electrode",
+    "zh": "惰性电极；参比电极；参考电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indifferent electrolyte(=supporting electrolyte)",
+    "zh": "支持电解质；惰性电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "industrial atmospheric corrosion",
+    "zh": "工业大气腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inert anode",
+    "zh": "不溶性阳极（惰性阳极）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inert electrode",
+    "zh": "惰性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inert electrolyte",
+    "zh": "支持电解质；惰性电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner granular stress corrosion crack",
+    "zh": "穿晶应力腐蚀开裂：晶内应力腐蚀开裂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inner reference electrode",
+    "zh": "内参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "input impedance",
+    "zh": "输入阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inside corrosion",
+    "zh": "内表面腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in situ electrolysis",
+    "zh": "原位电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "instrument for hollow cathode discharge spectroscopic analysis",
+    "zh": "空心阴极放电光谱分析装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "integral voltammetry",
+    "zh": "积分伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inter-crystalline corrosion",
+    "zh": "晶间腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interelectrode distance",
+    "zh": "电极间距",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intergranular corrosion",
+    "zh": "晶间腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intergranular corrosion test solution",
+    "zh": "晶间腐蚀试验液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermodulation voltammetry",
+    "zh": "互调伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal electrolysis",
+    "zh": "内电解法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal filling solution of sensing electrode",
+    "zh": "敏感电极的内充溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal redox indicator",
+    "zh": "液内氧(化)还(原)指示剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal reference electrode",
+    "zh": "内参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal stress due to electroplating",
+    "zh": "电镀内应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intrinsic corrosion resistance",
+    "zh": "固有的耐腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inverse voltammetry",
+    "zh": "逆向伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inversion voltammetry",
+    "zh": "逆向伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iodide ion selective electrode",
+    "zh": "碘离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "iodosylbenzene electrode",
+    "zh": "亚碘酰苯电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iodyl-benezene electrode",
+    "zh": "碘酰苯电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion activity electrode",
+    "zh": "离子活性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion collector electrode",
+    "zh": "离子接收器电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange electrode",
+    "zh": "离子交换电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange membrane electrode",
+    "zh": "离子交换膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange resin electrode",
+    "zh": "离子交换树脂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange resin membrane electrode",
+    "zh": "离子交换树脂膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionising electrode",
+    "zh": "电离(化)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionizing electrode",
+    "zh": "电离(化)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionogen(=potential electrolyte)",
+    "zh": "势电解质*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion selective disc electrode",
+    "zh": "离子选择圆盘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion selective electrode",
+    "zh": "离子选择(性)电极*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "ion selective electrode analysis",
+    "zh": "离子选择(性)电极分析",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "ion selective electrode detector",
+    "zh": "离子选择电极检测器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "ion selective microelectrode",
+    "zh": "离子选择微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion selective semicoelectrode",
+    "zh": "离子选择半导电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion selective semiconducting electrode",
+    "zh": "离子选择性半导电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion specific electrode",
+    "zh": "离子选择性(特效性)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron bacteria corrosion",
+    "zh": "铁菌腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron-nickel accumulator(=Edison storage battery; iron-nickel storage battery)",
+    "zh": "铁镍蓄电池；爱迪生蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron-nickel storage battery(=iron-nickel accumulator)",
+    "zh": "铁镍蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron storage battery",
+    "zh": "铁极蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irreversible electrode",
+    "zh": "不可逆电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irreversible electrode reaction",
+    "zh": "不可逆电极反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isolated electrode(=retarded electrode)",
+    "zh": "隔离电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "jet electrode",
+    "zh": "流汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kathode(=cathode)",
+    "zh": "阴极；负极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kinetics of electrode process",
+    "zh": "电极过程动力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "knife line corrosion",
+    "zh": "刀蚀；线状腐蚀；划线腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "knock off electrode",
+    "zh": "敲落电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "knotty gneiss",
+    "zh": "瘤状片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Kreis test",
+    "zh": "克赖斯三碳不饱和醛试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laboratory corrosion test",
+    "zh": "实验室腐蚀试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lanthanum fluoride electrode",
+    "zh": "氟化镧电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laser optogalvanic spectroscopy",
+    "zh": "激光光电流光谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lateral electrode",
+    "zh": "侧电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead battery",
+    "zh": "铅蓄电池(组)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead electrode",
+    "zh": "铅电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "leading electrolyte",
+    "zh": "先行电解质；前导电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead ion selective electrode",
+    "zh": "铅离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "lead storage battery",
+    "zh": "铅蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead-zinc accumulator(=lead-zinc storage battery)",
+    "zh": "铅锌蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead-zinc storage battery(=lead-zinc accumulator)",
+    "zh": "铅锌蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leaf gneiss",
+    "zh": "片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "light corrosion",
+    "zh": "轻度腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limited cathode potential electrolysis",
+    "zh": "控制阴极电位电解",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "limited cathode potential method",
+    "zh": "阴极限压法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "limiting electrode potential",
+    "zh": "极限电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear potential sweep voltammetry",
+    "zh": "线性电位扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear sweep anodic stripping voltammetry",
+    "zh": "线性扫描阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear sweep differential pulse voltammetry(LSDPV)",
+    "zh": "线性扫描微分脉冲伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear sweep voltammetry",
+    "zh": "线性扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Lippmann electrode",
+    "zh": "李普曼毛细管电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid anion exchange electrode",
+    "zh": "液体阴离子交换电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid corrosion",
+    "zh": "液蚀(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid cation exchange electrode",
+    "zh": "液体阳离子交换电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid ion exchange electrode",
+    "zh": "液体离子交换电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid ion exchange membrane electrode",
+    "zh": "液体离子交换膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid membrane electrode",
+    "zh": "液膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid membrane pH electrode",
+    "zh": "液膜 pH 电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "local cell corrosion",
+    "zh": "局部电池腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local corrosion",
+    "zh": "局部腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "long-term corrosion",
+    "zh": "长期腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low energy ion scattering(LEIS)",
+    "zh": "低能离子散射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low hydrogen type electrode",
+    "zh": "低氢型焊条",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low overpotential electrode",
+    "zh": "低过电位电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "MacCaull corrosion tester",
+    "zh": "麦考尔腐蚀试验器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetoelectrolysis",
+    "zh": "磁电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "main anode",
+    "zh": "主阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "main electrode",
+    "zh": "主电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "marine corrosion",
+    "zh": "海洋腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "marine corrosion rate",
+    "zh": "海洋腐蚀速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix ion-selective electrode",
+    "zh": "基体离子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "measure electrode",
+    "zh": "测量电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanical impedance",
+    "zh": "力(学)阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanically chargeable zinc-air battery",
+    "zh": "机械再充式锌-空气电池(组)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanism of corrosion",
+    "zh": "腐蚀机理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "median-energy ion scattering(MEIS)",
+    "zh": "中能离子散射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "medium term corrosion prevention",
+    "zh": "中效防锈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Meisenheimer complex",
+    "zh": "迈森海默配合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "meisoindigotin",
+    "zh": "甲异靛（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "membrane electrode",
+    "zh": "膜电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury cathode cell",
+    "zh": "汞阴极电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury cathode electrolysis",
+    "zh": "汞阴极电解法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "mercury cathode separation",
+    "zh": "汞阴极分离法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury drop electrode",
+    "zh": "滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury drop microelectrode",
+    "zh": "汞滴微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury electrode",
+    "zh": "汞电极；水银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury film electrode",
+    "zh": "汞膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury jet electrode",
+    "zh": "汞流电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury mercaptide",
+    "zh": "硫醇汞 Hg(SR) ;（专指）乙硫醇汞 Hg(SC H ) mercury-mercurous chloride electrode 汞-甘汞电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mercury plated graphite electrode",
+    "zh": "镀汞石墨电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury pool cathode",
+    "zh": "汞池阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury pool electrode",
+    "zh": "汞池电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mesh cathode",
+    "zh": "网状阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metagneiss",
+    "zh": "变片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "metal-air battery",
+    "zh": "金属-空气电池(组)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal corrosion inhibitor",
+    "zh": "金属腐蚀抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal electrode",
+    "zh": "金属电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallic electrode",
+    "zh": "金属电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal membrane electrode",
+    "zh": "金属膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal oxide electrode",
+    "zh": "金属氧化物电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "method of chamber electrode",
+    "zh": "室电极法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-battery",
+    "zh": "微电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbe electrode sensor",
+    "zh": "微生物电极传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbe fuel cell",
+    "zh": "微生物燃料电池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microbial membrane electrode",
+    "zh": "微生物膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbiological corrosion",
+    "zh": "微生物腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbiological fuel cell",
+    "zh": "微生物燃料电池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microelectrode",
+    "zh": "微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microelectrode voltammetric titration",
+    "zh": "微电极伏安滴定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microelectrolytic determination",
+    "zh": "微量电解测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microelectrolytic pump",
+    "zh": "微量电解泵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microvoltammetric electrode",
+    "zh": "微伏安电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microwave electrodeless discharge tube",
+    "zh": "微波无极放电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microwave excited electrodeless discharge lamp",
+    "zh": "微波激发无极放电灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mild corrosion",
+    "zh": "轻度腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mineral membrane electrode",
+    "zh": "矿物膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "miniature nuclear battery",
+    "zh": "小型核电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "minielectrode",
+    "zh": "小电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mitochondrial electrode",
+    "zh": "线粒体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed crystal membrane electrode",
+    "zh": "混晶膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed electrode",
+    "zh": "混合电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed electrode potential",
+    "zh": "混合电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixing battery",
+    "zh": "气水混合管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified carbon paste electrode",
+    "zh": "修饰碳糊电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "modified electrode",
+    "zh": "修饰电极*；改性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "modified (wax) based anticorrosion coating",
+    "zh": "改性蜡防腐蚀涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moisture corrosion test",
+    "zh": "湿度腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular deposition film modified electrode",
+    "zh": "分子沉积膜化学修饰电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular selective electrode",
+    "zh": "分子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molten electrolyte",
+    "zh": "熔化电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molten salt voltammetry",
+    "zh": "熔盐伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molybdoferredoxin(=azofermo)",
+    "zh": "固氮铁钼(氧还)蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moving mercury cathode cell",
+    "zh": "活动汞阴极电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multi-electrode system",
+    "zh": "多电极体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multielement electrodeless discharge lamp",
+    "zh": "多元素无极放电灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multielement hollow cathode lamp",
+    "zh": "多元素空心阴极灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multimembrane electrodecantation",
+    "zh": "多膜电渗倾泻",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple electrode",
+    "zh": "多重电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple Faraday collector",
+    "zh": "多法拉第(筒)接收器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanodevice",
+    "zh": "纳米器件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nanoelectrode",
+    "zh": "纳米电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural corrosion test",
+    "zh": "自然(条件)腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "necked electrode",
+    "zh": "颈部充填电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negative electrode",
+    "zh": "阴极；负极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negative electron affinity photocathode",
+    "zh": "负电子亲和势光电阴极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negatively charged liquid film (membrane) electrode",
+    "zh": "阴性液膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neoprene fuel cell",
+    "zh": "氯丁橡胶燃料容器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neutral carrier electrode",
+    "zh": "中性载体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral carrier membrane electrode",
+    "zh": "中性载体膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral electrode",
+    "zh": "中性(电)级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ngaio oil",
+    "zh": "乳苦槛蓝油 NH₃ gas-sensing electrode 氨气敏(感)电极",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nickel iron storage battery",
+    "zh": "镍铁蓄电池；镍极蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Nicolsky-Eisenman equation",
+    "zh": "尼可尔斯基-艾森曼方程式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nitrate ion selective electrode",
+    "zh": "硝酸根离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "nitrite selective electrode",
+    "zh": "亚硝酸根选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "noble electrode",
+    "zh": "惰性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-direct current electrolysis",
+    "zh": "非直流电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-electrolyte",
+    "zh": "非电解质；不电离质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-electrolyte impurity",
+    "zh": "非电解质杂质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonelectrolyte solution",
+    "zh": "非电解质溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-polarizable electrode",
+    "zh": "不极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-sacrificial graphite anode",
+    "zh": "非牺牲(性)石墨阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-Weissenberg fluid",
+    "zh": "非韦森堡流体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "normal calomel electrode",
+    "zh": "当量甘汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal electrode",
+    "zh": "标准电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal electrode potential",
+    "zh": "标准电极势",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal pulse voltammetry",
+    "zh": "常规脉冲伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal silver-silver chloride electrode",
+    "zh": "标准银-氯化银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear battery",
+    "zh": "核电池*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "null electrode",
+    "zh": "零(位)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil corrosion",
+    "zh": "油腐蚀（油中酸性物质的腐蚀）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil corrosion test",
+    "zh": "油腐蚀试验（石油产品的金属腐蚀试验）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ooze corrosion",
+    "zh": "海泥腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open circuit battery",
+    "zh": "暂流电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optically transparent electrode",
+    "zh": "光透电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optically transparent vitreous carbon electrode",
+    "zh": "光透玻璃碳电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optogalvanic effect",
+    "zh": "光电流效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optogalvanic spectroscopy",
+    "zh": "光电流光谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic corrosion inhibitor",
+    "zh": "有机阻蚀剂；有机防锈剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic electrode process",
+    "zh": "有机电极过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic electrolyte",
+    "zh": "有机电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Orion ion membrane electrode",
+    "zh": "奥龙离子膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orthogneiss",
+    "zh": "正片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ost's method for cleaning the electrode",
+    "zh": "奥斯特电极清洁法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "outer reference electrode",
+    "zh": "外参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "overvoltage electrode",
+    "zh": "超(电)压电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidation-reduction",
+    "zh": "氧化还原(作用)*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction cell",
+    "zh": "氧化还原电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction electrode",
+    "zh": "氧化还原电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "oxidation-reduction indicator(=redox indicator)",
+    "zh": "氧化还原指示剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "oxidation-reduction initiator",
+    "zh": "氧化还原引发剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction method",
+    "zh": "氧化还原(滴定)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction polymerization",
+    "zh": "氧化还原聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction potential",
+    "zh": "氧化还原电位*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction potential determination",
+    "zh": "氧化还原电位测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction reaction",
+    "zh": "氧化还原反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction system",
+    "zh": "氧化还原体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction titration(=redox titration)",
+    "zh": "氧化还原滴定",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "oxidation-reduction wave",
+    "zh": "氧化还原波",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxide film on anode",
+    "zh": "阳极氧化膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidizing electrode",
+    "zh": "氧化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxygen diffusion type corrosion",
+    "zh": "氧扩散型腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxygen electrode",
+    "zh": "氧电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paragneiss",
+    "zh": "副片麻岩;水成片麻岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "parallel plate electrode",
+    "zh": "平行板电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pereirine(=geissoschizoline)",
+    "zh": "缝籽木早灵；缝籽碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phase selective anodic stripping voltammetry",
+    "zh": "相敏阳极溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase sensitive AC adsorption stripping voltammetry",
+    "zh": "相敏交流吸附溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase sensitive AC voltammetry",
+    "zh": "相敏交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pH electrode pH",
+    "zh": "电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "pH glass electrode pH",
+    "zh": "玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photocathode",
+    "zh": "光阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photogalvanic cell",
+    "zh": "光化学电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoredox behavior",
+    "zh": "光氧化还原行为",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoredox reaction",
+    "zh": "光致氧化还原*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photovoltaic cell",
+    "zh": "光电池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photovoltaic detector",
+    "zh": "光电池检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photovoltaic effect",
+    "zh": "光生伏打效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pin-holing corrosion",
+    "zh": "针孔形腐蚀；针孔形锈蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pit corrosion",
+    "zh": "点蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion",
+    "zh": "小孔腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion depth",
+    "zh": "点蚀深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion speed",
+    "zh": "点蚀速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitting corrosion test",
+    "zh": "点(腐)蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plate battery",
+    "zh": "板状电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plate electrode",
+    "zh": "极板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinized carbon electrode",
+    "zh": "镀铂碳电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinized platinum electrode",
+    "zh": "镀铂铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum black electrode",
+    "zh": "铂黑电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum electrode",
+    "zh": "铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum microelectrode",
+    "zh": "铂微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum wire electrode",
+    "zh": "铂丝电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plunge battery",
+    "zh": "浸液电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pNa glass electrode pNa",
+    "zh": "玻璃电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarizable electrode",
+    "zh": "可极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarization battery",
+    "zh": "极化电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polarization electrode",
+    "zh": "极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarization of electrode",
+    "zh": "电极极化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarized electrode",
+    "zh": "极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarized indicator electrode",
+    "zh": "极化指示电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarizing battery",
+    "zh": "极化蓄电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polarizing electrode",
+    "zh": "极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyamphoteric electrolyte",
+    "zh": "两性聚电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyelectrode",
+    "zh": "混合电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyelectrolyte",
+    "zh": "高分子电解质；聚电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyelectrolyte complex",
+    "zh": "聚电解质复合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyelectrolyte flocculation",
+    "zh": "聚合电解质絮凝(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyelectrolyte molecule",
+    "zh": "聚电解质分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric electrolyte",
+    "zh": "聚合物电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous diffusion electrode",
+    "zh": "多孔扩散电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous electrode",
+    "zh": "多孔电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous metal electrode",
+    "zh": "多孔金属电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive electrode",
+    "zh": "阳(电)极；正(电)极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positively charged liquid film (membrane) electrode",
+    "zh": "阳性液膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium electrode based on valinomycin",
+    "zh": "缬氨霉素钾电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium ion selective electrode",
+    "zh": "碘离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "potential electrolyte(=ionogen)",
+    "zh": "势电解质*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potential scanning voltammetry",
+    "zh": "电位扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potentiometric titration with attackable electrode",
+    "zh": "异种金属电极电位差滴定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potentiometric titration with bimetallic electrode system",
+    "zh": "双金属电极电位差滴定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potentiostat",
+    "zh": "恒电位仪*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potentiostatic coulometry",
+    "zh": "恒电位库仑法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potentiostatic electrolysis",
+    "zh": "恒电位电解",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "potentiostatic method",
+    "zh": "恒电势法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potentiostatic polarograph",
+    "zh": "恒电位极谱仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precipitate-impregnated membrane electrode",
+    "zh": "沉淀填嵌型膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preelectrolysis method",
+    "zh": "前电解法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preliminary electrolysis",
+    "zh": "预电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressed pellet membrane electrode",
+    "zh": "压片膜电极；混晶膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary battery",
+    "zh": "原电池*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary electrode",
+    "zh": "原电极；基本电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary electrolysis",
+    "zh": "初级(反应)电解(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "propulsive cathode (",
+    "zh": "氢)气推(液)阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protection against corrosion",
+    "zh": "防腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-reference electrode",
+    "zh": "准参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulse voltammetry",
+    "zh": "脉冲伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "purging by alternating current electrolysis",
+    "zh": "交流电解清洗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "PVC membrane electrode",
+    "zh": "聚氯乙烯膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyro-oxidation-reduction",
+    "zh": "高温氧化还原(过程)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinhydrone electrode",
+    "zh": "醌氢醌电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Quinlin and Weiser method",
+    "zh": "奎林-韦塞法（硅胶凝胶柱色谱定量分离甘油单、双、三酸酯的方法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radio frequency excited electrodeless discharge lamp",
+    "zh": "射频激发无极放电灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope battery",
+    "zh": "放射性同位素电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radionuclide battery(RNB)",
+    "zh": "放射性核电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiophotovoltaic conversion",
+    "zh": "辐射光电转换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiovoltaic conversion",
+    "zh": "辐射电转换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiovoltaic generator",
+    "zh": "辐射电源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reaction impedance",
+    "zh": "反应阻抗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rechargeable zinc-air battery",
+    "zh": "再充(电)式锌-空气电池(组)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recovery of storage-battery",
+    "zh": "蓄电池恢复作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redox",
+    "zh": "氧化还原(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox agent",
+    "zh": "氧化还原剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox analyzer",
+    "zh": "氧化还原分析器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox buffer",
+    "zh": "氧化还原缓冲剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox buffer solution",
+    "zh": "氧化还原缓冲液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox catalysis",
+    "zh": "氧化还原催化",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox catalyst",
+    "zh": "氧化还原催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox-catalyst system",
+    "zh": "氧化还原催化体系",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox catalyzed polymerization",
+    "zh": "氧化还原催化聚合(反应)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox chelometric titration",
+    "zh": "氧化还原螯合滴定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox chemistry",
+    "zh": "氧化还原过程化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox drain cleaning (",
+    "zh": "具)氧化还原(作用的)排水管清洗剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox electrode",
+    "zh": "氧化还原电极",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "redox equilibrium",
+    "zh": "氧化还原平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox grafting process",
+    "zh": "氧化还原接枝法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox indicator(=oxidation-reduction indicator)",
+    "zh": "氧化还原指示剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "redox-initiated graft polymerization",
+    "zh": "氧化还原引发的接枝聚合作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox initiate polymerization",
+    "zh": "氧化还原引发聚合(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox initiation",
+    "zh": "氧化还原引发(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox initiator",
+    "zh": "氧化还原引发剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox ion exchanger",
+    "zh": "氧化还原离子交换树脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox mechanism",
+    "zh": "氧化还原机理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redoxokinetic effect",
+    "zh": "可逆电极的整流效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox oligomer",
+    "zh": "氧化还原低聚物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox polymer",
+    "zh": "电子交换聚合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox polymerization",
+    "zh": "氧化还原聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox potential",
+    "zh": "氧化还原电位；氧化还原电势",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox potential detector",
+    "zh": "氧化还原电位检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox precipitation",
+    "zh": "氧化还原沉淀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox process",
+    "zh": "氧化还原法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox resin",
+    "zh": "氧化还原树脂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox rubber",
+    "zh": "冷聚丁苯橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox series",
+    "zh": "氧化还原系列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox system",
+    "zh": "氧化还原(引发)系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox thermochemistry",
+    "zh": "氧化还原热化学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox titrant",
+    "zh": "氧化还原滴定剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox titration(=oxidation-reduction titration)",
+    "zh": "氧化还原滴定",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "reducing electrode",
+    "zh": "还原电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reference electrode",
+    "zh": "参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reference electrode filling solution",
+    "zh": "参比电极充填液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regeneration electrode array",
+    "zh": "再生电极阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerative fuel cell",
+    "zh": "再生式燃料电池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Reichert-Meissl value",
+    "zh": "赖克特-迈斯耳值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reserve battery",
+    "zh": "储备电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-membrane electrode (",
+    "zh": "离子交换)树脂膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance electrode system",
+    "zh": "电阻电极系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance to atmospheric corrosion",
+    "zh": "耐大气腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to corrosion",
+    "zh": "耐腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to corrosion cracking",
+    "zh": "耐腐蚀龟裂性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to corrosion seawater",
+    "zh": "耐海水腐蚀性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistant to corrosion",
+    "zh": "抗腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "retarded electrode(=isolated electrode)",
+    "zh": "隔离电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "retarding electrode",
+    "zh": "抑止电极;减速电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reticulated vitreous carbon electrode",
+    "zh": "多孔玻碳电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible electrode",
+    "zh": "可逆电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible electrode potential",
+    "zh": "可逆电极电势 ；可逆电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible electrode reaction",
+    "zh": "可逆电极反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible electrolysis",
+    "zh": "可逆电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reversible reference electrode",
+    "zh": "可逆参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rigid matrix electrode",
+    "zh": "固定基体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ring electrode",
+    "zh": "环电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rod shaped polyelectrolyte",
+    "zh": "棒形聚(合)电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotated dropping mercury electrode",
+    "zh": "旋转滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating anode X-ray source",
+    "zh": "旋转阳极X射线光源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating anode X-ray tube",
+    "zh": "旋转阳极X射线管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating disk electrode",
+    "zh": "旋转圆盘电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating disk electrode voltammetry",
+    "zh": "旋转圆盘电极伏安法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "rotating electrode",
+    "zh": "旋转电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating electrode method",
+    "zh": "旋转电极法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating mercury electrode",
+    "zh": "旋转汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating mercury film disc-ring electrode",
+    "zh": "旋转汞膜盘环电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating metal microelectrode",
+    "zh": "旋转金属微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating platform electrode",
+    "zh": "旋转平台电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating platinum disk electrode",
+    "zh": "旋转铂盘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating platinum electrode(RPE)",
+    "zh": "转动铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating platinum microelectrode",
+    "zh": "旋转铂微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating ring-disk electrode",
+    "zh": "旋转环-盘电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotation platinum electrode",
+    "zh": "旋转铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rubredoxin",
+    "zh": "红素氧还蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "run-away corrosion",
+    "zh": "骤增腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust corrosion",
+    "zh": "锈蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sacrificial anode",
+    "zh": "牺牲阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salting-out electrolyte",
+    "zh": "盐析电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt air corrosion",
+    "zh": "盐气腐蚀;海风腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sampled-current voltammetry",
+    "zh": "采流伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "saturated calomel electrode",
+    "zh": "饱和甘汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "seaside atmospheric corrosion",
+    "zh": "海滨大气腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sea water corrosion",
+    "zh": "海水腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sea weed corrosion",
+    "zh": "海藻腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary battery",
+    "zh": "二次电池(组)：蓄电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary electrolysis",
+    "zh": "次级电解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second harmonic AC voltammetry",
+    "zh": "二阶谐波交流伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second harmonic alternating current voltammetry",
+    "zh": "二阶谐波交流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second kind oxidation-reduction electrode",
+    "zh": "第二类氧化还原电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "seismic intensity",
+    "zh": "地震烈度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismic load",
+    "zh": "地震载荷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismic wave",
+    "zh": "地震波",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismograph",
+    "zh": "地震仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismology",
+    "zh": "地震学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismometer",
+    "zh": "地震仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seismoscope",
+    "zh": "地震仪；地震器；地震示波仪；地震记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selective corrosion",
+    "zh": "选择性腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective electrode",
+    "zh": "选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "selective ion-sensitive electrode",
+    "zh": "选择性离子敏感电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "selectrode",
+    "zh": "选择性电极（一种多孔石墨棒型的多用离子选择性电极）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-assembly monolayer modified electrode",
+    "zh": "自组装膜修饰电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-electrode",
+    "zh": "自电极（由试样形成的作为分析用的电极）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-sealing fuel cell(=self-sealing fuel tank)",
+    "zh": "自封闭燃料箱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-sealing fuel tank(=self-sealing fuel cell)",
+    "zh": "自封闭燃料箱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semi-conducting electrode",
+    "zh": "半导体(电)电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sensing electrode",
+    "zh": "敏感电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shell-still battery",
+    "zh": "瓮电池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silver chloride",
+    "zh": "氯化银 silver chloride electrode 氯化银电极",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "silver electrode",
+    "zh": "银电极；裸银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver microelectrode",
+    "zh": "银微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver-silver chloride electrode",
+    "zh": "银-氯化银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver-silver iodide electrode",
+    "zh": "银-碘化银电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simultaneous electrodeposition",
+    "zh": "同步电沉积法;同步电 (泳)沉积法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "single crystal electrode",
+    "zh": "单晶电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single crystal membrane electrode",
+    "zh": "单晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single electrode",
+    "zh": "单电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-electrode potential",
+    "zh": "单电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-sweep voltammetry",
+    "zh": "单扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "skeleton electrode",
+    "zh": "骨架电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sleeve-type reference electrode",
+    "zh": "套筒式参比电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "snake-cage polyelectrolyte",
+    "zh": "蛇笼型聚电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium ion selective electrode",
+    "zh": "钠离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "soil corrosion",
+    "zh": "土力侵蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid electrolyte",
+    "zh": "固体电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid membrane electrode",
+    "zh": "固膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid microelectrode",
+    "zh": "固态微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid state electrode",
+    "zh": "固态电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid state electrolyte",
+    "zh": "固态电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid state polyelectrolyte",
+    "zh": "固态高分子电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soluble anode",
+    "zh": "可溶性阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "source impedance",
+    "zh": "电源阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sour corrosion",
+    "zh": "二氧化硫腐蚀；(含硫的)酸性腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sparking electrode",
+    "zh": "火花电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "special corrosion-inhibitive non-drying primer",
+    "zh": "特种不干性防腐蚀打底涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific ion electrode",
+    "zh": "离子选择电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific ion-exchange membrane electrode",
+    "zh": "专一性离子交换液膜电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "speise",
+    "zh": "天然砷化物;硬渣",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "speiss cobalt",
+    "zh": "不纯的砷钴矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spiegeleisen",
+    "zh": "镜铁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spiral electrode",
+    "zh": "螺线状电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "splash zone corrosion",
+    "zh": "飞溅带腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "square wave voltammetry",
+    "zh": "方波伏安法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "staircase voltammetry",
+    "zh": "阶梯波伏安法；阶梯扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stamp battery",
+    "zh": "连续重击杵;捣矿杵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard electrode",
+    "zh": "标准电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard electrode potential",
+    "zh": "标准电极电势; 标准电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard hydrogen electrode (SHE)",
+    "zh": "标准氢电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard single electrode potential",
+    "zh": "标准电极电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static mercury drop electrode",
+    "zh": "静汞滴电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static water drop corrosion test",
+    "zh": "静态水滴腐蚀试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stationary electrode",
+    "zh": "静止电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stationary electrode polarography",
+    "zh": "静止电极极谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stationary electrode voltammetry",
+    "zh": "静止电极伏安法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "stationary mercury electrode",
+    "zh": "固定汞电极；汞池电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stationary platinum electrode",
+    "zh": "静铂电极；固定铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stationary platinum microelectrode",
+    "zh": "固定铂微电极；静铂微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stopped flow voltammetry",
+    "zh": "停流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "storage battery",
+    "zh": "蓄电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage battery plate",
+    "zh": "蓄电池板傅里叶变换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stoving corrosion-resistant finish",
+    "zh": "耐腐蚀烘烤面漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stray current corrosion",
+    "zh": "漏泄电流腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "streaming electrode",
+    "zh": "泉汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streaming mercury cathode",
+    "zh": "流汞阴极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streaming mercury electrode",
+    "zh": "流汞电极*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress corrosion",
+    "zh": "应力腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stress corrosion cracking",
+    "zh": "应力腐蚀裂开",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strip electrode",
+    "zh": "带形电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stripping voltammetry",
+    "zh": "溶出伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "strong electrolyte",
+    "zh": "强电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submerged cathode cell",
+    "zh": "沉阴极电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submerged electrode",
+    "zh": "浸埋电极；插入式电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submersible tank battery barge",
+    "zh": "潜罐油船；水下油罐组货船",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subsurface corrosion",
+    "zh": "表面下的腐蚀;地下腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur corrosion",
+    "zh": "硫(化合物)腐蚀作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur dioxide corrosion",
+    "zh": "二氧化硫腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulphate-gluconate electrolyte",
+    "zh": "硫酸-葡萄糖酸盐电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulphide stress corrosion",
+    "zh": "硫化物应力腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supporting electrode",
+    "zh": "辅助电极；支持电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supporting electrolyte(=indifferent electrolyte)",
+    "zh": "支持电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surface acoustic wave-impedance sensor",
+    "zh": "阻抗式表面声波传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface corrosion",
+    "zh": "表面腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface pH electrode",
+    "zh": "表面 pH 电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "surface photovoltaic spectroscopy",
+    "zh": "表面光电(压)光谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surfactant electrode",
+    "zh": "表面活性剂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surfactant selective electrode",
+    "zh": "表面活性剂选择性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surfactant selective electrode method",
+    "zh": "表面活性剂(离子)选择电极法（测临界胶束浓度）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surge impedance",
+    "zh": "涌浪组抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sweet corrosion",
+    "zh": "载硫腐蚀；淡水腐蚀（淡水中的 CO₂ 腐蚀）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank battery",
+    "zh": "油罐组；油罐场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank battery barge",
+    "zh": "油罐组驳船",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tast voltammetry",
+    "zh": "取样直流伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "terminating electrolyte (TE)",
+    "zh": "终末电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ternary electrolyte",
+    "zh": "三元电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "testing battery",
+    "zh": "检验电池组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrafluoroborate ion-selective electrode",
+    "zh": "四氟硼酸根离子选择性电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thallium amalgam-thallous chloride electrode",
+    "zh": "铊汞齐-氯化亚铊电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "theory of acid-base electrolytic dissociation",
+    "zh": "酸碱电离理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "theory of electrolytic dissociation",
+    "zh": "电离理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thermal voltaic transducer",
+    "zh": "热电转换器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermistor electrode",
+    "zh": "热敏电阻电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermobattery",
+    "zh": "热电池(组)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoelectric battery",
+    "zh": "热电堆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin film mercury electrode",
+    "zh": "薄膜汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thin layer voltammetry",
+    "zh": "薄层伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thiocyanate ion selective electrode",
+    "zh": "硫氰酸根离子选择电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "three-electrode cell",
+    "zh": "三电极电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three electrode polarograph",
+    "zh": "三电极极谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-electrode potentiostat",
+    "zh": "三电极恒电位仪",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "three electrodes argon plasma",
+    "zh": "三电极氩等离子体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three electrode system",
+    "zh": "三电极系统；三电极体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-electrode (vacuum) tube",
+    "zh": "三级真空管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tin-cobalt electroplating tank",
+    "zh": "锡-钴电镀槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tin electroplating",
+    "zh": "锡的电镀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tissue electrode",
+    "zh": "活组织电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titrant-stream reference electrode",
+    "zh": "滴液参比电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trapping electrode",
+    "zh": "阱电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triangular wave voltammetry",
+    "zh": "三角波伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "true electrolyte",
+    "zh": "实电解质*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tungsten electrode",
+    "zh": "钨电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two-electrode system",
+    "zh": "双电极系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two-electrode tube",
+    "zh": "二极(真空)管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two polarized electrode",
+    "zh": "双极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "UHP graphite electrodes",
+    "zh": "超高功率石墨电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultramicro disk electrode",
+    "zh": "超微盘电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultramicroelectrode",
+    "zh": "超微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultrathin coating by multiple polyelectrolyte adsorption/ surface activation technique",
+    "zh": "聚电解质吸附-活化技术",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unattackable electrode",
+    "zh": "抗蚀电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uncharged carrier electrode",
+    "zh": "中性载体电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "underground corrosion",
+    "zh": "地下腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unpolarizable electrode",
+    "zh": "不极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unpolarized electrode",
+    "zh": "非极化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "urease electrode",
+    "zh": "尿素酶电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "valve electrode",
+    "zh": "阀电极；整流电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vapor corrosion inhibitor",
+    "zh": "蒸气(汽)腐蚀抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vibrating dripping mercury electrode",
+    "zh": "振动滴汞电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vibrating electrode",
+    "zh": "振动电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vibrating platinum electrode",
+    "zh": "振动铂电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vibrating platinum microelectrode",
+    "zh": "振动铂微电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitreous carbon electrode",
+    "zh": "玻璃化碳电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltage-scan voltammetry",
+    "zh": "电压扫描伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic battery (",
+    "zh": "伏打)蓄电池",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "voltaic cell",
+    "zh": "伏打电池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic couple",
+    "zh": "伏打电偶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic electricity",
+    "zh": "伏打电流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic element",
+    "zh": "伏特电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic pile(=galvanic pile)",
+    "zh": "电堆",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "voltaic series",
+    "zh": "伏打系列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltammeter(=galvano-voltammeter)",
+    "zh": "伏安计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "voltammetric analysis",
+    "zh": "伏安分析",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "voltammetric cell",
+    "zh": "伏安池",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "voltammetric indicator electrode",
+    "zh": "伏安指示电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltammetric titration",
+    "zh": "伏(特)安(培)滴定；电压电流滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "voltammetry",
+    "zh": "伏安法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Warburg impedance",
+    "zh": "沃伯格阻抗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-absorbing anionic polyelectrolyte",
+    "zh": "吸水性阴离子型聚电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-bath battery",
+    "zh": "水浴组",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "watered silk sheen effect (",
+    "zh": "波纹墙纸的)波纹绸丝光效应water electrode 水(成)电极",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wax-impregnated graphite electrode",
+    "zh": "浸蜡石墨电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "weak electrolyte",
+    "zh": "弱(性)电解质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "weiss",
+    "zh": "外斯（原子磁矩单位）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg diffractometer",
+    "zh": "魏森贝格衍射仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg effect",
+    "zh": "魏森贝格效应*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg extruder",
+    "zh": "魏森贝格挤出器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg normal stress pattern",
+    "zh": "魏森贝格正应力图式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg number",
+    "zh": "魏森贝格数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg photograph",
+    "zh": "魏森贝格图",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg photography",
+    "zh": "魏森贝格照相法；魏森贝格图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg postulate",
+    "zh": "魏森贝格假定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weissenberg rheogoniometer",
+    "zh": "魏森贝格流变仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "weissite",
+    "zh": "碲铜矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Weisz ring oven",
+    "zh": "维茨环炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wet corrosion",
+    "zh": "湿腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "White's spherical cathode lamp",
+    "zh": "怀特球形空心阴极灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wire mesh electrode (",
+    "zh": "金属)网状电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "working electrode",
+    "zh": "工作电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Zeisel determination",
+    "zh": "蔡泽尔定量法（测烷基）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeisel method",
+    "zh": "蔡泽尔法（测定乳化液中环氧乙烷、甘油单酸酯等含量的方法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeisel reaction",
+    "zh": "蔡泽尔碘甲烷反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeise salt",
+    "zh": "蔡斯盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeiss particle counter",
+    "zh": "蔡司粒子计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc-air battery",
+    "zh": "锌-空气电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc dust sacrificial anode",
+    "zh": "锌粉牺牲阳极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc storage battery",
+    "zh": "锌蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  }
+]

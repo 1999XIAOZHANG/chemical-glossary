@@ -1,0 +1,3476 @@
+[
+  {
+    "en": "abrasion method of tow conversion",
+    "zh": "丝束磨断成条法；丝束磨断成纱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid slurry method(=acid swelling)",
+    "zh": "酸浆法；酸溶胀法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acid swelling(=acid slurry method)",
+    "zh": "酸浆法；酸溶胀法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "adiabatic reactor",
+    "zh": "绝热反应器*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "advanced cracking reactor",
+    "zh": "先进裂化反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "agitating reactor",
+    "zh": "搅动式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air-lift bioreactor",
+    "zh": "气升式生物反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkyne conversion",
+    "zh": "炔转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "all-cascade reactor system",
+    "zh": "全阶式反应器装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amalgamation yield",
+    "zh": "汞齐化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analogue to digital conversion",
+    "zh": "模拟-数字转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent conversion",
+    "zh": "表观转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent ionization yield",
+    "zh": "表观电离率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous reactor fuel",
+    "zh": "水溶液反应堆燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atmospheric fluidized bed combustion",
+    "zh": "常压流化床燃烧",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "atomic reactor",
+    "zh": "原子反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Auger electron yield",
+    "zh": "俄歇电子产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Auger yield",
+    "zh": "俄歇(电子)产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic selectivity control",
+    "zh": "自动选择性控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auxiliary reactor",
+    "zh": "辅助反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "average residence time",
+    "zh": "平均停留时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "back-mix-flow reactor",
+    "zh": "返混流反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "backmixing",
+    "zh": "逆向混合；回混；反混",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "balanced-density slurry method",
+    "zh": "平衡密度淤浆法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "balanced-density slurry technique",
+    "zh": "平衡密度糊状装柱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "batch reactor",
+    "zh": "间歇式反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "benzo-benzidine conversion",
+    "zh": "联苯胺重排作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bingham yield value",
+    "zh": "宾厄姆屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioconversion",
+    "zh": "生物转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioreactor",
+    "zh": "生物反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black oil conversion",
+    "zh": "黑油转化(重油转化)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "black reactor",
+    "zh": "炭黑反应炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black slurry",
+    "zh": "炭黑水分散体；炭黑浆状液",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "boat reactor",
+    "zh": "舟形反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "boiling-liquid-bath reactor",
+    "zh": "沸腾液恒温反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "breeder reactor",
+    "zh": "增殖(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Brookfield yield value",
+    "zh": "布鲁克菲尔德致流值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bubble-cloud reactor",
+    "zh": "泡雾反应器.",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bubbling column reactor",
+    "zh": "鼓泡塔(式)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk yielding",
+    "zh": "尺寸易变;容积压缩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyst selectivity",
+    "zh": "催化剂选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyst slurry",
+    "zh": "催化剂浆（催化剂与原料或反应溶剂的浆状混合物）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "catalytic reactor",
+    "zh": "催化反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "catalytic selectivity",
+    "zh": "催化选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyzed conversion",
+    "zh": "催化转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cement slurry",
+    "zh": "水泥渣",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chain yield",
+    "zh": "链产额*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical conversion treatment",
+    "zh": "化学转化处理；(金属的)化学法表面处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical reactor",
+    "zh": "化学反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical yield",
+    "zh": "化学产率*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemiluminescence quantum yield",
+    "zh": "化学发光量子产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Chemithon reactor",
+    "zh": "凯米松(磺化)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemonuclear reactor",
+    "zh": "化学核反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromate-phosphate conversion coatings",
+    "zh": "铬酸盐-磷酸盐 (化学处理)转化层(膜)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chromatographic reactor",
+    "zh": "色谱反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clay slurry",
+    "zh": "黏土泥浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "clay water slurry",
+    "zh": "黏土泥浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "clay yield",
+    "zh": "黏土处理收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clean yield",
+    "zh": "净毛率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal slurry",
+    "zh": "煤泥",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coke yield",
+    "zh": "焦炭产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking yield",
+    "zh": "焦化产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coke slurry",
+    "zh": "焦泥浆伯恩热量和质量转换变推法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "collagen slurry",
+    "zh": "胶原浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "color temperature conversion filter",
+    "zh": "色温转换滤光片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colourant slurry",
+    "zh": "水性颜料浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "compressive yield point",
+    "zh": "压缩屈服点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressive yield strength",
+    "zh": "压缩屈服强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressive yield stress",
+    "zh": "压缩屈服应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concentric tubular reactor",
+    "zh": "同心管式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant-level conversion",
+    "zh": "恒定深度转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "constant stirring tank reactor",
+    "zh": "连续搅拌釜式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact reactor",
+    "zh": "接触反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous-hydrolysis reactor",
+    "zh": "连续水解反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous reactor",
+    "zh": "连续(式)反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "continuous slurry equipment",
+    "zh": "浸压粉碎联合机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "continuous stirred tank reactor (CSTR)",
+    "zh": "连续搅拌釜式反应器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "controlled thermonuclear fusion reactor",
+    "zh": "受控热核聚变反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conversion",
+    "zh": "转化;换算",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion catalyst",
+    "zh": "转化催化剂；烃类转化过程的催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion chart",
+    "zh": "换算图表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coating",
+    "zh": "转化层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coating technology",
+    "zh": "转化型涂料工艺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coefficient",
+    "zh": "换算系数；转化系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion constant (=conversion factor)",
+    "zh": "换算因数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion corrosion",
+    "zh": "转化型腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion curve",
+    "zh": "转化曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion dynode",
+    "zh": "转换打拿极",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion efficiency",
+    "zh": "转换效率；变换效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion electron",
+    "zh": "转换电子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion energy",
+    "zh": "转化能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion factor (=calculation factor)",
+    "zh": "换算因子*；换算因数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion film",
+    "zh": "转化膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion level",
+    "zh": "转化深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion method",
+    "zh": "转化法（由一种烃转化为另一种烃的方法）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of flowmeter",
+    "zh": "消耗量读数的换算",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of hydrocarbons",
+    "zh": "烃类转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of monomer",
+    "zh": "单体转化(率)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of viscosity units",
+    "zh": "黏度单位换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion per pass",
+    "zh": "单程转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion pig",
+    "zh": "炼钢生铁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion process",
+    "zh": "转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion rate",
+    "zh": "转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion rate curve",
+    "zh": "转化率曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion scale",
+    "zh": "转换标尺；换算比例尺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion system",
+    "zh": "转化装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion table",
+    "zh": "换算表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion temperature",
+    "zh": "转化温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion test",
+    "zh": "转化试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion unit",
+    "zh": "反应设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion zone",
+    "zh": "反应层；反应区域",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Coulomb's yield criterion",
+    "zh": "库仑屈服判据",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "count conversion factor",
+    "zh": "支数换算系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counts corrected for chemical yield (CCY)",
+    "zh": "化学产额校正计数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep yield time",
+    "zh": "蠕变屈服时间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross linking yield",
+    "zh": "交联收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crushing yield load (",
+    "zh": "容器)压瘪屈服载荷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "current yield",
+    "zh": "日产量；现时产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Curtius conversion",
+    "zh": "克尔提斯转变（酰肼成酰叠氮的转变）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead-end batch reactor",
+    "zh": "死端式间歇反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "deformation at yield",
+    "zh": "屈服点形变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of conversion",
+    "zh": "转化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrogenation reactor",
+    "zh": "脱氢反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dense phase fluidized bed",
+    "zh": "密相流化床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "depolymerizing reactor",
+    "zh": "解聚(合)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depth of conversion",
+    "zh": "转化深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "desalting reactor (",
+    "zh": "海水)脱盐反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "descending slurry",
+    "zh": "下行淤浆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dewar-type polymerization reactor",
+    "zh": "杜瓦瓶型聚合反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dewatered slurry",
+    "zh": "脱水料浆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "differential reactor",
+    "zh": "微分反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "digital-analog conversion",
+    "zh": "数-模转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disk-ring reactor",
+    "zh": "盘环型(搅拌缩聚)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "disc-ring reactor",
+    "zh": "盘环型(搅拌缩聚)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation reactor",
+    "zh": "蒸馏反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation yield",
+    "zh": "馏出产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double-tube converter(=double-tube reactor)",
+    "zh": "套管反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double-tube fixed bed reactor",
+    "zh": "双套管固定床反应器",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "double-tube reactor(=double-tube converter)",
+    "zh": "套管反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "down-flow fixed bed",
+    "zh": "下流式固定床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "down-flow reactor",
+    "zh": "下流式反应器；降液式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drum reactor",
+    "zh": "鼓式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron affinity yield",
+    "zh": "电子亲和率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrostatic fluidized bed",
+    "zh": "静电沸腾床；静电流动床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrostatic-fluidized bed coating",
+    "zh": "静电流化床涂装；静电沸腾床涂装；静电流态化涂装",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "elongation at yield",
+    "zh": "屈服伸长（达屈服点的伸长）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elongation at yield point",
+    "zh": "屈服点伸长;屈服点伸长率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion reactor",
+    "zh": "乳化反应釜；乳化反应器(罐)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enantioselectivity",
+    "zh": "对映选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endothermic conversion",
+    "zh": "吸热转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end point yield curve",
+    "zh": "终馏点收率曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy conversion device",
+    "zh": "换能器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy conversion polymer",
+    "zh": "能量转换高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzymatic conversion",
+    "zh": "酶糖化;酶转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium conversion",
+    "zh": "平衡转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "external conversion of energy",
+    "zh": "能量外转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction yield",
+    "zh": "萃取率；提取率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "falling film reactor",
+    "zh": "降膜式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast-breeder reactor(FBR)",
+    "zh": "快中子增殖(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast reactor",
+    "zh": "快(中子反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast test reactor(FTR)",
+    "zh": "快中子试验堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feed stock conversion",
+    "zh": "原料转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "femtosecond fluorescence up-conversion",
+    "zh": "飞秒荧光直接转化技术 -fen（词尾） 含硫的烃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film conversion",
+    "zh": "薄膜再加工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film reactor",
+    "zh": "膜式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filtration yield",
+    "zh": "过滤(得)量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "final polycondensation reactor",
+    "zh": "最终缩聚反应釜；后缩聚釜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "final yield",
+    "zh": "最后产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fine clay slurry",
+    "zh": "细致的黏土悬浮物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "finisher-reactor",
+    "zh": "后缩聚反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "finishing reactor",
+    "zh": "后缩聚反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "first polycondensation reactor",
+    "zh": "前缩聚(反应)器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fission yield",
+    "zh": "裂变产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fission yield monitor",
+    "zh": "裂变产额监测体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixed bed",
+    "zh": "固定床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed adiabatic reactor",
+    "zh": "固定床绝热反应器",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "fixed bed catalyst",
+    "zh": "固定床催化剂 fixed bed catalyst chamber(=fixed bed catalytic reactor)固定床催化反应器",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "fixed bed catalytic cracking",
+    "zh": "固定床催化裂化",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed catalytic process",
+    "zh": "固定床催化过程 fixed bed catalytic reactor(=fixed bed catalyst chamber)固定床催化反应器",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "fixed bed contactor",
+    "zh": "固定床接触器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed hydroforming",
+    "zh": "固定床(临)氢重整",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed ion exchange",
+    "zh": "固定床离子交换",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed process",
+    "zh": "固定床过程",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed bed reactor",
+    "zh": "固定床反应器",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "fixed bed unit",
+    "zh": "固定床设备",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flame reactor",
+    "zh": "火焰(喷射)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flashing reactor",
+    "zh": "闪蒸反应器；快速反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash point yield curve",
+    "zh": "闪点产率曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash yield curve",
+    "zh": "闪蒸曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexural offset yield strength",
+    "zh": "弯曲偏置屈服强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexural yield strength",
+    "zh": "挠曲屈服强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow reactor",
+    "zh": "流动反应器*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow tube reactor",
+    "zh": "流动管反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid catalyst reactor",
+    "zh": "流化催化(剂)反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluidized bed(=liquid bed)",
+    "zh": "流体床；沸腾床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed calciner",
+    "zh": "流化床煅烧器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed catalytic cracker",
+    "zh": "流化床催化裂化装置",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed denitration",
+    "zh": "流化床脱硝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed denitrator",
+    "zh": "流化床脱硝器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed dipping",
+    "zh": "流化床浸涂法；沸腾床浸涂法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed dryer",
+    "zh": "流化床干燥器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed fluoride volatility process(FBFVP)",
+    "zh": "流化床氟化挥发法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed furnace",
+    "zh": "流化床加热炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed granulation",
+    "zh": "流化床造粒(法)；沸腾床造粒(法)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed incinerator",
+    "zh": "流化床焚烧炉",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed method",
+    "zh": "沸腾床法；流动床法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed of adsorbent",
+    "zh": "吸附剂流化床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed plant",
+    "zh": "流化床设备",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed process",
+    "zh": "流化床法；沸腾床法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized-bed reactor",
+    "zh": "流化床反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluidized bed roasting",
+    "zh": "流化床焙烧；沸腾床焙烧",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed seal leg",
+    "zh": "流化床料腿封",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized bed technique",
+    "zh": "流动床硫化法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized fixed bed",
+    "zh": "流化的固定床层",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluidized reactor",
+    "zh": "流化床反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorescence quantum yield",
+    "zh": "荧光量子产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescence yield",
+    "zh": "荧光产额*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent yield",
+    "zh": "荧光产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "force-at-yield",
+    "zh": "屈服力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional conversion",
+    "zh": "部分转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional cumulative yield",
+    "zh": "分级累积产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional independent yield",
+    "zh": "分级独立产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "freeboard of fluidized bed",
+    "zh": "稀相区",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fuel of nuclear reactor",
+    "zh": "核(反应堆)燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel oil yield",
+    "zh": "燃料油产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusion reactor",
+    "zh": "聚变反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gain in yield (",
+    "zh": "产品)产率增加",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas conversion process",
+    "zh": "气体转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas cooled fast breeder reactor(GCFBR)",
+    "zh": "气冷快中子增殖(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas core reactor",
+    "zh": "气芯(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas graphite reactor",
+    "zh": "气冷石墨(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasifying reactor",
+    "zh": "气化反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasoline yield",
+    "zh": "汽油产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas yield",
+    "zh": "煤气产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-yielding polymer",
+    "zh": "析出气体聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "general yield fracture mechanics",
+    "zh": "全面屈服断裂力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "geometrical conversion",
+    "zh": "几何转变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass pressure reactor",
+    "zh": "玻璃耐压反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gold tubular reactor",
+    "zh": "金管反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gradientless contactor",
+    "zh": "无梯度接触器 gradientless reactor 无梯度反应器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "graft(ing) yield",
+    "zh": "接枝率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graft polymerization yield",
+    "zh": "接枝聚合率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graphite moderated reactor",
+    "zh": "石墨减速反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ground slurry",
+    "zh": "研磨浆料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "guard reactor",
+    "zh": "保护反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "halogen-metal interconversion",
+    "zh": "卤素-金属互换作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardening yield value",
+    "zh": "硬化屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat conversion factor",
+    "zh": "热换算因子；热当量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of conversion",
+    "zh": "转化热",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterogeneous reactor",
+    "zh": "非均相(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous slurry polymerization",
+    "zh": "非均相悬浮聚合(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "high flux beam reactor (HFBR)",
+    "zh": "高通量(中子)束堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high flux isotope reactor (HFIR)",
+    "zh": "高通量同位素(生产)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure reactor",
+    "zh": "高压反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-temperature conversion coating",
+    "zh": "高温转化涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high yield",
+    "zh": "高产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous reactor",
+    "zh": "均相(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "horizontal flow pipe reactor",
+    "zh": "平流管式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrocarbon conversion",
+    "zh": "烃类转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon conversion process",
+    "zh": "烃类转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon steam conversion",
+    "zh": "烃蒸气转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydro-conversion",
+    "zh": "加氢转化(作用)；加氢转换(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogenation reactor",
+    "zh": "氢化反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hyperformer reactor",
+    "zh": "移动床重整反应器；超重整反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "increased yield value",
+    "zh": "增加的屈服值；屈服值增量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "independent yield",
+    "zh": "独立产额*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induction heating reactor",
+    "zh": "感应加热反应器(釜); 电感加热反应釜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "initial yield value",
+    "zh": "起始屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in-reactor loop",
+    "zh": "堆内回路",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in-reactor process",
+    "zh": "反应釜内法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "integral fixed-bed reactor",
+    "zh": "固定床积分反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "integral reactor",
+    "zh": "积分反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "interconversion",
+    "zh": "互变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediate-pressure reactor",
+    "zh": "中压反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermolecular selectivity",
+    "zh": "分子间选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion",
+    "zh": "内转换*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion coefficient",
+    "zh": "内转换系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion electron",
+    "zh": "内转换电子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intramolecular selectivity",
+    "zh": "分子内选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionization yield",
+    "zh": "电离率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion pair yield",
+    "zh": "离子对产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion yield",
+    "zh": "离子产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomeric yield ratio",
+    "zh": "同质异能素产额比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isothermal reactor",
+    "zh": "等温反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope production reactor",
+    "zh": "同位素生产(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "jacketed reactor",
+    "zh": "夹套式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laboratory size reactor",
+    "zh": "实验室型反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light water-moderated nuclear reactor",
+    "zh": "轻水慢化核反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light-water reactor(LWR)",
+    "zh": "轻水(冷却和慢化反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid bed(=fluidized bed)",
+    "zh": "流体床：沸腾床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "liquid yield",
+    "zh": "液体产品产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loop process reactor",
+    "zh": "环形管道式连续反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loop reactor",
+    "zh": "回路反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lower yield value",
+    "zh": "低屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "luminescence quantum yield",
+    "zh": "发光量子产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass-yield distribution",
+    "zh": "质量-产额分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maximum selectivity",
+    "zh": "最大选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medical reactor",
+    "zh": "医用反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt residence time",
+    "zh": "熔体逗留时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "merry-go-round photoreactor (",
+    "zh": "立式)旋转光(化学)反应试验仪",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "method of conversion factor",
+    "zh": "换算因数法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro catalytic reactor",
+    "zh": "微型催化反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "microreactor",
+    "zh": "微反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microyield",
+    "zh": "微屈服",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "middle-pressure reactor",
+    "zh": "中压反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mill base slurry",
+    "zh": "研磨料浆;漆浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular yield",
+    "zh": "分子产量；分子收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molten salt breeder reactor(MSBR)",
+    "zh": "熔盐增殖堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molten salt reactor(MSR)",
+    "zh": "熔盐(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molten salt reactor experiment(MSRE)",
+    "zh": "熔盐反应堆实验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monomer conversion",
+    "zh": "单体转化(率)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moving bed reactor",
+    "zh": "移动床反应器*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moving-burden bed reactor",
+    "zh": "移动床反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multi-compartment reactor",
+    "zh": "多室反应器；多间隔反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple-chamber reactor",
+    "zh": "多室反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple hearth reactor",
+    "zh": "多室反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple tubular reactor",
+    "zh": "多管式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiport injection reactor",
+    "zh": "多孔喷射反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multistage reactor",
+    "zh": "多级反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multistorey catalytic reactor",
+    "zh": "多层催化反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "multitubular reactor",
+    "zh": "多管反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "net yield",
+    "zh": "实际得率；净得率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "new production reactor(NPR)",
+    "zh": "新生产堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonequilibrium plasma reactor",
+    "zh": "不平衡等离子反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-settling slurry",
+    "zh": "非沉降性料浆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "non-slurry pelletizing",
+    "zh": "干法造粒",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "normal pressure reactor",
+    "zh": "常压反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear reactor",
+    "zh": "核子反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "offset yield strength",
+    "zh": "补偿屈服强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-catalyst slurry",
+    "zh": "催化剂油浆；油与催化剂的悬浮液",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oil circulating reactor",
+    "zh": "油循环反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil conversion process",
+    "zh": "石油转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "olefin conversion process",
+    "zh": "烯烃转化法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "once-through conversion(=one-pass operation)",
+    "zh": "非循环过程; 单程转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-pass operation(=once-through conversion)",
+    "zh": "非循环过程；单程转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-stage conversion of gases",
+    "zh": "气体的一段转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-step conversion",
+    "zh": "一步转化(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overall yield",
+    "zh": "总收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overflow reactor",
+    "zh": "溢流反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "overhead convection type of reactor",
+    "zh": "向上对流式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "packed column reactor",
+    "zh": "填充柱反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "para-ortho-hydrogen conversion",
+    "zh": "对-邻位氢转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partial oxidation reactor",
+    "zh": "部分氧化反应器；乙炔炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peak rate of conversion",
+    "zh": "最高转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pearl string reactor",
+    "zh": "珠串反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "percentage conversion",
+    "zh": "转化百分数; 转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percent conversion",
+    "zh": "转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percolation yield",
+    "zh": "渗滤产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permeaselectivity",
+    "zh": "选择渗透性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permselectivity",
+    "zh": "选择渗透性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "per pass conversion",
+    "zh": "单程转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photochemical yield",
+    "zh": "光化产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photoconversion",
+    "zh": "光转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photoelectric reactor",
+    "zh": "光电反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment slurry",
+    "zh": "颜料浆；水浆颜料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pinacol conversion(=pinacolic rearrangement)",
+    "zh": "邻二叔醇重排作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinacolic rearrangement(=pinacol conversion)",
+    "zh": "邻二叔醇重排作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pipeline reactor",
+    "zh": "管道式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plasma stream reactor",
+    "zh": "等离子流反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic yield(=yield value)",
+    "zh": "塑变值；塑流点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yielding",
+    "zh": "塑性屈服",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield-point",
+    "zh": "塑(料)流点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield test",
+    "zh": "塑流试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield value",
+    "zh": "塑流值；塑性屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plug flow (",
+    "zh": "活)塞式流(动)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plug flow reactor",
+    "zh": "活塞流反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "plutonium recycle test reactor(PRTR)",
+    "zh": "钚再循环试验堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyaddition reactor",
+    "zh": "加聚反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polycondensation reactor",
+    "zh": "缩聚反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymerisation conversion",
+    "zh": "聚合转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer slurry",
+    "zh": "聚合物稀浆；聚合物悬浮液",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polymer yield",
+    "zh": "高聚物屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post column reactor",
+    "zh": "柱后反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post-reactor",
+    "zh": "补充反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post-reactor polymer finishing",
+    "zh": "出釜后聚合物处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post yield",
+    "zh": "后屈服；继续屈服",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preferential selectivity(=preterential solubility)",
+    "zh": "有择溶解度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preferential solubility(=preferential selectivity)",
+    "zh": "有择溶解度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure conversion factor",
+    "zh": "压力转换因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure conversion table",
+    "zh": "压力转换表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure loss conversion chart",
+    "zh": "压力损失换算表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure polymerization reactor",
+    "zh": "高压聚合反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressurized water nuclear reactor",
+    "zh": "压水型原子反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressurized water reactor(PWR) (",
+    "zh": "加)压水(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "product yield",
+    "zh": "成品收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "progressive plastic yield",
+    "zh": "渐进塑性屈服",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "prototype reactor",
+    "zh": "原型(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudo-selectivity",
+    "zh": "准选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulp slurry",
+    "zh": "液体浆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pulsed neutron reactor",
+    "zh": "脉冲中子(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulse type reactor",
+    "zh": "脉冲(型)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrolysis reactor",
+    "zh": "热解反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrolytic conversion",
+    "zh": "高温转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantum yield",
+    "zh": "量子产率*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quiescent fluidized bed",
+    "zh": "平稳流态化床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radial reactor",
+    "zh": "径流式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radical (reaction)-yield-detected magnetic resonance",
+    "zh": "自由基(反应)产量检测磁共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiophotovoltaic conversion",
+    "zh": "辐射光电转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiovoltaic conversion",
+    "zh": "辐射电转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction yield",
+    "zh": "反应产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactor",
+    "zh": "反应剂;反应器;反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor chemistry",
+    "zh": "反应堆化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor control",
+    "zh": "反应器控制",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor cooling",
+    "zh": "反应器冷却",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor design",
+    "zh": "反应器设计",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "reactor dilution",
+    "zh": "反应器稀释",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor drum",
+    "zh": "反应鼓；反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor effluent",
+    "zh": "反应器流出物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor engineering",
+    "zh": "反应器工程学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor feed",
+    "zh": "反应器进料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor fouling",
+    "zh": "反应器积垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor grid",
+    "zh": "反应器栅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor guard section",
+    "zh": "反应器防护部分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor integrated reprocessing",
+    "zh": "堆厂一体化后处理；就堆建厂(核燃料)后处理建厂(核燃料)后处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor pressure vessel",
+    "zh": "反应堆压力容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor produced radionuclides",
+    "zh": "反应堆生产的放射性核素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor product",
+    "zh": "反应器产品；反应产品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor product cooler",
+    "zh": "反应产品冷却器；产品冷却器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor shield",
+    "zh": "反应堆防护屏(蔽)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor top pressure",
+    "zh": "反应器顶部的压力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor type",
+    "zh": "反应堆型式",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactor utilization",
+    "zh": "反应器利用(率)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "recovery yield of monomer",
+    "zh": "单体回收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refining yield",
+    "zh": "精炼得率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reforming reactor",
+    "zh": "重整反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "relative selectivity",
+    "zh": "相对选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relevant reactor",
+    "zh": "相关反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rerun yield",
+    "zh": "再蒸馏产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residence time",
+    "zh": "停留时间 ; 滞留时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "residuum hydroconversion",
+    "zh": "渣油加氢转化(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reslurry",
+    "zh": "重新打浆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "retronecinic acid",
+    "zh": "倒千里光裂酸 retropinacolic conversion 反频哪酮重排作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rheological yield condition",
+    "zh": "流变屈服条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheological yield stress",
+    "zh": "流变屈服应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring conversion",
+    "zh": "环转化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber yielding plant",
+    "zh": "产胶植物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust conversion primer",
+    "zh": "转化型带锈底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "safe yield",
+    "zh": "安全产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salt-forming reactor",
+    "zh": "成盐反应器salt-free process 无盐过程*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "saturable core reactor",
+    "zh": "可饱和铁心扼流圈",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scale-up problems",
+    "zh": "工艺过程放大问题",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seed-blanket reactor",
+    "zh": "点火区-再生区反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "selective catalytic conversion",
+    "zh": "选择催化转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity",
+    "zh": "选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity coefficient",
+    "zh": "选择系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity constant",
+    "zh": "选择性常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity control",
+    "zh": "选择性调节；取代调节",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity curve",
+    "zh": "选择性曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity factor",
+    "zh": "选择性因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity index",
+    "zh": "选择性指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity of catalyst",
+    "zh": "催化剂的选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity ratio",
+    "zh": "选择性比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-sustaining reactor",
+    "zh": "自持(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semibatch reactor",
+    "zh": "半间歇式反应器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "semi-fluidized bed",
+    "zh": "半流化床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "setting slurry",
+    "zh": "沉降性浆料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "shell and tube-type reactor",
+    "zh": "管壳式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "short residence time(SRT)",
+    "zh": "短停留时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "simple pipe tee reactor",
+    "zh": "单管三通反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-bead string reactor",
+    "zh": "单珠串联反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-pass conversion",
+    "zh": "单程转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single pass yield",
+    "zh": "单程产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slurry",
+    "zh": "淤浆;泥(浆);浆；生料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry counterpart",
+    "zh": "水浆(二氧化钛)的对应产品(同等产品)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry density",
+    "zh": "水浆密度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry drier",
+    "zh": "淤浆干燥机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry exchanger",
+    "zh": "淤浆交换器（催化剂悬浮体与原料油热交换器）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry filter-cake",
+    "zh": "淤浆滤饼",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry loading",
+    "zh": "浆液装车",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry mixer",
+    "zh": "拌浆器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry oil",
+    "zh": "淤浆油；糊状物稀释油；悬浮催化剂粉末油料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry-packed method",
+    "zh": "淤浆填充法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry packing",
+    "zh": "匀浆填充(法)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry packing method",
+    "zh": "淤泥填充法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry packing technique",
+    "zh": "浆液充填法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry-phase reactor",
+    "zh": "淤浆反应器",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "slurry polymerization",
+    "zh": "淤浆聚合",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry polymerization process",
+    "zh": "淤浆聚合法（悬浮催化剂聚合过程）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry pond",
+    "zh": "淤浆池",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry process",
+    "zh": "淤浆法（由一氧化碳与氢合成烃类的油悬浮过程）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry ring",
+    "zh": "生料圈",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry sampling",
+    "zh": "悬浊液进样",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "slurry tank",
+    "zh": "淤浆槽",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "solid-bed reactor (",
+    "zh": "催化剂)固体床反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid phosphoric acid slurry",
+    "zh": "糊状磷酸催化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "solvent selectivity",
+    "zh": "溶剂选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "space-time yield",
+    "zh": "时空产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific yield",
+    "zh": "个别产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral selectivity",
+    "zh": "光谱选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral-shift reactor",
+    "zh": "谱移(反应)堆",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spun silk yielding",
+    "zh": "出棉率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sputtering yield",
+    "zh": "溅射产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "staged reactor",
+    "zh": "多级反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "state selectivity",
+    "zh": "状态选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereoselectivity",
+    "zh": "立体选择性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stirred flow reactor",
+    "zh": "流动搅拌反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stirred-tank reactor",
+    "zh": "搅拌釜反应器stockinette ;弹力织物；平针织物;针织品边角料（作擦洗纱布材）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress yield",
+    "zh": "屈服应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur-hydrocarbon slurry",
+    "zh": "硫烃淤浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfur oil slurry",
+    "zh": "含硫油浆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "surface-generating reactor",
+    "zh": "表面增生型反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "swing reactor",
+    "zh": "摇摆式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthesis reactor",
+    "zh": "合成反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tank reactor",
+    "zh": "罐式反应器；釜式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tar-yielding",
+    "zh": "形成焦油的；产焦油的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "telomerization reactor",
+    "zh": "调聚反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tensile yield",
+    "zh": "扯断伸长率;张力屈服值；张力屈服点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretically total conversion",
+    "zh": "理论完全转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical yield",
+    "zh": "理论(上)产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal conversion of gases",
+    "zh": "气体的热转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal conversion process",
+    "zh": "热转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermo-electric conversion",
+    "zh": "热电转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermometer conversion",
+    "zh": "温度计换算",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thick slurry process",
+    "zh": "浓浆法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thick target yield",
+    "zh": "厚靶产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin-target yield",
+    "zh": "薄靶产额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three stage fluidized bed dryer",
+    "zh": "三层(段)流化床干燥器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "three stages fluidized bed dryer",
+    "zh": "三层硫化床干燥器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tinctorial yield",
+    "zh": "着色率；给色量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "torsional yield strength",
+    "zh": "抗扭强度极限",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total conversion",
+    "zh": "总转化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transesterification reactor",
+    "zh": "酯交换反应釜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transparent reactor",
+    "zh": "透明反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transport selectivity",
+    "zh": "迁移选择性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Tresca yield criterion",
+    "zh": "屈雷斯卡屈服判据",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trickle bed reactor",
+    "zh": "滴流床反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tritium-generating reactor",
+    "zh": "产氚(反应)堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tube reactor",
+    "zh": "管式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tubular-flow reactor",
+    "zh": "管道式流动反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tubular reactor",
+    "zh": "管状反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "turbulent fluidized bed",
+    "zh": "湍动流化床微镜",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "turn coil reactor",
+    "zh": "盘管式反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two region reactor",
+    "zh": "双区型反应堆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultimate yield",
+    "zh": "最终收率（加工后产物收率）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic slurry sampler",
+    "zh": "超声浆料进样器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "UNH conversion process",
+    "zh": "由六水合硝酸铀酰制备三氧化铀的转换过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary gas conversion process(=unitary polymerization process; unitary process)",
+    "zh": "单元气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary polymerization process (=unitary gas conversion process)",
+    "zh": "单元气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary process (=unitary gas conversion process)",
+    "zh": "单元气体转化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary reactor",
+    "zh": "单元反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "upconversion",
+    "zh": "上变频；向上转换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vertical flow reactor",
+    "zh": "直流型反应器；立式连续反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "viscosity conversion",
+    "zh": "黏度换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "voltage to frequency conversion system",
+    "zh": "电压频率转换系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "voltate-to-frequency conversion system",
+    "zh": "电压频率转换系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume-time yield (",
+    "zh": "设备的)容积时间产量；空时产量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume yield",
+    "zh": "体积得率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vortex reactor",
+    "zh": "涡动反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wave-number-wavelength conversion table",
+    "zh": "波长-波数转换表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weight conversion",
+    "zh": "重量转化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield",
+    "zh": "收率*;产量;产生",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield capacity",
+    "zh": "生产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield characteristic",
+    "zh": "收获率指标",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding",
+    "zh": "屈服*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding material",
+    "zh": "流动物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding point",
+    "zh": "屈服点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield limit",
+    "zh": "屈服极限;流动性范围",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield limit curve (",
+    "zh": "蠕变试验)屈服极限曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield locus",
+    "zh": "屈服轨迹",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield modulus",
+    "zh": "屈服模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield-octane relationship",
+    "zh": "收率-辛烷值关系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield on charge",
+    "zh": "对原料收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield percentage",
+    "zh": "收率；收率百分数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield per pass",
+    "zh": "每次收率；循环一次的收率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield-point",
+    "zh": "屈服点;流动点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point behaviour",
+    "zh": "屈服点特性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point test",
+    "zh": "屈服点试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point value",
+    "zh": "塑变值；流动值；屈服值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield polymer film",
+    "zh": "成膜率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield ratio",
+    "zh": "屈强比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield stimulant",
+    "zh": "刺激素；激长素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield strain",
+    "zh": "屈服应变*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield strength",
+    "zh": "屈服强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield stress",
+    "zh": "屈服应力*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield temperature",
+    "zh": "屈服温度；流动温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield value",
+    "zh": "增益值*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield value of stress",
+    "zh": "屈服应力值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield zone",
+    "zh": "流动区；塑变区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zeolite conversion process",
+    "zh": "沸石转化法",
+    "role": "secondary",
+    "confidence": 3.0
+  }
+]

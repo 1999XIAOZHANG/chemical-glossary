@@ -1,0 +1,7184 @@
+[
+  {
+    "en": "absorption cell",
+    "zh": "吸收池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accumulator cell",
+    "zh": "蓄电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acetylated cellulose",
+    "zh": "乙酰(化)纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acetyl cellulose",
+    "zh": "醋酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid-alkali cell",
+    "zh": "酸碱电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Acker cell(for caustic soda)",
+    "zh": "阿克(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activated cellulose",
+    "zh": "活化纤维素；活性纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acyclic stem-nucleus",
+    "zh": "无环母核（无环化合物的母链）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adiabatic membrane",
+    "zh": "绝热膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adipo-cellulose",
+    "zh": "含脂纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "admicelle",
+    "zh": "近胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "admicelle polymerization",
+    "zh": "近胶束聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "AE-cellulose",
+    "zh": "氨(基)乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aeration cell(=oxygen cell)",
+    "zh": "充气电池：氧气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "affinity membrane",
+    "zh": "亲和膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "agar membrane",
+    "zh": "琼脂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "agglomerate cell",
+    "zh": "块集池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aggregation number of micelle",
+    "zh": "胶束聚集数*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air cell",
+    "zh": "气泡；砂眼;空气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air-depolarized cell (",
+    "zh": "空气)去极化电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "airspinning-cell",
+    "zh": "干法纺丝仓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alicyclic stem-nucleus",
+    "zh": "脂环母核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkali cellulose",
+    "zh": "碱纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali cellulose cooler",
+    "zh": "碱纤维素冷却器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali chlorine cell",
+    "zh": "碱氯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkaline cell",
+    "zh": "碱性电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkaline storage cell",
+    "zh": "碱性蓄电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkali resisting cellulose",
+    "zh": "抗碱纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkyl cellulose ether",
+    "zh": "烷基纤维素醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Allen-Moore cell",
+    "zh": "艾伦-穆尔电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "allylcellulose",
+    "zh": "烯丙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "allyl oxalyl cellulose",
+    "zh": "烯丙基乙二酰纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alpha-cellulose α",
+    "zh": "纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alpha-gamma cell α-γ",
+    "zh": "放射性热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amalgam cell",
+    "zh": "汞齐电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amine cellulose",
+    "zh": "氨基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amorphous cellulose",
+    "zh": "无定形纤维素；非晶形纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amphoteric membrane",
+    "zh": "两性膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amyl cellulose",
+    "zh": "戊基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amylo-cellulose",
+    "zh": "淀粉纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amylohemicellulose",
+    "zh": "淀粉半纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "analytical cell cavity",
+    "zh": "分析池腔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anhydro cellobiose",
+    "zh": "脱水纤维二糖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anhydro cellulose",
+    "zh": "脱水纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "animalized cellulose fibre",
+    "zh": "动物性化纤维素；羊毛化纤维素纤维animalized fibre 动物性化纤维素纤维；羊毛化纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "animal membrane",
+    "zh": "动物膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion-exchange membrane",
+    "zh": "阴离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anionic exchange membrane",
+    "zh": "负离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anionic membrane",
+    "zh": "阴离子膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion-permeable membrane",
+    "zh": "阴离子透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion selective membrane electrode",
+    "zh": "阴离子选择性膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anion semipermeable membrane",
+    "zh": "阴离子半透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anisometric micelle",
+    "zh": "不等轴胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anisotropic membrane",
+    "zh": "各向异性膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anthracene nucleus",
+    "zh": "蒽环",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "argon- $beta$ -ray ionization cell",
+    "zh": "氩 射线电离池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ashcroft cell",
+    "zh": "阿希克罗夫特电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asphaltene nucleus",
+    "zh": "沥青质核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "associated substance of cellulose",
+    "zh": "纤维素缔合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atom cell",
+    "zh": "原子化池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic nucleus",
+    "zh": "原子核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomization cell",
+    "zh": "原子化池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomizer cell",
+    "zh": "原子化池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "avicel cellulose",
+    "zh": "结晶纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bacteria cellulose",
+    "zh": "细菌纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bacterial membrane electrode",
+    "zh": "细菌膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bag moulding(=flexible membrane moulding)",
+    "zh": "袋模塑；袋压成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "barrier layer cell",
+    "zh": "障层电池；硒(光)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bash cell",
+    "zh": "巴希电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "battery cell",
+    "zh": "电池组电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Becquerel cell",
+    "zh": "贝可勒尔电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beet cellar",
+    "zh": "甜菜窖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bell cell",
+    "zh": "钟状电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bell jar cell",
+    "zh": "钟式电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bemberg microporous membrane",
+    "zh": "铜氨纤维微孔膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Benard cell",
+    "zh": "贝纳尔德旋流“窝”（引起漆膜发花的一种旋涡现象）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Benard cell boundary",
+    "zh": "贝纳尔德旋流窝(边)界面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "benzene nucleus",
+    "zh": "苯核",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzyl cellosolve",
+    "zh": "苄基溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "benzyl cellulose",
+    "zh": "苄基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beta cellulose β",
+    "zh": "纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beta-gamma cell β-γ",
+    "zh": "放射性热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bichromate cell",
+    "zh": "重铬酸盐电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Billiter diaphragm cell",
+    "zh": "比利特隔膜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Billiter-Leykam cell",
+    "zh": "比利特-来卡姆隔膜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Billiter-Siemens cell",
+    "zh": "比利特-西门子隔膜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biocatalytic membrane electrode",
+    "zh": "生物催化膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biochemical cell",
+    "zh": "生物化学电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biochemical fuel cell",
+    "zh": "生物燃料电池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biological membrane",
+    "zh": "生物膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biomembrane",
+    "zh": "生物膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biomembrane electrode",
+    "zh": "生物膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bipolar cell",
+    "zh": "双极细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bipolar membrane",
+    "zh": "双极性膜；复合膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blocking-layer cell",
+    "zh": "闭塞膜光电池；阻挡层光电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "block ionomer complex micelles",
+    "zh": "嵌段离聚复合物胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blood cell counter",
+    "zh": "血细胞计数仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Borchers cell",
+    "zh": "博彻电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "breakdown voltage of membrane",
+    "zh": "膜击穿电压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bullet-sealing cell",
+    "zh": "防弹油箱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bunsen cell",
+    "zh": "本生电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butylamine cellulose",
+    "zh": "丁胺纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl benzyl cellulose",
+    "zh": "丁(基)苄(基)纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butylcellosolve",
+    "zh": "丁基溶纤剂; 乙二醇一丁醚 C₄H₉OC₂H₄OC₄H₉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl cellosolve adipate (= dibutoxyethy adipate)",
+    "zh": "己二酸二丁氧基乙酯（增塑剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl cellosolve pelargonate (= dibutoxyethyl pelargonate; dibutoxyethyl phthalate)",
+    "zh": "壬酸二丁氧基乙酯（增塑剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl cellosolve phthalate (= dibutoxyethyl pelargonate)",
+    "zh": "邻苯二甲酸二丁氧基乙酯（增塑剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl cellulose",
+    "zh": "丁基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl cellusolve",
+    "zh": "乙二醇单丁醚（溶剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cadmium cell",
+    "zh": "镉电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cadmium standard cell",
+    "zh": "镉标准电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Callow cell",
+    "zh": "考洛浮选池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calomel cell",
+    "zh": "甘汞电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cancellous",
+    "zh": "网眼状的；多孔的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "canyon-type cell",
+    "zh": "狭长型热室；狭谷型设备室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capacitance type of titration cell",
+    "zh": "电容式滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capillary micellar electrokinetic chromatography",
+    "zh": "毛细管胶束电动色谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbonic oxide cell",
+    "zh": "一氧化碳电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbonized cellulose",
+    "zh": "碳(化)纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxyalkyl cellulose",
+    "zh": "羧甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxyethyl carbamylethyl cellulose",
+    "zh": "羧乙基氨基甲酰乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxyethyl cellulose",
+    "zh": "羧乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxyethyl-cyanoethyl cellulose",
+    "zh": "羧乙基-氰乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxyl methyl cellulose",
+    "zh": "羧甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxymethyl cellulose",
+    "zh": "羧甲基纤维素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cardiac muscle cell",
+    "zh": "心肌细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Castner-Kellner cell",
+    "zh": "卡斯讷-凯耳讷电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation exchange cellulose",
+    "zh": "阳离子交换纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation exchange membrane",
+    "zh": "阳离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cation-selective glass membrane",
+    "zh": "阳离子选择性玻璃膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cationic exchange membrane",
+    "zh": "阳离子交换膜 cation surface active agent (=cationics) 阳离子剂；阳离子表面活性剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell",
+    "zh": "晶胞;细胞;电池;盒；槽;测定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell angle",
+    "zh": "晶角",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell body",
+    "zh": "池体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell capacitance measurement",
+    "zh": "细胞电容测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell collapse",
+    "zh": "瘗泡（泡沫塑料缺陷）；微孔萎塌",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell compartment",
+    "zh": "池间隔；吸收池室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell constant",
+    "zh": "池常数：电(导)池常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell correction",
+    "zh": "液池校正",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell cover",
+    "zh": "热室盖(板)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell crane",
+    "zh": "热室吊车",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell crystal",
+    "zh": "晶胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell dimension",
+    "zh": "晶胞大小",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell efficiency",
+    "zh": "池效率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell electrochemistry",
+    "zh": "细胞电化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellexl",
+    "zh": "二乙基氨乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell for conductivity measurement",
+    "zh": "电导(率)测定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell for conductometric titration",
+    "zh": "电导滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell for flowing sample",
+    "zh": "流体试样管；流体试样池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell for high frequency titration",
+    "zh": "高频滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell for infrared absorption",
+    "zh": "红外吸收池；红外吸收槽",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell-free extract",
+    "zh": "无细胞萃取液；无细胞抽提液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell-holder",
+    "zh": "吸收池架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell-in cell-out method",
+    "zh": "池入-池出法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell insulator",
+    "zh": "电池绝缘器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell length (",
+    "zh": "吸收)池长度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell line",
+    "zh": "细胞系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell membrane",
+    "zh": "细胞膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cell membrane complex",
+    "zh": "细胞膜配合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cell morphology (",
+    "zh": "泡沫塑料)泡孔形态(学)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell nucleation (",
+    "zh": "泡沫塑料)泡核作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellobionic acid",
+    "zh": "纤维二糖",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celloboard process",
+    "zh": "脲酚醛树脂-木屑连续剥板法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellocidin",
+    "zh": "灭胞素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Celloco fractionator Celloco",
+    "zh": "纤维分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellodextrin",
+    "zh": "纤维糊精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellogel",
+    "zh": "乙酸纤维凝胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celloidin",
+    "zh": "火棉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celloidin paper",
+    "zh": "火棉纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellon (=tetrachloroethane)",
+    "zh": "四氯乙烷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellopentose",
+    "zh": "纤维五糖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellophane (=cellophane paper)",
+    "zh": "玻璃纸；赛璐玢；透明纸（商）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellophane casting machine",
+    "zh": "玻璃纸成型机；黏胶薄膜成型机；赛璐玢流延机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellophane yarn",
+    "zh": "赛璐玢薄膜纱；玻璃纸纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell organelle sensor",
+    "zh": "细胞器传感器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cellosolve",
+    "zh": "溶纤剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellosolve acetate",
+    "zh": "乙酸溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellotetraose",
+    "zh": "纤维四糖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellotex",
+    "zh": "纤织剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellothene",
+    "zh": "赛璐嗪；透明聚乙烯薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellotriose",
+    "zh": "纤维三糖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellotropin",
+    "zh": "赛璐托品（药）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celloxan",
+    "zh": "纤落散（用碱性染料染醋酸丝时的助染剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celloyarn",
+    "zh": "玻璃纸条；玻璃纸纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell parameters",
+    "zh": "晶胞参数*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell path length",
+    "zh": "吸收池厚度；吸收池光程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell potential",
+    "zh": "电池电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell signaling processor",
+    "zh": "细胞信号传递处理器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell size",
+    "zh": "孔眼大小：孔度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell strain",
+    "zh": "细胞株",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell support",
+    "zh": "电池架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell switch",
+    "zh": "电池换向开关",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell terminal",
+    "zh": "电池线夹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell thickness (",
+    "zh": "吸收)池厚度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell transport",
+    "zh": "细胞传递",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell type heater",
+    "zh": "管式加热炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell-type spinning system",
+    "zh": "仓式熔体纺丝装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celluar silica",
+    "zh": "多孔硅石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellubitol",
+    "zh": "纤维二糖醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellula adhesive",
+    "zh": "泡沫胶黏剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular board",
+    "zh": "蜂窝板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular concrete",
+    "zh": "蜂窝混凝土；气泡混凝土",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular ebonite",
+    "zh": "蜂窝硬质胶；微孔硬胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular fibre",
+    "zh": "多孔纤维，泡沫纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular filter",
+    "zh": "蜂窝滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular insulant (",
+    "zh": "蜂窝状)多孔绝热材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular material",
+    "zh": "微孔材料*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular plastic",
+    "zh": "微孔塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular polymer",
+    "zh": "多孔聚合物；蜂窝状聚合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular profile",
+    "zh": "微孔型材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular rubber",
+    "zh": "多孔橡胶：海绵橡胶（开孔或闭孔）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular sole",
+    "zh": "微孔大底",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular striation (",
+    "zh": "泡沫塑料)泡孔条痕",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular structure",
+    "zh": "微孔结构*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular sulant (",
+    "zh": "蜂窝状)多孔绝热材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellular texture",
+    "zh": "蜂窝状结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulase",
+    "zh": "纤维素酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celluloid",
+    "zh": "赛璐珞；假象牙；硝纤(假)象牙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celluloid lacquer",
+    "zh": "硝酸纤维素漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulolytic",
+    "zh": "能水解纤维素的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulolytic enzyme",
+    "zh": "纤维素(水解)酶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosan",
+    "zh": "纤维聚糖；复合纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosate",
+    "zh": "纤维素盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose",
+    "zh": "纤维素 β-cellulose β-纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose I",
+    "zh": "纤维素I（天然纤维素，如棉花、麻等）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose II",
+    "zh": "纤维素II（丝光纤维素或在常温时再生的一种溶解性纤维素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose Ⅲ",
+    "zh": "纤维素Ⅲ（由纤维素氨化物分解后所得的纤维素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose IV",
+    "zh": "纤维素IV（在 C 以上的高温下分解碱纤维素或纤维素黄酸钠后所得的纤维素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate",
+    "zh": "乙酸纤维素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate bed",
+    "zh": "乙酸纤维素床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate-benzoate",
+    "zh": "纤维素乙酸苯甲酸酯；乙酸苯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate butyrate",
+    "zh": "乙酸丁酸纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate cigarette filter tow",
+    "zh": "二醋酸纤维素丝束",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate fiber",
+    "zh": "醋酸纤维；纤维素酯纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate film",
+    "zh": "乙酸纤维素膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate flake",
+    "zh": "二醋酸纤维素切片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate-laurate",
+    "zh": "乙酸十二酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate-nitrate",
+    "zh": "乙酸-硝酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate propionate (CAP)",
+    "zh": "乙酸-丙酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate rayon",
+    "zh": "纤维素醋酸酯人造丝；醋酸纤维素人造丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate sulfate",
+    "zh": "乙酸纤维素酯硫酸盐",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetate sulphate",
+    "zh": "纤维素醋酸硫酸酯；醋酸硫酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetobutyrate",
+    "zh": "纤维素乙酰丁酸酯；乙酰丁酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetomethacrylate",
+    "zh": "纤维素乙酰甲基丙烯酸酯；乙酰甲基丙烯酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose acetopropionate",
+    "zh": "乙酰丙酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose adhesive",
+    "zh": "硝酸纤维素黏合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose after-xanthation",
+    "zh": "纤维素后黄(原酸)化(反应)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose alloy fiber",
+    "zh": "纤维素合金型纤维；纤维素共混纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose anion exchanger",
+    "zh": "阴离子交换纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose anionic exchange system",
+    "zh": "纤维素阴离子交换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose base fiber",
+    "zh": "纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose butyl benzoate",
+    "zh": "丁基-苯甲酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose butyl laurate",
+    "zh": "丁基-十二酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose butyrate",
+    "zh": "丁酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose butyrate fiber",
+    "zh": "丁酸纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose caproate",
+    "zh": "己酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose chain",
+    "zh": "纤维素链",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose chemistry",
+    "zh": "纤维素化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose-coated plate",
+    "zh": "涂纤维素板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose cobalt complex",
+    "zh": "纤维素钴络合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose column",
+    "zh": "纤维素柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose constituent",
+    "zh": "纤维素组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose crystallite",
+    "zh": "纤维素微晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose degradation",
+    "zh": "纤维素降解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose diacetate film",
+    "zh": "二醋酸纤维素薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose dithiocarbonate",
+    "zh": "纤维素二硫代碳酸酯；纤维素黄(原)酸酯；黄酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose ester",
+    "zh": "纤维素酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose ester membrane",
+    "zh": "纤维素酯(隔)膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cellulose ether",
+    "zh": "纤维素醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose extract",
+    "zh": "亚硫酸纸浆废液(浸)膏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose fatty acid ester",
+    "zh": "纤维素脂肪酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose fibre",
+    "zh": "纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose fibril",
+    "zh": "纤维素原纤维；纤维素微丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose film",
+    "zh": "赛璐玢；纤维素薄膜；黏胶薄膜；玻璃纸（俗称）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose filter",
+    "zh": "纤维素滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose filter aid",
+    "zh": "纤维素助滤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose formate",
+    "zh": "纤维素甲酸酯；甲酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose gel",
+    "zh": "微晶纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose glycollate",
+    "zh": "纤维素乙醇酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose glycollic ether",
+    "zh": "羧甲基纤维素;纤维素乙醇酸醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose graft",
+    "zh": "接枝纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose hydrate",
+    "zh": "纤维素水合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose ion exchange powder",
+    "zh": "离子交换纤维素粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose ion-exchanger",
+    "zh": "离子交换纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose lacquer",
+    "zh": "纤维素喷漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose lattice",
+    "zh": "纤维素晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose laurate",
+    "zh": "十二酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose liquor",
+    "zh": "木素磺酸(鞣)液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose lye",
+    "zh": "亚硫酸盐纸浆废液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose membrane",
+    "zh": "纤维素膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cellulose methylene bis-xanthate",
+    "zh": "亚甲基(二)纤维素黄酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose micelle",
+    "zh": "纤维素微胞；纤维素胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose (mixed ester) plastic",
+    "zh": "纤维素(混酯)塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose mucus",
+    "zh": "纤维素黏液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose naphthenate",
+    "zh": "环烷酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose naphthene laurate",
+    "zh": "环烷酸-十二酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose nitrate",
+    "zh": "硝酸纤维素*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose nitroacetate",
+    "zh": "硝酸乙酸纤维素；纤维素硝酸乙酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose oleate",
+    "zh": "纤维素油酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose orthophosphate (=phosphorylated cotton)",
+    "zh": "磷酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose oxalate",
+    "zh": "纤维素草酸酯；草酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose paint",
+    "zh": "纤维素系涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose paper",
+    "zh": "纤维素纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose paste",
+    "zh": "纤维素浆料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose pelargonate",
+    "zh": "壬酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose peroxide",
+    "zh": "纤维素过氧化物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose phosphate",
+    "zh": "磷酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose pigment finish",
+    "zh": "有色硝纤涂饰剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose plastic",
+    "zh": "纤维素塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose plate",
+    "zh": "纤维素板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose powder",
+    "zh": "纤维素粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose propionate",
+    "zh": "丙酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose propionate fibre",
+    "zh": "纤维素丙酸酯纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose pulp",
+    "zh": "纤维素纸浆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose resinate",
+    "zh": "树脂酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose stearate",
+    "zh": "硬脂酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose sulfate",
+    "zh": "硫酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose sulfonate",
+    "zh": "纤维素磺酸酯；磺酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose thickener",
+    "zh": "纤维素增稠剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose thin-layer chromatography",
+    "zh": "纤维素薄层色谱(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose thinner (",
+    "zh": "硝基)纤维素稀料；硝基漆稀料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose thiourethane",
+    "zh": "硫代氨基甲酸乙酯纤维素；硫脲烷纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose triacetate",
+    "zh": "三乙酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose triacetate film",
+    "zh": "三醋酸纤维素薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose triester",
+    "zh": "纤维素三酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose trithiocarbonate",
+    "zh": "纤维素三硫代碳酸酯；三硫代碳酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose trixanthogen",
+    "zh": "纤维素三黄(原)酸(酯)基",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose turpentine oil",
+    "zh": "纤维素松节油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose type filler in stiff paste",
+    "zh": "纤维素型稠浆填孔料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose valerate",
+    "zh": "戊酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose varnish",
+    "zh": "纤维素清漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose xanthate",
+    "zh": "黄原酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose xanthic acid",
+    "zh": "纤维素黄(原)酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose xanthogenate",
+    "zh": "纤维素黄(原)酸酯；黄(原)酸纤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic",
+    "zh": "纤维素(性的)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic composite fibre",
+    "zh": "纤维素复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic crystalline modification",
+    "zh": "纤维素结晶变体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic exchanger",
+    "zh": "纤维素类离子交换剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic homogenous polycrystal",
+    "zh": "纤维素同质多晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic-man-made-fibre",
+    "zh": "纤维素系人造纤维（以纤维素为原料的化学纤维）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic material",
+    "zh": "纤维素质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic matrix",
+    "zh": "纤维素基体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosics",
+    "zh": "纤维素制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic sorbent",
+    "zh": "纤维素吸附剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic substrate",
+    "zh": "纤维质底材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosine",
+    "zh": "木粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosis",
+    "zh": "纤维素制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulysis",
+    "zh": "纤维素分解作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell uniformity (",
+    "zh": "泡沫塑料)泡孔均匀性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celluose lacquer",
+    "zh": "纤维素喷漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "celluronic acid",
+    "zh": "纤维素糖醛酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Cellu-sizer",
+    "zh": "压力式纤维筛分器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellutyl colour",
+    "zh": "纤基染料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell voltage",
+    "zh": "电池电压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell volume (",
+    "zh": "泡沫塑料)泡孔体积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell vortex",
+    "zh": "贝纳德旋涡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell with one liquid junction",
+    "zh": "单液体接界电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell without transference",
+    "zh": "无迁移电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell with two liquid junctions",
+    "zh": "双液体接界电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "centronucleus",
+    "zh": "中心核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ceramic membrane electrode",
+    "zh": "陶瓷膜电极*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cetyl cellulose",
+    "zh": "十六烷基纤维素；鲸蜡基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chelating cellulose filter",
+    "zh": "螯合纤维素过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical cell",
+    "zh": "化学电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chloride ion-sensing membrane",
+    "zh": "氯离子传感膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorine cell",
+    "zh": "制氯电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorine gas cell",
+    "zh": "氯气室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromatomembrane method",
+    "zh": "色谱膜法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromic acid cell",
+    "zh": "铬酸电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "circular cell",
+    "zh": "圆形热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Clark cell",
+    "zh": "克拉克电池；汞电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clay membrane electrode",
+    "zh": "黏土膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed-cell",
+    "zh": "闭孔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed cell foam",
+    "zh": "闭孔泡沫塑料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed-cell foamed plastics",
+    "zh": "闭孔泡沫塑料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed cell sponge",
+    "zh": "闭孔海绵胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed circuit cell",
+    "zh": "常流电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collagen membrane",
+    "zh": "骨胶膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collision gas cell",
+    "zh": "碰撞气室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collodion membrane",
+    "zh": "胶棉膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collodion membrane electrode",
+    "zh": "火棉胶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collodion-protamine membrane",
+    "zh": "硝棉胶-鱼精蛋白薄膜（测定胶束电荷和表面活性剂活度系数）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combustible cell type oxygenmeter",
+    "zh": "燃室型氧分析仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combustion cell",
+    "zh": "燃烧池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "comicellization",
+    "zh": "共胶束化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complexation-induced micellization",
+    "zh": "络合诱导胶束化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite cellulosic membrane",
+    "zh": "复合纤维膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "composite membrane",
+    "zh": "复合膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound cellulose",
+    "zh": "复合纤维素；结合纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound nucleus",
+    "zh": "复合(原子)核",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressed air cell",
+    "zh": "压缩空气盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Conant's titration cell",
+    "zh": "科南特滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentration cell",
+    "zh": "浓差电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentration cell without transference",
+    "zh": "无迁移浓差电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentration cell with transference",
+    "zh": "有迁移浓差电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentration corrosion cell",
+    "zh": "浓差腐蚀电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "condensation nucleus",
+    "zh": "凝聚核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "condensed nucleus",
+    "zh": "稠环；稠核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conductance cell",
+    "zh": "电导池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conductivity cell",
+    "zh": "电导池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conductivity cells of tungsten filament",
+    "zh": "钨丝热导池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conductivity measuring cell",
+    "zh": "电导率测定槽；电导(率)测定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conductometric titration cell",
+    "zh": "电导滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constancy of the cell",
+    "zh": "电池恒定性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant cell",
+    "zh": "恒压电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant of conductance cell",
+    "zh": "电导池常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convection-diffusion cell",
+    "zh": "对流扩散池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convection-diffusion thermal conductivity cell",
+    "zh": "对流扩散式热导池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copolymer micelle",
+    "zh": "共聚物胶束*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper oxide cell",
+    "zh": "氧化铜电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "core-skin nucleus model",
+    "zh": "核心表皮核模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion cell",
+    "zh": "腐蚀电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cotton hydrocellulose",
+    "zh": "水解棉纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counterbalance cell",
+    "zh": "平衡池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counter-current cell",
+    "zh": "逆流电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counting cell",
+    "zh": "计数池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crew-cut micelle",
+    "zh": "平头胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "critical concentration of micelle formation",
+    "zh": "临界胶束浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "critical micelle concentration (CMC)",
+    "zh": "临界胶束浓度*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "critical micelle point",
+    "zh": "临界胶束点(即临界胶束浓度)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Cross and Bevan cellulose",
+    "zh": "克贝纤维素；C.B.纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cross-linked cellulose fiber",
+    "zh": "交联纤维素纤维（黏胶）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline cellulose",
+    "zh": "晶态纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline cellulose powder",
+    "zh": "结晶纤维素粉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline micelle",
+    "zh": "晶体微胞；晶状微胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystallographic unit cell",
+    "zh": "晶体学单元晶格；结晶晶胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal membrane electrode (",
+    "zh": "单)晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal nucleus",
+    "zh": "晶核*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cubic lattice cell",
+    "zh": "立方点阵晶胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cubic trapped ion cell",
+    "zh": "立体离子阱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cultured cell electrode array",
+    "zh": "培养细胞电极阵列",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cuprammonium cellulose",
+    "zh": "铜铵纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cuprammonium cellulose complex",
+    "zh": "铜铵纤维素络合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cupron cell",
+    "zh": "氧化铜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cutocellulose",
+    "zh": "角质纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cuvette (=cell)",
+    "zh": "电池;小池;比色杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyanoethyl cellulose",
+    "zh": "氰乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyanoethyl ether of cellulose",
+    "zh": "纤维素氰乙基醚 1-cyanoethyl-2-ethyl-4-methylimidazole 1-氰乙基-2-乙基-4-甲基咪唑 1-cyanoethyl-2-ethyl-4-methylimidazole trimellitate 1-氰乙基-2-乙基-4-甲基咪唑合偏苯三酸酯 1-cyanoethyl-2-isopropylimidazole 1-氰乙基-2-异丙基咪唑 1-cyanoethyl-2-methylimidazole 1-氰乙基-2-甲基咪唑 1-cyanoethyl-2-methylimidazole trimellitate 1-氰乙基-2-甲基咪唑合偏苯三酸酯 1-cyanoethyl-2-phenyl-4,5-di (cyanoethoxymethyl) imidazole 1-氰乙基-2-苯基-4,5-二(氰乙氧甲基)咪唑 1-cyanoethyl-2-phenylimidazole 1-氰乙基-2-苯基咪唑 1-cyanoethyl-2-undecylimidazole 1-氰乙基-2-十一基咪唑 1-cyanoethyl-2-undecylimidazole trimellitate 1-氰乙基- 2-十一基咪唑合偏苯三酸酯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cylindrical cell",
+    "zh": "圆柱池；圆筒池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cylindrical micelle",
+    "zh": "圆柱形胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cytoskeleton",
+    "zh": "细胞骨架",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "damp-proof membranes",
+    "zh": "防潮膜；防潮层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Daniell cell",
+    "zh": "丹尼耳电池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Daniell standard cell",
+    "zh": "丹尼耳标准电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "danish agar(=furcellaran)",
+    "zh": "红藻胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "daughter cell",
+    "zh": "子细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deacetylated cellulose acetate",
+    "zh": "脱乙酰基醋酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "DEAE-cellulose(=diethylaminoethyl cellulose)",
+    "zh": "二乙氨基乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "degraded cellulose",
+    "zh": "脆化纤维素；降解纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demicellization",
+    "zh": "解胶束化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "denitrated cellulose nitrate",
+    "zh": "脱硝基硝酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "denitrated nitrocellulose",
+    "zh": "脱硝基硝酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dense membrane",
+    "zh": "密度膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deoxycellulose",
+    "zh": "脱氧纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "detector cell",
+    "zh": "检测器池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of red cell electrophoresis time",
+    "zh": "红细胞电泳时间测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deuterated cellulose",
+    "zh": "氘代纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dialdehyde cellulose",
+    "zh": "二醛基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dialysis membrane",
+    "zh": "渗析膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diaphragm cell",
+    "zh": "隔膜电池diaphragm current 隔膜电流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diaphragmless cell",
+    "zh": "无隔膜电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diathermic membrane(=diathermic wall)",
+    "zh": "绝热膜；绝热壁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diathermic wall(=diathermic membrane)",
+    "zh": "绝热壁；绝热膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dicarboxylcellulose",
+    "zh": "二羧基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dichromate cell",
+    "zh": "重铬酸电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diethylaminoethylcellulose",
+    "zh": "二乙氨乙基纤维素（含有 (C₂H₅)₂NCH₂CH₂—置换基的纤维素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential aeration cell",
+    "zh": "差动充电电池；微分氮气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential cell",
+    "zh": "差示液池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffusion cell",
+    "zh": "(糖)渗滤池;扩散池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffusion cell electrolytic hygrometer",
+    "zh": "扩散池电解湿度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimethyl cellosolve",
+    "zh": "二甲基溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimethyl cellulose",
+    "zh": "二甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dinitrocellulose",
+    "zh": "二硝酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dip-type cell",
+    "zh": "浸入型电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "di-quaternary ammonium cellulose halide exchanger",
+    "zh": "双季铵纤维素卤化盐(离子)交换剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "discharge cell",
+    "zh": "放电室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "disc-shaped micelle",
+    "zh": "盘状胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dispersion micelle",
+    "zh": "分散胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Donnan's membrane theory",
+    "zh": "唐南膜理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double fluid cell",
+    "zh": "双液电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double sector cell",
+    "zh": "扇形双池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Dow cell (for bromine)",
+    "zh": "道氏(制溴)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry cell",
+    "zh": "干电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry cell battery",
+    "zh": "干电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry spinning cell",
+    "zh": "干纺甬道；干纺丝室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual cell",
+    "zh": "双池结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Du Bois cell",
+    "zh": "杜·波伊斯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamically formed membrane",
+    "zh": "动态形成膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Edison cell",
+    "zh": "爱迪生电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "effusion cell",
+    "zh": "泻流室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elastic cell",
+    "zh": "弹性细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electric cell",
+    "zh": "电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrode concentration cell",
+    "zh": "电极浓差电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodialytic cell",
+    "zh": "电渗析池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrodialytic membrane",
+    "zh": "电渗析膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electro-endosmosis membrane control",
+    "zh": "电内渗膜控制",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic cell",
+    "zh": "电解池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic conductance cell",
+    "zh": "电解(质)电导电池;电解(质)电导管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electromembrane process",
+    "zh": "电隔膜法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elementary cell",
+    "zh": "单位晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elliptical cell rotation method",
+    "zh": "椭圆池旋转法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion-type membrane",
+    "zh": "乳化膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "end cell",
+    "zh": "末端电池；补充电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "environmental cell",
+    "zh": "环境(模拟)室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "erratic cell structure",
+    "zh": "不均匀孔眼结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "esterified cellulose",
+    "zh": "酯化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ester oxycellulose",
+    "zh": "氧化纤维素酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "etherified cellulose",
+    "zh": "醚化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ether of cellulose",
+    "zh": "纤维素醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethoxybiphenyl",
+    "zh": "乙氧基联(二)苯 ethoxycarbonyl 乙酯基；乙氧羰基 ethoxy cellulose 乙氧基纤维素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ethyl benzyl cellulose",
+    "zh": "乙基苄基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethyl butyl cellulose",
+    "zh": "乙基丁基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethyl cellosolve",
+    "zh": "乙基溶纤剂；乙二醇一乙醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethyl cellulose",
+    "zh": "乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excellent scratch resistance",
+    "zh": "高抗刮性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exchange membrane",
+    "zh": "交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fabric cell",
+    "zh": "用胶布作成的气球；用胶布作成的袋子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face-centred cell",
+    "zh": "面心晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fagaramide",
+    "zh": "崖椒酰胺 fagaric acid 崖椒酸 fagaric aldehyde 崖椒醛 fagarine 崖椒碱 fagarol 崖椒醇 Fagergren flotation cell 费格临浮选池",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fibrous cellulose powder",
+    "zh": "纤维状纤维素粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrous micelle",
+    "zh": "纤维状胶束；纤维微胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "film membrane",
+    "zh": "薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filter cell",
+    "zh": "滤槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filter diaphragm cell",
+    "zh": "滤膜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filter membrane",
+    "zh": "滤膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filter press cell",
+    "zh": "压滤机型电解槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Findlay cell (for caustic soda)",
+    "zh": "芬德来制苛性钠电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fissile nucleus",
+    "zh": "裂变核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "five-pole cell",
+    "zh": "五极池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fixed partition cell",
+    "zh": "固定隔板沉淀池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fixed path length cell",
+    "zh": "固定光程长吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flat cell",
+    "zh": "扁平池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flat sheet membrane",
+    "zh": "平片膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flexible membrane moulding(=bag moulding)",
+    "zh": "袋模塑；袋压成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flotation cell",
+    "zh": "浮选池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow cell",
+    "zh": "流动池；流通池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow cell compartment",
+    "zh": "流动池室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow cell technique",
+    "zh": "流动池技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow-through cell",
+    "zh": "流通池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "folded-chain fringed micellar grain model",
+    "zh": "折叠链缨状胶束粒子模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free cellulose xanthic acid",
+    "zh": "游离纤维素黄(原)酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fringed micelle",
+    "zh": "缨状微束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fringed-micelle model",
+    "zh": "缨状微束模型",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fringed micelle structure",
+    "zh": "缨状微胞结构；毛边胶束结构",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fringe micelle",
+    "zh": "缨状微束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel cell",
+    "zh": "燃料电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel cell bottom",
+    "zh": "燃料电池底",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel cell detector",
+    "zh": "燃料电池检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "functional membrane",
+    "zh": "功能膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "furan nucleus",
+    "zh": "呋喃环",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fused electrolytic cell",
+    "zh": "熔质电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gall-Montlaux cell",
+    "zh": "戈尔-芒劳克斯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galvanic cell",
+    "zh": "伽伐尼电池；原电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gamma cellulose γ",
+    "zh": "纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas cell",
+    "zh": "气极电池;毒气帐篷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gauss cell",
+    "zh": "高斯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "GE-cellulose",
+    "zh": "胍(基)乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Geeraerd cell",
+    "zh": "吉雷德电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gelatinized cellulose acetate",
+    "zh": "胶化乙酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gel cellophane membrane",
+    "zh": "凝胶赛璐玢膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "giant micelle",
+    "zh": "巨胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass cell",
+    "zh": "玻璃吸收池；玻璃比色池；玻璃比色杯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass fibre membrane",
+    "zh": "玻璃纤维膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane electrode",
+    "zh": "玻璃膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass membrane ion-selective electrode",
+    "zh": "玻璃膜离子选择电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "globular micelle",
+    "zh": "球状胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glocken cell",
+    "zh": "钟式电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glycol cellulose",
+    "zh": "纤维素乙二醇醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glycol ether of cellulose",
+    "zh": "纤维素乙二醇醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glycol monoethyl ether(=cellosolve)",
+    "zh": "乙二醇一乙醚(溶纤剂) HOCH2CH2OC2H5",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Golay cell",
+    "zh": "红外线指示器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Golgi apparatus",
+    "zh": "高尔基(氏)体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gouy cell",
+    "zh": "古依电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gradocal membrane",
+    "zh": "分级滤膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grafted cellulose",
+    "zh": "接枝纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granular membrane",
+    "zh": "筛网过滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gravity cell",
+    "zh": "重力电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Grevet chromic cell",
+    "zh": "格雷维特铬酸电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "guanidoethyl cellulose",
+    "zh": "胍乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Haas-Oettel cell",
+    "zh": "哈斯-奥提耳电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hair cell",
+    "zh": "毛细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hairy micelle",
+    "zh": "毛发形胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half cell",
+    "zh": "半电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half cell potential",
+    "zh": "半电池电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half second cellulose butyrate",
+    "zh": "半秒丁酸纤维素(酯)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half-unit cell composition",
+    "zh": "半晶胞组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hanging drop cell",
+    "zh": "悬滴槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hargreaves-Bird cell",
+    "zh": "哈格里夫斯-伯尔德电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hawkins cell",
+    "zh": "铁镍电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "H cell H",
+    "zh": "型电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat of micellization",
+    "zh": "胶束形成热*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Helmholtz cell",
+    "zh": "亥姆霍兹电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hemicellulase",
+    "zh": "半纤维素酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hemicellulose",
+    "zh": "半纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hemicellulose level",
+    "zh": "半纤维素含量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hemi-micelle",
+    "zh": "半胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hersch cell detector",
+    "zh": "赫希池检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterocyclic nucleus",
+    "zh": "杂环核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterocyclic stem nucleus",
+    "zh": "杂环母核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterogeneous ion-exchange membrane",
+    "zh": "非均相离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous membrane",
+    "zh": "非均态交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous membrane electrode",
+    "zh": "非均相膜电极；多相晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heteronucleus",
+    "zh": "杂环核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hide cellar",
+    "zh": "生皮窖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure cell",
+    "zh": "高压池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure diamond cell",
+    "zh": "高压金刚石池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure flow cell technique",
+    "zh": "高压流通池技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-purity cellulose",
+    "zh": "高纯度纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high speed (membrane) osmometer",
+    "zh": "高速(薄膜)渗透计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high viscosity nitrocellulose",
+    "zh": "高黏度硝化棉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollocellulose",
+    "zh": "全纤维素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow fiber membrane cartridge",
+    "zh": "空心纤维膜滤架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hollow-fibre membrane",
+    "zh": "中空纤维膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "holocellulose",
+    "zh": "全纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homocyclic nucleus",
+    "zh": "碳环核;同素环核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous ion exchange membrane",
+    "zh": "均相离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous membrane electrode",
+    "zh": "均相膜电极*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "horizontal diaphragm cell",
+    "zh": "平膜电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot cell",
+    "zh": "热室;放射性小室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot wire cell",
+    "zh": "热丝池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hull cell",
+    "zh": "哈氏槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrated cellulose",
+    "zh": "水合纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrated micelle",
+    "zh": "水化胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrated nitrocellulose",
+    "zh": "水合硝酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrocellulose",
+    "zh": "水解纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrocellulose nitrate",
+    "zh": "水解纤维素硝酸酯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroelectrical cell",
+    "zh": "水电池（电化）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogen-chlorine cell",
+    "zh": "氢氯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogen nucleus",
+    "zh": "氢核（即质子）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen-oxygen fuel cell",
+    "zh": "氢氧燃料电池*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophilic oleomicelle",
+    "zh": "亲水非极性芯胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophobic membrane",
+    "zh": "疏水膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophobic porous membrane",
+    "zh": "疏水多孔膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxy butyl methyl cellulose",
+    "zh": "羟丁基甲基纤维素 2-(2-hydroxy-3-t-butyl-5-methylphenyl)-5-chlorobenzotri-",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxycellulose",
+    "zh": "氧化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxyethyl cellulose",
+    "zh": "羟乙基纤维素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxyethyl ether cellulose",
+    "zh": "羟乙基纤维素醚",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxymethyl cellulose xanthate",
+    "zh": "纤维素黄酸羟甲酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxy propyl cellulose (HPC)",
+    "zh": "羟(基)丙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxypropyl methyl cellulose (HPMC)",
+    "zh": "羟丙基甲基纤维素 γ-hydroxypropyl methyl sulfide γ-羟丙基甲基硫醚 9-hydroxyprostenoate 9-羟前列腺烯酸 6-hydroxypurine (=hypoxanthine) 6-羟基嘌呤；次黄质C₅H₄N₄O",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hygroscopic ion-exchange membrane",
+    "zh": "吸湿性离子交换膜hygroscopicity 吸湿性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hyperfiltration membrane",
+    "zh": "超细滤膜；纳滤膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ideal permselective membrane",
+    "zh": "理想选择透过膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "immobilizing membrane",
+    "zh": "固定化膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "immunologically competent cell",
+    "zh": "免疫活性细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impedimetric cell",
+    "zh": "阻抗滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impedimetry cell",
+    "zh": "阻抗滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inductance type of titration cell",
+    "zh": "电感式滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inert-atmosphere processing cell",
+    "zh": "惰性气氛处理热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "infrared absorption cell",
+    "zh": "红外吸收池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "infrared cell",
+    "zh": "红外吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "initial cell wall",
+    "zh": "初生胞壁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insensitive nucleus enhancement by polarization transfer (INEPT)",
+    "zh": "不灵敏核极化转移增益法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intercell liquid transfer",
+    "zh": "热室间液体输送",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermicellar equilibrium",
+    "zh": "胶束间平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange cellulose",
+    "zh": "离子交换纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion-exchange cellulose chromatography",
+    "zh": "离子交换纤维色谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange cellulose paper",
+    "zh": "离子交换纤维素纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange membrane",
+    "zh": "离子交换膜*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange membrane electrode",
+    "zh": "离子交换膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange membrane electrodialyser",
+    "zh": "离子交换膜电渗析器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange membrane eletrodialysis",
+    "zh": "离子交换膜电渗析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange resin membrane",
+    "zh": "离子交换树脂膜；离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange resin membrane electrode",
+    "zh": "离子交换树脂膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic exchange membrane",
+    "zh": "离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic micellar core",
+    "zh": "离子型胶束",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic micelle",
+    "zh": "离子胶束*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionization cell",
+    "zh": "电离(测定)池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionizing cell",
+    "zh": "电离室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion selective membrane",
+    "zh": "离子选择膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "IR microcell",
+    "zh": "红外微型池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron cell",
+    "zh": "铁电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irreversible cell",
+    "zh": "不可逆电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isocellobiose",
+    "zh": "异纤维二糖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isocyclic stem-nucleus",
+    "zh": "等环母核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopropyl cellosolve",
+    "zh": "异丙基溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Jablochkoff cell",
+    "zh": "杰布洛霍夫电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "jelly membrane",
+    "zh": "胶膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Junbert cell",
+    "zh": "荣伯特电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Kellner cell (for hypochlorite)",
+    "zh": "凯耳讷(次氯酸盐制造)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Kerr-cell",
+    "zh": "克尔盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kinetic micelle",
+    "zh": "动力学胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Kossuth cell (for bromine)",
+    "zh": "科修思(制溴)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Lalande cell",
+    "zh": "拉兰德电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lamellar micelle",
+    "zh": "层状胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminar flow cell",
+    "zh": "层流池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Law cell",
+    "zh": "劳式电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "layer built cell",
+    "zh": "积层电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Leclanche cell",
+    "zh": "勒克兰瑟电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light-sensitive cell",
+    "zh": "光敏电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ligno-cellulose",
+    "zh": "木素纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ligno-cellulose sulfite extract",
+    "zh": "亚硫酸纸浆废液(浸)膏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lignocellulosic anthracite",
+    "zh": "木质纤维无烟煤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lingo-cellulose",
+    "zh": "木素纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lingo-cellulose sulfite extract",
+    "zh": "亚硫酸纸浆废液(浸)膏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal cell",
+    "zh": "液晶单元",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid cell",
+    "zh": "液体池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid ion exchange membrane electrode",
+    "zh": "液体离子交换膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid junction cell",
+    "zh": "液接电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid membrane",
+    "zh": "液膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid membrane electrode",
+    "zh": "液膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid membrane pH electrode",
+    "zh": "液膜 pH 电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lithium cell",
+    "zh": "锂电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "local cell",
+    "zh": "局部电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "local cell corrosion",
+    "zh": "局部电池腐蚀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "long tube absorption cell method",
+    "zh": "长吸收管法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loose membrane",
+    "zh": "疏松膜；疏松层滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loose micelle",
+    "zh": "松胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low temperature cell",
+    "zh": "低温池；低温槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-viscosity nitrocellulose",
+    "zh": "低黏度硝酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lyocell",
+    "zh": "绿赛尔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macrocell",
+    "zh": "大电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macronucleus",
+    "zh": "大核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magic nucleus",
+    "zh": "幻核*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magic-N nucleus",
+    "zh": "幻中子核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magic-Z nucleus",
+    "zh": "幻质子核 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "main cell",
+    "zh": "主电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "man-made cellulose fibre",
+    "zh": "人造纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Marie Davy cell",
+    "zh": "玛利戴维电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "measuring cell",
+    "zh": "测量池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanical cell",
+    "zh": "机拌池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt ring-open polymerization",
+    "zh": "熔融开环聚合membrane-frit separator(=Grayson separator) 多孔薄膜分离器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "membrane immunofluorescence technique",
+    "zh": "膜免疫荧光技术",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane inlet mass spectrometry",
+    "zh": "膜进样质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane introduction mass spectrometry",
+    "zh": "膜进样质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane junction (",
+    "zh": "薄)膜接界",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane osmometry",
+    "zh": "隔膜渗透压力测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane permeability",
+    "zh": "膜渗透性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane potential",
+    "zh": "膜电位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane receptor",
+    "zh": "细胞膜受体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane resistance",
+    "zh": "膜电阻",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane selective flow",
+    "zh": "膜选择性流动",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane semipermeability",
+    "zh": "膜半渗透性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane separation process",
+    "zh": "薄膜分离法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane separation technique",
+    "zh": "膜分离技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane separator",
+    "zh": "隔膜分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane stress",
+    "zh": "薄膜应力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane system",
+    "zh": "隔膜法(电泳)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane valve",
+    "zh": "薄膜阀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane vesicles",
+    "zh": "膜囊",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane antibody",
+    "zh": "膜抗体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane antigen",
+    "zh": "膜抗原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane antigen receptor",
+    "zh": "膜抗原受体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane capacitance",
+    "zh": "膜电容",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane capacitance measurement",
+    "zh": "膜电容测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane charge",
+    "zh": "膜电荷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane chromatography",
+    "zh": "膜色谱(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane disk",
+    "zh": "膜片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane elasticity",
+    "zh": "膜弹性 memory phenomenon ;记忆现象;复原现象;存储现象",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane electrochemistry",
+    "zh": "膜电化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane electrode",
+    "zh": "膜电极*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane electrophoresis",
+    "zh": "膜电泳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane filter",
+    "zh": "膜滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane filtration",
+    "zh": "膜式过滤",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane emf",
+    "zh": "膜电动势",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane filter method",
+    "zh": "膜滤器法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane filtration culture method",
+    "zh": "薄滤膜培养法：膜滤",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "membrane equilibrium",
+    "zh": "膜(渗)平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury cathode cell",
+    "zh": "汞阴极电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metacellulose",
+    "zh": "异纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallographic hot cell",
+    "zh": "金相热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal membrane electrode",
+    "zh": "金属膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methyl carboxylic cellulose",
+    "zh": "甲基羧基纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methyl cellosolve",
+    "zh": "甲基溶纤剂；甲氧基乙醇；乙二醇一甲醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methylcellosolve acetate(=methoxylglycol acetate)",
+    "zh": "甲基溶纤剂乙酸酯；甲氧基乙醇乙酸脂 CH₃CO₂CH₂CH₂OCH₃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methyl cellulose",
+    "zh": "甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micella",
+    "zh": "微胶粒；胶束",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellae(=micelle)",
+    "zh": "细胞束;胶粒;分子组缨;巢（橡胶纤维及其他复杂物质质单位结构）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar adsorption",
+    "zh": "胶束吸附",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar aggregate",
+    "zh": "微胞凝集体；胶束凝集体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar aggregation",
+    "zh": "胶束集聚(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar catalysis",
+    "zh": "胶束催化",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar charge",
+    "zh": "胶束电荷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar chromatography",
+    "zh": "胶束色谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar colloid",
+    "zh": "胶束状胶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar copolymerization",
+    "zh": "胶束聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar core",
+    "zh": "胶束内芯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar dispersion",
+    "zh": "胶束分散剂；胶束分散体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar electrokinetic capillary chromatography(MECC; MEKC)",
+    "zh": "胶束电动毛细管色谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar electrokinetic chromatograph",
+    "zh": "胶束电动色谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar electrokinetic chromatography",
+    "zh": "胶束电动色谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar emulsion",
+    "zh": "胶束乳状液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar enhanced spectrofluorometric method",
+    "zh": "胶束增敏荧光分光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar heterogeneous",
+    "zh": "胶束多相的；微胞多相的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar hydration",
+    "zh": "胶束水化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar liquid chromatography",
+    "zh": "胶束液相色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar (molecular) weight",
+    "zh": "胶束(分子)量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar net structure",
+    "zh": "胶束网状结构微胞网状结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar phase",
+    "zh": "胶束相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar size",
+    "zh": "胶束大小",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar solubility(=solubilization capacity)",
+    "zh": "加溶(容)量",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar solubilization",
+    "zh": "胶束增溶作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar (solubilization) spectrophotometry",
+    "zh": "胶束(增溶)分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar solution",
+    "zh": "胶束溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar strand",
+    "zh": "微胞束；胶束串",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar structure",
+    "zh": "胶束结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar surface",
+    "zh": "胶束表面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar sweeping",
+    "zh": "胶束扫掠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar system",
+    "zh": "胶束体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar theory",
+    "zh": "胶束理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micellar thin layer chromatography",
+    "zh": "胶束薄层色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle(=supermolecule)",
+    "zh": "胶束；微胞",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-cluster",
+    "zh": "胶束簇",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle core",
+    "zh": "胶束内芯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle critical concentration",
+    "zh": "胶束临界浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle enhanced ultrafiltration",
+    "zh": "胶束增效超滤",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle formation",
+    "zh": "胶束形成；胶束化(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-forming concentration",
+    "zh": "胶束形成浓度；临界胶束浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-forming ion",
+    "zh": "成胶束离子",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-forming solute",
+    "zh": "成胶束溶质",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-like aggregate",
+    "zh": "胶束状聚集体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle model",
+    "zh": "胶束模型",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle molecular lattice",
+    "zh": "胶束分子晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle relaxation",
+    "zh": "胶束松弛作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelles agglomerate",
+    "zh": "胶束凝聚物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized derivative variable angle synchronous fluorescence",
+    "zh": "胶束增敏可变角同步荧光",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized flow injection spectrophotometry",
+    "zh": "胶束增敏流动注射分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized fluorimetry",
+    "zh": "胶束增敏荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized kinetic photometry",
+    "zh": "胶束增敏动力学光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle shape",
+    "zh": "胶束形状",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle stabilization",
+    "zh": "胶束稳定作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle stabilized room temperature phosphorimetry",
+    "zh": "胶束增稳室温磷光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-string",
+    "zh": "微胞束；胶束串",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle surface",
+    "zh": "胶束表面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle theory",
+    "zh": "胶束理论",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle volume",
+    "zh": "胶束体积",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbe fuel cell",
+    "zh": "微生物燃料电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbial membrane electrode",
+    "zh": "微生物膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microbiological fuel cell",
+    "zh": "微生物燃料电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro cell",
+    "zh": "微极化池;微液槽;微型比色槽;微电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular elastomer",
+    "zh": "微孔弹体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular filler",
+    "zh": "微孔填料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-cellular polyurethane",
+    "zh": "微孔状聚氨基甲酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular polyurethane elastomer",
+    "zh": "微孔聚氨酯弹性体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular rubber",
+    "zh": "微孔橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular structure",
+    "zh": "微孔结构；微泡(沫)结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcrystalline cellulose",
+    "zh": "微晶纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcrystalline cellulose powder",
+    "zh": "微晶(型)纤维素粉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcrystalline cellulose triacetate",
+    "zh": "微晶三乙酰纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microelectrophoretic cell",
+    "zh": "微型电泳池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microfiltration membrane",
+    "zh": "微滤膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro flow cell",
+    "zh": "微流量池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro H-type cell",
+    "zh": "微量 H 型池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-IR cell",
+    "zh": "微型红外池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-membrane suppressor",
+    "zh": "微膜抑制器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microporous membrane",
+    "zh": "微孔隔膜；微孔膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microporous membrane technology",
+    "zh": "大分子膜技术；微孔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microtubule",
+    "zh": "微管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "milking cell",
+    "zh": "末端电池；补充电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "millipore membrane filtration concentration method",
+    "zh": "微孔薄膜过滤浓集法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral membrane electrode",
+    "zh": "矿物膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "minicell",
+    "zh": "小型细胞;微型电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "miscella",
+    "zh": "溶剂(混合)油；油与溶剂混合物（萃取）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "miscellaneous",
+    "zh": "混杂的; 各种(各样)的; 多方面的; 其他的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "miscellaneous ether ester",
+    "zh": "杂醚的酯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "miscellaneous paint additive",
+    "zh": "多用漆添加剂；通用漆添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mitochondrial DNA(MTDNA)",
+    "zh": "线粒体 DNA",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mitochondrial electrode",
+    "zh": "线粒体电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mitochondrial RNA(mt RNA)",
+    "zh": "线粒体 RNA",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed crystal membrane electrode",
+    "zh": "混晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed micelle",
+    "zh": "混合胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "model fringed micelle",
+    "zh": "缨状微束模型",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "modified bilayer lipid membrane",
+    "zh": "修正双层磷脂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "modified-cellulose",
+    "zh": "改性纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "modified fringed-micelle structure",
+    "zh": "改进的缨状微束结构",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monomolecular membrane",
+    "zh": "单分子膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monticellite",
+    "zh": "钙镁橄榄石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "movable partition cell",
+    "zh": "可动隔板沉淀池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moving mercury cathode cell",
+    "zh": "活动汞阴极电解池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mucobromic acid",
+    "zh": "黏溴酸；二溴代丁烯醛酸 mucocellulose 黏纤维素",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mucous membrane",
+    "zh": "黏膜；黏液膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multicellar pump",
+    "zh": "多室泵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multicell heater",
+    "zh": "多室加热器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multicellular",
+    "zh": "多室的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multicellular pump",
+    "zh": "多室泵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multimembrane electrodecantation",
+    "zh": "多膜电渗倾泻",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple path absorption cell",
+    "zh": "多光路吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple reflection type gas cell",
+    "zh": "多次反射型气体池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "native cellulose",
+    "zh": "天然纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural cellulose",
+    "zh": "天然纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negatively charged liquid film (membrane) electrode",
+    "zh": "阴性液膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Nelson cell",
+    "zh": "纳尔逊电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neoprene fuel cell",
+    "zh": "氯丁橡胶燃料容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral carrier membrane",
+    "zh": "中性载体膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral carrier membrane electrode",
+    "zh": "中性载体膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral micelle",
+    "zh": "中性胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrated cellulose",
+    "zh": "硝酸纤维素；硝化纤维；硝化棉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitroacetyl cellulose",
+    "zh": "硝酸乙酸纤维素；硝酸醋酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose",
+    "zh": "硝酸纤维素;硝化纤维(素)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose block",
+    "zh": "块状硝化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose chip",
+    "zh": "硝化纤维(素)漆片;硝化纤维(素)色片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose coating",
+    "zh": "硝化纤维涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose dope",
+    "zh": "硝化纤维涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose emulsion",
+    "zh": "硝化纤维素乳液;硝纤乳液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose film",
+    "zh": "硝酸纤维素涂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose finish",
+    "zh": "硝化纤维素涂饰剂;硝纤涂饰剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose isocyanate",
+    "zh": "硝酸(硝化)纤维素异氰酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose lacquer",
+    "zh": "硝基漆；硝基纤维漆；硝酸纤维漆；喷漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose paint",
+    "zh": "硝基漆；硝化纤维漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose percentage elongation of film",
+    "zh": "硝酸纤维素涂膜的伸长率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose powder",
+    "zh": "硝化纤维素火药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose putty",
+    "zh": "硝基腻子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose rayon",
+    "zh": "硝化纤维素螺萦",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose silk",
+    "zh": "硝化纤维(人造)丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrocellulose viscosity specification",
+    "zh": "硝酸纤维素黏度指标",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitro-hydrocellulose",
+    "zh": "硝基水化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-cellulosic fibre",
+    "zh": "非纤维素纤维；合成纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonflame cell",
+    "zh": "无焰吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonmicellar solution",
+    "zh": "非胶束溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal cell",
+    "zh": "标准电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal cellulose",
+    "zh": "正常纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear membrane",
+    "zh": "核膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleus",
+    "zh": "环;(原子)核：(晶)核;细胞核 ;核心",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus formation",
+    "zh": "(晶)核生成(作用);(原子)核生成(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus formation speed",
+    "zh": "晶核形成速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus of crystal",
+    "zh": "晶核；晶籽；结晶中心",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus of flame (",
+    "zh": "引入燃烧混合物的)火花",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus substituted",
+    "zh": "环上取代的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleus substitution",
+    "zh": "环上取代反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "number-average kinetic chain length",
+    "zh": "数均动力学链长度 number-average micellar weight 数均胶束量",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "occlusion cellulose",
+    "zh": "包藏纤维素；夹杂纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Oerliken cell",
+    "zh": "欧厄利肯电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-cell bottom",
+    "zh": "油箱沉积物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "one-fluid cell",
+    "zh": "单液电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open circuit cell",
+    "zh": "暂流电池（物）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open cell",
+    "zh": "开口电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open-celled structure",
+    "zh": "开孔结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open cell foamed plastic",
+    "zh": "开孔泡沫塑料 open-fronted cabinet 正面(前面)开式橱；(柜、箱、壳)体前开门式橱",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open-cell product",
+    "zh": "开孔泡沫制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optical fiber flow cell",
+    "zh": "光导纤维流动池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optoacoustic cell",
+    "zh": "光声池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "order of excellence",
+    "zh": "优劣顺序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organelle",
+    "zh": "细胞(小)器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organosoluble cellulose ester",
+    "zh": "有机(溶剂)溶解性纤维素酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organosoluble cellulose ether",
+    "zh": "有机(溶剂)溶解性纤维素醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orientation of micelle",
+    "zh": "胶束取向",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Orion ion membrane electrode",
+    "zh": "奥龙离子膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orthorhombic unit cell",
+    "zh": "正交晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "osmotic cell",
+    "zh": "渗透池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "osmotic membrane",
+    "zh": "渗透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidation-reduction cell",
+    "zh": "氧化还原电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxitol(=phenyl cellosolve)",
+    "zh": "苯基溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxycellulose",
+    "zh": "氧化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxygen cell(=aeration cell)",
+    "zh": "充气电池; 氧气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxyhydrogen cell",
+    "zh": "氢氧电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "PAB-cellulose",
+    "zh": "对氨(基)苄基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pancreatic islet cell",
+    "zh": "胰岛细胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paracellulose",
+    "zh": "薄壁组织的纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "P-cellulose",
+    "zh": "磷酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pecto-cellulose",
+    "zh": "果胶纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "penetration membrane",
+    "zh": "渗透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "periodate oxidized cellulose",
+    "zh": "高碘酸盐氧化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permeable membrane",
+    "zh": "可透性膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permeable membrane interface",
+    "zh": "渗透膜连接装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permeaselective membrane",
+    "zh": "选择性渗透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permselective ion-exchange membrane",
+    "zh": "选择透过性离子交换膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perm-selective membrane",
+    "zh": "选择性渗透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase-inversion membrane",
+    "zh": "相变形成膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase-separation model of micelle formation",
+    "zh": "胶束形成的析相模型",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenanthrene nucleus",
+    "zh": "菲核；菲环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenyl cellosolve(=oxitol)",
+    "zh": "苯基溶纤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photocell(=photoelectric cell)",
+    "zh": "光电池：光电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphorylated cellulose",
+    "zh": "磷酸纤维素；磷酰化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphorylated cotton(=cellulose orthophosphate)",
+    "zh": "磷酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoacoustic cell",
+    "zh": "光声池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoconductive cell",
+    "zh": "光导管；光敏电阻；光电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectric cell(=photocell;photronic cell)",
+    "zh": "光电池；光电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectrochemical cell",
+    "zh": "光电化学电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photogalvanic cell",
+    "zh": "光化学电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photographic cell",
+    "zh": "感光元",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photosensitive cell",
+    "zh": "光电池；光电管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phototronic cell",
+    "zh": "光电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photovoltaic cell",
+    "zh": "光电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photronic cell(=photoelectric cell)",
+    "zh": "光电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment dispersion micelle",
+    "zh": "颜料分散胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "planar bilayer lipid membrane",
+    "zh": "平板双层磷脂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plant cellulose",
+    "zh": "植物纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plaster-cellulose type filler",
+    "zh": "石膏灰泥-纤维素型填孔料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pneumatically membrane-operated gas sampling valve",
+    "zh": "气动膜式气体进样阀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pneumatic cell",
+    "zh": "气体测试器；气动吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Pockers' cell",
+    "zh": "普克尔盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Poggendoriff bichromate cell",
+    "zh": "波根多里弗重铬酸盐电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarization cell",
+    "zh": "极化电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polarographic micelle point",
+    "zh": "极谱法胶束点；极谱法临界胶束浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polybenzimidazole membrane",
+    "zh": "聚苯并咪唑膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyethylenediaminecellulose",
+    "zh": "聚乙二胺纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polygonal cell",
+    "zh": "多角形热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyhedral borders liquid cell",
+    "zh": "多面边界液胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric membrane",
+    "zh": "高分子膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcellanite",
+    "zh": "陶瓷状变岩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porcellanous",
+    "zh": "陶瓷的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous cell",
+    "zh": "素烧筒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous cellular structure",
+    "zh": "渗透性微孔结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous diaphragm cell",
+    "zh": "多孔隔膜电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "porous membrane",
+    "zh": "多孔膜（分离气体的多孔过滤器）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positively charged liquid film (membrane) electrode",
+    "zh": "阳性液膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive nucleus",
+    "zh": "阳性核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "postmicellar region",
+    "zh": "胶束化后(浓度)区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precipitate-impregnated membrane electrode",
+    "zh": "沉淀填嵌型膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premicellar association",
+    "zh": "胶束化前缔合",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premicellar region",
+    "zh": "胶束化前(浓度)区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressed pellet membrane electrode",
+    "zh": "压片膜电极；混晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure displacement cell",
+    "zh": "汞极排压电解槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary cell",
+    "zh": "原电池；初级(反应)电池；次电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary cellulose acetate",
+    "zh": "初级醋酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary nucleus",
+    "zh": "原核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary unit cell",
+    "zh": "初级晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "process cell",
+    "zh": "工艺热室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "projection nucleus",
+    "zh": "投影环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "propyl benzyl cellulose",
+    "zh": "丙基苄基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "propyl cellosolve",
+    "zh": "丙基溶纤剂；乙二醇一丙醚 CH₃CH₂CH₂OCH₂CH₂OH",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "propyl cellulose",
+    "zh": "丙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudocellulose",
+    "zh": "半纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "psuedo-cell",
+    "zh": "准晶胞*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "PVC membrane electrode",
+    "zh": "聚氯乙烯膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrocellulose",
+    "zh": "焦纤维素；高氮硝化纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrocellulose powder",
+    "zh": "焦纤维素火药；高氮硝化纤维火药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quartz cell",
+    "zh": "石英液槽；石英比色皿；石英吸收池；石英容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasi-liquid membrane(QLM)",
+    "zh": "准液膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quaternary ammonium base cellulose",
+    "zh": "季铵碱纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reciprocal cell",
+    "zh": "倒易晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "red cell folate assay",
+    "zh": "红细胞叶酸测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reference cell",
+    "zh": "参比池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reference cell cavity",
+    "zh": "参比池腔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerated cellulose",
+    "zh": "再生纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerated cellulose fibre",
+    "zh": "再生纤维素纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerated cellulose rayon",
+    "zh": "再生纤维素螺萦",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerative fuel cell",
+    "zh": "再生式燃料电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Regnault cell",
+    "zh": "勒纳尔特电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Reguir cell",
+    "zh": "勒奇尔电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin dispersion micelle",
+    "zh": "树脂分散胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin-membrane electrode (",
+    "zh": "离子交换)树脂膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance cellulose test",
+    "zh": "强纤维试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle",
+    "zh": "逆胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle enhanced fluorescence",
+    "zh": "逆胶束增强荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle enhanced fluorimetry",
+    "zh": "反向胶束增强荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle-stabilized room temperature fluorimetry",
+    "zh": "逆胶束增稳室温荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed phase micelle extraction",
+    "zh": "反向胶束萃取",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reverse micelle extraction",
+    "zh": "反胶团萃取",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reverse osmosis membrane",
+    "zh": "反渗透膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible cell",
+    "zh": "可逆电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Rhodin cell (for caustic soda)",
+    "zh": "若丁(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rigid cellular plastic",
+    "zh": "硬质微孔塑料；硬质泡沫塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "roccellic acid",
+    "zh": "石蕊酸；2-甲基-3-十二烷基琥珀酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "roccelline",
+    "zh": "酸性红 A（染）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rocking cell",
+    "zh": "摇摆式电解槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rod-shaped micelle",
+    "zh": "棒状胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rubber membrane dialysis",
+    "zh": "橡胶膜渗析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rubicelle",
+    "zh": "橙尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt cellulose",
+    "zh": "盐纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt bridge supported bilayer lipid membrane",
+    "zh": "盐桥支撑双 </div>",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sample cell",
+    "zh": "样品管;样品池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "saponified cellulose acetate",
+    "zh": "皂化纤维素醋酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sausage-shaped micelle",
+    "zh": "腊肠状胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "schizophrenic micellization",
+    "zh": "多重胶束化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Schuckert cell (for hypochlorite)",
+    "zh": "舒克特(制次氯酸盐)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scoop wheel cell",
+    "zh": "勺轮电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "SE-cellulose(=sulfoethyl cellulose)",
+    "zh": "磺乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary cell",
+    "zh": "二次电池；蓄电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary cellulose acetate",
+    "zh": "二醋酸纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second messenger",
+    "zh": "第二信使",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selective optrode membrane",
+    "zh": "选择光极膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-assembled monolayer membrane",
+    "zh": "自组装单分子膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self assembling membrane",
+    "zh": "自组膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-purging cell",
+    "zh": "自动净化池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-sealing fuel cell(=self-sealing fuel tank)",
+    "zh": "自封闭燃料箱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-sealing fuel tank(=self-sealing fuel cell)",
+    "zh": "自封闭燃料箱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor cell",
+    "zh": "半导体电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semi-diffusion cell",
+    "zh": "半扩散池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sensitive cell",
+    "zh": "光电池；光电管 </div>",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "separation cell",
+    "zh": "分离池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "series of cells",
+    "zh": "电池组",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shielded cell",
+    "zh": "屏蔽箱*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silicone rubber membrane",
+    "zh": "硅橡胶膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver-zinc storage cell",
+    "zh": "银锌蓄电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-cell furnace",
+    "zh": "单室炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single crystal membrane electrode",
+    "zh": "单晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single fluid cell",
+    "zh": "单液电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "SM-cellulose",
+    "zh": "磺甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soap micelle",
+    "zh": "皂胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda cellulose",
+    "zh": "碱纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium hydrate-cellulose xanthate",
+    "zh": "纤维素黄酸钠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solar cells",
+    "zh": "太阳能电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid membrane electrode",
+    "zh": "固膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid supported bilayer lipid membrane",
+    "zh": "固体支撑双层磷脂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solubilization capacity(=micellar solubility)",
+    "zh": "加溶(容)量",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solubilizing micelle",
+    "zh": "增溶胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Solvay-Kellner cell (for caustic soda)",
+    "zh": "苏尔维-凯耳讷(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solvent cell",
+    "zh": "溶剂池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific gravity cell",
+    "zh": "比重电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific ion-exchange membrane electrode",
+    "zh": "专一性离子交换液膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherical micelle",
+    "zh": "球型胶束*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin membrane immuno-assay",
+    "zh": "自旋膜免疫测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning cell",
+    "zh": "纺丝套筒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard cell",
+    "zh": "标准电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard half-cell",
+    "zh": "标准半电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "star-like micelle",
+    "zh": "星形胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "star-shaped carbon cell",
+    "zh": "星状碳极电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stearyl cellulose",
+    "zh": "硬脂酰纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steeping cell",
+    "zh": "浸渍器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stem nucleus",
+    "zh": "主链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steroid nucleus",
+    "zh": "甾核",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage cell",
+    "zh": "蓄电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stopped flow cell",
+    "zh": "停流流通池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "subcolloidal micelle",
+    "zh": "亚胶态胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submerged cathode cell",
+    "zh": "沉阴极电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submicellar solution",
+    "zh": "逊胶束溶液〔浓度低于临界胶束浓度的表面活性剂溶液〕",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submicelle",
+    "zh": "逊胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "submicroscopic micelle",
+    "zh": "亚微观胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfate cellulose",
+    "zh": "硫酸纤维素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfite cellulose",
+    "zh": "亚硫酸(盐)纸浆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfite cellulose extract",
+    "zh": "亚硫酸盐纸浆提出物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfite cellulose liquor(=sulfite cellulose waste lye)",
+    "zh": "亚硫酸盐废碱液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfite cellulose waste lye(=sulfite cellulose liquor)",
+    "zh": "亚硫酸盐废碱液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfoethylcellulose",
+    "zh": "磺乙基纤维素（含有HSO₃CH₂CH₂—置换基的纤维素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "super-cell",
+    "zh": "硅藻土助滤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supercooled micelle",
+    "zh": "过冷胶束；深冷胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superheavy nucleus",
+    "zh": "超重核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supported bilayer lipid membrane",
+    "zh": "支撑双层磷脂膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supported liquid membrane (SLM)",
+    "zh": "液膜支撑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supporting membrane",
+    "zh": "支撑膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surfactant micelle",
+    "zh": "表面活性剂胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "swollen cellulose",
+    "zh": "溶胀纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic boundary cell",
+    "zh": "形成界面池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tank cell",
+    "zh": "槽式电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "target nucleus",
+    "zh": "靶核*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "TEAE-cellulose(=triethylaminoethyl cellulose)",
+    "zh": "三乙氨基乙基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tetragonal cell",
+    "zh": "四方晶胞；正方晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal conductivity cell",
+    "zh": "热导池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal conductivity cell detector",
+    "zh": "热导池检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermionic cell",
+    "zh": "热离子电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermoelectric cell",
+    "zh": "热电元件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thin layer detector cell",
+    "zh": "薄层检测器池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thiocarbonated cellulose",
+    "zh": "硫代碳酸盐纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thoria effusion membrane",
+    "zh": "氧化钍渗流膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-cell furnace",
+    "zh": "三室炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-electrode cell",
+    "zh": "三电极电解池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Tiselius cell",
+    "zh": "蒂塞利乌斯电泳池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titration cell",
+    "zh": "滴定池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tosyl cellulose",
+    "zh": "甲苯磺酰纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tosylester of cellulose",
+    "zh": "纤维素对甲苯磺酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "total cellulose",
+    "zh": "全纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Townsend cell (for saustic soda)",
+    "zh": "唐森德(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transfer cell",
+    "zh": "转移池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transference cell",
+    "zh": "迁移电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transition cell",
+    "zh": "转变点电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transmembrane pressure",
+    "zh": "跨膜压(透)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trapped ion analyzer cell",
+    "zh": "捕集离子分析室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triacetate membrane",
+    "zh": "三醋酯膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triacetyl cellulose",
+    "zh": "三乙酰纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triethylaminoethyl cellulose",
+    "zh": "三乙氨基乙基纤维素(含有 (C₂H₅)₃N⁺CH₂CH₂—基置换的纤维素)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trinitro-cellulose",
+    "zh": "三硝基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triphenylmethyl cellulose",
+    "zh": "三苯甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trisodium cellulose",
+    "zh": "纤维素三钠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trityl cellulose",
+    "zh": "三苯甲基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tumor necrosis factor",
+    "zh": "肿瘤坏死因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-cell heater",
+    "zh": "两室炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two-fluid cell",
+    "zh": "两液电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two-fluid chromic acid cell",
+    "zh": "两液铬酸电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultrafiltration membrane",
+    "zh": "超滤膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultrathin membrane",
+    "zh": "超薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unicellular plastic",
+    "zh": "闭孔微孔塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unicellular rubber",
+    "zh": "闭孔泡沫橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit cell",
+    "zh": "晶胞；格子单位;干电池;单元格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit cell constant",
+    "zh": "晶胞常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit cell dimension",
+    "zh": "晶胞大小；晶胞尺寸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit cell parameter",
+    "zh": "晶胞参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unmicellized",
+    "zh": "未胶束化的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "upward cell",
+    "zh": "向上电池；氯气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "variable cell",
+    "zh": "可变槽：可变池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "variable path-length cell",
+    "zh": "可变光程吸收池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Vautin cell (for caustic soda)",
+    "zh": "沃廷(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vertical diaphragm cell",
+    "zh": "竖隔膜电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinyl cellulose",
+    "zh": "乙烯基纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "viscose cellar",
+    "zh": "黏胶窿；黏胶窖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volta cell",
+    "zh": "伏打电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltaic cell",
+    "zh": "伏打电池*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltammetric cell",
+    "zh": "伏安池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Washburn cell",
+    "zh": "瓦什伯恩测电导率电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water cellulose",
+    "zh": "充水纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water gas cell",
+    "zh": "水煤气电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-proof membrane",
+    "zh": "防水(隔)膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-soluble cellulose ether",
+    "zh": "水溶性纤维素醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Wedekind cell",
+    "zh": "韦德金电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Westly cell",
+    "zh": "韦斯特利电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Weston cadmium cell",
+    "zh": "韦斯顿镉电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Weston (normal) cell (=cadmium (normal) cell)",
+    "zh": "韦斯顿(标准)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Weston standard cell",
+    "zh": "韦斯顿标准电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet cell",
+    "zh": "湿电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet cell washers for aerosols",
+    "zh": "气溶胶湿滤室",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Whiting cell (for caustic soda)",
+    "zh": "惠廷(制苛性钠)电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wicking type cell",
+    "zh": "芯吸型电解池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Wieldermann cell",
+    "zh": "维耳德曼电炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood cellulose",
+    "zh": "木纤维素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "woven membrane",
+    "zh": "织物滤层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-nucleus correlation with fixed evolution time",
+    "zh": "具有固定演化时间的 X核相关实验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc iron cell",
+    "zh": "锌铁电池",
+    "role": "secondary",
+    "confidence": 4.5
+  }
+]

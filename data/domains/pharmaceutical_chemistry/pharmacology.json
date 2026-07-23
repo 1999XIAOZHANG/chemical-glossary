@@ -1,0 +1,2426 @@
+[
+  {
+    "en": "abnormal distribution",
+    "zh": "非正态分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acidity distribution",
+    "zh": "酸度分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adequate distribution",
+    "zh": "均匀分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity",
+    "zh": "亲和力;亲和能;亲和性;近似；类似",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity adsorption",
+    "zh": "亲和吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity bond",
+    "zh": "亲和势键",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity capillary electrophoresis",
+    "zh": "毛细管亲和电泳",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity capture",
+    "zh": "亲和捕捉法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity chromatography",
+    "zh": "亲和色谱法*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity coefficient",
+    "zh": "亲和系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity constant",
+    "zh": "亲和常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity curve",
+    "zh": "亲和曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity-elution chromatography",
+    "zh": "亲和洗脱色谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity for metal surface",
+    "zh": "对金属表面的亲和力（润滑剂薄膜对金属表面的亲和力）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity interaction",
+    "zh": "亲和作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity labeling",
+    "zh": "亲和标记",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity law",
+    "zh": "相似定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity membrane",
+    "zh": "亲和膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity of chemical reaction",
+    "zh": "化学反应亲和势*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity precipitation",
+    "zh": "亲和沉淀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity preference",
+    "zh": "亲和力次序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity residue",
+    "zh": "亲和残余力(势)；残余亲和力(势)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity ultrafiltration",
+    "zh": "亲和超滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agoniadin",
+    "zh": "槐树皮素；鸡蛋花苷 agonist 兴奋剂；激动剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alicyclic hydrocarbon metabolism",
+    "zh": "脂环烃代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating affinity",
+    "zh": "更迭亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amalgamation half-life",
+    "zh": "汞齐化半值期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonium aurichloride",
+    "zh": "氯金酸铵 NH₄[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "angular distribution",
+    "zh": "角分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annular polymer distribution space",
+    "zh": "环形熔体分配空间（在喷丝板上的空间）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antagonist reaction",
+    "zh": "对抗(性)反应",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonist surfactant",
+    "zh": "对抗表面活性剂（测定表面活性剂用）",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonist titration",
+    "zh": "对抗滴定法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonist",
+    "zh": "对抗物：拮抗物：反协同(试)剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonistic",
+    "zh": "拮抗药",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonistic action",
+    "zh": "对抗作用",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antagonistic effect",
+    "zh": "拮抗效应：对抗效应：反协同效应anterior lobe normone 前叶激素",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antibody half-life",
+    "zh": "抗体半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiknock antagonist",
+    "zh": "抗爆对抗剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "apparent half-life",
+    "zh": "表观半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "araucaria oil",
+    "zh": "南洋杉油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atomic angular distribution function",
+    "zh": "原子角分布函数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomic radial distribution function",
+    "zh": "原子径向分布函数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "AUC process",
+    "zh": "碳酸铀酰铵法（从UF6制备UO2方法之一）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aucubin(e)",
+    "zh": "珊瑚木苷 C15H22O9",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auric chloride",
+    "zh": "氯化金 AuCl₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aurichloride",
+    "zh": "氯金酸盐 M[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aurichlorohydric acid",
+    "zh": "氯金酸 H[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aurochloride",
+    "zh": "氯亚金酸盐 M[AuCl₂]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aurous chloride",
+    "zh": "氯化亚金 AuCl",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aurous cyanide",
+    "zh": "氰化亚金 AuCN",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "average particle size distribution",
+    "zh": "平均粒径分布；平均粒度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "azimuthal intensity distribution",
+    "zh": "方位强度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "barbecue sauce",
+    "zh": "烤肉调味浆（烤烧时涂抹烤物用的酱汁）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basal metabolism",
+    "zh": "基础代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic metabolism",
+    "zh": "基础代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bell-shape distribution curve",
+    "zh": "钟形分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzoic acid metabolism",
+    "zh": "苯甲酸代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Berthelot-Nernst distribution",
+    "zh": "贝特洛-能斯特分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bimodal distribution",
+    "zh": "双峰分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bimodal distribution curve",
+    "zh": "双峰分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bimodal distribution of defect",
+    "zh": "双峰值缺陷分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bimodal molecular weight distribution",
+    "zh": "双峰型分子量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binomial distribution",
+    "zh": "二项式分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioaffinity sensor",
+    "zh": "生物亲和传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioavailability",
+    "zh": "生物可利用性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological affinity sensor",
+    "zh": "生物亲和型传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological efficacy",
+    "zh": "生物效能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological half-life",
+    "zh": "生物半衰期*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bivariate distribution",
+    "zh": "二元分布；二维分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Boltzmann distribution",
+    "zh": "玻耳兹曼分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Boltzmann distribution law",
+    "zh": "玻耳兹曼分布定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bose-Einstein distribution",
+    "zh": "玻色-爱因斯坦分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "box distribution function",
+    "zh": "箱形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bubble half-life",
+    "zh": "气泡半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bubble size distribution",
+    "zh": "气泡大小分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "canonical distribution",
+    "zh": "正则分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caucha",
+    "zh": "晒台（干燥智利硝石用的）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Cauchy formula",
+    "zh": "柯西公式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Cauchy strain",
+    "zh": "柯西应变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain length distribution",
+    "zh": "链长分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain orientation distribution",
+    "zh": "链取向分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chaotic distribution",
+    "zh": "无序分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charge distribution",
+    "zh": "电荷分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charge distribution of fission products",
+    "zh": "裂变产物电荷分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical affinity",
+    "zh": "化学亲和性;化学亲和势;化学亲和能;化学亲和力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chi-square distribution $chi^2$",
+    "zh": "分布；卡方分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chloraurate",
+    "zh": "氯金酸盐 M[AuCl₄]",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorauric acid",
+    "zh": "氯金酸 H[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorauride",
+    "zh": "氯化金 AuCl₃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chloraurite",
+    "zh": "氯亚金酸盐 M[AuCl₂]",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coal distribution",
+    "zh": "煤分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of distribution",
+    "zh": "分配系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coion distribution",
+    "zh": "同离子分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colourant distribution",
+    "zh": "着色剂分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "combining affinity",
+    "zh": "化合亲和势",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "composition distribution function",
+    "zh": "组成分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous distribution",
+    "zh": "连续分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous multistage distribution",
+    "zh": "连续多级分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "convected pressure distribution",
+    "zh": "变动的压力分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Cornish distribution",
+    "zh": "科尼希分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current distribution",
+    "zh": "反流分配*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current distribution apparatus",
+    "zh": "反流分配仪；反流分布装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current distribution method",
+    "zh": "逆流分配法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Craig distribution apparatus",
+    "zh": "克雷格分配仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystal-size distribution (CSD)",
+    "zh": "晶体大小分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumulative distribution",
+    "zh": "累积分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumulative distribution diagram",
+    "zh": "累积分布图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumulative distribution function",
+    "zh": "累积分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumulative distribution under-size particle",
+    "zh": "累积筛下粒度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "daucane",
+    "zh": "胡萝卜烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "daucarine",
+    "zh": "胡萝卜子素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "daucene",
+    "zh": "胡萝卜烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "daucine",
+    "zh": "胡萝卜碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "daucol",
+    "zh": "胡萝卜醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "daucosterol",
+    "zh": "胡萝卜苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "density distribution",
+    "zh": "密度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diastereosequence distribution",
+    "zh": "非对映链段分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diesel-fuel distribution",
+    "zh": "柴油(机燃料在燃料系统中)的分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential distribution curve",
+    "zh": "微分分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential distribution of crosslinking",
+    "zh": "交联微分分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential mass distribution curve",
+    "zh": "微分质量分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential molecular weight distribution",
+    "zh": "微分分子量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential number distribution curve",
+    "zh": "微分数分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential weight distribution",
+    "zh": "微分重量分布(函数)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direction distribution",
+    "zh": "取向分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direction of affinity",
+    "zh": "亲和方向",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "discontinuous distribution",
+    "zh": "不连续分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "discrete distribution",
+    "zh": "分散分布；离散分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dispersion of distribution",
+    "zh": "分布宽度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution",
+    "zh": "分配；分布;配电 -distribution 分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution board",
+    "zh": "配电盘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution chromatography",
+    "zh": "分配色谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution coefficient(=distribution number; distribution ratio)",
+    "zh": "分配系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution constant",
+    "zh": "分配常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution curve",
+    "zh": "分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution density",
+    "zh": "分布密度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution depot",
+    "zh": "分配仓库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution diagram",
+    "zh": "分布图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution fraction",
+    "zh": "分布分数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution function",
+    "zh": "分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution function of chain conformations",
+    "zh": "链构象的分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution function of lag time",
+    "zh": "滞留时间分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution header",
+    "zh": "分配总管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution hopper",
+    "zh": "分配料斗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution isotherm",
+    "zh": "分配等温线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution law",
+    "zh": "分配定律*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution license",
+    "zh": "配给执照",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution line",
+    "zh": "配电线路;配料线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution moment",
+    "zh": "分布矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution number(=distribution coefficient)",
+    "zh": "分配系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution octane number",
+    "zh": "分布辛烷值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of degree of polymerization",
+    "zh": "聚合度分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of droplet mass",
+    "zh": "滴量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of molecular weight",
+    "zh": "分子量分布 </div>",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of particle size",
+    "zh": "粒度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of polymerization degree",
+    "zh": "聚合度分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of pore size",
+    "zh": "孔径分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of radiant heat",
+    "zh": "辐射热分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of reflux (",
+    "zh": "塔内)回流分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of relaxation times",
+    "zh": "弛豫时间分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of residence-time(DRT)",
+    "zh": "保留时间分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of retardation time",
+    "zh": "推迟时间分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of sizes",
+    "zh": "粒度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution of velocity",
+    "zh": "速率分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution on number basis",
+    "zh": "按数量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution on weight basis",
+    "zh": "按重量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution parameter",
+    "zh": "分布参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution pattern (",
+    "zh": "颜料粒径)分布方式",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution principle",
+    "zh": "分配定则;分配原理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution ratio(=extraction coefficient;distribution coefficient)",
+    "zh": "萃取系数;(萃取)分配比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Doerner-Hoskins distribution",
+    "zh": "德尔纳-霍斯金斯分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dose-response curve",
+    "zh": "剂量-反应曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dose-response relationship",
+    "zh": "剂量-反应关系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double focusing mass spectrograph of Mattauch-Herzog type",
+    "zh": "马-赫型双聚焦质谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "droplet-size distribution",
+    "zh": "液滴大小分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drug metabolism",
+    "zh": "药物代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye affinity",
+    "zh": "染料亲和力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dyeing affinity",
+    "zh": "染色亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dying affinity",
+    "zh": "染色亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective half-life",
+    "zh": "有效半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "efficacy",
+    "zh": "功效；效验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elective affinity",
+    "zh": "有择亲和势",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electroaffinity",
+    "zh": "电亲和性;电亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron affinity",
+    "zh": "电子亲和势*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron affinity detector",
+    "zh": "电子亲和检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron affinity substance",
+    "zh": "电子亲和性物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron affinity yield",
+    "zh": "电子亲和率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron density distribution",
+    "zh": "电子密度分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "empirical distribution",
+    "zh": "经验分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end group distribution",
+    "zh": "端基分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy distribution",
+    "zh": "能量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy distribution curve",
+    "zh": "能量分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium distribution",
+    "zh": "平衡分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium distribution of sizes (",
+    "zh": "分子)大小的平衡分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium mode distribution length",
+    "zh": "稳态模式分布长度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "erioglaucine A",
+    "zh": "罂红 A*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "erythroglaucin",
+    "zh": "毛罂红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "excretion",
+    "zh": "排泄",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction coefficient(=distribution ratio)",
+    "zh": "萃取系数；(萃取)分配比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction distribution coefficient",
+    "zh": "萃取分配系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "faucet",
+    "zh": "龙头管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "faucet end",
+    "zh": "龙头管末",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "faucet joint",
+    "zh": "龙头接嘴",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "F-distribution F",
+    "zh": "分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "field distribution",
+    "zh": "场分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fine structure distribution",
+    "zh": "精细结构分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional distribution",
+    "zh": "馏分分布；分级分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free affinity",
+    "zh": "自由亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "frequency distribution",
+    "zh": "频数分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "frequency distribution curve",
+    "zh": "频率分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "frequency particle distribution",
+    "zh": "频率粒度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "friction field distribution",
+    "zh": "摩擦力界分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma distribution model γ",
+    "zh": "分布模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gauche",
+    "zh": "非对称的；左方的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gauche conformation(=skew conformation)",
+    "zh": "邻位交叉构象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gauche form",
+    "zh": "左右式；旁式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gauche-trans conformational transition",
+    "zh": "旁-反式构象转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gauche-trans energy difference",
+    "zh": "旁-反式(构象)能量差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Gaussian distribution",
+    "zh": "高斯分布；正态分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gaussian-shaped concentration distribution",
+    "zh": "高斯型浓度分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glaucine",
+    "zh": "海罂粟碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glauco-(",
+    "zh": "希文 glauko-) 戈烙（音译）；霜灰色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucobilin",
+    "zh": "胆蓝素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucochroite",
+    "zh": "钙锰橄榄石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucodot",
+    "zh": "铁硫砷钴矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glauconite",
+    "zh": "海绿石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucophane",
+    "zh": "蓝闪石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucophanite",
+    "zh": "蓝闪岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glaucophyllin",
+    "zh": "绿叶二酸 C31H32N4Mg(COOH)2",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold monochloride",
+    "zh": "一氯化金；氯化亚金 AuCl",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold potassium chloride",
+    "zh": "氯化金钾；氯金酸钾 K[AuCl ]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold salt",
+    "zh": "氯金酸钠 Na[AuCl ]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold sodium chloride",
+    "zh": "氯化金钠；氯金酸钠 Na[AuCl ]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gold trichloride",
+    "zh": "氯化金 AuCl₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high affinity",
+    "zh": "高亲和能(力)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous distribution law",
+    "zh": "均匀分配定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hooke-Rauchy elasticity equation",
+    "zh": "胡克-柯西弹性方程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "humidity distribution",
+    "zh": "湿度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon distribution",
+    "zh": "烃类分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrochloro-auric acid",
+    "zh": "氯金酸 H[AuCl4]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen-bonding affinity",
+    "zh": "氢键(键合)亲和性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immunoaffinity chromatography",
+    "zh": "免疫亲和色谱法；免疫亲和层析法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in-depth distribution",
+    "zh": "深度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral distribution",
+    "zh": "积分分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral distribution curve",
+    "zh": "累积分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral weight distribution",
+    "zh": "积分重量分布(函数)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral weight distribution curve",
+    "zh": "积分重量分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intensity distribution",
+    "zh": "强度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediary metabolism",
+    "zh": "中间代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermolecular comonomer distribution",
+    "zh": "分子间共聚单体分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomer distribution",
+    "zh": "异构体分布(比例)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotopic distribution",
+    "zh": "同位素分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser fibre fineness distribution analyzer",
+    "zh": "激光式纤维细度分布分析仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lateral distribution",
+    "zh": "横向分布：侧向分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lateral order distribution",
+    "zh": "侧序分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "law of distribution",
+    "zh": "分配定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "law of size distribution",
+    "zh": "粒度分布定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "left Cauchy-Green tensor",
+    "zh": "左柯西-格林张量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium chloraurate",
+    "zh": "氯金酸锂 Li[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "logarithmic distribution law",
+    "zh": "对数分配定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "logarithmic normal distribution",
+    "zh": "对数正态分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "log normal distribution",
+    "zh": "对数正态分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macropore distribution",
+    "zh": "粗孔隙分布；大孔隙分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maldistribution",
+    "zh": "分布不良现象",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Martin distribution",
+    "zh": "马丁分配：马丁分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Martin distribution apparatus",
+    "zh": "马丁分配装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass distribution function",
+    "zh": "质量分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass distribution of fission products",
+    "zh": "裂变产物质量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass distribution ratio",
+    "zh": "质量分配比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass-yield distribution",
+    "zh": "质量-产额分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Mattauch-Herzog double focusing mass spectrometer",
+    "zh": "马-赫双聚焦质谱仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Mattauch-Herzog type mass spectrometer",
+    "zh": "马-赫型质谱仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Maxwell-Boltzmann distribution",
+    "zh": "麦克斯韦-玻耳兹曼分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Maxwell distribution law",
+    "zh": "麦克斯韦分布定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metabolism sensor",
+    "zh": "代谢型传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylaffinity",
+    "zh": "甲基亲和势；甲基亲和能；甲基亲和性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylmalonic acid excretion test",
+    "zh": "甲基丙二酸排泄试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular weight distribution",
+    "zh": "分子量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular weight distribution curve",
+    "zh": "分子量分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular weight distribution differential curve",
+    "zh": "分子量分布微分曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular weight distribution of polymer",
+    "zh": "高聚物分子量分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mole fraction distribution function",
+    "zh": "摩尔分数分布函数；克分子分数分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moment of distribution",
+    "zh": "分布矩数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "most probable distribution",
+    "zh": "最概然分布；最可几分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multistage distribution procedure",
+    "zh": "多级分配操作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multivariate normal distribution",
+    "zh": "多元正态分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "municipal water distribution system",
+    "zh": "城市配水系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "narrow molecular weight distribution",
+    "zh": "窄分子量分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "narrow particle size distribution",
+    "zh": "窄粒度分布narrow ribbon 窄条；窄带",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Natta distribution equation",
+    "zh": "纳塔分布方程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negative electron affinity photocathode",
+    "zh": "负电子亲和势光电阴极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negative skew distribution",
+    "zh": "负歪斜(偏斜)分布（粒径分布方式之一）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogenous metabolism",
+    "zh": "氮的代谢作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "noncentral distribution",
+    "zh": "非中心分布：无中心分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-Gaussian distribution",
+    "zh": "非高斯分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonnormal distribution",
+    "zh": "非正态分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal distribution",
+    "zh": "正态分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal Gaussian distribution function",
+    "zh": "正态高斯分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "number distribution function",
+    "zh": "数量分布函数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "numerical characteristic of distribution",
+    "zh": "分布的数字特征",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil affinity",
+    "zh": "亲油性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil faucet",
+    "zh": "油支管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "O'Keefee distribution",
+    "zh": "奥基夫分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oligomer distribution",
+    "zh": "低聚物分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "order-disorder distribution",
+    "zh": "有序-无序分布(状态)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "order distribution",
+    "zh": "序态分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orientation distribution function",
+    "zh": "取向分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "original position statistic distribution analysis",
+    "zh": "原位统计分布分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paper chromatographic distribution",
+    "zh": "纸色谱分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "parabolic velocity distribution",
+    "zh": "抛物线速度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partial bond fixation",
+    "zh": "键(的)部分固定化 partial coefficient(=distribution coefficient; partition",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partial half-life",
+    "zh": "部分半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particle distribution",
+    "zh": "粒子分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particle distribution pattern",
+    "zh": "粒径分布图形(模式)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particle size distribution",
+    "zh": "粒子大小分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particle size distribution determination",
+    "zh": "粒径分布测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partition coefficient(=distribution coefficient)",
+    "zh": "分配系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partition law(=distribution law)",
+    "zh": "分配(定)律;分布 (定)律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paucidisperse",
+    "zh": "少量分散",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paucidisperse system",
+    "zh": "少量分散系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paucine",
+    "zh": "巴柯碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paucity",
+    "zh": "少数；少量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pauco nuts",
+    "zh": "五壳豆果",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pharmacodynamics",
+    "zh": "药效学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmacokinetic parameter",
+    "zh": "药物动力学参数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pharmacokinetics",
+    "zh": "药物动力学：药代动力学：药动学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmacology",
+    "zh": "药理学；药物学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Poisson distribution equation",
+    "zh": "泊松分布方程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Poisson's distribution",
+    "zh": "泊松分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pore distribution",
+    "zh": "孔分布;孔径分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pore size distribution",
+    "zh": "孔径分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "positive skew(ed) distribution",
+    "zh": "正偏(歪)斜分布 (粒径分布方式之一)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "posterior distribution",
+    "zh": "后验分布；验后分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potassium chloraurate",
+    "zh": "氯金酸钾 K[AuCl₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potency",
+    "zh": "效(力); 效能; 效验;力量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potency of accelerator",
+    "zh": "催速剂效力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure distribution",
+    "zh": "压力分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "priori distribution",
+    "zh": "先验分布；验前分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "probability distribution",
+    "zh": "概率分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "product distribution",
+    "zh": "产品分配;产品组成",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton affinity",
+    "zh": "质子亲和力*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse height distribution analysis(PDA)",
+    "zh": "脉冲高度分布分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse height distribution curve",
+    "zh": "脉冲高度分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantitative distribution",
+    "zh": "数量分配；定量分布(配)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantum pharmacology",
+    "zh": "量子药理学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rectangular distribution",
+    "zh": "矩形分布（粒径分布方式之一）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redistribution",
+    "zh": "再分配",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redistribution baffle",
+    "zh": "再分布挡板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redistribution procedure",
+    "zh": "再分配法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redistribution reaction",
+    "zh": "再分布反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relaxation of electron distribution",
+    "zh": "电子分布弛豫*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual affinity",
+    "zh": "剩余亲和势",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residue distribution of particle size",
+    "zh": "残留粒子(粒度)分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "retention time distribution",
+    "zh": "保留时间分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sampling distribution",
+    "zh": "抽样分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sauconite",
+    "zh": "锌蒙脱石；硅铝锌铅石；羟锌矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schulz-Zimm distribution",
+    "zh": "舒尔茨-齐姆分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sequence distribution",
+    "zh": "序列分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sequence-length distribution",
+    "zh": "序列长度分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "setoglaucine",
+    "zh": "毛罂蓝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "setoglaucine O",
+    "zh": "毛罂蓝O",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "skewed distribution",
+    "zh": "偏态分布;非对称分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solute distribution",
+    "zh": "溶质分布 $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "space-distribution interference",
+    "zh": "空间分布干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spacial distribution",
+    "zh": "空间分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spatial distribution",
+    "zh": "空间分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spatial distribution interference",
+    "zh": "空间分布干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral distribution",
+    "zh": "光谱分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral distribution curve",
+    "zh": "光谱分布曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral energy distribution",
+    "zh": "光谱能(量)分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral power distribution curve",
+    "zh": "光谱功率分布曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard affinity",
+    "zh": "标准亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard distribution function",
+    "zh": "标准分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard normal distribution",
+    "zh": "标准正态分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "statistical distribution",
+    "zh": "统计分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "statistical distribution theory",
+    "zh": "统计分配定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stress distribution",
+    "zh": "应力分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Student's t distribution",
+    "zh": "学生氏 t 分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur distribution",
+    "zh": "硫分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "t-distribution t",
+    "zh": "分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "test of distribution type",
+    "zh": "分布类型检验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical distribution",
+    "zh": "理论分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical distribution curve",
+    "zh": "理论分配曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "therapeutic index",
+    "zh": "治疗指数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total half-life",
+    "zh": "总半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trans and gauche",
+    "zh": "反式与旁式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Tung distribution",
+    "zh": "董分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uneven distribution error",
+    "zh": "不均匀分布误差",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uneven distribution of gum",
+    "zh": "胶质的不均匀分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uniform distribution",
+    "zh": "均匀分布*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsaturated affinity",
+    "zh": "不饱和亲和力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "velocity distribution",
+    "zh": "速度分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "velocity distribution parameter",
+    "zh": "速度分布参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vitagonist",
+    "zh": "维生素拮抗物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "void distribution",
+    "zh": "孔隙分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "void-size distribution",
+    "zh": "空隙大小分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water affinity",
+    "zh": "亲水性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water metabolism",
+    "zh": "水代谢",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wedge distribution",
+    "zh": "楔形分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weight distribution curve",
+    "zh": "重量分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weight distribution function",
+    "zh": "重量分布函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xanthate group distribution",
+    "zh": "黄(原)酸盐基团分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-ray density distribution curve X",
+    "zh": "射线密度分布曲线",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

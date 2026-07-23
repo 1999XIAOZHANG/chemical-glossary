@@ -1,0 +1,7442 @@
+[
+  {
+    "en": "abietic anhydride",
+    "zh": "松香酸酐 abietic resin 松香酸树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ablative composite material",
+    "zh": "烧蚀性复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ABS resin ABS",
+    "zh": "树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acaroid resin",
+    "zh": "禾木树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerated resin",
+    "zh": "速固树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetaldehyde resin",
+    "zh": "乙醛树脂；聚甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetal resin",
+    "zh": "缩醛树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetate butyrate resin",
+    "zh": "乙酸丁酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetophenone-formaldehyde resin",
+    "zh": "苯乙酮-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-cured epoxy resin",
+    "zh": "酸固化环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "acid-cured resin",
+    "zh": "酸固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-modified polyester fibre",
+    "zh": "酸改性聚酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid resin",
+    "zh": "酸性树脂；阳离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-setting resin",
+    "zh": "酸固化性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrolein resin",
+    "zh": "丙烯醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylate resin",
+    "zh": "丙烯酸酯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylic epoxy resin",
+    "zh": "丙烯酸环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "acrylic resin",
+    "zh": "丙烯酸(酯)类树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylic resin adhesive of second generation(SGA)",
+    "zh": "第二代丙烯酸酯胶黏剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylic thermoplastic resin",
+    "zh": "热塑性丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylonitrile-butadiene-styrene resin",
+    "zh": "丙烯腈-丁二烯-苯乙烯树脂*；ABS 树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylonitrile resin",
+    "zh": "丙烯腈树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acrylonitrile styrene resin(AS)",
+    "zh": "丙烯腈-苯乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activated resin",
+    "zh": "活化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "active carbon fiber",
+    "zh": "活性碳纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "adhesive-coated catalyzed laminate",
+    "zh": "涂胶催化层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adhesive-coated uncatalyzed laminate",
+    "zh": "涂胶无催层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adhesive resin",
+    "zh": "黏合用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "advanced composite material(ACM)",
+    "zh": "高性能复合材料;新型复合材料；先进复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "advanced composites",
+    "zh": "先进复合材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aldehyde resin",
+    "zh": "醛类树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aliphatic epoxy resin",
+    "zh": "脂肪族环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "aliphatic polyester",
+    "zh": "脂(肪)族聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aliphatic resin",
+    "zh": "石油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkali-soluble resin",
+    "zh": "碱溶性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyd-modified urea resin",
+    "zh": "醇酸改性脲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyd resin(=glycerol-phthalic resin)",
+    "zh": "甘酞树脂：醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyd resin enamel",
+    "zh": "醇酸树脂瓷漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyd resin varnish",
+    "zh": "醇酸(树脂)清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkylated polymethylol aminoresin",
+    "zh": "烷基(醚)化多羟甲基氨基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyl epoxy-stearate",
+    "zh": "环氧硬脂酸烷基酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyl etherified resin",
+    "zh": "烷基(醇)醚化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allylic resin",
+    "zh": "烯丙基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allyl resin",
+    "zh": "烯丙基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amide-epoxy resin",
+    "zh": "酰胺-环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "aminoplast(ic) resin",
+    "zh": "氨基塑料树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amino resin",
+    "zh": "氨基树脂（氨基化合物或酰胺化合物与醛类物质作用生成的树脂状物质）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aminotriazine resin",
+    "zh": "三聚氰胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammoresinol",
+    "zh": "氨草树脂醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous matrix",
+    "zh": "非晶基体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amphoteric ion exchange resin",
+    "zh": "两性离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amphoteric resin",
+    "zh": "两性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analytical grade resin",
+    "zh": "分析用树脂；分析级树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "angle ply laminate",
+    "zh": "角铺设层合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aniline formaldehyde resin",
+    "zh": "苯胺甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aniline resin",
+    "zh": "苯胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animal resin",
+    "zh": "动物树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anime(=animi resin)",
+    "zh": "硬树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animi resin(=anime)",
+    "zh": "硬树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anion exchange resin(=anion resin)",
+    "zh": "阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anion resin(=anion exchange resin)",
+    "zh": "阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anisotropic composite material",
+    "zh": "各向异性复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ANS resin(=acrylonitrilestyrene resin)",
+    "zh": "丙烯腈-苯乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aramid",
+    "zh": "芳族聚酰胺",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aramid fiber",
+    "zh": "芳族聚酰胺纤维；芳纶；B 纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "aramid fiber reinforced plastics(AFRP)",
+    "zh": "芳纶增强塑料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "aramid fibre reinforced concrete",
+    "zh": "聚芳酰胺纤维增强混",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aramid sulfone fibre",
+    "zh": "聚芳砜纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aromatic polyester",
+    "zh": "芳香族聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "artificial resin",
+    "zh": "人造树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asaresinotannol",
+    "zh": "阿魏树脂鞣醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asbestos-ceramic fibre composite",
+    "zh": "石棉-陶瓷纤维复合材料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aspidium oleoresin",
+    "zh": "绵马油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "A-stage resin",
+    "zh": "甲阶树脂；可熔阶段树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Auger matrix effect",
+    "zh": "俄歇基体效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "average composite sample",
+    "zh": "平均组合样品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baking of resin",
+    "zh": "烘烤树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "balanced laminate",
+    "zh": "均衡层合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "base exchange resin",
+    "zh": "碱性(离子)交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "base resin",
+    "zh": "原料树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic polyester",
+    "zh": "碱性聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic resin",
+    "zh": "碱性树脂；阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Belro resin",
+    "zh": "深色热塑性酸性树脂（从明子制备）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzofuran resin",
+    "zh": "苯并呋喃树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzoresinol",
+    "zh": "安息香树脂醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beryllium-glass composite fibre",
+    "zh": "铍基玻璃复合纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biaxial warp-knitted composite",
+    "zh": "双轴向经编复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "binder resin",
+    "zh": "黏结剂用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biodegradable polyester",
+    "zh": "生物裂解聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bismaleimide-triazine resin",
+    "zh": "双马来酰亚胺三嗪树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bisphenol A epoxy resin",
+    "zh": "双酚 A 环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "bisphenol resin",
+    "zh": "双酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bistabilized polyester yarn",
+    "zh": "两次稳定的聚酯(变形)丝; 聚酯低弹丝(第一次指变形时的热定型, 第二次指变形后的热处理)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bitumen resin",
+    "zh": "沥青树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bituminous epoxy",
+    "zh": "环氧沥青",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bituminous resins",
+    "zh": "沥青树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blocked copolyester",
+    "zh": "嵌段共聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "block matrix least-squares refinement",
+    "zh": "块角矩阵最小二乘修正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "block polyesteramide",
+    "zh": "嵌段聚酰胺酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bonding resin",
+    "zh": "黏合树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boron fiber reinforced plastics(BFRP)",
+    "zh": "硼纤维增强塑料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boron resin",
+    "zh": "硼树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boswellia resin",
+    "zh": "乳香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "branched copolyester fibre",
+    "zh": "支化共聚(聚)酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "breathable laminate",
+    "zh": "透气(性)层压制件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butadiene styrene resin",
+    "zh": "丁二烯-苯乙烯树脂；丁苯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butoxy resin",
+    "zh": "丁醇醚化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butylated melamine-formaldehyde resin",
+    "zh": "丁醇改性三聚氰胺甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butylated melamine resin",
+    "zh": "丁醇改性三聚氰胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butylated urea-formaldehyde resin",
+    "zh": "丁基化脲甲醛树脂；丁醇醚化脲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butylated urea resin",
+    "zh": "丁醇改性脲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butyl epoxy stearate",
+    "zh": "环氧硬脂酸丁酯（增塑剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butyl-9,10-epoxy-stearate 9,10-",
+    "zh": "环氧硬脂酸丁酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butyral resin",
+    "zh": "丁醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium resinate",
+    "zh": "树脂酸钙",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capacity of ion exchange resin",
+    "zh": "离子交换树脂容量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capsicum oleoresin",
+    "zh": "辣椒油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capsicum resin",
+    "zh": "辣椒树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbamide resin",
+    "zh": "聚脲树脂；碳酰胺树脂 $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon composite",
+    "zh": "碳纤维复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon fiber",
+    "zh": "碳纤维*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carbon fiber adsorbent",
+    "zh": "碳纤维吸着剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carbon fiber micro-disk electrode",
+    "zh": "碳纤维微盘电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carbon fiber microelectrode",
+    "zh": "碳纤维微电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carbon fiber reinforced plastics (CFRP)",
+    "zh": "碳纤维增强塑料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "carbon fibre-carbon matrix composite",
+    "zh": "碳纤维-碳基质复合材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "carbon-fibre composite",
+    "zh": "碳纤维复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon fibre-plastic composite",
+    "zh": "碳纤维-塑料复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carboxylated resin",
+    "zh": "羧化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carboxy(l)-functional polyester",
+    "zh": "含羧基官能团的聚酯；羧基聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carboxylic resin",
+    "zh": "羧酸型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carboxyl polyester",
+    "zh": "羧基聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "casein-formaldehyde resin",
+    "zh": "酪蛋白甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cassia oleoresin",
+    "zh": "玉桂油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "casting resin",
+    "zh": "铸模树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cast resin",
+    "zh": "铸塑树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic composite",
+    "zh": "复合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathodic delamination",
+    "zh": "阴极脱层(剥离); 阴极脱胶(解黏合)作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cation exchange resin",
+    "zh": "阳离子交换树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cation resin (=cation exchange resin)",
+    "zh": "阳离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulose resinate",
+    "zh": "树脂酸纤维素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulosic composite fibre",
+    "zh": "纤维素复合纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic matrix",
+    "zh": "纤维素基体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "central composite design",
+    "zh": "中心复合设计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic fibre reinforced composite",
+    "zh": "陶瓷纤维增强复合材料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceramic-metal composite system",
+    "zh": "陶瓷-金属复合材料系统",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceresin(e) (",
+    "zh": "纯)地蜡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ceresin(e) wax (",
+    "zh": "纯)地蜡：微晶蜡；不定形蜡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chelate resin",
+    "zh": "螯合树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chelating ion exchange resin",
+    "zh": "螯合树脂；螯合(型)离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chelating resin",
+    "zh": "螯合(型)树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical fiber reinforced plastics",
+    "zh": "化学纤维增强塑料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chlorinated polyester fibre",
+    "zh": "氯化聚酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorinated resin",
+    "zh": "氯化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chopped strand hybrid composites",
+    "zh": "混杂短切纤维复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "chromatographic grade resin",
+    "zh": "色谱用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clove bud oleoresin",
+    "zh": "丁子香(花)油树脂；丁香花蕾油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "club sandwich compound",
+    "zh": "三层夹心型化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coalesced resin globule",
+    "zh": "凝聚的树脂珠",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal tar-epoxy coating",
+    "zh": "环氧沥青涂料；煤焦沥青环氧涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal tar resin",
+    "zh": "煤焦油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coating resin",
+    "zh": "涂料用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cobalt resinate",
+    "zh": "树脂酸钴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coextrudable tie resin",
+    "zh": "共挤压黏合树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold plastic matrix",
+    "zh": "冷塑性基料（常温溶解型基料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colophony resin",
+    "zh": "松香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "commodity resins",
+    "zh": "日用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "common resin",
+    "zh": "松香",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "comodity resin",
+    "zh": "日用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complexing resin",
+    "zh": "配位树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "composite",
+    "zh": "复合材料*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite active center",
+    "zh": "复合活性中心",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite analogy",
+    "zh": "复合模拟",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite catalyst",
+    "zh": "复合催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite cathodic-anodic wave",
+    "zh": "阴阳极联波",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite cellulosic membrane",
+    "zh": "复合纤维膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite coating",
+    "zh": "复合涂层",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite column",
+    "zh": "复合柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite correction factor",
+    "zh": "复合校正因子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite cupel",
+    "zh": "特用灰皿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite curve",
+    "zh": "组合曲线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite design",
+    "zh": "复合设计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite extrusion",
+    "zh": "复合挤塑;复合材料挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite fabric",
+    "zh": "复合织物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite fiber",
+    "zh": "复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite fluid",
+    "zh": "组合流体（凝结水和石油的混合物）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite force",
+    "zh": "复合力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite fuel",
+    "zh": "组合燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite laminates",
+    "zh": "复合层压材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "composite lattice",
+    "zh": "复合点阵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite material",
+    "zh": "复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite materials fine mechanics",
+    "zh": "复合材料细观力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite membrane",
+    "zh": "复合膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite micromechanics",
+    "zh": "复合材料微观力学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite mold",
+    "zh": "组合模",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite molding",
+    "zh": "复合成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite motor fuel",
+    "zh": "复合发动机燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite network",
+    "zh": "复合网络",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite oxides",
+    "zh": "复合氧化物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite pigment",
+    "zh": "复合颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite plasma polymer",
+    "zh": "复合等离子体聚合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite powder",
+    "zh": "复合粉末",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite pre-coated steels",
+    "zh": "复合预涂钢板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite product",
+    "zh": "复合材料制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite pulse",
+    "zh": "组合脉冲",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite reaction",
+    "zh": "组合反应（石油）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite resistance",
+    "zh": "复合电阻",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite resistivity",
+    "zh": "复合电阻率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite sample",
+    "zh": "复合试样",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite sheet",
+    "zh": "复合片材;复合板材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite signal",
+    "zh": "复合信号",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite silk",
+    "zh": "复合生丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite species",
+    "zh": "复合种类；各种复合形式",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite stabilizer",
+    "zh": "复合稳定剂；混配稳定剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite structure",
+    "zh": "复合结构；混合结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite surface",
+    "zh": "复合面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite synthetic fibre",
+    "zh": "复合合成纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite wave",
+    "zh": "复合波；波组",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite yarn",
+    "zh": "包芯纱；复合纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concrete plastic composite",
+    "zh": "混凝土塑料复合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "condensation resin",
+    "zh": "缩合树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conduct resin",
+    "zh": "接触成型树脂；触压树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "congo ester resin",
+    "zh": "刚果酯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact laminate",
+    "zh": "触压层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact pressure resin",
+    "zh": "触压固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact resin",
+    "zh": "低压固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous polyester condensation",
+    "zh": "聚酯连续缩合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous polyester polycondensation process",
+    "zh": "聚酯连续缩聚工艺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolyester",
+    "zh": "共聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolyesteramide",
+    "zh": "共聚酯酰胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolyester elastomer",
+    "zh": "聚酯橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copolyesterification",
+    "zh": "共聚酯化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coppe-epoxy type EMI shielding coating",
+    "zh": "铜-环氧型电磁干扰屏蔽涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper clad laminate",
+    "zh": "覆铜板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper-epoxy type EMI shielding coating",
+    "zh": "铜-环氧型电磁干扰屏蔽涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper-glass composite fibre",
+    "zh": "铜-玻璃复合纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper resinate",
+    "zh": "树脂酸铜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coriander oleoresin",
+    "zh": "芫荽油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "correlation matrix",
+    "zh": "相关矩阵*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coumarone-indene resin",
+    "zh": "苯并呋喃-茚树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coumarone resin",
+    "zh": "苯并呋喃树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "covariance matrix",
+    "zh": "协方差矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "CPVC of resin emulsion paint",
+    "zh": "树脂乳胶漆的临界颜料体积浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cresol-formaldehyde resin",
+    "zh": "甲酚-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cresol-novolac epoxy resin",
+    "zh": "甲酚-线型(热塑性)酚醛环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "cresol resin",
+    "zh": "甲酚(-甲醛)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cresylic resin",
+    "zh": "混甲酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross laminate",
+    "zh": "正交层压制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cross laminated",
+    "zh": "交向(纹理)层压",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosswise laminate",
+    "zh": "正交层压制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "croton resin",
+    "zh": "巴豆脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalline matrix",
+    "zh": "结晶母体；结晶基体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "C-stage resin",
+    "zh": "酚醛树脂 C；不熔阶段树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumar resin",
+    "zh": "香豆树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cured phenolic resin fibre",
+    "zh": "固化(的交联)酚醛树脂纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cured resin",
+    "zh": "凝固树脂；硬树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cycle matrix",
+    "zh": "循环矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclic ketone resin",
+    "zh": "环酮树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclized rubber resin",
+    "zh": "环化橡胶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cycloaliphatic epoxy",
+    "zh": "脂环系环氧",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclohexanone-formaldehyde resin",
+    "zh": "环己酮-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dammar resin(=damar resin)",
+    "zh": "瑛玛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "data matrix",
+    "zh": "数据矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decolorizing resin",
+    "zh": "脱色树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decorative epoxy powder coating",
+    "zh": "装饰性环氧粉末涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delaminated clay (",
+    "zh": "千)层状瓷土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delaminated kaoline",
+    "zh": "层状高岭土",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delamination",
+    "zh": "层离；脱层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delamination resistance (",
+    "zh": "层压制品)抗分层性；抗脱层性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delamination tank",
+    "zh": "层离罐；层解罐；粒度分级罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed delamination",
+    "zh": "后期脱层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "densified laminated wood",
+    "zh": "加重层积材;强化层积材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density matrix",
+    "zh": "密度矩阵*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density matrix theory",
+    "zh": "密度矩阵理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density operator",
+    "zh": "密度算符* density operator (matrix) method of NMR theory NMR理论的密度算符(矩阵)方法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dental resin",
+    "zh": "牙科用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deresination",
+    "zh": "脱胶脂(作用)；脱树脂(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deresination agent",
+    "zh": "脱树脂剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deresined lube stock",
+    "zh": "脱胶脂润滑油料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deresining",
+    "zh": "脱胶脂；脱树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deresining plant",
+    "zh": "脱胶脂装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diagonal matrix",
+    "zh": "对角矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "di-(2-ethylhexyl)-4,5-epoxy tetrahydrophthalate 4,5-",
+    "zh": "环氧四氢邻苯二甲酸二(2-乙基己)酯（增塑剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "difunctional epoxy compound",
+    "zh": "双官能环氧化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "difunctional epoxy resin",
+    "zh": "双官能(度)环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "difunctional exchange resin",
+    "zh": "双官能团交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dihydroxy menthofuran",
+    "zh": "二羟基薄荷呋喃 2,6-dihydroxymethyl-4-chlorophenol resin 2,6-二羟甲基-4-氯代苯酚树脂（硫化剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl hydantoin formaldehyde resin",
+    "zh": "二甲基乙内酰脲甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diol diacid polyester resin",
+    "zh": "二醇-二酸聚酯树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "dipropoxytitanium-bis(triethanolaminate)",
+    "zh": "二(三乙醇氨)钛酸二丙(氧基)酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "directionally oriented structure composites",
+    "zh": "定向结构经编复合材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dispersion resin",
+    "zh": "分散树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissoluble resin content",
+    "zh": "可溶性树脂含量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distance matrix",
+    "zh": "距离矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry laminate",
+    "zh": "干式叠层（塑料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "easy cation-dyeable polyester",
+    "zh": "阳离子染料易染型聚酯：易染型改性聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elastomeric polyester",
+    "zh": "弹性体聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electroconductive resin",
+    "zh": "导电树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron exchange resin",
+    "zh": "电子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elemi resin",
+    "zh": "榄香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion resin",
+    "zh": "乳液法树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy-absorbing resin mat",
+    "zh": "吸能树脂毡片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy",
+    "zh": "环氧；表氧；桥氧基 —O—",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy resin",
+    "zh": "环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy acrylate",
+    "zh": "环氧丙烯酸酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy adduct",
+    "zh": "环氧加合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy adhesive",
+    "zh": "环氧树脂胶黏剂 1,2-epoxyalkane 1,2-环氧烷烃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy alkane",
+    "zh": "环氧烷烃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy alkyd resin",
+    "zh": "环氧(改性)醇酸树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy alkyd varnishes",
+    "zh": "环氧醇酸清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxyalkylsilane",
+    "zh": "环氧烷基硅烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-amine resin",
+    "zh": "胺固化环氧树脂 8,9-epoxycedrane 8,9-环氧柏木烷",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy chloropropane",
+    "zh": "环氧氯丙烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy coating",
+    "zh": "环氧(树脂)涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy compound",
+    "zh": "环氧化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy cresol novalac resin(ECN)",
+    "zh": "环氧甲酚甲醛树脂；环氧酚醛树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy cross-linking chemistry",
+    "zh": "环氧交联化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy curing agent",
+    "zh": "环氧交联剂 β-(3,4-epoxycyclohexyl) ethyl trimethoxysilane β-(3,4-环氧环己基)乙基三甲氧基硅烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy derivative",
+    "zh": "环氧衍生物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxydon",
+    "zh": "顶环氧菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy equivalent (weight)",
+    "zh": "环氧当量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy ester",
+    "zh": "环氧酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy ester undercoat",
+    "zh": "环氧酯底漆;环氧酯中间涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy ethane",
+    "zh": "环氧乙烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy foam",
+    "zh": "环氧(树脂)泡沫塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy glass substrate",
+    "zh": "环氧玻璃基板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy glyceride",
+    "zh": "环氧甘油酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy glycerite",
+    "zh": "环氧甘油（润滑剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy group(ing)",
+    "zh": "环氧基；表氧基（环氧基易和杂环命名相混；故用表氧基较好）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy isoimperatorin",
+    "zh": "环氧异欧前胡素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxylinalool(=linalool monoxide)",
+    "zh": "环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxylinalyl acetate",
+    "zh": "乙酸环氧芳樟酯 2,6-epoxy-6-methyl heptane-2,5-dicarboxylic acid 2,6-环氧-6-甲基庚烷-2,5-二羧酸；桉树脑酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-modified lacquer",
+    "zh": "环氧改性清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-modified novolak filament",
+    "zh": "环氧改性的酚醛树脂长丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy molding material",
+    "zh": "环氧树脂模塑(材)料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy monomer",
+    "zh": "环氧单体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy moulding powder",
+    "zh": "环氧树脂模型粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxyn",
+    "zh": "环氧树脂类黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy novolac",
+    "zh": "环氧酚醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy novolac adhesive",
+    "zh": "线型酚醛环氧黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-novolac resin",
+    "zh": "环氧-线型(热塑性)酚醛树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy number",
+    "zh": "环氧值（每100克环氧化合物中所含环氧基的克当量值）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxyoleic acid",
+    "zh": "环氧(化)油酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy oxygen",
+    "zh": "环氧基氧；环氧态氧",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy plasticizer",
+    "zh": "环氧增塑剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy plastics",
+    "zh": "环氧塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-polyamide blend",
+    "zh": "环氧聚酰胺混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-polyamide coatings",
+    "zh": "环氧-聚酰胺涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy-polyamide resin",
+    "zh": "环氧-聚酰胺树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy polymer",
+    "zh": "环氧聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy prepreg",
+    "zh": "环氧树脂预浸料 1,2-epoxy propane 1,2-环氧丙烷 1,3-epoxypropane 1,3-环氧丙烷 2,3-epoxy propanol 2,3-环氧丙醇；2,3-缩水甘油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy propionic acid",
+    "zh": "环氧丙酸；缩水甘油酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxypulegone",
+    "zh": "环氧胡薄荷酮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy putty",
+    "zh": "环氧(树脂)腻子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy resin (based) powder coatings",
+    "zh": "环氧树脂(系)粉末涂料",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy resin cure",
+    "zh": "环氧树脂固化",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy resin derivatization",
+    "zh": "环氧树脂的衍生作用",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy resin ester",
+    "zh": "环氧(树脂)酯",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy resin varnish",
+    "zh": "环氧(树脂)清漆",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "epoxy ring",
+    "zh": "环氧环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxysiloxane",
+    "zh": "环氧硅氧烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy stabilizer",
+    "zh": "环氧稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy stearate",
+    "zh": "环氧硬脂酸酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxystearic acid 9,10-",
+    "zh": "环氧硬脂酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy substrate",
+    "zh": "环氧树脂底材(基底)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxythio",
+    "zh": "环氧硫；桥氧硫 —OS—",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy tooling",
+    "zh": "环氧模具",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy value",
+    "zh": "环氧值（每100克环氧化合物中所含环氧基的克当量值）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy zinc rich primer",
+    "zh": "环氧富锌底漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "erythroresinotannol",
+    "zh": "赤脂单宁醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "essence of resin",
+    "zh": "松香精",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "esterfied resin",
+    "zh": "酯化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethenoid resin",
+    "zh": "乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etherified urea resin",
+    "zh": "醚化脲树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ether resin",
+    "zh": "醚树脂;环氧树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethoxylin(=epoxy resin)",
+    "zh": "环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ethoxyline resin",
+    "zh": "环氧树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethylhexene",
+    "zh": "乙基己烯 $$酯（增塑剂） 2-ethyl-1,3-hexylene 2-乙基-1,3-己二烯 2-ethylhexyl epoxytallate 环氧妥尔酸-2-乙己酯（增塑、稳定联合剂） 2-ethyl hexyl ethanoate 乙酸异辛酯；乙酸-2-乙基己酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl triazine resin",
+    "zh": "乙基三嗪树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exchange matrix",
+    "zh": "交换基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exchange resin (",
+    "zh": "离子)交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "excitation-emission matrix",
+    "zh": "激发-发射矩阵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exothermic composite material",
+    "zh": "放热性复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "expanded phenol-formaldehyde resin",
+    "zh": "多孔酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fabric hybrid composites",
+    "zh": "混杂织物复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "ferrite matrix",
+    "zh": "铁氧体(铁素体)晶体；铁氧体基质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fiber hybrid composites",
+    "zh": "混杂纤维复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "fiber reinforced plastics",
+    "zh": "纤维增强塑料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fibre-building polyester",
+    "zh": "成纤用聚酯；制造纤维的聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibre composite",
+    "zh": "纤维复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre glass reinforced laminate",
+    "zh": "玻璃纤维增强层合塑料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre reinforced metal composite",
+    "zh": "纤维增强金属复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre resin",
+    "zh": "纤维(用)树脂; 纤维级树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibre-resin composite",
+    "zh": "纤维-树脂复合材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "fibrous composite",
+    "zh": "纤维复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "film-forming resin",
+    "zh": "成膜性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "finely divided resin",
+    "zh": "细粒树脂；微粒树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fine-scale composite",
+    "zh": "微型复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fine melt resin",
+    "zh": "全熔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "first order reduced density matrix",
+    "zh": "一阶约化密度矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flame-resistant resin",
+    "zh": "抗燃树脂；防火树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid resin",
+    "zh": "流体树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent polyester fiber",
+    "zh": "荧光(增白)聚酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorinated polyester",
+    "zh": "氟化聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorocarbon resin",
+    "zh": "氟碳树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoroethylene resin",
+    "zh": "氟树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluororesin",
+    "zh": "氟树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoresin",
+    "zh": "氟树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foamed sandwich structure",
+    "zh": "泡沫夹层结构",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foamed thermoplastic resin",
+    "zh": "泡沫热塑树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "formamide-formaldehyde resin",
+    "zh": "甲酰胺-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free resin",
+    "zh": "游离(单体)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel resin",
+    "zh": "燃料树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full matrix least-squares refinement",
+    "zh": "全角矩阵最小二乘修正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fumaric resin",
+    "zh": "反丁烯二酸(酐)树脂；富马酸(酐)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furan resin",
+    "zh": "呋喃树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furan resin adhesive",
+    "zh": "呋喃树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfural phenol resin",
+    "zh": "糠醛苯酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfural resin",
+    "zh": "糠醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfural resin adhesive",
+    "zh": "糠醛树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfuryl alcohol resin",
+    "zh": "糠醇树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fused resinate",
+    "zh": "熔融树脂酸盐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fusion-bonded epoxy coating",
+    "zh": "熔融黏附环氧涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuzzy matrix",
+    "zh": "模糊矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galbanum gum(resin)",
+    "zh": "古蓬树胶(树脂)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galipot resin",
+    "zh": "海松树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gel type resin",
+    "zh": "凝胶型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "geocomposite",
+    "zh": "土工复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ginger oleoresin",
+    "zh": "姜油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass-base laminated material",
+    "zh": "玻璃基层压制品",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass fiber",
+    "zh": "玻璃纤维；玻璃丝；玻璃毛",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "glass fiber coating",
+    "zh": "玻璃纤维涂料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "glass fiber lubricant",
+    "zh": "玻璃纤维润滑剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "glass fiber paper",
+    "zh": "玻璃纤维纸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "glass fiber reinforced plastic(GFRP)",
+    "zh": "玻璃纤维增强塑料;玻璃钢（俗）",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "glass fibre-epoxy laminate",
+    "zh": "玻璃纤维-环氧(树脂)层压物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "glassy carbon composite",
+    "zh": "玻璃态碳素复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glossy polyester",
+    "zh": "有光聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glue laminate",
+    "zh": "胶合层压制件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glycerin epoxy",
+    "zh": "甘油环氧基(树脂)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glycerol-phthalic resin(=alkyd resin)",
+    "zh": "甘酞树脂；醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glyceryl maleate polyester",
+    "zh": "顺丁烯二酸甘油酯聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glycide(=2,3-epoxy-1-propanol)",
+    "zh": "缩水甘油；甘油内醚；2,3-环氧-1-丙醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glyptal resin",
+    "zh": "甘酞树脂；丙三醇邻苯二甲酐树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grain-like composite fibre",
+    "zh": "木纹状复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granular ion exchange resin",
+    "zh": "粒状离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "green resin",
+    "zh": "生树脂；未经熟化的树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grinding-type resin",
+    "zh": "研磨型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "guaiac resin",
+    "zh": "愈创木(树)脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "guanamine resin",
+    "zh": "三聚氰二胺树脂；胍胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "guanidine aldehyde resin",
+    "zh": "胍醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gum resin",
+    "zh": "脂松香；树胶脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardened resin",
+    "zh": "硬树脂；凝固树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardening of resin",
+    "zh": "树脂硬化；树脂凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard lac resin",
+    "zh": "硬紫胶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard resin",
+    "zh": "硬树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat convertible resin",
+    "zh": "热固(性)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-hardenable resin",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-reactive phenolic resin",
+    "zh": "热反应性酚醛树脂；热固性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat reactive resin",
+    "zh": "热固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-softened resin",
+    "zh": "热软化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat stable resin",
+    "zh": "耐热树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy resinous petroleum residue",
+    "zh": "含胶质重石油残渣",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "helleboresin",
+    "zh": "噽根草素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterogeneous laminate",
+    "zh": "非均质层压材料;非均质层合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexaphenol resin",
+    "zh": "六(苯)酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high melting glass fiber",
+    "zh": "高熔点玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high modulus glass fiber M",
+    "zh": "玻璃纤维；高模量玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high performance composite",
+    "zh": "高性能复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high performance resin",
+    "zh": "高性能树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high pressure laminate",
+    "zh": "高压层积材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high silica glass fiber",
+    "zh": "高硅氧玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high styrene resin",
+    "zh": "高苯乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature composite",
+    "zh": "高温复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature epoxy (HTE)",
+    "zh": "高温树脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "HM carbon fiber",
+    "zh": "高模量碳纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hollow polyester fibre",
+    "zh": "中空聚酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous laminate",
+    "zh": "均质层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homopolyester fibre",
+    "zh": "均聚酯纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "honeycomb composite",
+    "zh": "蜂窝状复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "honeycomb sandwich",
+    "zh": "蜂巢型芯材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "honeycomb structure laminate",
+    "zh": "蜂窝状层压品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot setting resin",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hybrid composite",
+    "zh": "混杂复合材料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "hydantoin-derivative-modified polyester",
+    "zh": "乙内酰脲衍生物改性聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon-formaldehyde resin",
+    "zh": "烃-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon resin",
+    "zh": "烃类树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogenated resin",
+    "zh": "氢化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydros resin（",
+    "zh": "商） 脱氢松香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "identity matrix",
+    "zh": "单位矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impact resistance",
+    "zh": "耐冲击强度；耐冲击性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "impact resistance test",
+    "zh": "抗冲击性试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "impregnating resin",
+    "zh": "填充性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impression resin",
+    "zh": "触压(固化)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity-containing waste polyester",
+    "zh": "含杂质废聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indene-coumarone resin",
+    "zh": "茚-香豆酮树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indene resin (",
+    "zh": "聚)茚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in situ composite",
+    "zh": "原位复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in situ hybrid composite",
+    "zh": "现场硫化法：注入硫化法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "insoluble resin",
+    "zh": "不溶树脂；不溶胶质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interply fiber hybrid composites",
+    "zh": "混杂纤维复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "intimately mixed continuous fiber hybrid composites",
+    "zh": "分散型连续混杂纤维复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "intra-inter ply fiber hybrid composites",
+    "zh": "层内-层间混杂纤",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "intraply fiber hybrid composites",
+    "zh": "层内混杂纤维复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "intraresin reaction",
+    "zh": "树脂内反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange resin",
+    "zh": "离子交换树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange resin electrode",
+    "zh": "离子交换树脂电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange resin hygrometer",
+    "zh": "离子交换树脂湿度计",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange resin membrane",
+    "zh": "离子交换树脂膜；离子交换膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionomer resin",
+    "zh": "离子键树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion retardation resin",
+    "zh": "离子阻滞型树脂; 离子延滞型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iresin",
+    "zh": "血苋素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron resinate",
+    "zh": "树脂酸铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isophthalic alkyd resin",
+    "zh": "间苯二(甲)酸醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotactic resin",
+    "zh": "等规树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotropic laminate",
+    "zh": "各向同性层合材料;各向同性层压制件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kauri resin",
+    "zh": "贝壳杉脂；栲树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kava resin",
+    "zh": "醉椒树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ketone resin",
+    "zh": "酮树脂；酮(缩)醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "keying through of (resin) (",
+    "zh": "树脂)渗透黏牢；渗透性附着",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinematic matrix",
+    "zh": "运动矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "labdanum resin",
+    "zh": "岩蔷薇树脂；赖百当树脂（俗）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "labdanum resinoid",
+    "zh": "岩蔷薇香树脂；赖百当香树脂（俗）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lac resin",
+    "zh": "紫胶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ladanum resin",
+    "zh": "岩蔷薇树脂；赖百当树脂（俗）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminate",
+    "zh": "层压材料 ：层压制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminated",
+    "zh": "成层的；薄片的；层压的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated coal",
+    "zh": "叠层煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated cover",
+    "zh": "叠层覆盖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated covering",
+    "zh": "薄片覆盖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated fabric",
+    "zh": "胶合织物；叠层织物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated film",
+    "zh": "层压膜;层叠式漆膜（抗张强度大，",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated glass",
+    "zh": "层压玻璃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated insulation",
+    "zh": "层状绝缘",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated magnet",
+    "zh": "叠层式磁铁；叠片磁铁究所研究的从钚合金中用电解法提取钚的过程）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated material",
+    "zh": "层压材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated mo(u)lded tube",
+    "zh": "层状模塑管材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated moulding",
+    "zh": "层压模制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated panel",
+    "zh": "层压板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated phenolic resin",
+    "zh": "层压酚醛树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "laminated plastics",
+    "zh": "层压塑料(制品)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminar composite",
+    "zh": "层状复合材料；层压复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminated polyethylene film",
+    "zh": "分层聚乙烯膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated product",
+    "zh": "胶合制品;层压制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated section",
+    "zh": "层压型材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated slate",
+    "zh": "层状页岩；薄片状页岩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated spinneret",
+    "zh": "叠层型复合喷丝头",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated structure",
+    "zh": "层状结构；层纹构造",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated thermosetting plastics",
+    "zh": "层压热固塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated vessel",
+    "zh": "多层式容器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminated wood",
+    "zh": "层压板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminate molded method",
+    "zh": "层压模压法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminate molding",
+    "zh": "层塑法；层压模塑法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminate plate theory",
+    "zh": "层合板理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laminating resin",
+    "zh": "层压树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lariciresinol",
+    "zh": "落叶松树脂醇 larixine (落叶)松皮素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "latent curing resin",
+    "zh": "潜在固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lauric alkyd resin",
+    "zh": "月桂酸醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead-epoxy mix",
+    "zh": "铅粉环氧树脂混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead resinate",
+    "zh": "树脂酸铅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "levextrel resin",
+    "zh": "萃淋树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liatris oleoresin",
+    "zh": "蛇鞭菊油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lignin phenol formaldehyde resin",
+    "zh": "木(质)素酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lignin resin",
+    "zh": "木(质)素树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liming of resin",
+    "zh": "树脂的石灰处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool monoxide(=epoxylinalool)",
+    "zh": "环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear unsaturated polyester",
+    "zh": "线型不饱和聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquidambar resinoid",
+    "zh": "枫香树脂 liquid chromatography-mass spectrometer 液相色谱-质谱仪；液-质联用仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid epoxy",
+    "zh": "液体环氧树脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid epoxy coating",
+    "zh": "液体环氧涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loaded resin",
+    "zh": "吸附了的树脂；载荷树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-condensed phenolic resin",
+    "zh": "低缩合度酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-formaldehyde melamine resin",
+    "zh": "低甲醛三聚氰胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-molecular-weight polyester",
+    "zh": "低分子量聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-pressure laminate",
+    "zh": "低压层压品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low pressure laminating resin",
+    "zh": "低压层压用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-pressure resin",
+    "zh": "低压(加工)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low shrink resin",
+    "zh": "低收缩树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature impact resistance",
+    "zh": "抗低温冲击性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "macromolecular resin network",
+    "zh": "大分子树脂网络",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macroporous resin",
+    "zh": "大孔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macroreticular resin",
+    "zh": "大网络树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macror-reticular resin",
+    "zh": "大网络树脂；大孔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleate resin",
+    "zh": "顺丁烯二酸(酯)树脂;马来(酸)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleic acid resin",
+    "zh": "顺丁烯二酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleic acid resin varnish",
+    "zh": "顺丁烯二酸树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleic anhydride-polyester",
+    "zh": "顺丁烯二酸聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleic ester resin",
+    "zh": "顺丁烯二酸酯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleic resin",
+    "zh": "马来树脂；顺丁烯二酸-丙三醇树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "manganese resinate",
+    "zh": "树脂酸锰",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "manganous lactate",
+    "zh": "乳酸锰 Mn(C H O ) manganous lead resinate 树脂酸铅与树脂酸亚锰的混合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "manila resin",
+    "zh": "马尼拉树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mastication of natural resin",
+    "zh": "天然树脂的素炼(塑炼)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mastication of resin",
+    "zh": "树脂塑炼；树脂捏炼",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mastic resinoid",
+    "zh": "乳香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matai resinol",
+    "zh": "罗汉松树脂酚 matamycin 马塔霉素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix",
+    "zh": "矩阵;模型;杂矿石；脉石;基块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix absorption",
+    "zh": "基体吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix assisted laser desorption ionization mass spectroscopy (MALDIMS)",
+    "zh": "基体辅助激光解吸电离质谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix-assisted laser desorption-ionization time of flight(MALDI-TOF)",
+    "zh": "基体辅助激光解吸-离子飞行时间质谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix assisted laser desorption ionization-time of flight mass spectrometer",
+    "zh": "基质辅助激光解吸电离-飞行时间质谱仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix assisted laser desorption- time-of-flight mass spectrography (MALDTO-FMS)",
+    "zh": "基体辅助激光解吸-飞行时间质谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix board",
+    "zh": "字型纸板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix correction",
+    "zh": "基体校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix-dilution method",
+    "zh": "基体稀释法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix effect",
+    "zh": "基体效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix element",
+    "zh": "矩阵元",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrixes for embossing",
+    "zh": "压花板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix fiber",
+    "zh": "基质纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix interference",
+    "zh": "基体干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix inversion",
+    "zh": "矩阵求逆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix inversion procedure",
+    "zh": "矩阵求逆程序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix ion-selective electrode",
+    "zh": "基体离子选择电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix isolation",
+    "zh": "基体隔离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix isolation spectroscopy",
+    "zh": "基体分离谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix isolation technique",
+    "zh": "基质隔离技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix modification",
+    "zh": "基体改性：基体改进",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix polymer(=replica polymer)",
+    "zh": "复制聚合物：母体移植聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix modifier",
+    "zh": "基体改进剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix mechanics",
+    "zh": "矩阵力学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix polymerization(=replica polymerization)",
+    "zh": "复制聚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix of polymer chain",
+    "zh": "聚合物链模板；聚合物链基体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix matching",
+    "zh": "基体匹配合：母体移植聚合；模拟聚合",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix reference material",
+    "zh": "基体标准物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix resin",
+    "zh": "基体树脂：母体树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "matrix match method",
+    "zh": "基体匹配法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix material",
+    "zh": "复合材料（由树脂与增强材料构成）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix solid phase dispersion method",
+    "zh": "基质固相分散提取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix-spun yarn",
+    "zh": "基质型复合丝；双成分复合丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix suppression",
+    "zh": "基体抑制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "megeresin",
+    "zh": "白瑞香脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamac",
+    "zh": "蜜醛塑料：蜜白胺甲醛塑料melamine(=cyanuramide) 蜜胺; 三聚氰胺 melamine-benzoguanamine resin 三聚氰胺-胍胺树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melamine decorative laminate",
+    "zh": "三聚氰胺(塑料)贴面板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melamine-formaldehyde resin",
+    "zh": "三聚氰胺-甲醛树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine-phenol-formaldehyde resin(MPF)",
+    "zh": "三聚氰胺-酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine resin",
+    "zh": "蜜胺树脂; 三聚氰胺-甲醛树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine resin adhesive",
+    "zh": "三聚氰胺树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine resin paint",
+    "zh": "三聚氰胺树脂漆; 氨基树脂漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine resin precondensate",
+    "zh": "蜜胺树脂预缩物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine resin varnish",
+    "zh": "三聚氰胺(树脂)清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine-urea resin",
+    "zh": "三聚氰胺-脲树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamino-formaldehyde resin",
+    "zh": "蜜胺甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melting-point determination on varnish resin",
+    "zh": "清漆树脂的熔点测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal-clad laminate thickness",
+    "zh": "覆箔板厚度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallic matrix structural composite",
+    "zh": "金属基质结构复合材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "metallic resinate",
+    "zh": "树脂酸金属盐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal matrix",
+    "zh": "金属基体；金属基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal-matrix composite",
+    "zh": "金属基质复合材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "metal matrix solid lubricant",
+    "zh": "金属基质固体润滑剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methacrylic resin",
+    "zh": "甲基丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylal resin",
+    "zh": "缩甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylated melamine resin",
+    "zh": "甲醚化三聚氰胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl 9,10-epoxystearate 9,10-",
+    "zh": "环氧基硬脂酸甲酯（耐寒性增塑剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl epoxystearate",
+    "zh": "环氧硬脂酸甲酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylolphenol formaldehyde resin",
+    "zh": "羟甲基苯酚甲醛树脂（硫化剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "MF resin",
+    "zh": "蜜胺-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbe polyester",
+    "zh": "微生物聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microreticular resin",
+    "zh": "微孔径树脂；小孔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mineral-polymer composite",
+    "zh": "矿物-聚合物组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed polyester",
+    "zh": "混合聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified alkyd resin",
+    "zh": "改性醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified oleoresinous paint",
+    "zh": "改性油性树脂漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified phenolic resin",
+    "zh": "改性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified phthalic resin",
+    "zh": "改性邻苯二甲酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified resin",
+    "zh": "改性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modifying resin",
+    "zh": "改性用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded resin",
+    "zh": "模制树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding resin",
+    "zh": "成型用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular composite",
+    "zh": "分子复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moment ion matrix effect",
+    "zh": "瞬间离子基体效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "MR type resin",
+    "zh": "大网络树脂；大孔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multidirectional fabric hybrid composites",
+    "zh": "混杂多向织物复合材料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "multi-functional epoxy",
+    "zh": "多官能(度)环氧",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multifunctional epoxy powder coating(s)",
+    "zh": "多功能环氧粉末涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multifunctional exchange resin",
+    "zh": "多功能基离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple side-by-side composite fibre",
+    "zh": "多层并列型复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multisegment composite fibre",
+    "zh": "多股裂离异形复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mutatochrome(=5,8-epoxy-β-carotene oxide) β-",
+    "zh": "胡萝卜素氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "myrrh resin",
+    "zh": "没药树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanocomposite",
+    "zh": "纳米复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural copal resin",
+    "zh": "天然玷玷树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural gum resin",
+    "zh": "天然树胶基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural resin",
+    "zh": "天然树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural resin characteristic",
+    "zh": "天然树脂的特性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural resin for lacquer",
+    "zh": "硝基漆用的天然树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural resin varnish",
+    "zh": "天然树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neutral resin",
+    "zh": "中性树脂; 碱不溶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrile resin",
+    "zh": "腈类树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-polar resin",
+    "zh": "非极性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-resinous oil",
+    "zh": "无树脂质润滑油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-zinc epoxy-primer",
+    "zh": "无锌环氧底漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "novolac epoxy",
+    "zh": "酚醛型环氧树脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "novolac resin",
+    "zh": "酚醛清漆树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nucleated resin",
+    "zh": "核化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nylon base laminate",
+    "zh": "尼龙布基层合塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oak-moss resin",
+    "zh": "栎藓树脂; 橡苔树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "occluded resin",
+    "zh": "吸着树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "octyl epoxy stearate",
+    "zh": "环氧硬脂酸辛酯（增塑剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-reactive phenolic resin",
+    "zh": "油变性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil resinification",
+    "zh": "油结胶；油固化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-soluble phenolic resin",
+    "zh": "油溶性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-soluble resin",
+    "zh": "油溶性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleophilic resin",
+    "zh": "亲油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin",
+    "zh": "含油树脂；精油树脂；松脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin anise",
+    "zh": "茴香油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin aspidium",
+    "zh": "绵马油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin basil",
+    "zh": "罗勒油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin capsicum",
+    "zh": "辣椒油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin caraway",
+    "zh": "香芹油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin cubeb",
+    "zh": "荜澄茄油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin ginger",
+    "zh": "姜油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin lupulin",
+    "zh": "啤酒花油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin marjoram",
+    "zh": "甘牛至油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin origanum",
+    "zh": "牛至油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleo-resinous",
+    "zh": "油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresinous flat",
+    "zh": "油性树脂平光漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresinous paint",
+    "zh": "油性树脂漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleo-resinous undercoat",
+    "zh": "油改性树脂中间层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresinous varnish",
+    "zh": "油性树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleoresin parsley",
+    "zh": "芹菜油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "olibanoresin",
+    "zh": "乳香脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "olibanum resin",
+    "zh": "乳香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "olibanum resinoid",
+    "zh": "乳香树脂 -olic acid 脑酸（在俗名中用）；炔酸；油酸 -olide（词尾） 交酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-stage resin",
+    "zh": "一步加热树脂;单级(酚醛)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optically active resin",
+    "zh": "旋光树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic fiber reinforced plastic",
+    "zh": "有机纤维增强塑料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "organic matrix",
+    "zh": "有机(聚合物的)基体；有机基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicane resin",
+    "zh": "硅树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orientation matrix",
+    "zh": "取向矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orris resinoid",
+    "zh": "鸢尾树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orthogonal matrix",
+    "zh": "正交矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orthogonal ply laminate",
+    "zh": "正交层合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "over condensed resin",
+    "zh": "过度缩聚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxetane resin(=chlorinated polyether resin)",
+    "zh": "氧杂环丁烷树脂；氯化聚醚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation type alkyd resin",
+    "zh": "氧化(固化)型醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizing phthalic alkyd resin",
+    "zh": "氧化(固化)邻苯二甲酸醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizing type alkyd resin",
+    "zh": "氧化型醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxybenzoyl homopolyester",
+    "zh": "氧基苯甲酰均聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxygen convertible phthalic resin",
+    "zh": "氧转化型邻苯二甲酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paper laminate",
+    "zh": "纸层薄板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paper matrix",
+    "zh": "纸模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paracoumarone",
+    "zh": "聚氧茚 paracoumarone-indene resin(=coumarone-indene resin)苯并呋喃-茚树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "parallel laminate",
+    "zh": "顺纹层压制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "parallel laminated",
+    "zh": "平行层压的；同向(纹理)层压的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "parent resin",
+    "zh": "母体树脂；本源树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particulate-filled composite",
+    "zh": "填料粒子的组分；散填料组成",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paste-making resin",
+    "zh": "制糊树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pellicular ion exchange resin",
+    "zh": "薄膜型离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pellicular resin",
+    "zh": "涂敷薄膜树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentaerythritol maleic resin",
+    "zh": "马来酸-季戊四醇树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentaerythritol phthalic resin",
+    "zh": "邻苯二甲酸-季戊四醇树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentaerythritol resin",
+    "zh": "季戊四醇树脂（增黏剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penta resin",
+    "zh": "季戊四醇酯胶树脂（由松香和季戊四醇制成）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pepper oleoresin",
+    "zh": "胡椒油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peptization by resins (",
+    "zh": "树脂)胶溶作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peroxyketal-cured styrene-polyester",
+    "zh": "过氧酮缩醇固化的苯乙烯-聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "PES(polyester)",
+    "zh": "聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "petroleum ceresin",
+    "zh": "石油地蜡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "petroleum resin",
+    "zh": "石油树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol acetaldehyde resin",
+    "zh": "苯酚乙醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol ether resin",
+    "zh": "苯酚醚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol-formaldehyde resin",
+    "zh": "酚醛树脂*；苯酚-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol-furfural resin(PFF)",
+    "zh": "酚呋喃树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic epoxy resin",
+    "zh": "酚醛环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "phenolic laminate",
+    "zh": "酚醛塑料层合板；酚醛层板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenolic laminated fiber",
+    "zh": "酚醛(树脂)层压纤维板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic resin",
+    "zh": "酚醛树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic resin balls",
+    "zh": "酚醛树脂球",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic resin fibre",
+    "zh": "酚醛树脂纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic resin varnish",
+    "zh": "酚醛(树脂)清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol-indene resin",
+    "zh": "酚醛-茚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol-modified alkyd resin",
+    "zh": "酚醛改性醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol resin",
+    "zh": "酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenoxy resin",
+    "zh": "苯氧基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenylsilane resin",
+    "zh": "苯硅烷树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phorylresin",
+    "zh": "磷酰酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phosphorous-containing polyester",
+    "zh": "含磷聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photosensitive resin",
+    "zh": "感光性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalic alkyd resin",
+    "zh": "邻苯二甲酸醇酸树脂; 苯酐醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalide resin",
+    "zh": "邻苯二甲酸树脂; 酞酸树脂(俗)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezoelectric composite",
+    "zh": "压电复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment matrix",
+    "zh": "颜料基质；颜料母体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pine oleoresin",
+    "zh": "松脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pine resin",
+    "zh": "松香;松脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinoresinol",
+    "zh": "松脂酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitch-epoxy resin",
+    "zh": "沥青-环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "plastic and glass fiber pipes",
+    "zh": "塑料与玻璃纤维管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "plastic composite",
+    "zh": "塑料复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic matrix",
+    "zh": "塑料母料；塑料基料;塑料字模(印刷)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "platable resin",
+    "zh": "可电镀树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "P-matrix method P",
+    "zh": "矩阵法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyacetal resin",
+    "zh": "聚缩醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyalkylene glycol-modified polyester",
+    "zh": "聚烷撑二醇改性聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyallomer resin",
+    "zh": "异质同晶共聚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamide-pheno(-formaldehyde)resin",
+    "zh": "聚酰胺-酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamide-polyester-polyether blend",
+    "zh": "聚酰胺-聚酯-聚醚混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamide resin",
+    "zh": "聚酰胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamine-methylene resin",
+    "zh": "聚亚甲胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyaminoresin",
+    "zh": "聚胺树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polybenzimidazole resin",
+    "zh": "聚苯并咪唑树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polydicyclopentadiene resins",
+    "zh": "聚二环戊二烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyepoxyether",
+    "zh": "聚环氧醚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyepoxypropylaniline",
+    "zh": "聚环氧丙基苯胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester",
+    "zh": "聚酯；涤纶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester/isocyanate paint",
+    "zh": "聚酯/异氰酸酯漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester adipate",
+    "zh": "聚己二酸酯（增塑剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyesteramide",
+    "zh": "聚酰胺酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyesteramine",
+    "zh": "聚酯胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester based polyurethane rubber",
+    "zh": "聚酯型聚氨酯橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester capillaries",
+    "zh": "聚酯丝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester cashmere",
+    "zh": "聚酯开士米(织物)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester chain",
+    "zh": "聚酯链",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester coating",
+    "zh": "聚酯涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester cord",
+    "zh": "聚酯帘线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester diisocyanate",
+    "zh": "聚酯(型)二异氰酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester-diol",
+    "zh": "聚酯(型)二醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester ether",
+    "zh": "聚酯醚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester fiber",
+    "zh": "聚酯纤维；涤纶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester film",
+    "zh": "聚酯薄膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester foam",
+    "zh": "聚酯泡沫塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester gauze",
+    "zh": "涤纶薄纱；涤纶纱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester gel coat resins",
+    "zh": "聚酯凝胶涂料树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "polyester glutarate",
+    "zh": "聚戊二酸酯（增塑剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester glycol",
+    "zh": "聚酯二醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester habotai",
+    "zh": "涤丝纺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyesterification",
+    "zh": "聚酯(化)(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyesterimide",
+    "zh": "聚酯酰亚胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester isocyanate",
+    "zh": "聚酯异氰酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester laminate",
+    "zh": "聚酯层压板",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "polyester phosphate",
+    "zh": "聚酯磷酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester plasticizer",
+    "zh": "聚酯增塑剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester polyol",
+    "zh": "聚酯型多元醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester resin",
+    "zh": "聚酯类树脂*",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "polyester rubber",
+    "zh": "聚酯橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester synthetic lubricant",
+    "zh": "聚酯合成润滑剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester terephthalate",
+    "zh": "聚对苯二甲酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester-type polyacrylate",
+    "zh": "聚酯型聚丙烯酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester types of polyurethane rubber",
+    "zh": "聚酯型聚氨酯橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester-urea",
+    "zh": "聚酯脲",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester wire enamel",
+    "zh": "聚酯漆包线漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyfunctional epoxy resin",
+    "zh": "多官能环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "polyhydroxyether resin",
+    "zh": "聚羟基醚树脂；聚苯氧树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polylaminate structure",
+    "zh": "多层结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer-cement-based composite",
+    "zh": "聚合物-水泥基复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric matrix",
+    "zh": "聚合物基体；聚合物母体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer layered silicates nanocomposites",
+    "zh": "高聚物-黏土纳米复合材料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer matrix",
+    "zh": "聚合物母体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyoxymethylene resin",
+    "zh": "聚甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polystyrene-divinylbenzene resin",
+    "zh": "聚苯乙烯-二乙烯苯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polystyrenesulfonic acid type resin",
+    "zh": "聚苯乙烯磺酸型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyterpene resin",
+    "zh": "多萜树脂；萜烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyurethane resin adhesive",
+    "zh": "聚氨酯树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyvinyl resin",
+    "zh": "聚乙烯(基类)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poponax resin",
+    "zh": "没药树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "porous collagen fiber matrix",
+    "zh": "多孔胶原纤维基底",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "porous ion exchange resin",
+    "zh": "多孔性离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-source decay matrix-assisted laser desorption",
+    "zh": "源后衰减基质辅助的激光解吸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder-core composite",
+    "zh": "粉芯复合料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "powdered resin coating",
+    "zh": "粉末树脂涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-accelerated polyester",
+    "zh": "预催化固化聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precipitated resinate",
+    "zh": "沉淀树脂酸盐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precipitation-exchange resin",
+    "zh": "沉淀交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "presintering",
+    "zh": "初步熔结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary resin",
+    "zh": "原树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "propylene resin",
+    "zh": "丙烯类树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protein-doped matrix crystals",
+    "zh": "蛋白质掺杂基质结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protein resin",
+    "zh": "蛋白质树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-matrix isolation(PMI)",
+    "zh": "伪矩阵隔离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pull-out coat and composite",
+    "zh": "塑料织物挤出涂布复合",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulsed matrix isolation",
+    "zh": "脉冲矩阵隔离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary alkanolammonium type resin",
+    "zh": "季烷醇铵型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary alkyl ammonium type resin",
+    "zh": "烷基季铵型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary ammonium type resin",
+    "zh": "季铵型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary exchange resin",
+    "zh": "四组分(离子)交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary pyridinium resin",
+    "zh": "吡啶(镝)盐树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "random composite fibre",
+    "zh": "随机复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "random polyesteramide",
+    "zh": "无规聚酰胺酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactant resin",
+    "zh": "活性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive epoxy coating",
+    "zh": "活性环氧涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive phenolic resin",
+    "zh": "活性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive resin",
+    "zh": "活性树脂；反应型树脂（认为可与干性油起反应）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recent fossil resin",
+    "zh": "新生化石树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recent resin",
+    "zh": "新(采的天然)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redox resin",
+    "zh": "氧化还原树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refractory glass fiber",
+    "zh": "耐火玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "refuse-polymer composite",
+    "zh": "废渣-聚合物复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reinforced composite",
+    "zh": "增强复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reinforced polyester",
+    "zh": "增强聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reinforced thermoplastic resin",
+    "zh": "热塑性增强树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replica polymerization(=matrix polymerization)",
+    "zh": "复制聚合；母体移植聚合；模拟聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin",
+    "zh": "树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin acid(=resinolic acid)",
+    "zh": "树脂酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin adhesive",
+    "zh": "树脂型胶黏剂；树脂型黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin alloy(=polyblend)",
+    "zh": "树脂合金；树脂共混",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinamines",
+    "zh": "含氮树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin anion(RA)",
+    "zh": "阴离子树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin applicator",
+    "zh": "树脂涂饰器;树脂流注器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinate",
+    "zh": "树脂酸盐或酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinated barium lithol red",
+    "zh": "树脂酸盐化钡立索红；树脂处理钡立索红",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinated pigment",
+    "zh": "树脂酸(盐)化颜料；树脂酸颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinate drier",
+    "zh": "树脂酸盐催干剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinated type toner",
+    "zh": "松香酸盐型色料(色原)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resination",
+    "zh": "树脂整理;用树脂浸透 resination process 树脂酸盐化方法；树脂酸盐化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin based adhesive",
+    "zh": "树脂基胶黏剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin bed",
+    "zh": "树脂床",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin blush",
+    "zh": "树脂致白(现象)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin blushing",
+    "zh": "树脂致白(现象)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-bonded pigment",
+    "zh": "彩色树脂型颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-bound exterior paste filler",
+    "zh": "外用树脂基浆状填孔剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin canal",
+    "zh": "树脂道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin capacity(=exchange capacity)",
+    "zh": "树脂(交换)容量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin casting body",
+    "zh": "浇铸体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin cation(RC)",
+    "zh": "阳离子树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin cement",
+    "zh": "树脂胶浆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin concentrate",
+    "zh": "树脂母料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin concrete",
+    "zh": "聚合物胶结混凝土；树脂混凝土",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin content",
+    "zh": "树脂含量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin density",
+    "zh": "树脂密度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin dispersion",
+    "zh": "树脂分散(作用);树脂分散体(液)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin duct",
+    "zh": "树脂导管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin emulsion",
+    "zh": "树脂乳液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin emulsion flat",
+    "zh": "无光树脂乳液(乳胶漆)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin emulsion paint",
+    "zh": "树脂乳化漆；乳胶漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinene",
+    "zh": "中性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resineon",
+    "zh": "树脂香油（药用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin ester",
+    "zh": "树脂酯；酯化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin extender",
+    "zh": "树脂增量剂；树脂填料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin exudation",
+    "zh": "树脂渗出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-filled rubber",
+    "zh": "树脂配合橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin filling",
+    "zh": "树脂填充",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin finishing",
+    "zh": "树脂整理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin flexibilizer",
+    "zh": "树脂软化剂；树脂增韧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin flow",
+    "zh": "树脂流动率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin flush removal",
+    "zh": "去溢胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin formation (",
+    "zh": "燃料中)树脂(质的)形成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-free",
+    "zh": "不含树脂的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-free pulp",
+    "zh": "无树脂浆粕",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin guaiac",
+    "zh": "愈创木树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinic acid",
+    "zh": "树脂酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resiniferous",
+    "zh": "含有树脂的；含脂的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinification",
+    "zh": "树脂化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinifying",
+    "zh": "树脂化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinifying agent",
+    "zh": "树脂化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin impregnation",
+    "zh": "树脂填充",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-in-pulp process (",
+    "zh": "矿)浆料离子交换过程；树脂矿浆吸附过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin intermediate",
+    "zh": "树脂中间体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin kettle",
+    "zh": "树脂(炼聚)锅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-loaded paper",
+    "zh": "饱和树脂纸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-loading-encapsulation technique",
+    "zh": "树脂吸附封装技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin matrix",
+    "zh": "树脂母体(塑料)",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "resin matrix composite",
+    "zh": "树脂基复合材料；聚合基复合材料",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "resin modified",
+    "zh": "树脂改性的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin monomer",
+    "zh": "树脂单体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin of podophyllium",
+    "zh": "鬼臼树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinogen",
+    "zh": "树脂原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinography",
+    "zh": "显微树脂学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinoic acid",
+    "zh": "树脂型酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinoid",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin oil",
+    "zh": "树脂油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinol",
+    "zh": "树脂醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinolic acid(=resin acid)",
+    "zh": "树脂酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinophore",
+    "zh": "易树脂化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinophore group",
+    "zh": "易树脂化基团",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinotannol",
+    "zh": "树脂单宁醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous",
+    "zh": "树脂的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous acid",
+    "zh": "树脂酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous area",
+    "zh": "多脂表面；含脂表面（如树节疤等）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous exchanger",
+    "zh": "树脂交换剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous exudation",
+    "zh": "树脂状渗出物(分泌物)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous impurities",
+    "zh": "树脂状杂质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous lustre",
+    "zh": "树脂状光泽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous material",
+    "zh": "树脂状物(质); 树脂质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous matrix",
+    "zh": "树脂状基体；树脂状基质",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "resinous matter",
+    "zh": "树脂状物质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinousness",
+    "zh": "树脂性;树脂度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous odour",
+    "zh": "树脂味",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous oil",
+    "zh": "树脂质油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous plasticizer",
+    "zh": "树脂(型)增塑剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous spue(s)",
+    "zh": "树脂渗出物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous substance(=resinous matter)",
+    "zh": "树脂状物质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous varnish",
+    "zh": "树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous wood",
+    "zh": "明子；充脂材",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinox",
+    "zh": "酚-甲醛树脂；酚-甲醛塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin package",
+    "zh": "树脂封装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin padding",
+    "zh": "树脂打底；树脂浸轧",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin paste",
+    "zh": "树脂糊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin phase",
+    "zh": "树脂相",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin pickup",
+    "zh": "浸树脂；蘸树脂;浸树脂量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin plaster",
+    "zh": "树脂(铅复)膏（药）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin pocket",
+    "zh": "树脂囊；(层压品夹层内的)树脂淤积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin pressure pot",
+    "zh": "树脂压力罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin recession",
+    "zh": "树脂下陷；树脂凹缩",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin rich area",
+    "zh": "富胶区；富树脂区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin rich layer",
+    "zh": "富树脂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin smear",
+    "zh": "胶糊渣：胶渣",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-soaked wood",
+    "zh": "充脂(木)材",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin soap",
+    "zh": "树脂皂；松香皂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin softening point",
+    "zh": "树脂软化点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin solvency of spirits",
+    "zh": "汽油溶解树脂质本领",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin spewing",
+    "zh": "树脂渗出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin spirit",
+    "zh": "树脂精",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin spot test (",
+    "zh": "离子交换)树脂点滴试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin stain",
+    "zh": "树脂污染（木节渗出树脂而污染漆膜）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-starved area",
+    "zh": "贫树脂区；缺胶区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin streak",
+    "zh": "树脂流纹；(层压品表面的)树脂条痕",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin surge pot",
+    "zh": "树脂搅动罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin tannage",
+    "zh": "树脂鞣法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin tanning",
+    "zh": "树脂鞣",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin tapping(=turpentining)",
+    "zh": "采(割松)脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin transfer molding",
+    "zh": "树脂传递模塑；树脂传递成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin treated plywood",
+    "zh": "树脂处理胶合板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin treatment",
+    "zh": "树脂加工(处理)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin varnish",
+    "zh": "树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin viscosity",
+    "zh": "树脂黏度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resiny",
+    "zh": "树脂的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to surface delamination",
+    "zh": "抗表面剥落性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resol resin(=resole)",
+    "zh": "甲阶酚醛树脂；可熔性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resorcinal resin",
+    "zh": "间苯二酚甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resorcinol-formaldehyde resin",
+    "zh": "间苯二酚-甲醛树脂 </div>",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resorcinol-formaldehyde resin adhesive",
+    "zh": "间苯二酚-甲醛树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resorcinol resin",
+    "zh": "间苯二酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rigid matrix electrode",
+    "zh": "固定基体电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rimu resin",
+    "zh": "芮木；泪柏树脂（取自芮木泪柏 Dacrydium cupressinum）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rolled laminated tube",
+    "zh": "滚压层压管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rosin modified phenolic resin",
+    "zh": "松香改性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rosin resin",
+    "zh": "松香(基)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber matrix",
+    "zh": "橡胶基质；胶体；胶料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber-reinforcing resin",
+    "zh": "橡胶补强用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber resin",
+    "zh": "橡胶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber-resin alloy",
+    "zh": "橡胶树脂并用胶；耐冲击性塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber-resin blend",
+    "zh": "橡胶树脂并用胶；耐冲击性塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sandwich",
+    "zh": "层叠物;夹层结构;复合结构材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich assay",
+    "zh": "夹心分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich chamber(=S-chamber) S(",
+    "zh": "展开)室；S(展开)槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich compound",
+    "zh": "夹心化合物*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich coordination compound",
+    "zh": "夹心配合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich copolymer",
+    "zh": "嵌段共聚物；夹心共聚物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwiched type",
+    "zh": "偶合型（复合半导体纳米微粒的结构型式之一）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sandwich fiber hybrid composite",
+    "zh": "夹芯型混杂纤维复合材料",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "sandwich heating",
+    "zh": "夹层加热；两面加热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich hybridization",
+    "zh": "夹心杂交",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich inclusion compound",
+    "zh": "夹层包合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwiching",
+    "zh": "插入；夹入",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sandwich injection",
+    "zh": "夹层注射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich isolator",
+    "zh": "剪切型防振器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich laminate",
+    "zh": "夹芯层压材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "sandwich layer",
+    "zh": "夹层；芯层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich material",
+    "zh": "夹层材料；芯材",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich molecule",
+    "zh": "蜂窝状夹层分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich panel",
+    "zh": "夹心板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich structure",
+    "zh": "夹层结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich technique",
+    "zh": "夹层技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sandwich zone technique",
+    "zh": "夹层带技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "saturated polyester",
+    "zh": "饱和聚酯*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saturated polyester plastic",
+    "zh": "饱和聚酯塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scammony resin",
+    "zh": "番薯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "S-chamber (=sandwich chamber) S(",
+    "zh": "展开)室；S(展开)槽；夹层槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "score matrix",
+    "zh": "得分矩阵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second-grade resin",
+    "zh": "二等树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second order reduced density matrix",
+    "zh": "二阶约化密度矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective ion exchange resin",
+    "zh": "选择性离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-crimpable composite filament yarn (",
+    "zh": "可)自卷曲的复合丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-crosslinking acrylic resin",
+    "zh": "自交联丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semifossil resin",
+    "zh": "半化石树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shear sandwich",
+    "zh": "剪切式防震器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shear-sensitive resin",
+    "zh": "剪(切)敏(感)性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shellac formaldehyde resin",
+    "zh": "紫(虫)胶甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siaresinolic acid",
+    "zh": "斯阿树脂酸〔泰国安息香中的一种树脂酸〕 C30H48O4",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siaresinotanol",
+    "zh": "斯阿树脂鞣醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "side-by-side composite fibre",
+    "zh": "并列型复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silane resin",
+    "zh": "硅烷树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicate glass fiber",
+    "zh": "硅酸盐玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single-step resin",
+    "zh": "一步法(酚醛)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "singular matrix",
+    "zh": "奇异矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "skeletal composite",
+    "zh": "骨架增强复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sky-star type composite fibre",
+    "zh": "天星型复合纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "slack-melt congo resin",
+    "zh": "初熔；(半熔)刚果(玷玷)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slackmelt resin",
+    "zh": "半熔树脂 （熔化后仍然是部分可溶）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow curing resin",
+    "zh": "慢干树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "snake-cage amphoteric ion exchange resin",
+    "zh": "蛇笼型两性离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "snake cage resin",
+    "zh": "蛇笼(状)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft gel-like matrix",
+    "zh": "软拟胶骨架",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft resin",
+    "zh": "软树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sold resin",
+    "zh": "售出的树脂;成品树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solidified oleoresin(=scrape)",
+    "zh": "毛松香",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid resin",
+    "zh": "固体树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvated resin",
+    "zh": "溶剂化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent deresining",
+    "zh": "溶剂脱树脂(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent epoxy varnish",
+    "zh": "溶剂型环氧清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free liquid epoxy resin",
+    "zh": "无溶剂液体环氧树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "solvent impregnated resin",
+    "zh": "浸渍树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-impregnating resin",
+    "zh": "溶剂浸渍树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solventless epoxy coating",
+    "zh": "无溶剂环氧涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solventless polyester varnish",
+    "zh": "无溶剂聚酯清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent tolerance of resin",
+    "zh": "树脂在溶剂中的(最大)溶解度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spherical ion exchange resin",
+    "zh": "球形离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spin matrix",
+    "zh": "自旋矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spirit-borne vinyl resin",
+    "zh": "醇溶性乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spirit-soluble resin",
+    "zh": "醇溶性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard bisphenol A epoxy",
+    "zh": "标准双酚A环氧(树脂)类",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "staple glass fiber",
+    "zh": "常产玻璃纤维；标准玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "storesin",
+    "zh": "苏合香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stoving resin",
+    "zh": "烘烤型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight alkyd resin",
+    "zh": "未改性醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight resin",
+    "zh": "净树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strain matrix",
+    "zh": "应变矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strong-acid cation exchange resin",
+    "zh": "强酸性阳离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strong-base anion exchange resin",
+    "zh": "强碱性阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strongly acidic resin",
+    "zh": "强酸性(阳离子交换)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strongly basic anion exchange resin",
+    "zh": "强碱性阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structural composite materials",
+    "zh": "结构复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "structural matrix",
+    "zh": "结构基体；结构基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrax resin",
+    "zh": "苏合香树脂；安息香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrax resinoid",
+    "zh": "苏合香树脂；安息香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrenated polyester",
+    "zh": "苯乙烯化聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene-acrylonitrile resin",
+    "zh": "苯乙烯-丙烯腈树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene alkyd resin",
+    "zh": "苯乙烯改性醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene-butadiene (resin) coating",
+    "zh": "苯乙烯-丁二烯树脂涂料；丁苯树脂涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene-butadiene (resin) emulsion",
+    "zh": "苯乙烯-丁二烯树脂乳化液；丁苯(树脂)乳液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene resin",
+    "zh": "苯乙烯类树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styrene type ion exchange resin (",
+    "zh": "聚)苯乙烯型离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sub-laminate",
+    "zh": "子层合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sugiresinol",
+    "zh": "柳杉树脂酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfamide-formaldehyde resin",
+    "zh": "磺酰胺-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfate resin",
+    "zh": "磺化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfonated polystyrene type resin",
+    "zh": "磺化聚苯乙烯型树脂（离子交换树脂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfonated styrol resin",
+    "zh": "磺化苯乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfonate-modified polyester",
+    "zh": "磺化改性的聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfonic resin",
+    "zh": "磺酸型树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sumaresinol",
+    "zh": "安息香胶酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sumaresinolic acid",
+    "zh": "苏门树脂脑酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superhybrid composite",
+    "zh": "超混杂复合材料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "superpolyester",
+    "zh": "超聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetrical laminate",
+    "zh": "对称层合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "symmetric matrix",
+    "zh": "对称矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic fibre laminate",
+    "zh": "合成纤维层压制品",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic ion-exchange resin",
+    "zh": "合成离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin",
+    "zh": "合成树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin adhesive",
+    "zh": "合成树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin bond",
+    "zh": "合成树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin cement",
+    "zh": "合成树脂胶接剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin glue",
+    "zh": "合成树脂胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic resin varnish",
+    "zh": "合成树脂清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic rubber resin",
+    "zh": "合成橡胶树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "syringaresinol",
+    "zh": "丁香树脂醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "system matrix combination method",
+    "zh": "系统矩阵组合法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tackifying resin （",
+    "zh": "增）黏性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tactic polyepoxypropane",
+    "zh": "有规立构聚环氧丙烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "template polymerization(=matrix polymerization)",
+    "zh": "模板聚合*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terephthalaldehyde resin",
+    "zh": "对苯二甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene resin",
+    "zh": "萜烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpine resin",
+    "zh": "萜烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpolycyantoamino-formaldehyde resin",
+    "zh": "三聚氰胺甲醛树脂（硫化剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetra-functional epoxy",
+    "zh": "四官能度环氧树脂；四功能环氧树脂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "textile composite material",
+    "zh": "纺织复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermally sensitive resin",
+    "zh": "热敏性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermohardening resin",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic acrylic resin",
+    "zh": "热塑性丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic composite",
+    "zh": "热塑性复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermoplastic matrix",
+    "zh": "热塑性基体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic polyester",
+    "zh": "热塑性聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic polyester powder",
+    "zh": "热塑性聚酯粉末",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic polyester powder coating",
+    "zh": "热塑性聚酯粉末涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoplastic resin",
+    "zh": "热塑性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoset resin",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermosetting acrylic resin",
+    "zh": "热固性丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermosetting composite",
+    "zh": "热固性复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermosetting matrix",
+    "zh": "热固性基体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermosetting polyester resin",
+    "zh": "热固性聚酯树脂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "thermosetting resin",
+    "zh": "热固性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermosetting resin adhesive",
+    "zh": "热固性树脂黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theveresin",
+    "zh": "黄夹竹桃素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thick-film epoxy powder coating(s)",
+    "zh": "厚膜环氧粉末涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thickol-epoxy combination",
+    "zh": "聚硫橡胶-环氧复合(物)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin film epoxy powder coating(s)",
+    "zh": "薄膜环氧粉末涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thio resin",
+    "zh": "聚硫树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiourea-formaldehyde resin",
+    "zh": "硫脲-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiourea resin",
+    "zh": "硫脲树脂；硫脲甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thread-forming polyester",
+    "zh": "成纤聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "T matrix(=transition matrix)",
+    "zh": "跃迁矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tonka resin",
+    "zh": "黑香豆树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tonka resinoid",
+    "zh": "黑香豆香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "topcoat delamination",
+    "zh": "面漆脱层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "topological matrix",
+    "zh": "拓扑矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transient ionic matrix effect",
+    "zh": "瞬时离子基体效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transition matrix(=T matrix)",
+    "zh": "跃迁矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trilaminar(=trilaminate; trilaminated)",
+    "zh": "三层的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trilaminate(=trilaminar)",
+    "zh": "三层的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trilaminated(=trilaminar)",
+    "zh": "三层的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tsugaresinol",
+    "zh": "铁杉树脂醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "turpentining(=resin tapping)",
+    "zh": "采(割松)脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-stage resin",
+    "zh": "两级(酚醛)树脂 two-ply 二层合板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultra thin laminate",
+    "zh": "超薄型层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unidirectional composite",
+    "zh": "单向复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unifunctional exchange resin",
+    "zh": "单功能交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary matrix",
+    "zh": "酉(矩)阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unit matrix",
+    "zh": "单位矩阵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unmodified resin",
+    "zh": "净树脂；原树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsaturated polyester(UP)",
+    "zh": "不饱和聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsaturated polyester curing agent",
+    "zh": "不饱和聚酯固化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea-formaldehyde resin",
+    "zh": "脲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea-formaldehyde resin fibre",
+    "zh": "脲醛树脂纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea resin",
+    "zh": "尿素树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea-thiourea-formaldehyde resin",
+    "zh": "脲-硫脲-甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vanilla oleoresin",
+    "zh": "香子兰油树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vanilla resinoid",
+    "zh": "香子兰香树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapour phase matrix isolation fluorimetry",
+    "zh": "蒸气(汽)相基体隔离荧光法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "varnish resin",
+    "zh": "清漆树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinylchloride-ethylene resin",
+    "zh": "氯乙烯-乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinyl chloride-octyl acrylate resin(VCOA)",
+    "zh": "氯乙烯-丙烯酸辛酯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinyl chloride-vinyl acetate resin(VCVAC)",
+    "zh": "氯乙烯-醋酸乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinylidene resin",
+    "zh": "亚乙烯树脂；1,1-二氯乙烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinyl resin",
+    "zh": "乙烯基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "virgin resin",
+    "zh": "纯树脂;无填料树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-extended polyester(WEP)",
+    "zh": "水扩张聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-proof laminate",
+    "zh": "防水叠层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water soluble alkyd resin",
+    "zh": "水溶性醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water soluble amino resin",
+    "zh": "水溶性氨基树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water soluble phenol resin",
+    "zh": "水溶性酚醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water soluble resin",
+    "zh": "水溶(性)树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wax matrix",
+    "zh": "蜡模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weak-acid cation exchange resin",
+    "zh": "弱酸性阳离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weak-base anion exchange resin",
+    "zh": "弱碱性阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weakly acidic cation-exchange resin",
+    "zh": "弱酸性阳离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weakly acidic resin",
+    "zh": "弱酸性树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weakly basic anion exchange resin",
+    "zh": "弱碱性阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weakly basic resin",
+    "zh": "弱碱性阴离子交换树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weight per epoxy equivalent(WPE)",
+    "zh": "环氧当量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whisker reinforced composite",
+    "zh": "须晶增强复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white resin",
+    "zh": "白树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "woodgrained laminate",
+    "zh": "木纹层压板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood-plastic composite(WPC)",
+    "zh": "木塑料复合材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "xanthoresinotannol",
+    "zh": "黄树脂单宁醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xylenol-formaldehyde resin",
+    "zh": "二甲苯酚甲醛树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xylenol resin",
+    "zh": "二甲(苯)酚树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xylite-phthalic resin",
+    "zh": "邻苯二甲酸木糖树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yarn-like polyester",
+    "zh": "仿短纤纱涤纶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yellow resin",
+    "zh": "禾木树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zero pressure resin",
+    "zh": "无压(固化)树脂；常压固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc resinate",
+    "zh": "树脂酸锌",
+    "role": "secondary",
+    "confidence": 3.0
+  }
+]

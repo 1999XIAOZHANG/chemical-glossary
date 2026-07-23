@@ -1,0 +1,38 @@
+[
+  {
+    "en": "catalyst screening",
+    "zh": "催化剂筛选",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic cycle oil",
+    "zh": "催化(裂化)循环油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic cycle stock",
+    "zh": "催化(裂化)循环油料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chiral catalyst",
+    "zh": "手性催化剂*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "homogeneous catalysis",
+    "zh": "均相催化*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "homogeneous catalyst",
+    "zh": "均相催化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  }
+]

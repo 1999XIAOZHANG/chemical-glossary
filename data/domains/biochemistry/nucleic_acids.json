@@ -1,0 +1,6380 @@
+[
+  {
+    "en": "acceptor-RNA(tRNA)",
+    "zh": "接受 RNA",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "acetylcarnanine(=bellamarine)",
+    "zh": "孤挺花碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Acheson furnace",
+    "zh": "阿切孙电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid open-hearth furnace",
+    "zh": "酸性敞炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "added internal standard method",
+    "zh": "叠加内标法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adenine(=6-aminopurine)",
+    "zh": "腺嘌呤；6-氨基嘌呤 adenine deaminase 腺嘌呤脱氨酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air furnace",
+    "zh": "鼓风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ajax-Northrup furnace",
+    "zh": "阿贾斯-诺斯拉普高频感应炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ajax-Watt furnace",
+    "zh": "阿贾斯-瓦特电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Alby furnace",
+    "zh": "阿耳拜电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aliphatic quaternary ammonium inner salt",
+    "zh": "脂族季铵内盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyleneoxylated bisquaternary ammonium",
+    "zh": "烯氧基化双季铵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl quaternary ammonium salts",
+    "zh": "烷基季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "all-gas furnace",
+    "zh": "全燃气炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "all-oil furnace",
+    "zh": "全燃油炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alloxazin adenine dinucleotide",
+    "zh": "咯嗪腺嘌呤二核苷酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "all purpose furnace black(APF)",
+    "zh": "通用炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "all-radiant furnace",
+    "zh": "辐射炉（无对流加热部分）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "almond furnace",
+    "zh": "一种反焰型复熔炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current arc method",
+    "zh": "交流弧光法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current arc welding",
+    "zh": "交流电弧焊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternant molecular orbital(AMO)method",
+    "zh": "交替分子轨道法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternant orbital",
+    "zh": "交替轨道",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate",
+    "zh": "交替；更迭；相间;区别;间隔的；断续的;替代的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate circular ports and annular spaces",
+    "zh": "交替圆形和环形通道（换热器的）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate addition method",
+    "zh": "交替加入法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate bond",
+    "zh": "更迭键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate current",
+    "zh": "交流(电)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate copolymer",
+    "zh": "交替共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate double bond",
+    "zh": "更迭双键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate dry and wet test",
+    "zh": "干湿交替试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate flexural stress",
+    "zh": "交变弯曲应力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate fuel(=alternative fuel)",
+    "zh": "代用燃料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate grafting",
+    "zh": "交替接枝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate layers",
+    "zh": "轮换层",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate motion",
+    "zh": "交变运动",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate immersion test",
+    "zh": "交替浸渍(腐蚀)试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate mechanism",
+    "zh": "交变机制(机理); 交替机理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate operation",
+    "zh": "轮换运转；轮换操作",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current electrolysis",
+    "zh": "交流电解",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate polarity",
+    "zh": "更迭极性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate phase method",
+    "zh": "交变相位法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate polarity theory",
+    "zh": "更迭极性说",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternate stress",
+    "zh": "交变应力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating",
+    "zh": "更迭的；交替的；交变的；交错的;交流的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating accumulator",
+    "zh": "交流蓄电池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating affinity",
+    "zh": "更迭亲和力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current impedance",
+    "zh": "交流阻抗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating axes (of symmetry)",
+    "zh": "更迭(对称)轴",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating axis",
+    "zh": "交错轴",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating axis of symmetry",
+    "zh": "交错对称轴",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating bending test",
+    "zh": "交替弯曲试验；反复弯曲试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating block polymer",
+    "zh": "交替嵌段聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current meter",
+    "zh": "交流电流计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating bond",
+    "zh": "更迭键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating copolymer",
+    "zh": "交替共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating copolymerization",
+    "zh": "交替共聚合*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current",
+    "zh": "交流电(流)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current amplifier",
+    "zh": "交流放大器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current arc",
+    "zh": "交流电弧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current motor",
+    "zh": "交流电动机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current polarization titration",
+    "zh": "交流极化滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current polarography",
+    "zh": "交流极谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current pulse polarography",
+    "zh": "交流脉冲极谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current voltammetry",
+    "zh": "交流伏安法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating current spark",
+    "zh": "交流火花",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating damp heat atmosphere",
+    "zh": "交变湿热环境; 湿热交变气氛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating humidity atmosphere",
+    "zh": "交变湿度环境",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating double bond",
+    "zh": "交替双键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating immersion test",
+    "zh": "交替浸渍试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating displacement",
+    "zh": "交变位移",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating deformation",
+    "zh": "交变形变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating intra-intermolecular polymerization",
+    "zh": "交替分子内-分子间聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating polymer",
+    "zh": "交替聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating polarity",
+    "zh": "交变极性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating property",
+    "zh": "交替性质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating pulsed field gradient",
+    "zh": "交变脉冲场梯度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating shear",
+    "zh": "交变剪切",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating stills",
+    "zh": "轮换操作分馏塔（一组蒸馏塔，分别在不同的压力及温度下轮换操作）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating strain",
+    "zh": "交替应变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating strain amplitude",
+    "zh": "交变应变幅度（在动态疲劳试验中，最大应变与最小应变代数差的平均值）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating stress",
+    "zh": "交变应力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating stress amplitude",
+    "zh": "交变应力幅度（在动态疲劳试验中，最大应力与最小应力代数差的平均值）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating stress load",
+    "zh": "交变应力载荷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating structure (",
+    "zh": "聚合物)交替结构",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating tendency",
+    "zh": "交替倾向",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating twist",
+    "zh": "交替加捻(变形工艺中交替加 S 捻和 Z 捻) ;交替捻度(自捻纺纱条具有的 S 向和 Z 向捻度)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating voltage chronopotentiometry",
+    "zh": "交变电压计时电位法*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating voltammetry",
+    "zh": "交流伏安法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternation of melting points",
+    "zh": "熔点的交替",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative(=alternating)",
+    "zh": "更迭的；交替的；交变的;交流的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative atom transfer radical polymerization",
+    "zh": "逆向原子转移自由基聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative clamp unit",
+    "zh": "交替锁模装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative copolymerization",
+    "zh": "交替共聚合(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative electro-mechanical system",
+    "zh": "电-机械变换系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative energy",
+    "zh": "替代能源",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative fuel(=alternate fuel)",
+    "zh": "代用燃料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative hypothesis",
+    "zh": "备择假设*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative mathematical method",
+    "zh": "择一算法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative rubber",
+    "zh": "间聚橡胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative stress",
+    "zh": "交变应力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative synthesis",
+    "zh": "别种合成法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternative withdrawal procedure",
+    "zh": "交替除去法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternator",
+    "zh": "交流发电机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aludel furnace",
+    "zh": "梨坛炉（炼汞炉）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amino uracil",
+    "zh": "氨基尿嘧啶 δ-amino valeramide δ-氨基戊酰胺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ampholytic quaternary ammonium compound",
+    "zh": "两性季铵化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amphoteric quaternary ammonium compound",
+    "zh": "两性季铵化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "angeloylzygadenine",
+    "zh": "当归酰棋盘花碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "angle of internal friction",
+    "zh": "内摩擦角",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "annealing furnace",
+    "zh": "退火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "annular furnace",
+    "zh": "环形炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "antisense nucleic acid",
+    "zh": "反义核酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "antisense RNA",
+    "zh": "反义 RNA",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "arc furnace",
+    "zh": "电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arnatto(=annatto)",
+    "zh": "胭脂树红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Arnaudon's green",
+    "zh": "阿尔诺当绿；磷酸铬",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Arsem furnace",
+    "zh": "阿尔森炉; 碳精棒管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asbestos alternative",
+    "zh": "石棉代用品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asphalt furnace",
+    "zh": "沥青炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atomization in graphite tube furnace",
+    "zh": "石墨管炉原子化法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atomizer using graphite furnace",
+    "zh": "石墨炉原子化器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Augelini furnace",
+    "zh": "奥格林尼电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azathymine",
+    "zh": "氮(杂)胸腺嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "azauracil",
+    "zh": "氮(杂)尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bailey furnace",
+    "zh": "贝利电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "base pairing",
+    "zh": "碱基配对",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basic open-hearth furnace",
+    "zh": "碱性平炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bed of furnace",
+    "zh": "炉底；炉床",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Bernard law",
+    "zh": "伯纳德定律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Birkeland-Eyde furnace",
+    "zh": "伯克兰-艾迪电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bismuth furnace",
+    "zh": "熔铋炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black ash furnace",
+    "zh": "黑灰炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast furnace",
+    "zh": "高炉；鼓风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast furnace cement",
+    "zh": "高炉水泥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace cinder",
+    "zh": "高炉矿渣；鼓风炉炉渣",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace coal tar",
+    "zh": "高炉煤焦油；鼓风炉煤焦油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace coke",
+    "zh": "高炉焦炭；鼓风炉焦炭",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace dust",
+    "zh": "高炉灰",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace elevator",
+    "zh": "高炉升降机；鼓风炉升降机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace filler",
+    "zh": "高炉填料器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast furnace gas",
+    "zh": "高炉煤气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace hoist",
+    "zh": "高炉升举器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace pitch",
+    "zh": "高炉沥青",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace roasting",
+    "zh": "高炉煅烧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace shaft",
+    "zh": "高炉身",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast furnace slag",
+    "zh": "高炉矿渣",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace smelting",
+    "zh": "高炉冶炼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast-furnace tar",
+    "zh": "高炉煤焦油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blast smelting furnace",
+    "zh": "鼓风熔炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blende furnace",
+    "zh": "闪锌矿炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blende roasting furnace",
+    "zh": "闪锌矿煅烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "block furnace",
+    "zh": "方形电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blow-in the furnace",
+    "zh": "开炉; 开炉送风",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "boiler furnace (",
+    "zh": "汽)锅炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bomb furnace",
+    "zh": "封管炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bond alternation",
+    "zh": "键交替现象；分子键交变性质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Booth brass furnace",
+    "zh": "布思黄铜电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bornadiene",
+    "zh": "菠二烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bornane",
+    "zh": "茨烷；菠烷 2-bornene(=bornylene) 冰片烯；2-波烯；2-莰烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "box-type furnace",
+    "zh": "箱式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "braking radiation(=internal bremsstrahlung) （",
+    "zh": "内)韧致辐射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brick furnace(=brick kiln)",
+    "zh": "砖窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brick kiln(=brick furnace)",
+    "zh": "砖窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brimstone furnace",
+    "zh": "燃硫炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromouracil",
+    "zh": "溴尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "burnable bone",
+    "zh": "可燃页岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "burnable poison",
+    "zh": "可燃毒物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcining furnace",
+    "zh": "煅烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium-5-ribonucleotide 5-",
+    "zh": "核糖核苷酸钙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbide furnace",
+    "zh": "碳化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbon black external surface area",
+    "zh": "炭黑外表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbon resistance furnace",
+    "zh": "碳(极)阻(力)电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carborundum furnace",
+    "zh": "金刚砂(电)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carboxy terminated nitrile rubber",
+    "zh": "羧基丁腈橡胶 4-carboxyuracil 4-羧基尿嘧啶；乳清酸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnallite",
+    "zh": "光卤石；砂金卤石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnation",
+    "zh": "淡红色；肉色;肉色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnation absolute",
+    "zh": "康乃馨净油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnation oil",
+    "zh": "康乃馨油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnauba tree",
+    "zh": "巴西棕榈",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnauba wax",
+    "zh": "巴西棕榈蜡；加洛巴蜡",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnaubic acid",
+    "zh": "巴西棕榈酸；二十四(烷)酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carnaubyl alcohol",
+    "zh": "巴西棕榈醇；二十四(烷)醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic reforming furnace",
+    "zh": "催化重整炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cementation furnace",
+    "zh": "渗碳炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charcoal blast-furnace",
+    "zh": "木炭鼓风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorination furnace",
+    "zh": "氯化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "circular furnace",
+    "zh": "圆炉；圆窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Clarke's internal electrolysis apparatus",
+    "zh": "克拉克内电解装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "close furnace",
+    "zh": "闭式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coefficient of internal friction",
+    "zh": "内摩擦系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coke blast-furnace",
+    "zh": "鼓风炉；高炉；炼铁炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coke furnace",
+    "zh": "炼焦炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "column internal diameter",
+    "zh": "柱内径",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combination furnace",
+    "zh": "复式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combustion furnace",
+    "zh": "燃烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combustion tube furnace",
+    "zh": "燃烧管炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "commercial furnace",
+    "zh": "工厂炉子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartment furnace (=compartment kiln)",
+    "zh": "间格窑；间格炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "complementary deoxyribonucleic acid",
+    "zh": "互补 DNA",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "complex coacernation",
+    "zh": "配位积并作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "conductive furnace black",
+    "zh": "导电炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "constant boiling ternary mixture",
+    "zh": "恒沸三元混合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "contact furnace",
+    "zh": "接触炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous flow thermocycling PCR chip",
+    "zh": "连续流式温度循环芯片 PCR",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous translation group",
+    "zh": "连续平移群",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contoured furnace tube",
+    "zh": "仿形(石墨)炉管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "convection furnace",
+    "zh": "对流炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper blast-furnace",
+    "zh": "铜鼓风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper furnace",
+    "zh": "冶铜炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coulometric titration with externally generated reagent",
+    "zh": "外生试剂库仑滴定；外生试剂电量滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cracking furnace",
+    "zh": "裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cracking heater (=cracking furnace)",
+    "zh": "裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crank journal",
+    "zh": "曲(柄)轴颈",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Cross furnace",
+    "zh": "克劳斯裂化装置的裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crucible furnace",
+    "zh": "坩埚炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupel furnace",
+    "zh": "烤钵炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupelling furnace",
+    "zh": "烤钵炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupola (blast) furnace",
+    "zh": "化铁(鼓风)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclic alternating current voltammetry",
+    "zh": "循环交流伏安法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclone furnace",
+    "zh": "旋风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylindrical graphite furnace",
+    "zh": "管状石墨炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cytosine riboside",
+    "zh": "胞(嘧啶核)苷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "day tank furnace",
+    "zh": "日槽熔炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Deacon's furnace",
+    "zh": "迪肯炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "decomposing furnace",
+    "zh": "分解炉（Dickon 法中氯化氢的氧化炉）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of internal order (",
+    "zh": "分子)内部有序度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Dennestedt furnace",
+    "zh": "丹尼斯特(电热燃烧)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deoxynucleoside",
+    "zh": "脱氧核苷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deoxynucleotide",
+    "zh": "脱氧核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deoxyribonuclease(DNase)",
+    "zh": "脱氧核糖核酸酶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deoxyribonucleic acid(DNA)",
+    "zh": "脱氧核糖核酸",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "deoxyribonucleoside",
+    "zh": "脱氧核(糖核)苷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deoxyribonucleotide",
+    "zh": "脱氧核(糖核)苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deoxyribose",
+    "zh": "脱氧核糖",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "derivative alternating current polarograph",
+    "zh": "导数交流极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "desoxyribonucleic acid",
+    "zh": "脱氧核糖核酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "desoxyribose(=ribodesose)",
+    "zh": "脱氧核糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "desulfurizing furnace",
+    "zh": "脱硫炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devernalization",
+    "zh": "去春化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazouracil",
+    "zh": "重氮尿嘧啶 CONHCONHCH=CN=NOH _______",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diazouracil test",
+    "zh": "重氮尿嘧啶试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential alternating current polarograph",
+    "zh": "示差法交流极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethylacylamide",
+    "zh": "二甲基酰胺化合物 2-N-dimethyladenine 2-N-二甲腺嘌呤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl mercury",
+    "zh": "二甲汞 Hg(CH₃)₂ 2,6-dimethyl-2-methoxy-7-octanol 2,6-二甲基-2-甲氧基-7-辛醇 2,2-dimethyl-3-methylene norbornane 2,2-二甲基-3-亚甲基降菠烷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl methylene norbornane(=camphene)",
+    "zh": "二甲基亚甲基降菠烷；莰烯 6,6-dimethyl-2-methylene norpinane 6,6-二甲基-2-亚甲基降蒎烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dinucleotide",
+    "zh": "二核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dinucleotide-fold",
+    "zh": "二核苷酸折叠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diplodnabactivirus",
+    "zh": "双脱噬菌体；双 DNA 噬菌体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "di-quaternary ammonium cellulose halide exchanger",
+    "zh": "双季铵纤维素卤化盐(离子)交换剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "di-quaternary ammonium thiocyanate",
+    "zh": "硫氰酸双季铵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "di-quaternary exchanger",
+    "zh": "双季铵盐(离子)交换剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "distilling furnace",
+    "zh": "蒸馏炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diurnal cycle",
+    "zh": "昼夜循环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diurnal heating",
+    "zh": "昼夜加热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diurnal load",
+    "zh": "每日负载；昼夜负载",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "DNA amplifier DNA",
+    "zh": "扩增仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA array DNA",
+    "zh": "阵列",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA engineering DNA",
+    "zh": "工程",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA enzyme DNA",
+    "zh": "酶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA microarray DNA",
+    "zh": "微集阵列",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA microchip DNA",
+    "zh": "微集芯片",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA polymerase DNA",
+    "zh": "聚合酶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA repair DNA",
+    "zh": "修复",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA replication DNA",
+    "zh": "复制",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "DNA sensor",
+    "zh": "脱氧核糖核酸电化学传感器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DNA transcription processor DNA",
+    "zh": "转录处理器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "doble flame furnace",
+    "zh": "返焰炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double arc furnace method",
+    "zh": "双重电弧炉法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double bed burner(=double bed furnace)",
+    "zh": "双膛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double bed furnace(=double bed burner)",
+    "zh": "双膛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double hearth burner(=double hearth furnace)",
+    "zh": "双膛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double hearth furnace(=double hearth burner)",
+    "zh": "双膛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double helix",
+    "zh": "双螺旋",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double helix hypothesis",
+    "zh": "双螺旋假说",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double helix model",
+    "zh": "双螺旋模型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double pass internal reflection element",
+    "zh": "双程内反射元件",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double stranded DNA",
+    "zh": "双链 DNA",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double upshot furnace",
+    "zh": "直立双膛(烟气上行)加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "down-draft furnace",
+    "zh": "倒风炉；倒焰炉；烟道气下行的加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "downshot-type furnace",
+    "zh": "烟道气下行式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "draft furnace",
+    "zh": "通风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drip furnace",
+    "zh": "液体燃料燃烧用炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual chamber furnace",
+    "zh": "双室炉；双膛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual-furnace cracking unit",
+    "zh": "双炉裂化装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eburnamenine",
+    "zh": "象牙(洪达木)烯宁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eburnamine",
+    "zh": "象牙(洪达木)胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eburnamonine",
+    "zh": "象牙(洪达木)酮宁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effective number of replication",
+    "zh": "有效重复数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric arc furnace",
+    "zh": "电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electric furnace",
+    "zh": "电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electric induction furnace",
+    "zh": "电感炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electric resistance furnace",
+    "zh": "电阻炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electric steel furnace",
+    "zh": "电炉钢炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electric tube furnace",
+    "zh": "管式电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrochemical DNA sensor",
+    "zh": "电化学DNA传感器；电化学脱氧核糖核酸传感器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrolytic furnace",
+    "zh": "电解炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrothermal furnace",
+    "zh": "电热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Embden-Meyerhof-Parnas pathway(EMP) EMP",
+    "zh": "途径；糖酵解途径",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enamel furnace",
+    "zh": "搪瓷窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enamel kiln(=enamel furnace)",
+    "zh": "搪瓷窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enamel(1)ing furnace",
+    "zh": "搪瓷窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy content(=internal energy)",
+    "zh": "能含量；内能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated quaternary",
+    "zh": "乙氧基化季铵盐化合物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "even AH(=even alternate hydrocarbon)",
+    "zh": "偶交替烃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external",
+    "zh": "外(面)的;外部",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external antistatic agent",
+    "zh": "外用抗静电剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external antistatics",
+    "zh": "外用抗静电剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external auxiliary column",
+    "zh": "外部辅助柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external calandria",
+    "zh": "外加热排管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external catalyst return",
+    "zh": "催化剂外回路",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external circuit",
+    "zh": "外电路",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external coating",
+    "zh": "外涂层",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external column",
+    "zh": "外柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external comparison method",
+    "zh": "外标准法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external compensation",
+    "zh": "外消旋(作用);外补偿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external compensation method",
+    "zh": "外部补偿法；外对消法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external condensation process",
+    "zh": "外冷凝法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external conversion of energy",
+    "zh": "能量外转换",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external crack",
+    "zh": "外部龟裂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external crosslinking",
+    "zh": "外交联(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external cutting",
+    "zh": "外圆切削；外圆车削",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external diameter",
+    "zh": "外径",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external diffusion",
+    "zh": "外扩散",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external dimension",
+    "zh": "外部尺寸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external effectiveness factor",
+    "zh": "粒外有效因子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external equalizer",
+    "zh": "外平衡管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external exposure",
+    "zh": "外照射",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external factor",
+    "zh": "外界因素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external fibrillation",
+    "zh": "表面纤丝化；表面帚化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external force",
+    "zh": "外力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external friction",
+    "zh": "外摩擦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external gear oil pump",
+    "zh": "外啮合齿输油泵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external grinding",
+    "zh": "外圆磨削",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external haze",
+    "zh": "表面混浊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external heat exchanger",
+    "zh": "外置式换热器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external heating",
+    "zh": "外热法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external heavy atom effect",
+    "zh": "外重原子效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external ignitor",
+    "zh": "外接点火器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external impregnation",
+    "zh": "外部浸渍",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external indicator",
+    "zh": "外(用)指示剂*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external interheater",
+    "zh": "外部中间加热器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external labeling",
+    "zh": "外标记",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external lock",
+    "zh": "外锁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally compensated compound",
+    "zh": "外消旋化合物;外补偿化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally cooled Fischer-Tropsch process",
+    "zh": "外部冷却的费-托合成过程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally fed spray gun",
+    "zh": "外送料喷枪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally fired retort",
+    "zh": "外热(干馏)釜",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally heated",
+    "zh": "外面加热的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "externally heating",
+    "zh": "外面加热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external mix (",
+    "zh": "喷)枪外混合",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external mix air cup",
+    "zh": "外混(合)式喷雾嘴",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external mix spray gun",
+    "zh": "外混式喷枪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external mix type gun",
+    "zh": "外混(合)式喷枪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external modulation",
+    "zh": "外调制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external (mold) lubricant",
+    "zh": "外施脱模剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external multitubular heater",
+    "zh": "外多管加热器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external phase",
+    "zh": "外相",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external phase of emulsion",
+    "zh": "乳液外相（连续相）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external photoelectric effect",
+    "zh": "外光电效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external plasticization",
+    "zh": "外增塑(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external plasticizer",
+    "zh": "外增塑剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external pressure",
+    "zh": "外压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external pressure vessel",
+    "zh": "外压容器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external reference electrode",
+    "zh": "外参考电极；外参比电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external reflectance",
+    "zh": "外反射",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external reflux",
+    "zh": "外回流（塔的冷却回流；从外面送入塔内的回流）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external reflux of column",
+    "zh": "分馏柱的外回流",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external releasing agent",
+    "zh": "外脱模剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external resistance",
+    "zh": "外电阻",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external ring",
+    "zh": "外环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external screw thread",
+    "zh": "外螺纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external sheath",
+    "zh": "外层包覆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external shell-and-multitube cooler",
+    "zh": "外部夹套多管冷却器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external standard",
+    "zh": "外标*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external standard method",
+    "zh": "外标法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external strain",
+    "zh": "外应变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external stress",
+    "zh": "外应力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external surface",
+    "zh": "外表面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external symmetry",
+    "zh": "外对称",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external temperature",
+    "zh": "室外温度；外部温度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external thermometer",
+    "zh": "外标尺式温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external thread",
+    "zh": "外螺纹；阳螺纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external variable",
+    "zh": "外变量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external work",
+    "zh": "外功",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external wort boiling heater",
+    "zh": "体外麦汁煮沸加热器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external wort boiling system",
+    "zh": "体外麦汁煮沸系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external wort boiling vessel",
+    "zh": "体外麦汁煮沸器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extra conductive furnace black",
+    "zh": "超导电炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extract furnace",
+    "zh": "提取加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fast extrusion furnace",
+    "zh": "快速压出炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid quaternary ammonium salt",
+    "zh": "脂肪酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fine furnace black",
+    "zh": "细炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fitzgerald-Thomson furnace",
+    "zh": "裴兹杰惹-汤姆逊电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fixed hearth furnace",
+    "zh": "固定床膛火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flavin mononucleotide(FMN)",
+    "zh": "黄素单核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flowing furnace",
+    "zh": "熔化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flucytosine",
+    "zh": "氟胞嘧啶（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid heating furnace",
+    "zh": "流体加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluidized bed furnace",
+    "zh": "流化床加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluorouracil",
+    "zh": "氟尿嘧啶（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Foster-Wheeler furnace",
+    "zh": "福斯特-威洛炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "four hearth burner(=four hearth furnace)",
+    "zh": "四膛炉；四室炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fractional replication",
+    "zh": "分数配置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free internal rotation",
+    "zh": "自由内旋转",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fritting furnace",
+    "zh": "烧结炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "frustrated multiple internal reflectance",
+    "zh": "多次内反射装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fry's theory(=alternate polarity theory)",
+    "zh": "弗莱氏理论；交替极性说",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fulton furnace",
+    "zh": "弗尔顿电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace",
+    "zh": "加热炉;熔炉 α-furfuryl octanoate 辛酸-α-糠酯 α-furfuryl pentanoate 戊酸-α-糠酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace outlet stream",
+    "zh": "炉出口流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace tube spring hanger",
+    "zh": "炉管弹簧吊架",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace bottom",
+    "zh": "炉底；炉床",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace bridge wall",
+    "zh": "管式炉隔墙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace capacity",
+    "zh": "炉容量；有效热负荷（裂化炉）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace charge",
+    "zh": "炉内装料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace charge pump",
+    "zh": "往炉内装料泵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace clinker",
+    "zh": "炉渣结块",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace coal",
+    "zh": "冶金煤：炉煤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace coke",
+    "zh": "冶金焦炭",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace cooling",
+    "zh": "随炉冷却的热油料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace distillate",
+    "zh": "炉馏出物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace draft",
+    "zh": "炉子抽力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace dust",
+    "zh": "炉灰",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace floor",
+    "zh": "炉底",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace fuel",
+    "zh": "炉用燃料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace gas condenser",
+    "zh": "炉气冷凝器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace gas scrubber",
+    "zh": "炉气洗涤器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace hearth",
+    "zh": "炉底；炉床",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace inlet stream",
+    "zh": "炉入口流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace operating curve",
+    "zh": "炉子操作曲线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace pot",
+    "zh": "杯；盘;蒸发皿；溜槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace pyrite ore",
+    "zh": "炉用黄铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace rear",
+    "zh": "炉后",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace treatment",
+    "zh": "炉热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnace tube",
+    "zh": "炉管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "furnacing",
+    "zh": "焙烧；煅烧",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "galley furnace(=gallery furnace)",
+    "zh": "长廊炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas-fired furnace",
+    "zh": "烧煤气的炉子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas furnace",
+    "zh": "煤气炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gefarnate",
+    "zh": "吉法酯（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gene expression",
+    "zh": "基因表达; 基因表现",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "generation of internal heat",
+    "zh": "内部发热",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gene replication",
+    "zh": "基因复制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gillett-Rhoads furnace",
+    "zh": "吉勒特-罗兹电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Girod furnace",
+    "zh": "吉罗德电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass furnace",
+    "zh": "熔玻璃炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycinamide ribonucleotide",
+    "zh": "甘氨酰胺核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gun-applied furnace insulation (",
+    "zh": "油)枪喷(涂)炉绝缘（一种可以利用混凝土枪来喷射的加热炉保温材料）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Guye furnace",
+    "zh": "盖伊电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Haanel-Heront furnace",
+    "zh": "哈内耳-赫朗特电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haleite (=EDNA)",
+    "zh": "二硝基乙胺",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hand furnace",
+    "zh": "人工炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hand-rabbled furnace",
+    "zh": "人工炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hand-raked furnace",
+    "zh": "人工炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hand worked furnace",
+    "zh": "人工炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Harden furnace",
+    "zh": "哈顿电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hardening furnace",
+    "zh": "硬化炉；淬火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hearth furnace",
+    "zh": "床炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heated graphite furnace atomizer",
+    "zh": "电热石墨炉原子化器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heating furnace",
+    "zh": "加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat resistant furnace",
+    "zh": "耐热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Herry furnace (for calcium carbide)",
+    "zh": "赫里(制电石)电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high abrasion furnace black (HAF)",
+    "zh": "高耐磨炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high bloomery furnace",
+    "zh": "高温炼铁炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high elongation furnace black",
+    "zh": "高伸长炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high frequency alternator",
+    "zh": "高频振荡(发生)器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-frequency induction furnace",
+    "zh": "高频电感(加热)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high modulus furnace black",
+    "zh": "高模数炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high voltage alternating current arc",
+    "zh": "高压交流电弧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hindered internal rotation",
+    "zh": "受阻内转动",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hindered translational motion",
+    "zh": "受阻平移运动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "horizontal-chamber furnace",
+    "zh": "卧式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horizontal rotary furnace",
+    "zh": "卧式转炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-blast furnace",
+    "zh": "热风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot tube furnace",
+    "zh": "热管炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrocarbon performer furnace",
+    "zh": "烃类转化炉；烃类加工用炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydroxymethyl cyclodecane",
+    "zh": "羟甲基环癸烷 5-hydroxymethyl cytosine (HMC) 5-羟甲基胞嘧啶 4-hydroxymethyl-2,6-di-t-butyl phenol 4-羟甲基-2,6-二叔丁基苯酚（防老剂） 5-hydroxymethyl furfural 5-羟甲基糠醛 β-hydroxy-β-methyl glutaryl-CoA(HMG-CoA) β-羟基-β-甲基戊二酸单酰 CoA 2-hydroxy methylmercapto benzene 2-羟基甲硫基苯 2-hydroxy methyl-5-norbornene (=5-norbornene-2-methanol) 5-降冰片烯-2-甲醇；2-羟甲基-5-降冰片烯（涂料用聚合物改性剂） 3-(hydroxymethyl)-2-octanone 3-(羟甲基)-2-辛酮 2(2-hydroxy-5-methylphenyl) benzothiazole 2(2-羟基-5-甲基苯基)苯并三唑（紫外线吸收剂） 4-hydroxy-N-methyl-proline 4-羟基-N-甲基脯氨酸 2-hydroxy-2-methyl-propiophenone 2-羟基-2-甲基苯丙酮 (CH₃)₂C(OH)C(O)C₆H₅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "imperial smelting furnace",
+    "zh": "铅锌鼓风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inactive positions of alternant system",
+    "zh": "交替体系的不活泼位置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incarnadine",
+    "zh": "淡红色；肉色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incarnatin",
+    "zh": "翘摇苷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incarnatyl alcohol",
+    "zh": "翘摇醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "independent arc furnace",
+    "zh": "独立电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "indirect arc furnace",
+    "zh": "间接电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "induction furnace",
+    "zh": "感应电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "industrial furnace",
+    "zh": "工业炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inearnatyl alcohol",
+    "zh": "三十四(烷)醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ingot furnace",
+    "zh": "热锭炉；铸锭炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intensive internal mixer",
+    "zh": "强力密炼机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal",
+    "zh": "内(部)的；内件",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal absorbance",
+    "zh": "内吸光度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal absorbent method",
+    "zh": "内吸收法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal addition",
+    "zh": "内位加成",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal alcoholysis",
+    "zh": "内醇解",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal anhydride",
+    "zh": "内酐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal antistatic agent",
+    "zh": "内用抗静电剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal barrier",
+    "zh": "内势垒",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal bremsstrahlung(=braking radiation) (",
+    "zh": "内)韧致辐射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal carbon referencing",
+    "zh": "碳内标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal catalyst bed",
+    "zh": "内催化剂床",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal charging gun",
+    "zh": "机内充电喷枪；内部带电喷枪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal check valve (",
+    "zh": "油罐)内单向阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal circuit",
+    "zh": "内电路",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal coagulant",
+    "zh": "内施凝固剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal coating",
+    "zh": "内涂剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal cohesive energy",
+    "zh": "内(凝)聚能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal combustion",
+    "zh": "内燃(烧)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal combustion engine",
+    "zh": "内燃机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal compensation",
+    "zh": "内消旋(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal compensation method",
+    "zh": "内消旋法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal conductance system",
+    "zh": "内导体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal content",
+    "zh": "内含(量)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal conversion",
+    "zh": "内转换*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal conversion coefficient",
+    "zh": "内转换系数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal cooling",
+    "zh": "内冷却",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal cracking",
+    "zh": "内部龟裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal crosslinker",
+    "zh": "内交联剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal crosslinking",
+    "zh": "内交联(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal crystal framework",
+    "zh": "结晶内部格架；内部晶格",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal damping",
+    "zh": "内阻尼",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal degree of freedom",
+    "zh": "内自由度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal diameter",
+    "zh": "内径",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal diameter method",
+    "zh": "内径法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal diffusion",
+    "zh": "内扩散*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal double bond",
+    "zh": "内双键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal drum filter",
+    "zh": "内滤鼓式过滤机；内滚筒压滤机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal drying test",
+    "zh": "内部干燥试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal dying",
+    "zh": "纺前染色；内染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal electrically energizable heater element",
+    "zh": "内供电式加热器元件",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal electrogravimetry",
+    "zh": "内电解法*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal electrolysis",
+    "zh": "内电解法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal emulsifying agent",
+    "zh": "内乳化剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal energy",
+    "zh": "内能*;内部能量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal ester(=internal ether)",
+    "zh": "内酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal ether(=internal ester)",
+    "zh": "内酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal expanded coupling",
+    "zh": "内胀式管接头",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal factor",
+    "zh": "内在因素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal fibrillation",
+    "zh": "内部帚化；内部纤维化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal firebox boiler",
+    "zh": "内火室锅炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal fissure",
+    "zh": "内开裂;内裂纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal fluid friction(=internal friction of liquids)",
+    "zh": "液体内摩擦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal force",
+    "zh": "内力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal friction",
+    "zh": "内摩擦;内耗",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal friction of liquids(=internal fluid friction)",
+    "zh": "液体内摩擦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal furnace ion source",
+    "zh": "内炉离子源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal furnace source",
+    "zh": "内炉源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal gas-heated retort",
+    "zh": "内热(干馏)釜",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal haze",
+    "zh": "内混浊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heated runner",
+    "zh": "内加热流道",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heating",
+    "zh": "内加热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heating effect",
+    "zh": "内加热效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heat of evaporation",
+    "zh": "内蒸发热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heavy atom effect",
+    "zh": "内重原子效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal heteronuclear D lock",
+    "zh": "异核氘内锁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal indicator",
+    "zh": "内指示剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal interference",
+    "zh": "内干扰；内干涉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal ionization",
+    "zh": "内部电离作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal latent heat",
+    "zh": "潜热",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal lock",
+    "zh": "内锁*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internally blocked crosslinker",
+    "zh": "内封闭交联剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internally compensated inactive compound",
+    "zh": "内消旋无旋光性化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal mixer",
+    "zh": "密炼机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal morphology",
+    "zh": "内部形态学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal nonuniformity",
+    "zh": "内部不均匀性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal normalization",
+    "zh": "内标归一化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal nucleophilic substitution",
+    "zh": "分子内亲核取代*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal olefin",
+    "zh": "内烯烃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal oleyl sulfate",
+    "zh": "内油醇硫酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal oxidation",
+    "zh": "分子内氧化作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal partition function",
+    "zh": "内分配函数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal penetration",
+    "zh": "内部渗透；内渗透性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal phase",
+    "zh": "内相",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal-phase ratio",
+    "zh": "内相比",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal plasticization",
+    "zh": "内增塑作用*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal plasticizer",
+    "zh": "内增塑剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal (position) isomer",
+    "zh": "内(位)异构体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reaction",
+    "zh": "内反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal rearrangement",
+    "zh": "内部重排(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal redox indicator",
+    "zh": "液内氧(化)还(原)指示剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reduction",
+    "zh": "分子内还原作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reference",
+    "zh": "内标；内参比；内参考",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reference electrode",
+    "zh": "内参比电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reference element",
+    "zh": "内参比元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reference element technique",
+    "zh": "内参比元素技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reference line",
+    "zh": "内参比线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflectance",
+    "zh": "内反射",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflectance spectroscopy",
+    "zh": "内反射光谱法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflection",
+    "zh": "内反射光谱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflection element",
+    "zh": "内反射元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflux",
+    "zh": "内回流；热回流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal reflux ratio",
+    "zh": "内回流比",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal relative deviation",
+    "zh": "内相对偏差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal relaxation",
+    "zh": "内部松弛；内部弛豫",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal releasing agent",
+    "zh": "内脱模剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal ring",
+    "zh": "内环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal rotation",
+    "zh": "内旋转*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal rotation angle",
+    "zh": "内旋转角",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal rubber mixer",
+    "zh": "橡胶混合器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internals",
+    "zh": "内部构件；内部零件;本质(性)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal salt",
+    "zh": "内盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal screw pump",
+    "zh": "内螺旋泵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal separation",
+    "zh": "分离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal sizing",
+    "zh": "内(部)施胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stabilizer",
+    "zh": "内稳定剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard",
+    "zh": "内标*;内标物;内标法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard area",
+    "zh": "内标面积",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard element",
+    "zh": "内标元素*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard line",
+    "zh": "内标线*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard method(=marker method)",
+    "zh": "内标法*；标示法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard normalization",
+    "zh": "内标归一化(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard sample",
+    "zh": "内标试样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal standard substance",
+    "zh": "内标物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal strain",
+    "zh": "内应变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stress",
+    "zh": "内应力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stress due to electroplating",
+    "zh": "电镀内应力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stress relaxation",
+    "zh": "内应力松弛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stripping section",
+    "zh": "内汽提段",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal surface",
+    "zh": "内表面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal surface area",
+    "zh": "内表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal target",
+    "zh": "内靶*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal thread",
+    "zh": "内螺纹；阴螺纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal-type ball float",
+    "zh": "内在型浮球",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal variable",
+    "zh": "内变量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal vibration",
+    "zh": "内振动",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal view",
+    "zh": "内部剖视图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal volume",
+    "zh": "内体积",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal waviness",
+    "zh": "内波纹(度)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international ampere",
+    "zh": "国际安培",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international atomic weight",
+    "zh": "国际原子量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international biological standard",
+    "zh": "国际生物标准",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "International Bureau of Weights and Measures",
+    "zh": "国际度量衡局",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international candle",
+    "zh": "国际烛光（照度单位；符号 int.c）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "International Conference on Thermal Analysis(ICTA)",
+    "zh": "国际热分析协会",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international nomenclature",
+    "zh": "国际命名法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international oil industry",
+    "zh": "国际石油工业",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "International Organization of Flavor Industry(IOFI)",
+    "zh": "国际香料工业组织",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international prototype of kilogram",
+    "zh": "国际千克原器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international prototype of meter",
+    "zh": "国际米原器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international standard",
+    "zh": "国际标准",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "International Standardization Organization(ISO)",
+    "zh": "国际标准化组织",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international standard substance",
+    "zh": "国际标准品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international steam table",
+    "zh": "国际蒸汽表",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international sugar scale",
+    "zh": "国际砂糖标度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international system of units",
+    "zh": "国际单位制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international temperature scale",
+    "zh": "国际温(度)标 International Union of Pure and Applied Chemistry (IUPAC)国际纯粹与应用化学联合会*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "international unit",
+    "zh": "国际单位",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internucleotide linkage",
+    "zh": "核苷酸间键合",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intrinsic energy(=internal energy; energy content)",
+    "zh": "内能;蕴能; 能含量; 能藏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "iodouracil",
+    "zh": "碘(代)尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoadenine",
+    "zh": "异腺嘌呤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoalloxazine adenine dinucleotide",
+    "zh": "异咯嗪腺苷二核苷酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "isoalloxazine mononucleotide",
+    "zh": "异咯嗪一核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isoguanine",
+    "zh": "异鸟嘌呤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "N⁶-isopentenyladenine N⁶-",
+    "zh": "异戊烯腺嘌呤；玉米素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Jones furnace",
+    "zh": "琼斯炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "journal bearing",
+    "zh": "轴颈轴承",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "journal box",
+    "zh": "轴颈箱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "journal compound",
+    "zh": "轴颈配合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "journal oil",
+    "zh": "轴颈油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Kellogg millisecond furnace",
+    "zh": "凯洛格毫秒炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Kilburn-Cott furnace",
+    "zh": "基耳伯-科特电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "King furnace",
+    "zh": "金氏高温炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Koppers-Hasche furnace",
+    "zh": "科佩斯-哈舍炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "late replication",
+    "zh": "迟复制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead smelting furnace",
+    "zh": "熔铅炉；炼铅炉；化铅炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linewidth alternation",
+    "zh": "线宽交替；交替线宽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "liquation furnace",
+    "zh": "熔化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long bedded furnace",
+    "zh": "长底炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long-chain quaternary ammonium ion",
+    "zh": "长链季铵离子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "longitudnal seam",
+    "zh": "纵缝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lorentzen furnace",
+    "zh": "洛伦兹电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low voltage alternating current arc",
+    "zh": "低压交流电弧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "L'vov furnace",
+    "zh": "里沃夫炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lyon furnace",
+    "zh": "来温电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "marker method(=internal standard method)",
+    "zh": "标示法；内标法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Massmann furnace",
+    "zh": "马斯曼高温炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Massmann high-temperature furnace",
+    "zh": "马斯曼高温炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanical furnace",
+    "zh": "机械炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanically rabbled furnace(=mechanically raked furnace)",
+    "zh": "机械搅拌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanically raked furnace(=mechanically rabbled furnace)",
+    "zh": "机械搅拌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanical salt-cake furnace",
+    "zh": "机动盐饼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "medium colour furnace (oxidated) black",
+    "zh": "中色素炉法(氧化)炭黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Menschutkin reaction(=quaternarization)",
+    "zh": "季铵化作用；门秀金反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mercury furnace",
+    "zh": "炼汞炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "messenger RNA(mRNA)",
+    "zh": "信使 RNA",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "methodium",
+    "zh": "甲锭（DNA 嵌入剂）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "methionyl-tRNA transformylase",
+    "zh": "甲硫氨酰 tRNA 转甲酰基酶",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "method of external standard",
+    "zh": "外标法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "method of internal normalization",
+    "zh": "内标归一法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "method of internal standard reagent(MISR)",
+    "zh": "内部标记法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methylcytisine(=caulophylline)",
+    "zh": "甲基金雀花碱 5-methylcytosine 5-甲基胞嘧啶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl n-undecyl ketone semicarbazone",
+    "zh": "甲基十一基(甲)酮缩氨基脲 C₁₁H₂₃(CH₃)C=NNHCONH₂ 5-methyluracil 5-甲基尿嘧啶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl thiouracil",
+    "zh": "甲基硫尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro chamber stationary thermocyling PCR chip",
+    "zh": "微室静态温度循环 PCR 芯片",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mini-Massmann furnace",
+    "zh": "小型马斯曼高温炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mitochondrial DNA(MTDNA)",
+    "zh": "线粒体 DNA",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mitochondrial RNA(mt RNA)",
+    "zh": "线粒体 RNA",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Moissan furnace",
+    "zh": "莫桑电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molar internal energy",
+    "zh": "摩尔内能*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Moscicki furnace",
+    "zh": "摩西基电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "movable furnace",
+    "zh": "活动炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "muffle furnace",
+    "zh": "马弗炉 ; 高温焚火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple bedded furnace",
+    "zh": "多层炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple-hearth burner(=multiple-hearth furnace)",
+    "zh": "多床炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple-hearth furnace(=multiple-hearth burner)",
+    "zh": "多床炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple internal reflectance",
+    "zh": "多重内反射",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple internal reflectance accessories",
+    "zh": "多次内反射附件",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple muffle furnace",
+    "zh": "多套炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multitube furnace",
+    "zh": "多管炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "naphtha furnace",
+    "zh": "石脑油炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nick translation",
+    "zh": "缺口平移法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niter-cake furnace",
+    "zh": "硝饼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-alternant hydrocarbon",
+    "zh": "非交替烃*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonalternant polyene chromogens",
+    "zh": "非交替的多烯类发色体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-oxidizing furnace",
+    "zh": "非氧化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonquaternary",
+    "zh": "非季(铵)盐的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonquaternary cationics",
+    "zh": "非季铵盐型阳离子表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "norbornadiene",
+    "zh": "降冰片二烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "norbornane",
+    "zh": "降冰片烷 C7H12",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "norbornanol",
+    "zh": "降冰片烷醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nucleic acid",
+    "zh": "核酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nucleicacidase",
+    "zh": "核酸酶",
+    "role": "secondary",
+    "confidence": 2.5
+  },
+  {
+    "en": "nucleic acid blot technique",
+    "zh": "核酸吸印技术",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nucleic acid probe",
+    "zh": "核酸探针",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nucleic acid purification system",
+    "zh": "核酸提纯系统",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nucleoside",
+    "zh": "核苷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleoside diphosphate",
+    "zh": "二磷酸核苷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleoside monophosphate",
+    "zh": "单磷酸核苷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleotide",
+    "zh": "核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "number of replications",
+    "zh": "重复(测定)次数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "odd alternants anion",
+    "zh": "奇数交替烃负离子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "odd-even alternation",
+    "zh": "奇偶交替；奇偶循环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil-fired furnace",
+    "zh": "烧油炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oligonucleotide",
+    "zh": "低(聚)核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oligonucleotide array",
+    "zh": "寡核苷酸阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open black ash furnace",
+    "zh": "敞式黑灰炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open-flame furnace",
+    "zh": "敞炉：平炉；有焰炉; 开炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open furnace",
+    "zh": "敞炉；平炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open-hearth furnace",
+    "zh": "平炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordnance",
+    "zh": "兵工(制)品；军需品",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ore furnace",
+    "zh": "煅矿炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental",
+    "zh": "装饰用的；增光的;装饰品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental brick",
+    "zh": "釉面砖；装饰性花砖",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental enamel",
+    "zh": "装饰性搪瓷品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental glass (ware)",
+    "zh": "装饰性玻璃(器皿)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental moulding",
+    "zh": "艺术造型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental plaster",
+    "zh": "装饰性粉饰；华丽粉饰",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamental plating",
+    "zh": "装饰性电镀层",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ornamycin",
+    "zh": "装饰霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Osmund furnace",
+    "zh": "高风箱炉；奥斯孟炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxide-drossing furnace",
+    "zh": "氧化撇渣炉；氧化造渣炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pan-furnace",
+    "zh": "锅与炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "parental DNA",
+    "zh": "亲代 DNA",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "parting furnace",
+    "zh": "分离炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "permeable-lining furnace",
+    "zh": "可透衬层炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pernot furnace",
+    "zh": "反射搅炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Pershbecker furnace",
+    "zh": "佩希伯克尔(转式)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petroleum refining furnace",
+    "zh": "石油炼制炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phase selective alternating current polarography",
+    "zh": "相敏交流极谱法*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phosphodiesterase",
+    "zh": "磷酸二酯酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezo-electric DNA sensor",
+    "zh": "压电DNA传感器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pipe furnace(=pipe heater)",
+    "zh": "管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pipe heater(=pipe furnace)",
+    "zh": "管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plasma arc furnace",
+    "zh": "等离子(电弧)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plastic resistance(=internal friction)",
+    "zh": "塑性阻力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "platform furnace",
+    "zh": "平面石墨炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "platform furnace graphite",
+    "zh": "平台石墨炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plus-pressure furnace",
+    "zh": "加压炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymeric quaternary ammonium compound",
+    "zh": "高分子季铵化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymerization furnace",
+    "zh": "聚合炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polynucleotide",
+    "zh": "多核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polynucleotide ligase",
+    "zh": "多核苷酸连接酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polynucleotide nucleotidyltransferase",
+    "zh": "多核苷酸转核苷酰酶；多核苷酸磷酸化酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polynucleotide phosphorylase",
+    "zh": "多核苷酸磷酸化酶；多核苷酸转核苷酰酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "portland blast-furnace slag cement",
+    "zh": "高炉矿渣(硅酸盐)水泥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pot-and-muffle furnace",
+    "zh": "坩埚-马弗炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pot furnace",
+    "zh": "罐炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "preheater furnace",
+    "zh": "预热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "principle of internal standard",
+    "zh": "内标原理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "process furnace",
+    "zh": "管式炉；加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "producer furnace (",
+    "zh": "煤气)发生炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "propylthiouracil",
+    "zh": "丙硫氧嘧啶；丙基硫尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudoternary system",
+    "zh": "假三元体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pudding furnace(=puddler)",
+    "zh": "搅炼炉；炼铁炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "puddler(=puddling furnace)",
+    "zh": "搅炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "puddling furnace(=puddler)",
+    "zh": "搅炼炉；炼铁炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "purging by alternating current electrolysis",
+    "zh": "交流电解清洗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrimidine nucleoside",
+    "zh": "嘧啶核苷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrite furnace",
+    "zh": "黄铁矿炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrite furnace gas(=pyrite gas)",
+    "zh": "黄铁矿炉气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrite kiln",
+    "zh": "黄铁矿窑 pyrite mechanical burner(=pyrite mechanical furnace;",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrite mechanical furnace(=pyrite mechanical burner)",
+    "zh": "黄铁矿机械炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrites",
+    "zh": "硫化铁矿类 pyrite shelf burner(=pyrite shelf furnace; pyrite shelf",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrite shelf furnace(=pyrite shelf burner)",
+    "zh": "黄铁矿屉式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrolysis furnace",
+    "zh": "热解炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrolysis tube furnace",
+    "zh": "裂解管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quarternary alloy",
+    "zh": "四元合金",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quarternary structure",
+    "zh": "四级结构",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quassic acid",
+    "zh": "苦木酸 C H O quassin 苦木素 C H O quaternaries 季(铵)盐(类)；四元的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternarization(=quaternization)",
+    "zh": "季铵化反应；季铵化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary",
+    "zh": "四元的;四价的;季的；连上四个碳原子的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary adduct",
+    "zh": "四元加合物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkanol",
+    "zh": "季化(链)烷醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkanolammonium type resin",
+    "zh": "季烷醇铵型树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkoxypropyl ammonium halide",
+    "zh": "四(元)烷氧基丙基卤化铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkyl ammonium hydroxide",
+    "zh": "氢氧化烷基季铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkyl ammonium type resin",
+    "zh": "烷基季铵型树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkyl aryl methyl ammonium chloride",
+    "zh": "四(元)烷基芳基甲基氯化铵烷基方基甲基氯化铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alkylphosphonium salt",
+    "zh": "季磷盐；四烷基膦盐 R₄PX",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary alloy",
+    "zh": "四元合金",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary amines",
+    "zh": "季铵类",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary aminoethyl(QAE) (",
+    "zh": "季)铵乙基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium",
+    "zh": "季铵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium ampholytic",
+    "zh": "季铵型两性表面活性剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium base",
+    "zh": "季铵碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium base cellulose",
+    "zh": "季铵碱纤维素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium compound",
+    "zh": "季铵化合物*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium fluorosilicate",
+    "zh": "氟硅酸季铵盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium halide",
+    "zh": "季铵卤化物 R₄NX",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium hexafluorosilicate",
+    "zh": "六氟硅酸季铵盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium hydrate",
+    "zh": "季铵碱 R₄NOH",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium hydroxide",
+    "zh": "氢氧化季铵；季铵碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium montmorillonite",
+    "zh": "季铵蒙脱石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium nitrate",
+    "zh": "硝酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium pentachlorophenate",
+    "zh": "五氯苯酚季铵盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium perchlorate",
+    "zh": "高氯酸季铵盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium polymetaphosphate",
+    "zh": "聚偏磷酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium salt",
+    "zh": "季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium softener",
+    "zh": "季铵(型)柔软剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium sulfate",
+    "zh": "硫酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium thiocyanate",
+    "zh": "硫代氰酸季铵盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium type resin",
+    "zh": "季铵型树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary arsenical compound",
+    "zh": "季砷合物；季砷镝化合物 R₄AsX",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary arsonium compound",
+    "zh": "季钟化合物；季砷镝化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary base",
+    "zh": "季碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary borohydride",
+    "zh": "硼氢化季盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary carbon atom",
+    "zh": "季碳原子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary cationics",
+    "zh": "季(铵)盐阳离子表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary cationic surfactant",
+    "zh": "季(铵)盐类阳离子表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary compound",
+    "zh": "季化合物;四元化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary copolymer",
+    "zh": "季铵共聚物；四元共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary detergent",
+    "zh": "季(铵)盐类洗涤剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary exchange resin",
+    "zh": "四组分(离子)交换树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary germicidal surfactant",
+    "zh": "季(铵)型杀菌性表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary halide",
+    "zh": "卤化季盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary liquid system",
+    "zh": "四元液体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary mixture",
+    "zh": "四元混合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary morpholinium alkyl sulfate",
+    "zh": "季(铵)化吗啉硫酸烷基酯盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary myristoylcholine chloride",
+    "zh": "季(铵)化肉豆蔻酰胆碱氯化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary nicotinium sulfate",
+    "zh": "季(铵)化烟碱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary nitrogen",
+    "zh": "季(铵)氮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary phosphine",
+    "zh": "季膦 R4PX",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary phosphonium compound",
+    "zh": "季磷化合物；季磷镝化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary phosphonium hydroxide",
+    "zh": "季磷碱；氢氧化季磷 R4POH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary pyridinium resin",
+    "zh": "吡啶(镝)盐树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary pyridinium salt",
+    "zh": "吡啶(镝)盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary salt",
+    "zh": "季盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary stibonium hydroxide",
+    "zh": "季锑碱；氢氧化季锑 R4SbOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary structure",
+    "zh": "四级结构",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary surfactant",
+    "zh": "季(铵)盐表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary system",
+    "zh": "四元系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternization(=quaternarization)",
+    "zh": "季铵化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quenched blast furnace slag",
+    "zh": "骤冷高炉矿渣；淬火高炉矿渣",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quenching furnace",
+    "zh": "淬火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rabbling burner(=rabbling furnace; rabbling roaster)",
+    "zh": "搅拌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rabbling furnace(=rabbling burner)",
+    "zh": "搅拌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiant arc furnace",
+    "zh": "辐射电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiant resistance furnace",
+    "zh": "辐射电阻炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiant-type furnace",
+    "zh": "辐射型管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation arc furnace",
+    "zh": "辐射电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiochemical neutron activation analysis(RNAA)",
+    "zh": "放化中子活化分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "raffinate furnace",
+    "zh": "残液加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "railway",
+    "zh": "铁路；铁道 railway journal box grease(=railway wagon axle grease)货车轴用润滑脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "railway rail",
+    "zh": "钢轨；铁轨；轨铁 railway wagon axle grease(=railway journal box grease)货车轴用润滑脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recombinant DNA",
+    "zh": "重组 DNA",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "recuperative burner(=recuperative furnace; recuperative oven)",
+    "zh": "同流换热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recuperative furnace(=recuperative burner)",
+    "zh": "同流换热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recuperative gas furnace",
+    "zh": "间壁回热式燃气炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recuperative pot furnace (",
+    "zh": "同流)换热玻璃熔炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recuperator furnace",
+    "zh": "同流换热器炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recycle gas furnace",
+    "zh": "循环气体炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reducing furnace",
+    "zh": "还原炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reduction furnace",
+    "zh": "还原炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "refinery furnace",
+    "zh": "精炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reforming furnace",
+    "zh": "重整炉（增加汽油辛烷值的炉子）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "refuse destructor furnace",
+    "zh": "废渣焚烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "refuse furnace",
+    "zh": "垃圾(焚化)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regenerating furnace",
+    "zh": "再生炉;交流换热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regenerative furnace",
+    "zh": "再生炉;交流换热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regeneratory furnace",
+    "zh": "再生炉;交流换热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regular alternation",
+    "zh": "规则交变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reheat furnace",
+    "zh": "再热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reheating furnace",
+    "zh": "再热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative external standard deviation",
+    "zh": "相对外标偏差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative internal standard deviation",
+    "zh": "相对内标偏差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "remelting furnace",
+    "zh": "再熔炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Rennerfeld furnace",
+    "zh": "伦讷菲尔德电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "replication",
+    "zh": "复制；重复",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replication cycle",
+    "zh": "复制周期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual internal strain",
+    "zh": "残余内应变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "resistance furnace",
+    "zh": "电阻(电)炉；阻力炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "resistor furnace",
+    "zh": "电阻炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "retort furnace",
+    "zh": "甑式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "returnable",
+    "zh": "可回收使用的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "returnable container(s)",
+    "zh": "可回收使用的容器;可反复使用的集装箱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reverse alternate length (",
+    "zh": "聚合物)反向交替长度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reverse transcription",
+    "zh": "反转录",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reverse translation",
+    "zh": "逆向翻译",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "revolving black ash furnace",
+    "zh": "旋转黑灰炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "revolving furnace",
+    "zh": "旋转炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ribodesose(=desoxyribose)",
+    "zh": "脱氧核糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ribonucleic acid(RNA)",
+    "zh": "核糖核酸",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "ribonucleic acid analysis",
+    "zh": "核糖核酸分析",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ribo (nucleo) tide",
+    "zh": "核(糖核)苷酸 3-ribonucleotide phosphohydrolase 3-核苷酸磷酸水解酶；3-核苷酸酶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ribose",
+    "zh": "核糖 C₄H₉O₄CHO",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ribosome RNA(rRNA)",
+    "zh": "核糖体 RNA",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "ring furnace",
+    "zh": "环形炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ring furnacing",
+    "zh": "用环形炉加热",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "RNA polymerase RNA",
+    "zh": "聚合酶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "RNA splicing RNA",
+    "zh": "剪接",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "RNA virus RNA",
+    "zh": "病毒",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "roaster furnace",
+    "zh": "焙烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roasting furnace",
+    "zh": "焙烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotary furnace",
+    "zh": "旋转炉；转炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotating furnace",
+    "zh": "旋转(焙烤)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rule of log-log translation",
+    "zh": "对数-对数平行移动定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salt-cake furnace",
+    "zh": "盐饼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "salt furnace",
+    "zh": "盐釜；煮盐锅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scaling furnace (",
+    "zh": "铁皮)镀锡炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sealed tube furnace",
+    "zh": "封闭管炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second harmonic alternating current polarography",
+    "zh": "二阶谐波交流极谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Selas furnace",
+    "zh": "西拉斯炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semiconservative replication",
+    "zh": "半保留复制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-reinforcing furnace black",
+    "zh": "半补强炉黑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "series arc furnace",
+    "zh": "串电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaft furnace",
+    "zh": "竖式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sheet-glass tank furnace",
+    "zh": "平板玻璃池窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shelf furnace",
+    "zh": "盘架炉；搁架炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shot-to-shot turnaround",
+    "zh": "注射间隔时间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Siemens furnace",
+    "zh": "西门子炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Siemens Martin furnace",
+    "zh": "西门子-马丁(返焰)炉；平炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Silesian furnace",
+    "zh": "蒸锌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single-cell furnace",
+    "zh": "单室炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single nucleotide polymorphism",
+    "zh": "单碱基多态性",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single radiant section furnace",
+    "zh": "单一辐射段炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sloping roof furnace",
+    "zh": "斜顶炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "smelting furnace",
+    "zh": "熔炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "smelting furnace hearth",
+    "zh": "熔炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ROCOCRNaCOOR",
+    "zh": "〔专指〕钠代烷基丙二酸乙酯 C₂H₅OCOCRNaCOOC₂H₅",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solar furnace",
+    "zh": "太阳(能)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific internal energy",
+    "zh": "比内能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "split journal box",
+    "zh": "分裂式轴头箱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stabilized temperature plateau furnace",
+    "zh": "稳定温度石墨炉平台技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stabilized temperature platform furnace (STPF)",
+    "zh": "稳温平台石墨炉(技术)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard international atmosphere",
+    "zh": "国际标准气压",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stationary furnace",
+    "zh": "固定炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Stetefeldt furnace",
+    "zh": "斯特费尔特焙烧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Stobie furnace",
+    "zh": "斯托比电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "straight line furnace",
+    "zh": "直线炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supernatant",
+    "zh": "上层清液;(浮于)上层的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supernatant (fluid)",
+    "zh": "上清液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supernatant layer",
+    "zh": "清液层",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supernatant liquid",
+    "zh": "沉清液体；清液层",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supplementary furnace",
+    "zh": "补充炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "suspended type of furnace",
+    "zh": "悬吊式炉(在钢架上悬吊的裂化炉)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "swivel replication",
+    "zh": "转环复制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tanker turnaround",
+    "zh": "油槽船周转过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tank furnace",
+    "zh": "槽炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tapping furnace",
+    "zh": "放液炉；液流电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tempering furnace",
+    "zh": "回火炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "template replication",
+    "zh": "模板复制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ternary",
+    "zh": "三元的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary acid",
+    "zh": "三元酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary collision",
+    "zh": "三元碰撞",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary complex",
+    "zh": "三元络合物*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary composition diagram",
+    "zh": "三元组成图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary compound",
+    "zh": "三元化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary copolymer",
+    "zh": "三元共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary copolymerization",
+    "zh": "三元共聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary diagram",
+    "zh": "三元图解",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary electrolyte",
+    "zh": "三元电解质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary eutectic",
+    "zh": "三元共晶体；三元低共熔点混合物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary fission",
+    "zh": "三分裂；三裂变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary phase diagrams",
+    "zh": "三元相图",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary polymerization",
+    "zh": "三元共聚(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary steel",
+    "zh": "三元钢",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary system",
+    "zh": "三元体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary system ceramic",
+    "zh": "三元系陶瓷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ternary vapour-liquid equilibrium",
+    "zh": "三元蒸气-液体平衡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "terrace furnace",
+    "zh": "梯台式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetranucleotide",
+    "zh": "四核苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Thierry zinc furnace",
+    "zh": "塞利炼锌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thioglycollic acid",
+    "zh": "疏基乙酸；氢硫基乙酸 HSCH₂CO₂H 1-thioguaiacol 1-硫代愈创木酚 6-thioguanine(6TG) 6-硫代鸟嘌呤；6-巯基鸟嘌呤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Thomson-Fitzgerald furnace",
+    "zh": "汤姆孙-费兹格德电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thiouracil",
+    "zh": "硫尿嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-cell furnace",
+    "zh": "三室炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three-phase alternating current",
+    "zh": "三相交流电",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thymine (Thy)",
+    "zh": "胸腺嘧啶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thymine deoxyriboside kinase",
+    "zh": "脱氧胸苷激酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tile furnace",
+    "zh": "瓦窑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tilting furnace",
+    "zh": "可倾炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Tinfos furnace",
+    "zh": "廷福斯电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tinning furnace",
+    "zh": "镀锡炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tioguanine",
+    "zh": "硫鸟嘌呤（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tornado dust collector",
+    "zh": "龙卷风式集尘器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total internal reflection fluorescence microscopy",
+    "zh": "全内反",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "translation",
+    "zh": "平移*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational diffusion",
+    "zh": "平动扩散",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational motion",
+    "zh": "平移运动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational oscillation",
+    "zh": "平移振动；直线振动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational state",
+    "zh": "平动态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational velocity",
+    "zh": "平动速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translational vibration",
+    "zh": "平移振动；直线振动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "translation group",
+    "zh": "平移群",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "travelling furnace",
+    "zh": "活动炉; 移动炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trickling internals (",
+    "zh": "塔)内部滴流填料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "triphosphopyridine nucleotide",
+    "zh": "三磷酸吡啶核苷酸；辅酶Ⅱ",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tube cracking furnace",
+    "zh": "管式裂解炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube electric furnace",
+    "zh": "管形电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube furnace",
+    "zh": "管式炉；环形炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube furnace pyrolyzer",
+    "zh": "管炉热解器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube heating furnace",
+    "zh": "管式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tubular furnace",
+    "zh": "管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "turnable conveyor belt",
+    "zh": "可转式运输带",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "turnaround",
+    "zh": "小修；预防修理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "turnaround of unit",
+    "zh": "装置工作周期",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "turnaround plans",
+    "zh": "检修计划",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "turnaround speed",
+    "zh": "周转速度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "twisted internal charge transfer",
+    "zh": "扭曲分子内电荷转移",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two chamber vacuum furnace",
+    "zh": "双室真空炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "underdraft furnace",
+    "zh": "下抽(风)炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "updraft furnace(=updraft furnace heater)",
+    "zh": "直焰炉；向上通风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "updraft furnace heater (=updraft furnace)",
+    "zh": "直焰炉；向上通风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upshot fired furnace",
+    "zh": "火焰上喷式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upshot furnace(=upshot heater)",
+    "zh": "火焰上喷式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upshot heater(=upshot furnace)",
+    "zh": "火焰上喷式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uracil(=Ura)",
+    "zh": "尿嘧啶 CH=CHCONHCONH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uracil-4-carboxylic acid (=orotic acid) 4-",
+    "zh": "羧基尿嘧啶；乳清酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uracil riboside",
+    "zh": "尿苷；尿核苷；尿嘧啶核苷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum arc furnace",
+    "zh": "真空电弧炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vacuum electric furnace",
+    "zh": "真空电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapourizing furnace",
+    "zh": "蒸发炉；气化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vernadite",
+    "zh": "水合软锰矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vernal grass note",
+    "zh": "鲜草香",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vernalic acid",
+    "zh": "环氧-9-十八碳烯酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vertical tubular furnace",
+    "zh": "立式管式炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "visbreaker(=viscosity breaking furnace)",
+    "zh": "减黏裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "visbreaker heater(=viscosity breaking furnace)",
+    "zh": "减黏裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscoplasticity",
+    "zh": "黏塑性;黏塑度 viscosity breaker(=viscosity breaking furnace) 减黏裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscoplastic solid",
+    "zh": "黏塑性固体 viscosity breaking furnace(=visbreaker;visbreaker heater)减黏裂化炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volta furnace",
+    "zh": "伏打电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water jacket furnace",
+    "zh": "水套(鼓风)炉；水套冶炼炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Webb furnace",
+    "zh": "韦布电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Wedge furnace",
+    "zh": "威吉炉；拱床炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Wielogaski furnace",
+    "zh": "维洛加斯基电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wind furnace",
+    "zh": "风炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wire-wound furnace",
+    "zh": "线绕电炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "working door (of furnace) (",
+    "zh": "炉的)工作门",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Wulff pyrolysis furnace",
+    "zh": "伍尔夫裂解炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "xanthine nucleotide",
+    "zh": "黄苷酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc furnace",
+    "zh": "蒸锌炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zygadenine",
+    "zh": "棋盘花碱",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

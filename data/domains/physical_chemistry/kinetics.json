@@ -1,0 +1,4154 @@
+[
+  {
+    "en": "absolute rate constant",
+    "zh": "绝对速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "accelerator-based activation analysis",
+    "zh": "使用加速器的活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acid activation",
+    "zh": "酸活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acid-base catalysis",
+    "zh": "酸碱催化*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid catalysis",
+    "zh": "酸催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid catalyst",
+    "zh": "酸催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid catalyst polycondensation",
+    "zh": "酸催化缩聚(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid corrosion inhibitor",
+    "zh": "抗酸缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activating catalyst",
+    "zh": "活化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activation",
+    "zh": "活化*；活性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation analysis",
+    "zh": "活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation analysis service",
+    "zh": "活化分析业务",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation carbon",
+    "zh": "活性碳",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation center",
+    "zh": "活化中心",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation energy",
+    "zh": "活化能*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activation energy of adsorption",
+    "zh": "吸附活化能*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activation equation",
+    "zh": "活化方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation grade",
+    "zh": "活化度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation heat",
+    "zh": "活化热",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation method",
+    "zh": "活化方法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation overpotential",
+    "zh": "活化过电位；活化超电势",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation overvoltage",
+    "zh": "活化超电压",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation parameter",
+    "zh": "活化参量；活化参数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation polarization",
+    "zh": "活化极化*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation potential",
+    "zh": "活化电位；活化电势",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation process",
+    "zh": "激活过程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "activation temperature",
+    "zh": "活化温度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "active activation analysis",
+    "zh": "外加源活化分析；有源活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "active cocatalyst",
+    "zh": "活性助催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activity of catalyst",
+    "zh": "催化剂活性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activity rating of catalyst",
+    "zh": "催化剂的活性评价",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Adams' catalyst",
+    "zh": "亚当斯催化剂（一种氧化铂催化剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorbent reactivation",
+    "zh": "吸附剂再生(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "adsorption-desorption of catalyst",
+    "zh": "催化剂的吸附及脱附性能",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorption inhibitor",
+    "zh": "吸附型钝化剂；吸附型抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption catalysis",
+    "zh": "吸附催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adsorptive catalyst",
+    "zh": "吸附催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aerated density of catalyst",
+    "zh": "催化剂的充气比重",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "age inhibitor",
+    "zh": "防老化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "age of catalyst",
+    "zh": "催化剂寿命",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alfin catalyst",
+    "zh": "醇(碱金属)烯催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkaline catalyst",
+    "zh": "碱催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkylboron catalyst",
+    "zh": "烷基硼催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkyl lithium catalyst",
+    "zh": "烷基锂催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkyl metal catalyst",
+    "zh": "烷基金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "all metal catalyst",
+    "zh": "全金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "allosteric inhibitor",
+    "zh": "变构抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alumina",
+    "zh": "矾土；氧化铝 alumina base catalyst 氧化铝载体催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "alumina boria catalyst",
+    "zh": "氧化铝-氧化硼催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminium alkoxide catalyst",
+    "zh": "烷醇铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amalgamation half-life",
+    "zh": "汞齐化半值期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amine blocked acid catalyst",
+    "zh": "胺封闭的酸催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anchor catalyst",
+    "zh": "锚定催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anionic catalyst",
+    "zh": "阴离子催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anionic Ziegler-type catalyst",
+    "zh": "阴离子齐格勒型催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anodic inhibitor",
+    "zh": "阳极(溶解)抑制剂；阳极钝化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antibody half-life",
+    "zh": "抗体半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticatalysis",
+    "zh": "反催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-catalyst",
+    "zh": "反催化剂；负催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antigum inhibitor",
+    "zh": "防胶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent activation energy",
+    "zh": "表观活化能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "apparent half-life",
+    "zh": "表观半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent viscometric flow activation energy",
+    "zh": "表观黏流活化能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "area measurement of catalyst",
+    "zh": "催化剂表面积测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Arrhenius activation energy",
+    "zh": "阿伦尼乌斯活化能",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "Arrhenius equation",
+    "zh": "阿伦尼乌斯方程*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius frequency factor",
+    "zh": "阿伦尼乌斯频率因素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius ionization theory",
+    "zh": "阿伦尼乌斯电离理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius law",
+    "zh": "阿伦尼乌斯定律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius plot",
+    "zh": "阿伦尼乌斯曲线图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius theory of electrolytic dissociation",
+    "zh": "阿伦尼乌斯电离理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Arrhenius viscosity formula",
+    "zh": "阿伦尼乌斯黏度公式",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric catalyst",
+    "zh": "不对称催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "attrition loss of catalyst",
+    "zh": "催化剂的磨耗损失",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "attrition of catalyst",
+    "zh": "催化剂磨耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "auto-activation",
+    "zh": "自动活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "autocatalysis",
+    "zh": "自催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "auto-exhaust catalyst",
+    "zh": "汽车尾气催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "automatic activation analysis",
+    "zh": "自动化活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "auxiliary catalyst",
+    "zh": "助催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "base catalysis",
+    "zh": "碱催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bead catalyst",
+    "zh": "颗粒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beaded catalyst",
+    "zh": "颗粒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bi-component catalyst",
+    "zh": "双组分催化剂；双金属系催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bifunctional catalyst",
+    "zh": "双官能催化剂*；双功能催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bimetallic catalyst",
+    "zh": "双金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bimetallic μ-oxo alkoxides catalyst μ-",
+    "zh": "氧桥双金属烷氧化物催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "binary catalyst",
+    "zh": "二元催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "binary oxide catalyst system",
+    "zh": "二元氧化物催化剂体系",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bioactivation",
+    "zh": "生物激活",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "biological half-life",
+    "zh": "生物半衰期*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bloom inhibitor",
+    "zh": "防喷霜剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "body of catalyst",
+    "zh": "催化剂的主体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "branched chain reaction",
+    "zh": "支链反应*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "break-up of catalyst",
+    "zh": "催化剂粉碎",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brine corrosion inhibitor",
+    "zh": "盐水腐蚀缓蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromination catalyst",
+    "zh": "溴化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Brönsted catalysis law",
+    "zh": "布朗斯台德催化定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bubble half-life",
+    "zh": "气泡半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbided catalyst",
+    "zh": "碳化催化剂；结焦了的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon deposit inhibitor",
+    "zh": "碳沉积抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon formation on catalyst",
+    "zh": "催化剂上碳形成",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalysis",
+    "zh": "催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst",
+    "zh": "催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst abrasion",
+    "zh": "催化剂磨蚀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst accelerator",
+    "zh": "催化加速剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst activation",
+    "zh": "催化剂活化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst active center",
+    "zh": "催化剂活性中心",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst activity",
+    "zh": "催化剂活性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst adjunct",
+    "zh": "催化剂助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst basket",
+    "zh": "催化剂筐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst bead system",
+    "zh": "颗粒催化剂体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst bed",
+    "zh": "催化剂床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst bulk density",
+    "zh": "催化剂堆密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst carrier",
+    "zh": "催化剂载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst case",
+    "zh": "催化剂室；反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst chamber",
+    "zh": "催化剂室；反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst charge",
+    "zh": "催化剂装料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst circulation",
+    "zh": "催化剂循环",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst circulation rate",
+    "zh": "催化剂循环速度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst complex",
+    "zh": "催化剂络合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst component",
+    "zh": "催化剂组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-containing tubular member",
+    "zh": "催化剂管件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst cooler",
+    "zh": "催化剂冷却器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst cracker",
+    "zh": "催化裂化设备",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst damage (=catalyst poisoning)",
+    "zh": "催化剂中毒*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst deactivation",
+    "zh": "催化剂失活；催化剂钝化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst density under pressure",
+    "zh": "加压下催化剂密度 catalyst deterioration (=catalyst poisoning) 催化剂中毒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst dispenser (",
+    "zh": "聚氨酯浇注发泡机)催化剂分配器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst distillation",
+    "zh": "催化蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst downcomer",
+    "zh": "催化剂下导管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst down-flow principle",
+    "zh": "催化剂下流原理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst efficiency",
+    "zh": "催化剂效率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst elevator",
+    "zh": "催化剂升举机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst fines",
+    "zh": "催化剂粉末",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst flow",
+    "zh": "催化剂流量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst flow control",
+    "zh": "催化剂流动控制",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst flow plate",
+    "zh": "催化剂流动板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst for shut-down",
+    "zh": "停工用催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst fouling",
+    "zh": "催化剂污损；催化剂结垢；催化剂失活",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst furnace",
+    "zh": "催化(剂)炉；接触炉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst gauze",
+    "zh": "催化(剂)网",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst haze",
+    "zh": "催化剂致浑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst head",
+    "zh": "催化剂分配头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst hopper",
+    "zh": "催化剂漏斗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst induction procedure",
+    "zh": "催化剂引入程序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst level",
+    "zh": "催化剂用量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst life",
+    "zh": "催化剂寿命",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst line",
+    "zh": "催化剂管线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst make-up",
+    "zh": "催化剂补充",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst make-up tank",
+    "zh": "催化剂配制槽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-oil disengagement",
+    "zh": "催化剂-油分离",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-oil ratio",
+    "zh": "催化剂-油比率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-oil suspension",
+    "zh": "催化剂油悬浮体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-packed column",
+    "zh": "催化剂填充塔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst particle",
+    "zh": "催化剂粒子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst particle size determination",
+    "zh": "催化剂粒径(度)测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst poison",
+    "zh": "催化剂毒物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst poisoning",
+    "zh": "催化剂中毒*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst porosity",
+    "zh": "催化剂孔隙率；催化剂孔隙度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst precursor composition",
+    "zh": "催化剂前体成分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst pretreatment",
+    "zh": "催化剂预处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst promoter",
+    "zh": "助催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst ratio (=catalyst-oil ratio)",
+    "zh": "催化剂-油比率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst reaction",
+    "zh": "催化反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst reactivation (=catalyst regeneration)",
+    "zh": "催化剂再生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst recovery (=catalyst regeneration)",
+    "zh": "催化剂再生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst reducer",
+    "zh": "催化剂还原器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst reduction (=catalyst regeneration)",
+    "zh": "催化剂再生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst regeneration (=catalyst reduction; catalyst reactivation; catalyst recovery)",
+    "zh": "催化剂再生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst residence time",
+    "zh": "催化剂驻留时间（移动或流动催化剂在反应器中逗留的时间）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst screening",
+    "zh": "催化剂筛选",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst scrubber column",
+    "zh": "催化剂洗涤塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst selectivity",
+    "zh": "催化剂选择性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst separating",
+    "zh": "催化剂分离（与产物分离）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst settler",
+    "zh": "催化剂沉降器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst slurry",
+    "zh": "催化剂浆（催化剂与原料或反应溶剂的浆状混合物）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst space",
+    "zh": "催化剂空间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst spraying",
+    "zh": "催化喷涂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst storage bin",
+    "zh": "催化剂储仓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst stream",
+    "zh": "催化剂流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst support",
+    "zh": "催化剂载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst surface",
+    "zh": "催化剂表面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst susceptibility",
+    "zh": "催化剂感受性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst system",
+    "zh": "催化剂体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-to-additive ratio",
+    "zh": "催化剂对添加剂比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-to-charge ratio (=catalyst-to-crude ratio)",
+    "zh": "催化剂对进料比；催化剂对原料比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-to-crude ratio (=catalyst-to-charge ratio)",
+    "zh": "催化剂对原料比；催化剂对进料比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst tolerance to oxidation",
+    "zh": "催化剂抗氧化性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst-to-oil ratio (=catalyst to-charge ratio)",
+    "zh": "催化剂对油料比；催化剂对进料比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst tower",
+    "zh": "催化剂塔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst transfer line",
+    "zh": "催化剂输送线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst unit",
+    "zh": "催化单元",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst up-flow principle",
+    "zh": "催化剂上流原理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst volume",
+    "zh": "催化剂体积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst wax",
+    "zh": "催化剂表面沉积蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst weight",
+    "zh": "催化剂重量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyzer (=catalyst)",
+    "zh": "催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathodic inhibitor",
+    "zh": "阴极抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cationic catalyst",
+    "zh": "正离子催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cemented catalyst",
+    "zh": "胶接催化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cerium salt-persulphate catalyst",
+    "zh": "铈盐-过硫酸盐催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chain activation",
+    "zh": "链活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chain inhibitor",
+    "zh": "链抑制剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain reaction",
+    "zh": "连锁反应;链式反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain reaction polymerization",
+    "zh": "连锁聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charged particle activation analysis (CPAA)",
+    "zh": "带电粒子活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chemical inhibitor",
+    "zh": "抗氧剂；化学抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chiral catalyst",
+    "zh": "手性催化剂*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorination catalyst",
+    "zh": "氯化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromia-alumina catalyst",
+    "zh": "氧化铬-氧化铝催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromic oxide-on-alumina catalyst (",
+    "zh": "氧化)铬-(氧化)铝催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clay catalyst",
+    "zh": "黏土催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cobalt Fischer-Tropsch catalyst",
+    "zh": "费托合成钴催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cocatalyst",
+    "zh": "助催化剂；辅催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cocurrent catalyst flow",
+    "zh": "同向流动",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collision theory",
+    "zh": "碰撞(理)论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collision theory of reaction rate",
+    "zh": "反应速率的碰撞理论",
+    "role": "secondary",
+    "confidence": 4.0
+  },
+  {
+    "en": "colloidal palladium catalyst",
+    "zh": "胶态钯催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color inhibitor for kerosene",
+    "zh": "灯油色泽稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "combustion catalyst",
+    "zh": "燃烧催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "commercial catalyst",
+    "zh": "商品催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compacted catalyst",
+    "zh": "压榨的催化剂；成型催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complex catalyst",
+    "zh": "配位催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complex compound catalyst",
+    "zh": "配合物催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite catalyst",
+    "zh": "复合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound film type inhibitor",
+    "zh": "复合膜型缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concerted catalysis",
+    "zh": "协同催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "condensation catalyst",
+    "zh": "缩合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constrained geometry catalyst",
+    "zh": "限制几何构型催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constrained geometry metallocene catalyst",
+    "zh": "限定几何构型茂金属催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact catalysis",
+    "zh": "接触催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact catalyst",
+    "zh": "接触催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contaminated catalyst",
+    "zh": "沾污的催化剂；脏催化剂 continuous and automatic monitoring system for water",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contraction of catalyst",
+    "zh": "催化剂的收缩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conversion catalyst",
+    "zh": "转化催化剂；烃类转化过程的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coordination catalysis",
+    "zh": "配位催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coordination catalyst",
+    "zh": "配位催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper chromite catalyst",
+    "zh": "亚铬酸铜催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper (greening) inhibitor",
+    "zh": "铜抑制剂；防铜老化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper inhibitor",
+    "zh": "防铜老化剂；铜抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper-vanadium catalyst",
+    "zh": "铜-钒催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coprecipitated catalyst",
+    "zh": "共沉淀催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosion inhibitor",
+    "zh": "缓蚀剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cracking catalyst",
+    "zh": "裂解催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cracking characteristic of catalyst",
+    "zh": "催化剂的裂化特性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crankcase catalyst",
+    "zh": "曲轴箱(内油的氧化)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crosslinking catalyst",
+    "zh": "交联催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystallization half-life",
+    "zh": "结晶半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization inhibitor",
+    "zh": "结晶抑制剂（阻止石蜡晶体在油内增长的混合物）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization rate constant",
+    "zh": "结晶速率常数",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "curing catalyst",
+    "zh": "硫化促进剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic activation",
+    "zh": "循环活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyclic transition state",
+    "zh": "环化过渡态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclone catalyst collector",
+    "zh": "旋风催化剂收集器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Deacon catalyst",
+    "zh": "迪肯催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deactivated catalyst",
+    "zh": "失活催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dead catalyst",
+    "zh": "废催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dead-end inhibitor",
+    "zh": "终端抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dealkylation catalyst",
+    "zh": "脱烷基化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "decomposition inhibitor",
+    "zh": "分解阻化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decomposition point",
+    "zh": "分解点decomposition catalyst ;分解催化剂;由分解得到的催化剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "degenerated branched chain reaction",
+    "zh": "退化支链反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degradation catalyst",
+    "zh": "降解催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "degree of activation",
+    "zh": "活化度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dehydration catalyst",
+    "zh": "脱水催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dehydrocyclization catalyst",
+    "zh": "脱氢环化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dehydrogenation catalyst",
+    "zh": "脱氢催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dense-phase lifting of catalyst",
+    "zh": "催化剂密相提升",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "density of catalyst",
+    "zh": "催化剂密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deperoxidation catalyst",
+    "zh": "脱过氧化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "desactivation",
+    "zh": "钝化; 不活性化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "determination of minimum inhibitory concentration",
+    "zh": "最低抑制浓度测定法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of plasminogen activated inhibitor",
+    "zh": "纤溶酶原激活抑制物测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disproportionation catalyst",
+    "zh": "歧化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double-skeleton catalyst electrode",
+    "zh": "双骨架催化电极",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "down-flow fluid-catalyst unit",
+    "zh": "下流式催化装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dried catalyst",
+    "zh": "干催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry catalyst",
+    "zh": "干催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drying inhibitor",
+    "zh": "阻干剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual-catalyst",
+    "zh": "双功能催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual functional catalyst",
+    "zh": "双官能催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dyeing inhibitor",
+    "zh": "染色防胶剂（树脂的形成）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye-sensitized photoinitiation",
+    "zh": "染料敏化光引发(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective catalyst composition",
+    "zh": "有效催化剂组成",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "effective half-life",
+    "zh": "有效半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrocatalysis",
+    "zh": "电催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion inhibitor",
+    "zh": "乳胶阻化剂；脱乳胶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endogenous inhibitor",
+    "zh": "内源性抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy of activation",
+    "zh": "活化能",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entrained catalyst (",
+    "zh": "被气体)带走的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme inhibitor",
+    "zh": "酶抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epithermal neutron activation analysis",
+    "zh": "超热中子活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ester exchange catalyst",
+    "zh": "酯交换催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "esterification catalyst",
+    "zh": "酯化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "esterifying catalyst",
+    "zh": "酯化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ester-interchange catalyst",
+    "zh": "酯交换催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ether inhibitor",
+    "zh": "醚抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "evaluation of catalyst microstructure",
+    "zh": "催化剂显微结构的测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exothermic catalyst",
+    "zh": "放热催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "external catalyst return",
+    "zh": "催化剂外回路",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extruded catalyst",
+    "zh": "挤压催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast neutron activation analysis",
+    "zh": "快中子活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fermentation inhibitor",
+    "zh": "发酵抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film type inhibitor (",
+    "zh": "薄)膜式缓蚀剂；膜式防锈剂；缓蚀(防锈)膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Filtrol clay catalyst",
+    "zh": "费尔特洛尔粉状白土催化剂（美）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "finely divided catalyst",
+    "zh": "磨碎的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fixed bed catalyst",
+    "zh": "固定床催化剂 fixed bed catalyst chamber(=fixed bed catalytic reactor)固定床催化反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fixed bed catalytic process",
+    "zh": "固定床催化过程 fixed bed catalytic reactor(=fixed bed catalyst chamber)固定床催化反应器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fixed catalyst",
+    "zh": "固定(床层)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable inhibitor",
+    "zh": "发火抑止剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash rust inhibitor",
+    "zh": "闪锈抑制剂；锈抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flex-cracking inhibitor",
+    "zh": "抗挠曲龟裂剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow-activation energy",
+    "zh": "流动活化能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluid catalyst",
+    "zh": "流化状态的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid catalyst process",
+    "zh": "流化床催化过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid catalyst reactor",
+    "zh": "流化催化(剂)反应器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid cracking catalyst",
+    "zh": "流化床裂化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluidized catalyst",
+    "zh": "流化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluidized iron catalyst process",
+    "zh": "流体铁催化法（以 CO 与 H₂ 在流化铁催化剂上合成烃类的过程）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foamer inhibitor",
+    "zh": "泡沫抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam inhibitor",
+    "zh": "抑泡剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fouled catalyst",
+    "zh": "中毒的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fouling inhibitor",
+    "zh": "污垢抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fouling of catalyst",
+    "zh": "催化剂的污损；催化剂结垢（包括结焦）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "four-center transition state",
+    "zh": "四中心过渡状态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "freely settled density of catalyst",
+    "zh": "催化剂自由堆积密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free radical catalyst",
+    "zh": "自由基催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free radical reaction",
+    "zh": "自由基反应*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Friedel-Crafts catalyst",
+    "zh": "傅瑞德尔-克拉夫茨催化剂（烃化催化剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fused catalyst",
+    "zh": "熔融催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas-fading inhibitor",
+    "zh": "气(烟)熏褪色抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gelignite",
+    "zh": "葛里炸药；吉里那特（硝化甘油、硝化纤维、 gel inhibitor 凝胶抑制剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycol-catalyst solution",
+    "zh": "催化剂乙二醇溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grained catalyst",
+    "zh": "粒状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grain growth inhibitor",
+    "zh": "晶粒生长抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "granular catalyst",
+    "zh": "粒状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granulated catalyst",
+    "zh": "粒状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granules of catalyst",
+    "zh": "催化剂颗粒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "guard catalyst",
+    "zh": "保护催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gum inhibitor",
+    "zh": "胶质抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardness index of catalyst",
+    "zh": "催化剂硬度指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "healing rate constant",
+    "zh": "恢复速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heat ageing inhibitor",
+    "zh": "防热老化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of activation",
+    "zh": "活化热",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heat-stable inhibitor",
+    "zh": "热稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "helium density of catalyst",
+    "zh": "催化剂的氦密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous catalysis",
+    "zh": "多相催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous catalysis action",
+    "zh": "多相催化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous catalyst",
+    "zh": "多相催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous catalysis",
+    "zh": "均相催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous catalyst",
+    "zh": "均相催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homogeneous metallocene catalyst",
+    "zh": "均相茂金属催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrate inhibitor",
+    "zh": "水化抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hydrobon catalyst",
+    "zh": "加氢精制催化剂；加氢脱硫催化剂 （以氧化铝为载体的钴钼系统催化剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrocarbon-soluble metal salt catalyst",
+    "zh": "烃溶金属盐催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrogenation catalyst",
+    "zh": "氢化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrophobic activation",
+    "zh": "疏水活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydrosilicate catalyst",
+    "zh": "氢化硅酸盐催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ignition inhibitor",
+    "zh": "着火抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impregnated catalyst",
+    "zh": "浸渍催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inactivation",
+    "zh": "钝化；失活",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "inducing catalyst",
+    "zh": "诱导催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inhibitor",
+    "zh": "阻聚剂*；抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor constant",
+    "zh": "抑制剂常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor content",
+    "zh": "抑制剂含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor dye",
+    "zh": "抑制剂染料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor efficiency",
+    "zh": "腐蚀抑制效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor of oxidation",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor of polymerization",
+    "zh": "聚合阻止剂；阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor response",
+    "zh": "抑制剂感应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor solution",
+    "zh": "抑制剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor susceptibility(=inhibitor response)",
+    "zh": "抑制剂感应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor sweetening",
+    "zh": "抑制剂脱硫(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory concentration",
+    "zh": "抑制浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory effect",
+    "zh": "抑制作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory phase",
+    "zh": "抑制相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory quotient",
+    "zh": "抑菌商数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initial rate constant",
+    "zh": "初速常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "initiation rate constant",
+    "zh": "引发速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inorganic inhibitor",
+    "zh": "无机缓蚀剂；无机防腐蚀剂；无机防锈剂；无机抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in situ activation analysis",
+    "zh": "现场活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "in situ neutron activation",
+    "zh": "现场中子活化(分析法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "in situ neutron activation analysis",
+    "zh": "现场中子活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "instrumental analysis",
+    "zh": "仪器分析* instrumental charged-particle activation analysis(ICPAA)带电粒子仪器活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "instrumental fast neutron activation analysis(IFNAA)",
+    "zh": "快中子仪器活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "instrumental neutron activation analysis(INAA)",
+    "zh": "中子活化仪器分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "instrumental photon activation analysis(IPAA)",
+    "zh": "光子活化仪器分析(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "internal catalyst bed",
+    "zh": "内催化剂床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intoxication of catalyst",
+    "zh": "催化剂中毒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intrachain reaction (",
+    "zh": "分子)链内反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "in vitro activation analysis",
+    "zh": "离体活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "in vivo activation analysis",
+    "zh": "体内活化分析；活体活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "in vivo neutron activation analysis",
+    "zh": "体内中子活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ion exchange catalysis",
+    "zh": "离子交换(树脂)催化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion exchange catalyst",
+    "zh": "离子交换树脂催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic catalyst",
+    "zh": "离子催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic polymerization catalyst",
+    "zh": "离子型聚合催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionized catalyst",
+    "zh": "电离催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron catalyst",
+    "zh": "铁催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron copper catalyst",
+    "zh": "铁铜催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irreversible inhibitor",
+    "zh": "不可逆抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobaric activation energy",
+    "zh": "等压活化能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "isocatalysis",
+    "zh": "异构催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isochoric activation energy",
+    "zh": "等容活化能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "isomeric catalysis",
+    "zh": "异构催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "latent catalyst",
+    "zh": "潜催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "late transition metal catalyst",
+    "zh": "后过渡金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "life time of chain reaction",
+    "zh": "链反应时间；链反应期限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ligand field activation energy",
+    "zh": "配位(体)场活化能",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "light inhibitor",
+    "zh": "光阻聚剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid catalyst",
+    "zh": "液态催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "live catalyst",
+    "zh": "新鲜催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Lomax catalyst",
+    "zh": "洛马克斯催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loose transition state",
+    "zh": "松散过渡态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low polymerization catalyst",
+    "zh": "低聚合催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Lurgi catalyst",
+    "zh": "鲁奇催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanical activation",
+    "zh": "机械活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mercury density of catalyst",
+    "zh": "催化剂的汞密度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal catalyst",
+    "zh": "金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal complex catalyst",
+    "zh": "金属络合催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal contamination on catalyst",
+    "zh": "催化剂金属中毒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal corrosion inhibitor",
+    "zh": "金属腐蚀抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metallocene catalyst",
+    "zh": "茂金属催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallo-organic curing catalyst",
+    "zh": "金属有机固化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methylene blue polymerization inhibitor",
+    "zh": "亚甲基蓝阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micellar catalysis",
+    "zh": "胶束催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microspheroidal cracking catalyst",
+    "zh": "裂化粉球催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "minimal inhibitory concentration",
+    "zh": "最小抑菌浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed catalyst",
+    "zh": "混合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moist catalysis",
+    "zh": "湿催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular activation analysis",
+    "zh": "分子活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular sieve (based) catalyst",
+    "zh": "分子筛(基)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molybdena-alumina catalyst",
+    "zh": "钼铝催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moulded solid catalyst",
+    "zh": "模制固体催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moulding of catalyst",
+    "zh": "催化剂的塑性；催化剂成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mould inhibitor",
+    "zh": "防霉剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moving-bed of catalyst",
+    "zh": "催化剂移动床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moving catalyst bed",
+    "zh": "移动催化剂床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multicomponent catalyst",
+    "zh": "多组分催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multielement activation analysis",
+    "zh": "多元素活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multifunction catalyst",
+    "zh": "多功能催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple catalyst",
+    "zh": "多成分催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiplet theory of catalysis",
+    "zh": "催化多位理论*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Natta catalyst",
+    "zh": "纳塔催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural catalyst",
+    "zh": "天然催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural inhibitor(=natural oxidation inhibitor)",
+    "zh": "天然抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural oxidation inhibitor",
+    "zh": "天然抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negative catalysis",
+    "zh": "负催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negative catalyst",
+    "zh": "负催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral catalyst",
+    "zh": "中性催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutron activation",
+    "zh": "中子活化(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neutron activation analysis(NAA)",
+    "zh": "中子活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neutron-activation kit",
+    "zh": "中子活化箱（测中子场特性用）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nickel carbonyl catalyst",
+    "zh": "羰基镍催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nickel on carbon catalyst",
+    "zh": "碳载镍催化剂 $$",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Nieuland catalyst",
+    "zh": "纽兰德催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrided catalyst",
+    "zh": "氮化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrilation catalyst",
+    "zh": "腈化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-competitive inhibition",
+    "zh": "非竞争性抑制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-ionic catalysis",
+    "zh": "非离子催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-porous catalyst",
+    "zh": "无孔隙催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-stationary phase of chain reaction",
+    "zh": "连锁反应的不稳定相",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-toxic catalyst",
+    "zh": "无毒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear activation analysis",
+    "zh": "核活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "odor inhibitor",
+    "zh": "恶臭抑制剂；臭气清除剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-catalyst slurry",
+    "zh": "催化剂油浆；油与催化剂的悬浮液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-soluble inhibitor",
+    "zh": "油溶性抗氧化剂;油溶性缓蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "order of reaction",
+    "zh": "反应级数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "organic corrosion inhibitor",
+    "zh": "有机阻蚀剂；有机防锈剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic inhibitor",
+    "zh": "有机抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organoboron catalyst",
+    "zh": "有机硼催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organo-metallic catalyst",
+    "zh": "有机金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oscillating reaction",
+    "zh": "振荡反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxidation catalysis",
+    "zh": "氧化催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidation catalyst",
+    "zh": "氧化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidation inhibitor(=oxidation retarder)",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation-reduction catalyst",
+    "zh": "氧化还原催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidation retarder(=oxidation inhibitor)",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidative catalyst",
+    "zh": "氧化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxide catalyst",
+    "zh": "氧化物催化剂*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxide cracking catalyst",
+    "zh": "氧化裂化催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxo catalyst",
+    "zh": "羰基合成催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxygen absorption rate constant",
+    "zh": "氧吸收速率常数",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "palladium catalyst",
+    "zh": "钯催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial half-life",
+    "zh": "部分半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "passive activation analysis",
+    "zh": "无源活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pellected catalyst",
+    "zh": "丸状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pelleted catalyst",
+    "zh": "丸状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peroxide catalyst",
+    "zh": "过氧化物催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peroxy (type) catalyst",
+    "zh": "过氧(化物)型催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase-transfer catalysis",
+    "zh": "相转移催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase transfer catalyst",
+    "zh": "相转移催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphoric acid-diatomite catalyst",
+    "zh": "磷酸-硅藻土催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photocatalyst",
+    "zh": "光催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectrocatalysis",
+    "zh": "光电催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoinitiation",
+    "zh": "光引发(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photon activation analysis(PAA)",
+    "zh": "光子活化分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "photonuclear activation analysis",
+    "zh": "光核活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "physical catalyst",
+    "zh": "物理催化剂（能够增进或改变化学反应的辐射能）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pickling inhibitor",
+    "zh": "酸蚀抑制剂；防酸蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pilled-catalyst",
+    "zh": "丸形催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum based catalyst",
+    "zh": "铂基催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum catalyst",
+    "zh": "铂催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plugging inhibitor",
+    "zh": "防堵塞剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plugging of catalyst system",
+    "zh": "催化剂系统的堵塞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "poisoning of catalyst",
+    "zh": "催化剂中毒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polar activation",
+    "zh": "极性活化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polar catalyst",
+    "zh": "极性催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyactivation",
+    "zh": "多物活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polycondensation catalyst",
+    "zh": "缩聚催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyfunctional catalysis",
+    "zh": "多功能催化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyfunctional catalyst",
+    "zh": "多功能催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer catalyst",
+    "zh": "高分子催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymerization catalyst",
+    "zh": "聚合催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymerization inhibitor",
+    "zh": "阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerizing catalyst",
+    "zh": "聚合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer reaction rate",
+    "zh": "聚合反应速率",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pore volume of catalyst",
+    "zh": "催化剂孔隙度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive catalysis",
+    "zh": "正催化反应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive catalyst",
+    "zh": "正催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pour inhibitor(=pour point depressant)",
+    "zh": "倾点下降剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pour point additive(=pour point depressant)",
+    "zh": "倾点下降剂 pour point depressant(=pour depressor; pour inhibitor; pour",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "powdered catalyst",
+    "zh": "粉状催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precipitated catalyst",
+    "zh": "沉淀的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precipitating inhibitor",
+    "zh": "沉淀抑制剂；阻沉剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preformed catalyst",
+    "zh": "成型催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premature catalysis",
+    "zh": "早期催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "prompt neutron activation analysis(PNAA)",
+    "zh": "瞬发中子活化分析；中子俘获γ射线分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "propagation rate constant (",
+    "zh": "链)增长速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "proton activation analysis(PAA)",
+    "zh": "质子活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudocatalysis",
+    "zh": "假催化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulsed neutron activation",
+    "zh": "脉冲中子活化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quick acting catalyst",
+    "zh": "快速催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation catalysis",
+    "zh": "辐射催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation damage inhibitor",
+    "zh": "防放射线剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation-induced radical reaction",
+    "zh": "辐射诱导自由基反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radical catalyst",
+    "zh": "游离基催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radical chain reaction",
+    "zh": "自由基链反应（高分子）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radical reaction",
+    "zh": "自由基间的反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Raney catalyst",
+    "zh": "拉尼催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Raney nickel catalyst",
+    "zh": "拉尼镍催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rapid catalyst",
+    "zh": "快速催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rate constant",
+    "zh": "速率常数*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rate constant of polymerization",
+    "zh": "聚合速率常数",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rate constant of propagation (",
+    "zh": "链)增长速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rate constant of reaction",
+    "zh": "反应(的)速率常数",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rate constant of termination (",
+    "zh": "链)终止速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rate equation",
+    "zh": "速率方程*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rate of catalyst flow",
+    "zh": "催化剂流速",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rate process theory(=reaction rate theory)",
+    "zh": "速率过程理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "raw catalyst",
+    "zh": "新催化剂；未还原催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reaction rate",
+    "zh": "反应速率",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reaction rate constant",
+    "zh": "反应速率常数",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "reaction rate equation",
+    "zh": "反应速率方程式",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reaction rate theory(=rate process theory)",
+    "zh": "速率过程理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reactivation",
+    "zh": "再活化(作用)；重激活（物）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation bonding",
+    "zh": "再活化结合",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation cycle",
+    "zh": "再活化周期",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation gas",
+    "zh": "再活化(催化剂的)气体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation in situ",
+    "zh": "就地再活化(催化剂)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation line",
+    "zh": "再活化管路",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation of catalyst",
+    "zh": "催化剂的再活化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactivation of the catalyst",
+    "zh": "催化剂的再活化作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactivation of the earth",
+    "zh": "白土的再活化作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation process",
+    "zh": "再活化过程；再生过程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reactivation zone (",
+    "zh": "转子式除湿器)再生区",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "real density of catalyst",
+    "zh": "催化剂的真密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rearrangement catalyst (",
+    "zh": "分子)重排催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox catalysis",
+    "zh": "氧化还原催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox catalyst",
+    "zh": "氧化还原催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redox-catalyst system",
+    "zh": "氧化还原催化体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reduced catalyst receiver",
+    "zh": "再生催化剂的接受器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reducibility of catalyst",
+    "zh": "催化剂的可还原性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reducing catalyst",
+    "zh": "还原催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reduction inhibitor agent",
+    "zh": "还原抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reforming catalyst",
+    "zh": "重整催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reforming catalyst chloration",
+    "zh": "重整催化(剂)氯化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reforming catalyst reduction",
+    "zh": "重整催化(剂)还原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regenerated catalyst",
+    "zh": "再生催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "relative method (of activation analysis)",
+    "zh": "相对法(活化分析)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "replacing of catalyst",
+    "zh": "催化剂的更换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "retarding rate constant",
+    "zh": "阻滞速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reversible inhibitor",
+    "zh": "可逆抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "revivification of catalyst",
+    "zh": "催化剂的复活",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reworking of spent catalyst",
+    "zh": "废催化剂的再次加工（即再生）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rhodium carbonyl catalyst",
+    "zh": "羰基铑催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rhodium platinum catalyst",
+    "zh": "铑铂催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rugged catalyst",
+    "zh": "稳定催化剂；具有机械强度的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rust inhibitor",
+    "zh": "抗腐蚀添加剂；防锈剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ruthenium catalyst",
+    "zh": "钉催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutilization catalyst",
+    "zh": "金红石化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scale inhibitor",
+    "zh": "阻垢剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screening of catalyst",
+    "zh": "催化剂的筛选",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second order rate constant",
+    "zh": "二级(反应)速率常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "selectivity of catalyst",
+    "zh": "催化剂的选择性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shape of catalyst",
+    "zh": "催化剂颗粒形状",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shape selective catalysis",
+    "zh": "择形催化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shaping of catalyst",
+    "zh": "催化剂成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shot-catalyst principle",
+    "zh": "短催化原则（利用比催化密实的惰性热载体操作的原则）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sieve catalyst",
+    "zh": "分子筛催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-alumina catalyst",
+    "zh": "硅铝催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-base catalyst",
+    "zh": "硅基催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-magnesia catalyst",
+    "zh": "硅镁催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica-zirconia catalyst",
+    "zh": "硅锆催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver catalyst",
+    "zh": "银催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simple collision theory(SCT)",
+    "zh": "简单碰撞理论*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sintered catalyst",
+    "zh": "烧结催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintered iron catalyst",
+    "zh": "烧铁催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sintering of catalyst",
+    "zh": "催化剂的烧结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "skeletal catalyst",
+    "zh": "骨架催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "skeleton catalyst(=skeletal catalyst)",
+    "zh": "骨架催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sloping catalyst line",
+    "zh": "倾斜催化剂管道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sludge inhibitor(=sludge preventive)",
+    "zh": "防渣剂；淤渣生成抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sludge preventive(=sludge inhibitor)",
+    "zh": "防渣剂；淤渣生成抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slurried catalyst",
+    "zh": "与原料混合的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soil redeposition inhibitor",
+    "zh": "污垢再附着抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid acid catalyst",
+    "zh": "固体酸催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid bed of catalyst",
+    "zh": "催化剂的固体床；催化剂的紧密床层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid heterogeneous catalyst",
+    "zh": "固体多相催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid phosphoric acid catalyst",
+    "zh": "固体磷酸催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soot inhibitor",
+    "zh": "烟灰抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific rate constant",
+    "zh": "比速常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "specific reaction rate",
+    "zh": "反应比速",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spent reactivation gas",
+    "zh": "废再生气",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spent catalyst",
+    "zh": "废催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherical catalyst",
+    "zh": "球形催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spheroidal catalyst particles",
+    "zh": "球状催化剂粒子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stagnant catalyst",
+    "zh": "固定催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static bed of catalyst",
+    "zh": "催化剂固定床",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "static inhibitor",
+    "zh": "静电消除剂；抗静电剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steam activation",
+    "zh": "蒸汽活化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stereospecific catalyst",
+    "zh": "立体有择催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stock-catalyst ratio",
+    "zh": "原料-催化剂比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight chain reaction",
+    "zh": "直链反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripping of catalyst with gas",
+    "zh": "用气体汽提(粉末状)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "substrate constant",
+    "zh": "底物常数；基质常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sulfur resistant catalyst",
+    "zh": "抗硫催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfur sensitive catalyst",
+    "zh": "易为硫中毒的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "super acidic catalyst",
+    "zh": "超强酸催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superactive catalyst",
+    "zh": "超活性催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "super basic catalyst",
+    "zh": "超强碱催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supported catalyst",
+    "zh": "载体上的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supporting structure of catalyst",
+    "zh": "催化剂载体结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "support of the catalyst",
+    "zh": "催化剂载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surface availability of catalyst",
+    "zh": "催化剂的有效表面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "suspensions of powdered catalyst",
+    "zh": "粉末催化剂悬浮体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synergistic catalyst",
+    "zh": "增效催化剂：协合催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synol catalyst",
+    "zh": "辛诺催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic catalyst",
+    "zh": "合成催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic fluid cracking catalyst",
+    "zh": "合成液体裂化催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tarnish inhibitor",
+    "zh": "晦暗抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tertiary amine catalyst",
+    "zh": "叔胺催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "theory of reaction rate",
+    "zh": "反应速率理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal activation",
+    "zh": "热活化*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thermal activation energy",
+    "zh": "热激活能",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tight transition state",
+    "zh": "紧密过渡态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total half-life",
+    "zh": "总半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transesterification catalyst",
+    "zh": "酯基转移催化剂：酯交换催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transition metal catalyst",
+    "zh": "过渡金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transition state",
+    "zh": "过渡态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "transition state theory",
+    "zh": "过渡态理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trimetallic catalyst",
+    "zh": "三金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet activation",
+    "zh": "紫外线活化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uncompetitive inhibition",
+    "zh": "非竞争性抑制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unsupported catalyst",
+    "zh": "无载体催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unsupported nickel catalyst",
+    "zh": "无载体镍催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "upflow fluid-catalyst unit",
+    "zh": "上流流体催化装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "used catalyst",
+    "zh": "用过的催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Vandenberg catalyst",
+    "zh": "范登堡催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vapor corrosion inhibitor",
+    "zh": "蒸气(汽)腐蚀抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor phase inhibitor",
+    "zh": "气相(氧化)抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor-pressure inhibitor",
+    "zh": "蒸气(汽)压抑低剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "voltage-dependent inactivation",
+    "zh": "电压依赖性失活",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "water emulsion inhibitor",
+    "zh": "水乳化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-gas catalyst",
+    "zh": "水煤气催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-insoluble gum inhibitor",
+    "zh": "水不溶性胶质抑制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-soluble catalyst",
+    "zh": "水溶(性)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wax-producing catalyst",
+    "zh": "制蜡催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wear attrition of catalyst",
+    "zh": "催化剂磨耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "weight per cent of catalyst",
+    "zh": "催化剂重量百分数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-ray activation analysis X",
+    "zh": "射线活化分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "zeolite catalysis",
+    "zh": "沸石催化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite catalyst",
+    "zh": "沸石催化剂；分子筛催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite-metal catalyst",
+    "zh": "沸石-金属催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite (molecular sieve) catalyst",
+    "zh": "沸石(分子筛)催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolitic cracking catalyst",
+    "zh": "沸石裂化催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zero-valent nickel catalyst",
+    "zh": "零(化合)价镍催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ziegler catalyst",
+    "zh": "齐格勒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ziegler-Natta catalyst",
+    "zh": "齐格勒-纳塔催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ziegler type catalyst",
+    "zh": "齐格勒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Z-type catalyst",
+    "zh": "齐格勒催化剂",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

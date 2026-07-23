@@ -1,0 +1,6656 @@
+[
+  {
+    "en": "absolute asymmetry",
+    "zh": "绝对不对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absolute crystallinity",
+    "zh": "绝对结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accumulative crystallization",
+    "zh": "聚集结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "actinomorphy(=radial symmetry)",
+    "zh": "放线对称；辐射对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-crystallization",
+    "zh": "后结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "agitated batch crystallizer",
+    "zh": "搅拌式分批结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agitated crystallizer",
+    "zh": "搅拌结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alcohol of crystallization",
+    "zh": "结晶醇",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "alternating axes (of symmetry)",
+    "zh": "更迭(对称)轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alternating axis of symmetry",
+    "zh": "交错对称轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorpho-crystalline structure",
+    "zh": "非晶体-晶体结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "amorphous",
+    "zh": "非晶态的；无定形的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous alloy",
+    "zh": "无定形合金；非晶形合金",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous aluminosilicate gel",
+    "zh": "无定形硅铝酸盐凝胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous band",
+    "zh": "非晶区谱带",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous birefringence",
+    "zh": "无定形双折射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous carbon",
+    "zh": "无定形碳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous cellulose",
+    "zh": "无定形纤维素；非晶形纤维素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous chain",
+    "zh": "非晶态链；无定形链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous chain structure",
+    "zh": "非晶态链结构；无定型链结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous change",
+    "zh": "无定形的改变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous content",
+    "zh": "非晶区含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous defect",
+    "zh": "非晶区缺陷；无定形区缺陷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous fibre",
+    "zh": "非晶态纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous gel",
+    "zh": "无定形凝胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous graphite",
+    "zh": "无定形石墨（填料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous layer",
+    "zh": "非晶形层（即贝尔俾层）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous material",
+    "zh": "非晶材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous matrix",
+    "zh": "非晶基体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous matter",
+    "zh": "非晶体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous molecular material",
+    "zh": "无定形分子材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphousness",
+    "zh": "无定形(现象)；非晶质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous orientation",
+    "zh": "非晶态取向；非晶取向",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous phase",
+    "zh": "非晶相*；无定形相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous plastic",
+    "zh": "非晶塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous polymer",
+    "zh": "非晶态聚合物；无定形聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous polyolefins",
+    "zh": "无结晶聚烯烃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous portion",
+    "zh": "非晶部分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous precipitation",
+    "zh": "无定形沉淀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous region",
+    "zh": "非晶形区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous region mobility",
+    "zh": "非晶区(链段)活动性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous rubber",
+    "zh": "无定形橡胶；非晶态橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silica",
+    "zh": "无定形二氧化硅",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silicate",
+    "zh": "无定形硅酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silicon dioxide aerogel(=silica aerogel)",
+    "zh": "无定形二氧化硅气凝胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silicon dioxide hydrogel(=silica hydrogel)",
+    "zh": "无",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous solid",
+    "zh": "非晶态固体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous solvating polymer",
+    "zh": "非晶态溶剂化聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous state",
+    "zh": "非晶态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous structure",
+    "zh": "无定形结构；非晶态结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous substance",
+    "zh": "无定形物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous wax",
+    "zh": "无定形蜡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amphibole lattice",
+    "zh": "闪石晶格；闪石点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "analysing crystal",
+    "zh": "分光晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "analyzing crystal",
+    "zh": "分析晶体；分光晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "angle of diffraction",
+    "zh": "衍射角",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anisomorphous",
+    "zh": "类质异晶型的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anomalous mixed crystal",
+    "zh": "反常混晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anorthic lattice",
+    "zh": "三斜晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anthracene crystal scintillation counter",
+    "zh": "蒽晶体闪烁计数器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-crystallizing rubber",
+    "zh": "抗结晶橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiferroelectric crystal",
+    "zh": "反铁电晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antisymmetry",
+    "zh": "反对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antisymmetry principle",
+    "zh": "反对称原理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anucleate",
+    "zh": "无核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "apparent crystalline stack height",
+    "zh": "表观晶体堆垛高度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "apparent crystal size",
+    "zh": "晶体表观尺寸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "applied crystallography",
+    "zh": "应用晶体学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "arborescent crystal",
+    "zh": "树枝状晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "assymmetry",
+    "zh": "不对称(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "assymmetry effect",
+    "zh": "不对称效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry",
+    "zh": "不对称(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry-based method",
+    "zh": "不对称法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry factor",
+    "zh": "不对称因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry of peak",
+    "zh": "峰的不对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry parameter",
+    "zh": "非对称参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetry potential",
+    "zh": "不对称电势",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "athermal nucleation",
+    "zh": "无热成核(过程)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic lattice",
+    "zh": "原子晶格; 原子点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Auger electron spectroscopy-low energy electron diffraction",
+    "zh": "俄歇电子能谱-低能电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "average crystallite dimension",
+    "zh": "平均晶粒尺寸;平均微晶大小",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "axial dissymmetry",
+    "zh": "轴向不对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "axial symmetry",
+    "zh": "轴对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "axis of symmetry",
+    "zh": "对称轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "band asymmetry",
+    "zh": "谱带不对称(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batch crystallization",
+    "zh": "分批结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "batch crystallizer",
+    "zh": "分批结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "B-centered lattice B",
+    "zh": "底心格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bent crystal",
+    "zh": "弯晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biaxial crystal",
+    "zh": "双轴晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bicrystals",
+    "zh": "双晶*: 李晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "body-centered cubic lattice",
+    "zh": "体心立方格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "body centered lattice",
+    "zh": "体心点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bohemian crystal",
+    "zh": "波希米亚玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bragg diffraction",
+    "zh": "布拉格衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bravaisite",
+    "zh": "漂云母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bravais lattice",
+    "zh": "布拉菲晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bravais-Miller indices",
+    "zh": "布拉菲-密勒指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bubble nucleation",
+    "zh": "气泡形成",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk crystallization",
+    "zh": "大量结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "bulk crystallized polymer",
+    "zh": "本体结晶聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bundle (-like) crystal",
+    "zh": "束状结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "C-face centered lattice C",
+    "zh": "心点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caking of crystals",
+    "zh": "晶体(的)块结；晶体胶结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbol crystal violet",
+    "zh": "石炭酸结晶紫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell crystal",
+    "zh": "晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cell morphology (",
+    "zh": "泡沫塑料)泡孔形态(学)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cell nucleation (",
+    "zh": "泡沫塑料)泡核作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose crystallite",
+    "zh": "纤维素微晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulose lattice",
+    "zh": "纤维素晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cellulosic crystalline modification",
+    "zh": "纤维素结晶变体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cellulosic homogenous polycrystal",
+    "zh": "纤维素同质多晶体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "center of symmetry",
+    "zh": "对称中心center pole 中央支柱（油罐）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "centre of symmetry",
+    "zh": "对称中心",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "centrosymmetry",
+    "zh": "中心对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain-folded crystal",
+    "zh": "折叠链结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chain lattice",
+    "zh": "链格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chamber crystal",
+    "zh": "铅室结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "charged polymer lattice",
+    "zh": "带电聚合物点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chemicrystallization",
+    "zh": "化学结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "chloroform of crystallization",
+    "zh": "结晶氯仿",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cholesteric liquid crystal",
+    "zh": "胆甾醇型液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cholesteryl liquid crystal",
+    "zh": "胆甾型液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "classifying crystallizer",
+    "zh": "分级结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulative nucleation",
+    "zh": "凝结成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cocrystallization",
+    "zh": "共结晶*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coefficient of orientation-induced crystallization rate",
+    "zh": "取向诱导的结晶速率系数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cold crystallization",
+    "zh": "冷晶化",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "colloidal crystal",
+    "zh": "胶体晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colloidal microcrystal room temperature phosphorimetry",
+    "zh": "胶态微晶室温磷光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "column crystallization",
+    "zh": "柱状结晶(过程)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "combined liquid crystal polymer",
+    "zh": "混合型液晶高分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "concentrated crystal soda",
+    "zh": "倍半碳酸钠；二碳酸一氢三钠 Na₂CO₃·NaHCO₃·2H₂O",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "confined-growth crystallinity",
+    "zh": "限制生长结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conservation of orbital symmetry",
+    "zh": "轨道对称性守恒*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous crystallizer",
+    "zh": "连续结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cooler crystallizer",
+    "zh": "冷却结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corroded crystal",
+    "zh": "溶蚀(斑)晶；蚀缘晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "covalent crystal",
+    "zh": "共价晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crack nucleation",
+    "zh": "碎裂成核(过程)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "critical nucleation",
+    "zh": "临界成核(现象)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cryptocrystalline",
+    "zh": "隐晶的（矿）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cryptocrystalline quartz",
+    "zh": "隐晶石英；潜晶质石英",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cryptocrystalline silica",
+    "zh": "隐晶二氧化硅",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystal",
+    "zh": "晶体*；结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal aggregate",
+    "zh": "结晶聚集(体)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal alcohol",
+    "zh": "结晶醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal analysis",
+    "zh": "晶体分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal angle",
+    "zh": "晶角",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal anisotropy",
+    "zh": "晶体各向异性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal axis",
+    "zh": "晶轴*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal birth",
+    "zh": "晶体产生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal boiling",
+    "zh": "结晶煮沸（糖）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal bonding",
+    "zh": "晶体键合；晶体结合",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal carbonate",
+    "zh": "晶碱；苏打结晶 crystal cell ;晶胞;晶体光电池;晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal chemistry",
+    "zh": "晶体化学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal chloroform",
+    "zh": "结晶氯仿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal class",
+    "zh": "晶类",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal clear",
+    "zh": "无色透明的；清澈透明的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal clearance",
+    "zh": "晶状透明度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal clear syrup",
+    "zh": "清澈透明的浆状物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal clear transparency",
+    "zh": "无色清澈透明度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal coating",
+    "zh": "晶纹涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal configuration",
+    "zh": "晶体结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal conglomerate",
+    "zh": "众晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal control producer",
+    "zh": "晶体控制发生器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal coordinates",
+    "zh": "晶体坐标",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal defect",
+    "zh": "晶体缺陷*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal defect diffraction",
+    "zh": "晶体缺陷衍射",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystal detector",
+    "zh": "晶体检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal diffraction",
+    "zh": "晶体衍射",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystal druse",
+    "zh": "晶簇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal edge",
+    "zh": "晶棱*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal elasticity",
+    "zh": "晶体弹性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal enamel",
+    "zh": "晶纹瓷漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal engineering",
+    "zh": "晶体工程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal ether",
+    "zh": "结晶醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal face",
+    "zh": "晶面*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal face corrosion speed ratio",
+    "zh": "晶面腐蚀速度比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field",
+    "zh": "晶体场",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal-field effect",
+    "zh": "晶场效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field model",
+    "zh": "晶体场模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field splitting",
+    "zh": "晶体场分裂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field splitting parameter",
+    "zh": "晶体场分裂参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field stabilization energy (CFSE)",
+    "zh": "晶体场稳定能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal field theory",
+    "zh": "晶体场理论*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal fineness",
+    "zh": "晶体细度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal finish",
+    "zh": "晶纹面漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal form",
+    "zh": "晶形*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal formation",
+    "zh": "晶体形成；晶体生长",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal-forming polymer",
+    "zh": "成晶聚合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal glass",
+    "zh": "结晶玻璃；富铅玻璃；水晶玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal glaze",
+    "zh": "结晶釉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal grain",
+    "zh": "晶粒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal grating",
+    "zh": "晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal growth",
+    "zh": "晶体生长*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "crystal habit",
+    "zh": "晶癖*；晶体习性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystal habit modifier",
+    "zh": "晶体习性改变剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystal imperfection",
+    "zh": "晶体非理想性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal-ionic radius",
+    "zh": "结晶离子半径",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal lacquer",
+    "zh": "结晶纤维喷漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal lacquer finish",
+    "zh": "挥发性晶纹面漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal lattice (",
+    "zh": "结)晶格(子)",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystal lattice defect",
+    "zh": "晶格缺陷",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystal lattice energy",
+    "zh": "晶格能",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystalline",
+    "zh": "结晶的；晶状的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline aggregate",
+    "zh": "晶状聚集体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline-amorphous transition",
+    "zh": "晶态-非晶态转变*",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "crystalline band",
+    "zh": "结晶谱带；晶带",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline block",
+    "zh": "晶体区域",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline bloom",
+    "zh": "起霜：晶霜（漆病）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline cellulose",
+    "zh": "晶态纤维素",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline cellulose powder",
+    "zh": "结晶纤维素粉",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline complex",
+    "zh": "晶体复合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline content",
+    "zh": "晶体含量",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline density",
+    "zh": "晶体密度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline diffraction",
+    "zh": "晶体衍射",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "crystalline dimension",
+    "zh": "晶体尺寸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline dispersion",
+    "zh": "晶体分散",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline domain",
+    "zh": "结晶畴；晶畴",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline effect",
+    "zh": "结晶效应",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline electric field (=crystalline field)",
+    "zh": "晶体场",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline electrode",
+    "zh": "晶体电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline element",
+    "zh": "晶胞",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline fibre",
+    "zh": "晶态纤维",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline field (=crystalline electric field)",
+    "zh": "晶体场",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline flour (=silica flour)",
+    "zh": "晶粉；硅粉（填料）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline fold period",
+    "zh": "晶体折叠周期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline form",
+    "zh": "结晶形状；晶形",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline forms of wax",
+    "zh": "蜡的晶形",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline fracture",
+    "zh": "结晶断面",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline glaze",
+    "zh": "结晶釉",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline globe",
+    "zh": "球晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline grade",
+    "zh": "结晶(程)度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline grain",
+    "zh": "晶粒",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline-granular texture",
+    "zh": "结晶粒状结构；晶粒结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline granule (",
+    "zh": "结)晶粒",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline hydrate",
+    "zh": "结晶水合物；水合结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline imperfection",
+    "zh": "晶体非理想性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline indice",
+    "zh": "结晶指数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline lamellae",
+    "zh": "晶态薄层；片晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline lattice",
+    "zh": "晶格",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "crystalline liquid",
+    "zh": "晶性液体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline material",
+    "zh": "结晶性材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline matrix",
+    "zh": "结晶母体；结晶基体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline melting point",
+    "zh": "晶体熔点",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline metal",
+    "zh": "晶体金属",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline micelle",
+    "zh": "晶体微胞；晶状微胞",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline monochrometer",
+    "zh": "晶体单色仪",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline morphology",
+    "zh": "结晶形态学",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "crystalline order",
+    "zh": "晶态有序",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline orientation",
+    "zh": "结晶取向；晶体取向",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline perfection",
+    "zh": "晶体完整性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline phase",
+    "zh": "晶相",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline phosphate coating",
+    "zh": "结晶(的)磷酸盐被膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline phosphate layer",
+    "zh": "结晶磷酸盐层(膜)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline polymer",
+    "zh": "结晶聚合物*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline polyolefins",
+    "zh": "结晶聚烯烃类",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline polysilicic acid",
+    "zh": "结晶聚硅酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline poly (vinyl chloride)",
+    "zh": "结晶聚氯乙烯",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline portion",
+    "zh": "结晶部分",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline precipitate",
+    "zh": "晶形沉淀*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline precipitation",
+    "zh": "晶形沉淀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline region",
+    "zh": "晶区",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline rubber",
+    "zh": "结晶橡胶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline rupture",
+    "zh": "结晶状断口",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline sequence",
+    "zh": "晶体序列",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline silica",
+    "zh": "结晶二氧化硅;结晶硅石",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline silica-aluminate",
+    "zh": "晶体硅铝酸盐；分子筛；人造泡沸石",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline silicate",
+    "zh": "结晶硅酸盐",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline size",
+    "zh": "晶粒大小*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline slag",
+    "zh": "晶性熔渣",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline slip",
+    "zh": "晶面滑移",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline solid",
+    "zh": "结晶固体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline state",
+    "zh": "晶态*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline structure",
+    "zh": "晶体结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline substance",
+    "zh": "结晶物质",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline sulfuric acid",
+    "zh": "结晶硫酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline temperature",
+    "zh": "结晶温度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline texture",
+    "zh": "晶体织构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline transducer",
+    "zh": "晶体传感器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline transition",
+    "zh": "结晶转变",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline versus amorphous ratio",
+    "zh": "晶区-非晶区比率",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "crystalline wax",
+    "zh": "晶态蜡",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalline zinc oxide",
+    "zh": "结晶氧化锌",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystalling dish",
+    "zh": "结晶皿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallinic acid",
+    "zh": "结晶酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallinity",
+    "zh": "结晶性；结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallinity index",
+    "zh": "结晶度指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallisate",
+    "zh": "结晶物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite",
+    "zh": "微晶；晶粒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite alignment",
+    "zh": "微晶排列；微晶取向",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite dimension",
+    "zh": "微晶尺寸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite length",
+    "zh": "微晶长度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite orientation",
+    "zh": "微晶取向",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite reticulum",
+    "zh": "微晶网状结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallite size",
+    "zh": "微晶大小",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizability",
+    "zh": "可结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizable (",
+    "zh": "可)结晶的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization",
+    "zh": "结晶*；晶化",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization effect",
+    "zh": "结晶效应",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization half-life",
+    "zh": "结晶半衰期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization heat",
+    "zh": "结晶热",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization-inhibited rubber",
+    "zh": "抑制结晶橡胶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization inhibitor",
+    "zh": "结晶抑制剂（阻止石蜡晶体在油内增长的混合物）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization initiation time",
+    "zh": "结晶诱导期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization interval",
+    "zh": "结晶间歇",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization kinetic parameter",
+    "zh": "结晶动力(学)参数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization kinetics",
+    "zh": "结晶动力学",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization modifier",
+    "zh": "结晶调节剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization morphology",
+    "zh": "结晶形态学",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "crystallization of amorphous solid",
+    "zh": "非晶晶化法",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "crystallization parameter",
+    "zh": "结晶参数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization phase",
+    "zh": "结晶相",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization point",
+    "zh": "结晶点；结晶温度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization rate",
+    "zh": "结晶速率",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization rate characteristic",
+    "zh": "结晶速率特性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization rate constant",
+    "zh": "结晶速率常数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization sensitive band",
+    "zh": "结晶敏感谱带",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization temperature",
+    "zh": "结晶温度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization vat",
+    "zh": "结晶桶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallization velocity",
+    "zh": "结晶速度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystallized glass fibre",
+    "zh": "微晶玻璃纤维；晶化玻璃纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallized region",
+    "zh": "结晶区；结晶段",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallized soda",
+    "zh": "晶碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizer",
+    "zh": "结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizer pan",
+    "zh": "结晶(蒸发)器；结晶盘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizer tank",
+    "zh": "结晶桶；结晶槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing",
+    "zh": "结晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing agent",
+    "zh": "结晶剂；形成晶体的媒介物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing boiler",
+    "zh": "结晶蒸发器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing dish",
+    "zh": "结晶皿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing evaporator",
+    "zh": "结晶蒸发器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing field",
+    "zh": "结晶区；沉积区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing finish",
+    "zh": "晶纹(罩面)漆；晶纹面饰（非病态）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing pan",
+    "zh": "结晶盘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing point",
+    "zh": "结晶点；结晶温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing tank",
+    "zh": "结晶桶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallizing varnish",
+    "zh": "晶纹清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalloblastesis",
+    "zh": "晶质改变作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalloblastic texture",
+    "zh": "变晶结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallochemical analysis",
+    "zh": "结晶化学分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallogram",
+    "zh": "晶体衍射图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic",
+    "zh": "结晶(学)的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic axis (",
+    "zh": "结)晶轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic component",
+    "zh": "结晶组分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic data",
+    "zh": "晶体学数据*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic dimension",
+    "zh": "晶体大小",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic direction",
+    "zh": "晶体学方向",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic interplanar spacing (",
+    "zh": "纤维结构中)晶体(学)的平面间距",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic parameter",
+    "zh": "晶体参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic plane",
+    "zh": "晶面",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic plane groups",
+    "zh": "晶体学平面群*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic point group",
+    "zh": "晶体学点群",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "crystallographic register",
+    "zh": "结晶学定位；结晶配准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic shear",
+    "zh": "结晶学切变*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic site",
+    "zh": "晶格位置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic slip mechanism",
+    "zh": "晶面滑移机制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic symmetry",
+    "zh": "晶体学对称性*",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crystallographic texture",
+    "zh": "晶体织构*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallographic unit cell",
+    "zh": "晶体学单元晶格；结晶晶胞",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "crystallography",
+    "zh": "晶体学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalloid",
+    "zh": "晶样的;类晶体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalloid solution",
+    "zh": "晶体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallo-luminescence",
+    "zh": "结晶发光；晶体发光",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallomycin",
+    "zh": "晶霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallon",
+    "zh": "晶核；籽晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystal mass",
+    "zh": "结晶状物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal membrane electrode (",
+    "zh": "单)晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal model",
+    "zh": "结晶模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal modifier",
+    "zh": "结晶改良剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal modulus",
+    "zh": "晶体模量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal nucleation",
+    "zh": "晶核化(作用)",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "crystal nucleus",
+    "zh": "晶核*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal offsetting",
+    "zh": "晶体偏置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal oil",
+    "zh": "结晶油；未脱蜡的油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalon",
+    "zh": "刚晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystal order",
+    "zh": "晶序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal orientation",
+    "zh": "晶体取向",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal orientation function",
+    "zh": "晶体取向作用；晶体取向功能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal paper varnish (",
+    "zh": "糊墙)纸用晶纹清漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal pattern",
+    "zh": "晶体图案",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal perfection index",
+    "zh": "晶体完整性指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal phase",
+    "zh": "晶相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal phosphor(s)",
+    "zh": "结晶发光体；结晶荧光体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal plane",
+    "zh": "晶面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal plane slip",
+    "zh": "晶面滑移",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal plasticity",
+    "zh": "晶体塑性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal point",
+    "zh": "结晶点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal ponceau",
+    "zh": "结晶丽春红（染）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal powder",
+    "zh": "晶体粉末",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal pulling method",
+    "zh": "晶体生长提拉法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal refractometer",
+    "zh": "结晶(晶体)折射仪；结晶(晶体)折光仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal region",
+    "zh": "结晶区",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal repeating unit",
+    "zh": "晶体重复单位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal rotating method",
+    "zh": "旋转结晶法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal seeds",
+    "zh": "晶种",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal shape",
+    "zh": "晶形",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal size",
+    "zh": "晶粒大小",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal-size distribution (CSD)",
+    "zh": "晶体大小分布",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal skeleton",
+    "zh": "晶体间架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal spectrometer",
+    "zh": "晶体分光仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal structure",
+    "zh": "晶体结构*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal structure analysis",
+    "zh": "晶体结构分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal structure determination",
+    "zh": "晶体结构测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal structure of wax",
+    "zh": "蜡的晶体结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal symmetry",
+    "zh": "晶体对称性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "crystal system",
+    "zh": "晶系*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal texture",
+    "zh": "晶体组织",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal tilting",
+    "zh": "晶体倾斜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal transformation",
+    "zh": "晶体变换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal twin",
+    "zh": "双晶*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal varnish",
+    "zh": "结晶清漆；烘干晶纹清漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal violet",
+    "zh": "结晶紫*；龙胆紫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal violet lactone",
+    "zh": "结晶紫内酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal water",
+    "zh": "结晶水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal yarn",
+    "zh": "水晶纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cryst (crystalline)",
+    "zh": "结晶的；晶状;晶体的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cubic crystal",
+    "zh": "立方晶体；等轴系晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cubic lattice",
+    "zh": "立方格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cubic lattice cell",
+    "zh": "立方点阵晶胞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curve crystal monochromater",
+    "zh": "弯晶单色器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "curved crystal",
+    "zh": "弯(曲)晶(体)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "curved crystal spectrometer",
+    "zh": "弯曲晶体分光计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "decrystallization",
+    "zh": "解晶作用",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "decrystallized",
+    "zh": "非晶化的；消晶化的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "defect lattice",
+    "zh": "缺陷晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "degree of crystallinity",
+    "zh": "结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deliquescent crystal",
+    "zh": "易潮解的晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dendri(ti)c crystal",
+    "zh": "树枝状晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "density crystallinity",
+    "zh": "密度结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of water of crystallization",
+    "zh": "结晶水定量分析",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "device for repeated diffraction",
+    "zh": "二次衍射装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diamond type lattice",
+    "zh": "金刚石型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction",
+    "zh": "衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction angle",
+    "zh": "衍射角",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction arc",
+    "zh": "衍射弧 ; 衍射条纹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction broadening",
+    "zh": "衍射增宽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction crystal",
+    "zh": "衍射晶体",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "diffraction effect",
+    "zh": "衍射效应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction formula",
+    "zh": "衍射公式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction intensity",
+    "zh": "衍射强度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction of X-rays X",
+    "zh": "射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction pattern",
+    "zh": "衍射花样",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction peak",
+    "zh": "衍射峰",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction phenomenon",
+    "zh": "衍射现象",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction spot",
+    "zh": "衍射斑",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction streak",
+    "zh": "衍射条纹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction symbol",
+    "zh": "衍射群",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction symmetry",
+    "zh": "衍射对称性*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "discontinuous crystallizer",
+    "zh": "间歇式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dislocation nucleation",
+    "zh": "位错成核(过程)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dissymmetry",
+    "zh": "不对称现象",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissymmetry coefficient",
+    "zh": "不对称系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissymmetry of scattering",
+    "zh": "散射的非对称性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distorted lattice",
+    "zh": "畸变晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "disymmetry constant",
+    "zh": "双对称常数 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "domain morphology",
+    "zh": "微区形态学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "doped crystal",
+    "zh": "掺杂晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double crystal topography",
+    "zh": "双晶形貌术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double pipe cooler crystallizer",
+    "zh": "套管冷却式结晶器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double pipe crystallizer",
+    "zh": "套管结晶器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "draft tube baffle crystallizer DTB",
+    "zh": "结晶器；引流管缓冲结晶器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "draw-induced crystal",
+    "zh": "拉伸诱发晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug-habit",
+    "zh": "药瘾",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drum crystallizer",
+    "zh": "鼓式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drum cylinder crystallizer",
+    "zh": "圆筒式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "edge nucleation",
+    "zh": "晶棱成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrochemical crystal structure",
+    "zh": "电化学晶体结构",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrochemical quartz crystal microbalance",
+    "zh": "电化学石英晶体微量天平",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrochemical quartz crystal microweighing",
+    "zh": "电化学石英晶体微天平",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrocrystallization",
+    "zh": "电结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electromechanical crystal structure",
+    "zh": "电机结晶构造",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron crystallography",
+    "zh": "电子晶体学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron diffraction",
+    "zh": "电子衍射*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron diffraction diagram",
+    "zh": "电子衍射图",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron diffraction investigation",
+    "zh": "电子衍射研究",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron diffraction pattern",
+    "zh": "电子衍射图像",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron-lattice interaction",
+    "zh": "电子晶格相互作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron microdiffraction",
+    "zh": "电子显微衍射(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "elements of symmetry",
+    "zh": "对称要素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enantiomorphous crystal",
+    "zh": "对映结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "English crystal",
+    "zh": "铅玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "English crystal glass",
+    "zh": "全铅晶质玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "epitaxial crystallization",
+    "zh": "外延结晶；附生结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "equiaxed crystal",
+    "zh": "等轴晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ether of crystallization",
+    "zh": "结晶醚",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "eutectic crystal",
+    "zh": "共晶；低共熔晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "evaporated crystallizer",
+    "zh": "蒸发结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "evaporative crystallizer",
+    "zh": "蒸发(式)结晶机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extended-chain crystal",
+    "zh": "伸展链晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extended-chain crystallite",
+    "zh": "伸直链微晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "external symmetry",
+    "zh": "外对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "face-centered crystal",
+    "zh": "面心晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face-centered cubic lattice",
+    "zh": "面心立方格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "face centered lattice",
+    "zh": "面心点格*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "face-centred lattice",
+    "zh": "面心点阵；面心晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "face of crystal",
+    "zh": "晶面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "far field diffraction pattern",
+    "zh": "远场衍射图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "F-centered lattice",
+    "zh": "面心格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "feather crystal",
+    "zh": "羽毛状晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ferroelectric crystal",
+    "zh": "铁电性晶体*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fiber (diffraction) pattern",
+    "zh": "纤维(衍射)图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fibre crystallinity",
+    "zh": "纤维结晶度;纤维结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibre-forming crystallite",
+    "zh": "成纤微晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrelike polymer crystal",
+    "zh": "纤维状聚合物晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrillar crystal",
+    "zh": "原纤晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrillar crystallization",
+    "zh": "原纤结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "fibrous crystal",
+    "zh": "纤维晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrous crystallization",
+    "zh": "纤维状结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "fibrous morphology",
+    "zh": "纤维形态学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrous seed crystal",
+    "zh": "纤维状子晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filament crystal",
+    "zh": "丝(状结)晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "first order nucleation",
+    "zh": "一级成核作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flat crystal spectrometer",
+    "zh": "平面晶体光谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "FLC(ferroelectric liquid crystal)",
+    "zh": "铁电液晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow-induced crystallization",
+    "zh": "流动诱导结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "focused electron diffraction",
+    "zh": "会聚束电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "folded-chain crystal",
+    "zh": "折叠链晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "folded-chain crystallite",
+    "zh": "折叠链微晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "folded crystal",
+    "zh": "折叠晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "forced crystallization",
+    "zh": "强制结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "four circle single crystal diffractometer",
+    "zh": "四圆单晶衍射仪",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "fractional crystallization",
+    "zh": "分级结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "fractional wax crystallization",
+    "zh": "石蜡分步结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "fractionation crystallization",
+    "zh": "分级结晶法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Fraunhofer diffraction",
+    "zh": "夫琅和费衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fresnel diffraction",
+    "zh": "菲涅耳衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "full crystal",
+    "zh": "全晶玻璃（含铅晶玻璃）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "geometrical symmetry",
+    "zh": "几何对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glancing angle X-ray diffraction",
+    "zh": "掠射角 X 射线衍射法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "globular-chain crystal",
+    "zh": "球状链晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gradient morphology",
+    "zh": "梯度形态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grain of crystallization",
+    "zh": "结晶中心；晶核；晶籽",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "granular-crystalline structure",
+    "zh": "粒状结晶的结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "growth of crystals",
+    "zh": "晶体生长",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "haematine crystal (=hematoxylin)",
+    "zh": "苏木精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hal-crystallization time",
+    "zh": "半结晶期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "half-time of crystallization",
+    "zh": "半结晶期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "half-unit cell composition",
+    "zh": "半晶胞组分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Haüy's law of crystallization",
+    "zh": "霍伊结晶定律",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "heat of crystallization",
+    "zh": "结晶热",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "heavy crystalline phosphate layer",
+    "zh": "重结晶磷酸盐膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "helium atoms diffraction",
+    "zh": "氦原子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hematine crystal",
+    "zh": "苏木精晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hemicrystalline",
+    "zh": "半晶状的；半结晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "hemihedral symmetry",
+    "zh": "半面型对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heteromorphic (=polymorphic)",
+    "zh": "多晶(型)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexagonal close-packed lattice",
+    "zh": "六方密装格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexagonal crystal",
+    "zh": "六方晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexagonal crystal system",
+    "zh": "六方晶系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexagonal lattice",
+    "zh": "六方点格*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexamethylpararosaniline",
+    "zh": "结晶紫；龙胆紫 hexamethylpararosaniline hydrochloride (=crystal violet)六甲基碱性副品红盐酸盐（即结晶紫）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high energy electron diffraction (HEED)",
+    "zh": "高能电子衍射*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high nucleation density",
+    "zh": "高成核密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure crystallography",
+    "zh": "高压晶体学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature X-ray diffraction analysis",
+    "zh": "高温X射线衍射分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "holocrystalline",
+    "zh": "全晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "homogeneous nucleation",
+    "zh": "均相成核*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homopolar crystal",
+    "zh": "无极晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "host crystal",
+    "zh": "基质晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "host lattice",
+    "zh": "主晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Howard crystallizer",
+    "zh": "霍华德式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrothermal crystallization",
+    "zh": "水热结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Iceland crystal",
+    "zh": "冰洲石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ideal crystal",
+    "zh": "理想晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "imperfect crystal formation",
+    "zh": "不完全晶型；无定形结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "imperfect crystal",
+    "zh": "缺陷晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "incommensurate crystal",
+    "zh": "无公度晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "induction period of crystallization",
+    "zh": "结晶诱导期；晶化诱导期",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "industrial crystallization",
+    "zh": "工业结晶; 大量结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "inner crystal crack(=transcrystallic cracking)",
+    "zh": "穿晶裂纹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inoculating crystal",
+    "zh": "晶种；籽晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "instantaneous nucleation",
+    "zh": "瞬时成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intercrystal boundary",
+    "zh": "晶间界面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intercrystalline",
+    "zh": "晶(粒片)间的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intercrystalline amorphous region",
+    "zh": "晶间无定形区",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "intercrystalline bond",
+    "zh": "晶间键",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "inter-crystalline corrosion",
+    "zh": "晶间腐蚀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intercrystalline crack",
+    "zh": "晶间裂纹",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intercrystalline fibril",
+    "zh": "晶间原纤",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intercrystalline fracture",
+    "zh": "晶间破裂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intercrystalline swelling",
+    "zh": "晶间溶胀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "inter-molecular nucleation",
+    "zh": "分子间成核过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal crystal framework",
+    "zh": "结晶内部格架；内部晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal crystal structure",
+    "zh": "晶体内部结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal morphology",
+    "zh": "内部形态学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interwoven crystal",
+    "zh": "混杂晶体；组合晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intracrystalline",
+    "zh": "晶体内的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intracrystalline imperfection",
+    "zh": "晶内缺陷",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intracrystalline swelling",
+    "zh": "晶内溶胀",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "intrinsic dissymmetry",
+    "zh": "特性不对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inverse lattice(=reciprocal lattice)",
+    "zh": "倒易晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "inversion symmetry",
+    "zh": "反演对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionic crystal",
+    "zh": "离子晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic crystal hygrometer",
+    "zh": "离子晶体湿度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic lattice",
+    "zh": "离子晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isolated-cluster crystal",
+    "zh": "隔离簇晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isomorphous",
+    "zh": "同晶的；同形的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous compound",
+    "zh": "同晶化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous elements",
+    "zh": "同晶(型)元素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous mixture",
+    "zh": "同晶混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous polymer",
+    "zh": "同晶型聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous replacement (method)",
+    "zh": "同晶置换(法)*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous substitution",
+    "zh": "同晶取代；同晶置换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomorphous system",
+    "zh": "同晶系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopolymorphism",
+    "zh": "同多形性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotactic crystallinity",
+    "zh": "全同(立构)结晶性; 等规结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isothermal crystallization",
+    "zh": "等温结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "jacketed crystallizer",
+    "zh": "套层结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinetic crystallizability",
+    "zh": "动力学结晶性；动态结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinetics of crystallization",
+    "zh": "结晶(化)动力学",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Krystal crystallizer",
+    "zh": "克里斯塔尔结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Krystal-Oslo type crystallizer",
+    "zh": "克里斯塔尔-奥斯罗型结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lamellar crystal",
+    "zh": "片晶片状铁鳞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lamellar lattice",
+    "zh": "片晶晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice",
+    "zh": "晶格*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice amplification",
+    "zh": "晶格放大",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice arrangement",
+    "zh": "晶格排列",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice constants",
+    "zh": "晶胞参数*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "latticed drum",
+    "zh": "格子转鼓",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice defect(=lattice imperfection)",
+    "zh": "晶格缺陷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice deformation",
+    "zh": "晶格畸变",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice dislocation",
+    "zh": "晶格位错",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice disorder",
+    "zh": "晶格无序",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice distance",
+    "zh": "点阵间距",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice distortion",
+    "zh": "点阵畸变",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice energy",
+    "zh": "晶格能*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice force",
+    "zh": "晶格力",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice hole model",
+    "zh": "点阵空穴模型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice image",
+    "zh": "晶格像",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice imperfection(=lattice defect)",
+    "zh": "晶格缺陷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice match",
+    "zh": "晶格匹配",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice misfit",
+    "zh": "晶格错配",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice mismatch",
+    "zh": "晶格失配",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice model",
+    "zh": "点阵模型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of corundum type",
+    "zh": "刚玉型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of diamond type",
+    "zh": "金刚石型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of graphite type",
+    "zh": "石墨型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of rock-salt type",
+    "zh": "岩盐型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of rutile type",
+    "zh": "金红石型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of wurtzite type",
+    "zh": "纤锌矿型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice of zincblende type",
+    "zh": "闪锌矿型晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice order",
+    "zh": "晶格序",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice orientation (",
+    "zh": "晶体)点阵取向",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice parameters",
+    "zh": "晶胞参数*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lattice plane (",
+    "zh": "晶)格面*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice point (",
+    "zh": "晶)格点*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice relaxation",
+    "zh": "晶格弛豫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice search",
+    "zh": "格点搜索法；格点寻优法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice site",
+    "zh": "晶格格位",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice spacing",
+    "zh": "点阵间距",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice structure",
+    "zh": "点阵结构",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice table",
+    "zh": "栅条台",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice theory of liquid",
+    "zh": "液体点阵理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice truss",
+    "zh": "格构桁架",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice-type network",
+    "zh": "网格形线路; 格架形网络; 桥形网络",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice vacancy",
+    "zh": "晶格空间",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice vector (",
+    "zh": "晶)格矢",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice vibration",
+    "zh": "晶格振动*; 点阵振动",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice water",
+    "zh": "晶格水",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue diffraction camera",
+    "zh": "劳厄衍射照相机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue diffraction geometric type",
+    "zh": "劳厄衍射几何类型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue diffraction pattern",
+    "zh": "劳厄衍射图样",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue symmetry group",
+    "zh": "劳厄群",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "law of geometrical crystallography",
+    "zh": "几何结晶构造定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "layer crystal",
+    "zh": "层晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "layer lattice",
+    "zh": "层状晶格；层形点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "layer lattice type",
+    "zh": "层格型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "leach recrystallization process",
+    "zh": "沥滤重结晶法；浸沥重结晶法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "lead chamber crystals（",
+    "zh": "复） 铅室结晶 lead chamber gases（复） 铅室气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "left handed crystal",
+    "zh": "左晶;左旋结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "levorotatory crystal",
+    "zh": "左旋(结)晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "limit crystallization temperature",
+    "zh": "极限结晶温度",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "linear amorphous polymer",
+    "zh": "线型无定形聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear crystal growth rate",
+    "zh": "线型结晶生长速率",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "linear crystallizer",
+    "zh": "线式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "line-lattice",
+    "zh": "线型点阵；单向有序",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "liquid crystal cell",
+    "zh": "液晶单元",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal coating",
+    "zh": "液晶涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystalline phase",
+    "zh": "液晶相",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "liquid-crystalline solution",
+    "zh": "液-晶态溶液",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "liquid-crystalline state",
+    "zh": "液-晶态",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "liquid crystal panel",
+    "zh": "液晶面板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal polymer(LCP)",
+    "zh": "液晶聚合物；液晶高分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal polymer fibre",
+    "zh": "液晶聚合物纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal resin",
+    "zh": "液晶树脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal spinning",
+    "zh": "液晶纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal state",
+    "zh": "液晶态",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal stationary phase",
+    "zh": "液晶固定相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal structure",
+    "zh": "液晶结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal tunable filter(LCTF)",
+    "zh": "液晶可调滤光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lithium fluoride analyzing crystal for X-ray optics",
+    "zh": "氟化锂 (X射线)分光结晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "localized nucleation",
+    "zh": "定域成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "logwood crystal",
+    "zh": "苏木精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-energy electron diffraction(LEED)",
+    "zh": "低能电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "low temperature crystallography",
+    "zh": "低温晶体学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lyotropic liquid crystal",
+    "zh": "溶致性液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lyotropic liquid crystalline polymer",
+    "zh": "溶致性液晶聚合物：亲液性液晶聚合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "lytropic liquid crystals",
+    "zh": "溶致液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macrocrystalline",
+    "zh": "粗晶的；大块结晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "macrocrystallinity",
+    "zh": "宏观结晶性;宏观结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macrolattice",
+    "zh": "大晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "macromolecular crystallography",
+    "zh": "大分子晶体学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macroscopic symmetry",
+    "zh": "宏观对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macro-X-ray diffraction",
+    "zh": "粗聚焦 X 射线衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "main chain liquid crystalline polymer",
+    "zh": "主链型液晶聚合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "malcrystalline structure",
+    "zh": "残晶结构；过渡形结晶构造",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "mass crystallization",
+    "zh": "大量结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "material symmetry",
+    "zh": "实质对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean field lattice model",
+    "zh": "平均场晶格模型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "melt crystallization",
+    "zh": "熔体结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "mesomorphic liquid-crystalline",
+    "zh": "介晶液晶；变异液晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "metacrystallic rocks (",
+    "zh": "复) 变晶岩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metacrystalline",
+    "zh": "亚晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "metallic crystal",
+    "zh": "金属结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metalloidal crystal",
+    "zh": "准金属晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metalloid crystal",
+    "zh": "准金属晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metastable crystallite",
+    "zh": "亚稳微晶；亚稳晶粒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-area diffraction",
+    "zh": "微区衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro crystal",
+    "zh": "微晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcrystalline",
+    "zh": "微晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline cellulose",
+    "zh": "微晶纤维素",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline cellulose powder",
+    "zh": "微晶(型)纤维素粉",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline cellulose triacetate",
+    "zh": "微晶三乙酰纤维素",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline domain",
+    "zh": "微晶畴",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline structure",
+    "zh": "微晶结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalline wax",
+    "zh": "微晶(石)蜡",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystallinity",
+    "zh": "微结晶性;微结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcrystallite",
+    "zh": "微晶(粒)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcrystallization analysis",
+    "zh": "显微结晶分析",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microcrystalloscopic",
+    "zh": "微晶学的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcrystal powder",
+    "zh": "微晶粉末",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro diffraction",
+    "zh": "微衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micromorphology",
+    "zh": "微观形态学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microparacrystallite",
+    "zh": "超微次晶；微次晶籽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-X-ray diffraction",
+    "zh": "微焦 X 射线衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mirror symmetry",
+    "zh": "镜面对称*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed crystal",
+    "zh": "混晶*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed crystal coprecipitation",
+    "zh": "混晶共沉淀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed crystal membrane electrode",
+    "zh": "混晶膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular asymmetry",
+    "zh": "分子不对称(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular crystal",
+    "zh": "分子晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular lattice",
+    "zh": "分子晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular lattice theory",
+    "zh": "分子晶格理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular nucleation",
+    "zh": "分子成核作用*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular symmetry",
+    "zh": "分子对称(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monoclinic crystal",
+    "zh": "单斜晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monoclinic crystalline system",
+    "zh": "单斜晶体系",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "monocrystal",
+    "zh": "单晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mono-crystalline",
+    "zh": "单晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "mono-crystalline silicon",
+    "zh": "单晶硅",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "morphology",
+    "zh": "形态学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphology of particles",
+    "zh": "粒子表面形态(学); 粒子结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphology of polymer",
+    "zh": "聚合物形态学*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mosaic liquid crystal",
+    "zh": "镶嵌液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mosaic structure of crystal",
+    "zh": "结晶镶嵌构造；晶体镶嵌结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mountain crystal",
+    "zh": "水晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiatom three-dimensional crystal",
+    "zh": "多原子三维晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multinucleate (",
+    "zh": "具)多核的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multiple diffraction",
+    "zh": "多重衍射*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multiple recrystallization",
+    "zh": "多级重结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "nanoamorphous material",
+    "zh": "纳米非晶材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanocrystal",
+    "zh": "纳米晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nano crystalline material",
+    "zh": "纳米晶材料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "needle crystal",
+    "zh": "针状结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "needle form of wax crystal",
+    "zh": "针状蜡结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negative crystal",
+    "zh": "负晶体（物）；空晶（矿）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nematic crystal structure",
+    "zh": "向列型晶体结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nematic liquid crystal",
+    "zh": "向列型液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutron crystallography",
+    "zh": "中子结晶学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutron diffraction",
+    "zh": "中子衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "neutron diffraction analysis",
+    "zh": "中子衍射分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "non-isothermal crystallization",
+    "zh": "非等温结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "non-linear optic crystal",
+    "zh": "非线性光学晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonmetal sublattice",
+    "zh": "非金属亚晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "non-nucleated structure",
+    "zh": "非成核结构",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nonprimitive lattice",
+    "zh": "复格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "notation of crystal-face",
+    "zh": "晶面标记法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear boiling(=nucleate boiling)",
+    "zh": "泡核沸腾",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleate boiling(=nuclear boiling)",
+    "zh": "泡核沸腾",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleated",
+    "zh": "核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleated nylon",
+    "zh": "核化耐纶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleated polypropylene",
+    "zh": "核化聚丙烯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleated resin",
+    "zh": "核化树脂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleation",
+    "zh": "成核作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleation theory",
+    "zh": "核晶形成理论；成核理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nucleus of crystal",
+    "zh": "晶核；晶籽；结晶中心",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "obital symmetry",
+    "zh": "轨道对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oblique crystal",
+    "zh": "单斜晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oblique lattice",
+    "zh": "斜点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "one dimensional lattice",
+    "zh": "一维点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "optical axis of crystal",
+    "zh": "晶体光轴*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optical diffraction",
+    "zh": "光衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oranger crystals β-",
+    "zh": "萘甲酮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital symmetry",
+    "zh": "轨道对称(性)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orbital symmetry rule",
+    "zh": "轨道对称定则",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ordered lattice",
+    "zh": "有序晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "orientation crystallization",
+    "zh": "取向结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "oriented-crystalline state",
+    "zh": "取向结晶态",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "oriented crystallization",
+    "zh": "取向结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "orthorhombic unit cell",
+    "zh": "正交晶胞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oscillating-crystal method",
+    "zh": "振荡晶体法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "overall crystallinity",
+    "zh": "总结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "para-crystal",
+    "zh": "次晶: 酝晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paracrystalline",
+    "zh": "次晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "paracrystalline phase",
+    "zh": "次晶相",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "paracrystalline state",
+    "zh": "次晶态",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "paracrystallinity",
+    "zh": "次晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "parallel-chain crystal",
+    "zh": "平行链晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partially controllable flow",
+    "zh": "部分可控流动；局部可控流partially crystalline polymer 部分结晶聚合物",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "particle morphology",
+    "zh": "粒子形态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pathological crystal",
+    "zh": "变态晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "PDF powder diffraction file cards PDF",
+    "zh": "粉末衍射卡片",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peak asymmetry",
+    "zh": "峰不对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peak symmetry",
+    "zh": "峰对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentanuclear(=pentanucleate; pentanucleated)",
+    "zh": "五环的; 五核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pentanucleate(=pentanuclear)",
+    "zh": "五环的；五核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pentanucleated(=pentanuclear)",
+    "zh": "五环的；五核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "percentage crystallinity",
+    "zh": "结晶百分率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percent crystallinity",
+    "zh": "结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percrystallization",
+    "zh": "透析结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "perfect crystal",
+    "zh": "全整晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perfection of crystal",
+    "zh": "晶体的完整性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perfection of lattice",
+    "zh": "晶格的完整性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "periodic crystallization",
+    "zh": "反复结晶；间歇结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "phase analysis by X-ray diffraction X",
+    "zh": "射线衍射物相分析",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "photothermal diffraction spectrometer",
+    "zh": "光热衍射光谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Pictet crystals",
+    "zh": "皮克特晶体 (水合二氧化硫)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezocrystal",
+    "zh": "压晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezocrystallization",
+    "zh": "加压结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "piezo-electric crystal",
+    "zh": "压电晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezo-electric crystal hygrometer",
+    "zh": "压电晶体湿度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezo-electric quartz crystal resonator",
+    "zh": "压电石英晶体共振器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plane lattice",
+    "zh": "平面晶格；平面点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plane of symmetry",
+    "zh": "对称面",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic crystal",
+    "zh": "塑晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate crystal",
+    "zh": "片状结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate crystal monochromater",
+    "zh": "平面晶体单色器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate form of wax crystals",
+    "zh": "石蜡结晶的片状结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate wax crystals",
+    "zh": "片状石蜡结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pleomorphism(=polymorphism) (",
+    "zh": "同质)多晶(现象)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "point group",
+    "zh": "点群",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "point lattice",
+    "zh": "点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polar crystal",
+    "zh": "极性晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polar symmetry axis",
+    "zh": "极性对称轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polycrystal",
+    "zh": "多晶*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "polycrystalline",
+    "zh": "多晶的",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline fibre",
+    "zh": "多晶纤维",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline film capacity",
+    "zh": "多晶膜容量;多晶胶片容量",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline graphite",
+    "zh": "多晶石墨",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline material",
+    "zh": "多晶物质；多晶材料",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline metal whisker",
+    "zh": "多晶金属须晶",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline pigment",
+    "zh": "多晶形颜料",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline polymer",
+    "zh": "多晶形聚合物",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline silicon",
+    "zh": "多晶硅",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline state",
+    "zh": "多晶态",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline structure",
+    "zh": "多晶结构",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polycrystalline zirconium dioxide fibre",
+    "zh": "多晶二氧化锆纤维",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "polymer crystal",
+    "zh": "高分子晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer crystalline structure",
+    "zh": "高聚物的晶态结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "polymer crystallite",
+    "zh": "高分子微晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer crystallography",
+    "zh": "高分子晶体学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric crystallinity",
+    "zh": "高聚物的结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer morphology",
+    "zh": "聚合物形态学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer non-crystalline structure",
+    "zh": "高聚物的非晶态结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "polymer single crystal",
+    "zh": "高聚物单晶",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "polymorph",
+    "zh": "多晶型物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic",
+    "zh": "多晶型的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic configuration",
+    "zh": "多形性构型；多晶型构型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic form",
+    "zh": "多晶型物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic inversion",
+    "zh": "多晶型转化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic substance (",
+    "zh": "同质)多晶型物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic transformation",
+    "zh": "多晶型变换；多晶型转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphic transition",
+    "zh": "多晶型变换",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphism(=pleomorphism) (",
+    "zh": "同质)多晶型(现象)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphous",
+    "zh": "多晶型的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymorphy",
+    "zh": "多晶型现象",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polynucleated",
+    "zh": "多核的；多环的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "porous crystalline structure",
+    "zh": "多孔结晶结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "positive crystal",
+    "zh": "正晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive uniaxial crystal",
+    "zh": "正单轴晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post crystallization",
+    "zh": "后结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "powder crystal",
+    "zh": "粉晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "powder (diffraction) camera",
+    "zh": "粉末(衍射)摄影箱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "powder diffraction pattern",
+    "zh": "粉末衍射图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "powder morphology",
+    "zh": "粉末形态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder X-ray diffraction",
+    "zh": "粉末X射线衍射；多晶X射线衍射(法)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "predetermined nucleation",
+    "zh": "预成核作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressurized crystallization apparatus",
+    "zh": "加压结晶装置",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "primary crystal",
+    "zh": "初凝晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary crystallinity",
+    "zh": "主结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary crystallization",
+    "zh": "主结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "primary unit cell",
+    "zh": "初级晶胞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primitive lattice",
+    "zh": "初基点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "profile of diffraction line",
+    "zh": "衍射线分布图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "propagation of crystalline entity",
+    "zh": "晶体生长",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "protein-doped matrix crystals",
+    "zh": "蛋白质掺杂基质结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudoasymmetry",
+    "zh": "假不对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudocrystal",
+    "zh": "假晶; 赝晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudocrystalline aluminosilicate",
+    "zh": "假晶硅酸铝",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "pseudohexagonal crystalline system",
+    "zh": "准六方晶系",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "pseudolattice state",
+    "zh": "假晶格态",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudoracemic mixed crystal",
+    "zh": "假外消旋混(合结)晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudosymmetry",
+    "zh": "假对称(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "psuedo-symmetry",
+    "zh": "准对称性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantum crystal",
+    "zh": "量子晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quartz crystal microbalance",
+    "zh": "石英晶体微量天平",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasi-crystal",
+    "zh": "准晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasi-crystalline lattice",
+    "zh": "准晶格",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "quasi-crystalline state",
+    "zh": "准结晶状态",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "quasi-crystalline structure",
+    "zh": "似晶(体)结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "quasi-lattice model",
+    "zh": "准晶格模型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quasi-lattice theory(QLT)",
+    "zh": "准晶格理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quasiperiodic crystal",
+    "zh": "准周期性晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quiescent nonisothermal crystallization",
+    "zh": "静态非等温结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radial symmetry(=actinomorphy)",
+    "zh": "放线对称；辐射对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiocrystallography",
+    "zh": "放射性结晶学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "random crystallization",
+    "zh": "无规结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "real crystal",
+    "zh": "实际晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reciprocal lattice",
+    "zh": "倒易点阵；倒易晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reciprocal lattice vector",
+    "zh": "倒格矢；倒易点阵向量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "recrystal",
+    "zh": "重结晶；再结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "recrystallization",
+    "zh": "再结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "recrystallization zone",
+    "zh": "再结晶区",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "recrystallizer",
+    "zh": "重结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rectangular crystal",
+    "zh": "矩形(结)晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reflection high energy electron diffraction",
+    "zh": "反射式高能电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reflection high energy electron diffraction spectroscopy (RHEED)",
+    "zh": "反射高能电子衍射能谱",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reflection symmetry",
+    "zh": "反射对称",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regular crystal",
+    "zh": "正方晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "relative asymmetry",
+    "zh": "相对不对称(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative crystallinity",
+    "zh": "相对结晶度；相对结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "repeated crystallinity",
+    "zh": "重复结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "repeated crystallization",
+    "zh": "反复结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "rhodite",
+    "zh": "天然铑金合金rhombohedral lattice 三方点格*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "right-handed crystal",
+    "zh": "右晶;右旋结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "R lattice R",
+    "zh": "心格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rock crystal",
+    "zh": "水晶（无色的石英）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rosette crystal",
+    "zh": "莲座晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating crystal method",
+    "zh": "旋转晶体法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating crystal pattern",
+    "zh": "旋晶衍射图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "row-nucleated cylindrite",
+    "zh": "横列成核织态结构",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "scattering dissymmetry",
+    "zh": "散射不对称性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scattering high energy electron diffraction",
+    "zh": "散射高能电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "scintillating crystal",
+    "zh": "闪烁晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scintillation crystal",
+    "zh": "闪烁晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary crystallinity",
+    "zh": "次级结晶度；后期结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary crystallization",
+    "zh": "后期结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "secondary nucleation",
+    "zh": "二次成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second order crystallization",
+    "zh": "二级结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "second order nucleation",
+    "zh": "二级成核作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "seed crystal",
+    "zh": "晶种；籽晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "seeded crystallization",
+    "zh": "接种结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "selected area diffraction",
+    "zh": "选区电子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "selected area electron diffraction",
+    "zh": "选区电子衍射",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "semiconductor crystal",
+    "zh": "半导体晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semi-crystal",
+    "zh": "半水晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semi-crystalline",
+    "zh": "半晶体;半晶质(的)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "semi-crystalline polymer",
+    "zh": "半结晶聚合物*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "semi-crystalline region",
+    "zh": "半结晶区",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "semi-crystalline rocks",
+    "zh": "半晶质岩",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "sensing crystal",
+    "zh": "敏感晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shared-cluster crystal",
+    "zh": "共簇晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet crystals",
+    "zh": "片状晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet-like crystallite",
+    "zh": "片状微晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "side chain liquid crystalline polymer",
+    "zh": "侧链型液晶聚合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "silica flour(=crystalline flour)",
+    "zh": "晶粉；硅粉（填料）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "single crystal",
+    "zh": "单晶*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal diffractometer",
+    "zh": "单晶衍射仪",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal electrode",
+    "zh": "单晶电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal fibre",
+    "zh": "单晶纤维；须晶",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal filament",
+    "zh": "单晶丝；须晶",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal graphite",
+    "zh": "单晶石墨",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal membrane electrode",
+    "zh": "单晶膜电极",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single crystal X-ray diffraction",
+    "zh": "单晶 X 射线衍射(法)",
+    "role": "primary",
+    "confidence": 10.0
+  },
+  {
+    "en": "single crystal X-ray diffraction system",
+    "zh": "单晶 X 射线衍射系统",
+    "role": "primary",
+    "confidence": 10.0
+  },
+  {
+    "en": "single crystal X-ray diffractometer",
+    "zh": "单晶 X 射线衍射仪",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single nucleotide polymorphism",
+    "zh": "单碱基多态性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single stage crystallizer",
+    "zh": "单级结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "skeleton crystal",
+    "zh": "骸晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "small angle X-ray diffraction",
+    "zh": "小角 X射线衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "small angle X-ray diffraction method",
+    "zh": "小角 X射线衍射法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "small molecule crystallography",
+    "zh": "小分子晶体学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "smectic liquid crystal",
+    "zh": "近晶型液晶；层列型液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda crystal",
+    "zh": "苏打结晶；钠碱晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid crystal",
+    "zh": "固体结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solvent crystallization",
+    "zh": "溶剂结晶法（分离油的不同组分的一种方法）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "sonic nucleation",
+    "zh": "声波核晶过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "space group(=spacer;space grouping)",
+    "zh": "空间群;间隔基；间隔团",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space grouping(=space group;spacer)",
+    "zh": "空间群;间隔基；间隔团",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space group symbol",
+    "zh": "空间群符号",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space lattice",
+    "zh": "立体晶格；空间格子；空间格点",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spacing of lattice",
+    "zh": "晶格间隔；点阵间距",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spatial symmetry",
+    "zh": "空间对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spheroidal crystal",
+    "zh": "球形结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin-lattice relaxation",
+    "zh": "自旋-晶格弛豫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spin-lattice relaxation time in rotation reference",
+    "zh": "旋转坐标系中的自旋-晶格弛豫时间",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spontaneous crystallization",
+    "zh": "自发结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "spontaneous nucleation",
+    "zh": "自发成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sporadic nucleation",
+    "zh": "自发成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spray crystallization",
+    "zh": "喷雾结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "stellate crystals",
+    "zh": "星状晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stereochemical symmetry",
+    "zh": "立体化学的对称性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stray crystal",
+    "zh": "杂(散)晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress crystallinity",
+    "zh": "应力结晶性;应力结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structural asymmetry",
+    "zh": "结构不对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subcrystalline structure",
+    "zh": "亚晶态结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "sublattice",
+    "zh": "亚点阵；子晶格；亚晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "superlattice",
+    "zh": "超(结晶)格子；超点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "superlattice ordering",
+    "zh": "超晶格有序化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "supermolecular lattice",
+    "zh": "超分子晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "support induced crystal growth",
+    "zh": "载体诱导晶体生长",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "surface crystallography",
+    "zh": "表面晶体学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surface crystal nucleation",
+    "zh": "表面晶核化过程",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "Swenson-Walker crystallizer",
+    "zh": "斯温森-沃克结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symbol of point group",
+    "zh": "点群符号",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "symmetry",
+    "zh": "对称(现象)；对称性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry-adapted basis",
+    "zh": "对称性匹配基*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry-adapted configuration",
+    "zh": "对称性匹配组态*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry-allowed",
+    "zh": "对称允许的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry axis",
+    "zh": "对称轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry center",
+    "zh": "对称中心",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry class",
+    "zh": "对称类型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry element",
+    "zh": "对称元素*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry factor",
+    "zh": "对称因素*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry forbidden",
+    "zh": "对称性禁阻*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry forbidden reaction",
+    "zh": "对称禁阻反应*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry operation",
+    "zh": "对称操作*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry orbital",
+    "zh": "对称轨道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry plane",
+    "zh": "对称面",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "symmetry selection rules",
+    "zh": "对称选择定则",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tabular crystal",
+    "zh": "平片状结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tank crystallization",
+    "zh": "槽式结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "tank crystallizer",
+    "zh": "槽式结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetragonal crystal",
+    "zh": "四方晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tetranuclear(=tetranucleate; tetranucleated)",
+    "zh": "四环的; 四核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetranucleate(=tetranuclear)",
+    "zh": "四环的; 四核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetranucleated(=tetranuclear)",
+    "zh": "四环的; 四核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "the 14 Bravais lattices 14",
+    "zh": "种布拉威点格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "the 32 crystallographic point groups 32",
+    "zh": "种晶体学点群",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "the 230 crystallographic space groups 230",
+    "zh": "种晶体学空间群",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "theoretical crystallography",
+    "zh": "理论晶体学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamic liquid crystalline polymer",
+    "zh": "热力学液晶聚合物；热致性液晶聚合物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "thermotropic liquid crystal",
+    "zh": "热致性液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermotropic liquid crystalline polymer",
+    "zh": "热致性液晶聚合物；热致液晶高分子",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "thin alloy zone crystallization(TAZC)",
+    "zh": "薄合金区域结晶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "three-dimensional crystalline structure",
+    "zh": "三维晶体结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "three-dimensional crystallinity",
+    "zh": "三维结晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-dimensional lattice",
+    "zh": "三维点阵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tin crystal",
+    "zh": "氯化亚锡；二氯化锡或氯化锡（一种强酸材料；作皮革染色的媒染剂用）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transcrystallic cracking (=inner crystal crack)",
+    "zh": "穿晶裂纹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transcrystalline",
+    "zh": "横穿晶的；跨晶的",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "transcrystalline cracking",
+    "zh": "穿晶裂纹",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "transcrystallinity",
+    "zh": "跨晶结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transcrystallization",
+    "zh": "穿晶(现象); 横结晶(作用)",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "trans-crystallization structure",
+    "zh": "晶变结构",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "transition parameter in oriented crystallization",
+    "zh": "取向结晶作用中转变参数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "triclinic crystalline system",
+    "zh": "三斜晶系",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "triclinic lattice",
+    "zh": "三斜晶格",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trigonal crystal",
+    "zh": "三方结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trinuclear(=trinucleate; trinucleated)",
+    "zh": "三环的；三核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trinucleate(=trinuclear)",
+    "zh": "三环的；三核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trinucleated(=trinuclear)",
+    "zh": "三环的；三核的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "true crystalline state",
+    "zh": "真晶态",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "twin crystal",
+    "zh": "李晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "twinned crystal",
+    "zh": "李晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultramicro-crystal",
+    "zh": "超微结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uncrystallizable",
+    "zh": "不能结晶的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uncrystallized",
+    "zh": "非晶的；不可结晶的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uniaxial crystal",
+    "zh": "单轴晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit cell",
+    "zh": "晶胞；格子单位;干电池;单元格子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell constant",
+    "zh": "晶胞常数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell dimension",
+    "zh": "晶胞大小；晶胞尺寸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell parameter",
+    "zh": "晶胞参数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit lattice",
+    "zh": "晶胞；单元格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "unsymmetry",
+    "zh": "不对称(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea extractive crystallization",
+    "zh": "尿素抽提结晶作用",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "vacuum crystallizer",
+    "zh": "真空结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor-liquid nucleation",
+    "zh": "汽液成核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "venus crystals",
+    "zh": "乙酸铜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volatile crystals",
+    "zh": "挥发性结晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volume crystalline fraction",
+    "zh": "体积结晶分数；体积结晶百分率",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "volume crystallinity",
+    "zh": "体积结晶度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vortex lattice",
+    "zh": "涡旋点阵；涡串；涡栅",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Votator crystallizer",
+    "zh": "孚推多结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vug crystal",
+    "zh": "窝内结晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "watch-glass (=watch crystal)",
+    "zh": "表面皿*；表(面)玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water of crystallization",
+    "zh": "结晶水",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "wax crystal",
+    "zh": "蜡晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "well-defined crystal",
+    "zh": "完好晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wide angle X-ray diffraction",
+    "zh": "大角度 X 射线衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wide angle X-ray diffraction method",
+    "zh": "广角 X 射线衍射法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Wulff-Back crystallizer",
+    "zh": "伍尔夫-巴克结晶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-ray analysis of crystal structure X",
+    "zh": "射线(法)晶体结构分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-ray crystal density X",
+    "zh": "射线晶体密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-ray crystallography X",
+    "zh": "射线晶体学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-ray diffraction X",
+    "zh": "射线衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction analysis X",
+    "zh": "射线衍射分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction examination X-",
+    "zh": "射线衍射检验",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction intensity X",
+    "zh": "射线衍射强度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction method X",
+    "zh": "射线衍射法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction microscope X",
+    "zh": "射线衍射显微镜",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction pattern X",
+    "zh": "射线衍射图",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction photographic method X",
+    "zh": "射线衍射照相法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray diffraction studies X",
+    "zh": "射线衍射研究",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray powder diffraction X",
+    "zh": "射线粉末衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray resonance diffraction (XRRD) X",
+    "zh": "射线共振衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Y-cut crystal Y",
+    "zh": "截晶体",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

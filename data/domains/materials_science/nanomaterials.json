@@ -1,0 +1,140 @@
+[
+  {
+    "en": "carbon nanotube",
+    "zh": "碳纳米管",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "core-shell-corona structure",
+    "zh": "核-壳-冠结构",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core-shell emulsion",
+    "zh": "芯-壳乳液(胶)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core-shell model",
+    "zh": "核-壳模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core-shell polymerization",
+    "zh": "核-壳聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core-shell type",
+    "zh": "核壳型（复合半导体纳米微粒的结构型式之一）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core type latex (=core-shell type latex)",
+    "zh": "芯-壳型胶乳",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fullerene",
+    "zh": "球壳状碳分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hierarchical self-assembly",
+    "zh": "等级自集",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hollow sphere",
+    "zh": "空心球",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ionic layer-by-layer self-assembly",
+    "zh": "层状静电自组装",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "layer-by-layer self-assembly",
+    "zh": "交替沉积构筑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoporous",
+    "zh": "中孔(性)的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular self-assembly",
+    "zh": "分子自组装",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanocage",
+    "zh": "纳米笼",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nanocrystal",
+    "zh": "纳米晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nanotube",
+    "zh": "纳米管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nanotube array",
+    "zh": "纳米管列阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nanowire",
+    "zh": "纳米线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "selective bottom-up",
+    "zh": "自下而上选择；自底向上选择；倒选",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-assembly",
+    "zh": "自组装",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-assembly monolayer modified electrode",
+    "zh": "自组装膜修饰电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "top-down",
+    "zh": "由上而下的技术",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

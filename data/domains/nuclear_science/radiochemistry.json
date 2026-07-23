@@ -1,0 +1,3290 @@
+[
+  {
+    "en": "absorbed gamma radiation dose γ",
+    "zh": "放射吸收剂量；γ辐射吸收剂量",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "accumulation of radioactive waste",
+    "zh": "放射性废料积存",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acoustic irradiation",
+    "zh": "声波辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acoustic radiation resistance",
+    "zh": "声辐射阻尼",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "actinouranium decay series",
+    "zh": "钢铀衰变系*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alpha decay α",
+    "zh": "衰变",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "alpha-gamma cell α-γ",
+    "zh": "放射性热室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amalgamation half-life",
+    "zh": "汞齐化半值期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "N - beta (text {",
+    "zh": "氨乙基}) - gamma text {氨丙基甲基二甲氧基硅烷} $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "analytical radiochemistry",
+    "zh": "分析放射化学",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "annihilation radiation",
+    "zh": "湮没辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiradiation agent",
+    "zh": "抗辐射(试)剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiradiation effect",
+    "zh": "防辐射效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "apparent half-life",
+    "zh": "表观半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "applied radiochemistry",
+    "zh": "应用放射化学",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "artificial radioactive nuclide",
+    "zh": "人造放射性核素；人工放射性核素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "artificial radioactive soil",
+    "zh": "人造放射性污垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic irradiation",
+    "zh": "原子辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "autogamma-scintillation spectrometer γ",
+    "zh": "射线自动闪烁分光计",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "average background radiation",
+    "zh": "平均背景辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "average life (of radioactive atom) (",
+    "zh": "放射性原子的)平均寿命",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "background radiation",
+    "zh": "背景辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beamed radiation",
+    "zh": "成束辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beta-decay β",
+    "zh": "衰变",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-gamma cell β-γ",
+    "zh": "放射性热室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-gamma coincidence counting β-γ",
+    "zh": "符合计数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-gamma double bond β-γ",
+    "zh": "碳原子间的双键",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-gamma unsaturation β-γ",
+    "zh": "不饱和",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-gauge(=beta-radiation thickness gauge) β",
+    "zh": "射线测厚计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beta-radiation thickness gauge(=beta-gauge) β",
+    "zh": "射线测厚计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biological half-life",
+    "zh": "生物半衰期*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bis(beta-hydroxyethyl)-gammaaminopropyl-triethoxy silane",
+    "zh": "双(β-羟乙基)-γ-氨丙基三乙氧基甲硅烷（偶联剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bishomo- $gamma$ -linolenic acid",
+    "zh": "双高- -亚麻酸；8,11,14-二十碳三烯酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "black body radiation",
+    "zh": "黑体辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black radiation",
+    "zh": "黑体辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "braking radiation(=internal bremsstrahlung) （",
+    "zh": "内)韧致辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "branched decay",
+    "zh": "分支衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "branching decay",
+    "zh": "分支衰变*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "broad band radiation",
+    "zh": "宽带辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bubble half-life",
+    "zh": "气泡半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calorific radiation",
+    "zh": "辐射热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capture gamma-ray",
+    "zh": "捕获γ射线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Cerenkov radiation",
+    "zh": "契伦科夫辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chain decay",
+    "zh": "链衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "characteristic radiation",
+    "zh": "特性辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical radiation dosimeter",
+    "zh": "化学辐射剂量计",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical stress-decay law",
+    "zh": "化学应力衰减定律",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemonuclear reactor",
+    "zh": "化学核反应堆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "classical theory of radiation",
+    "zh": "古典派辐射(学)说",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coherent elastic scattering of radiation",
+    "zh": "辐射的相干弹性散射*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coherent radiation",
+    "zh": "相干辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "collision radiation",
+    "zh": "碰撞辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colloid scintillation counting",
+    "zh": "胶体闪烁计数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "competitive decay",
+    "zh": "竞争衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact radiation therapy",
+    "zh": "接触辐射治疗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous flow scintillation counter",
+    "zh": "连续流动闪烁计数器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled thermonuclear fusion reactor",
+    "zh": "受控热核聚变反应堆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "convergent beam radiation",
+    "zh": "会聚束辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cosmic radiation",
+    "zh": "宇宙辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cosmic ray (=ultra-gamma ray)",
+    "zh": "超γ射线；宇宙线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "custom irradiation",
+    "zh": "委托照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "decay heat",
+    "zh": "衰变热",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decay curve",
+    "zh": "衰变曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decay daughter",
+    "zh": "衰变子体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decay scheme",
+    "zh": "衰变图式；衰变纲图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decay series",
+    "zh": "衰变系；放射系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double irradiation",
+    "zh": "双照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual decay",
+    "zh": "双衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective half-life",
+    "zh": "有效半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric quadrupole radiation",
+    "zh": "电四极辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electric radiation",
+    "zh": "电辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electromagnetic radiation",
+    "zh": "电磁辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electromagnetic radiation polymerization",
+    "zh": "电磁辐射(引发)聚合 electromagnetic radiation X-ray excited fluorescence",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron radiation",
+    "zh": "电子辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "energetic gamma emitter",
+    "zh": "高能γ发射体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy irradiation",
+    "zh": "能量辐照",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exponential decay constant",
+    "zh": "指数衰减常数；指数下降",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exponential decay law",
+    "zh": "指数衰变律",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "far-infrared radiation",
+    "zh": "远红外辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast radiochemistry",
+    "zh": "快速放射化学（指短寿命同位素的快速化学分离）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fission radiochemistry",
+    "zh": "裂变放射化学",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flame radiation",
+    "zh": "火焰辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorescence radiation",
+    "zh": "荧光辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free induction decay",
+    "zh": "自由感应衰减",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel of nuclear reactor",
+    "zh": "核(反应堆)燃料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gamma absorptiometer γ(",
+    "zh": "射线)吸收计（测铀、钚等浓度用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma absorption analysis γ(",
+    "zh": "射线)吸收分析(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma absorptometer γ(",
+    "zh": "射线)吸收计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma acid",
+    "zh": "伽马酸；2-氨基-5-萘磺酸 NH₂C₁₀H₅SO₃H",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-activation",
+    "zh": "用γ射线活化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-aminopropyl triethoxy silane γ-",
+    "zh": "氨丙基三乙氧基甲硅烷（偶联剂）NH₂CH₂CH₂CH₂Si(OC₂H₅)₃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma camera γ",
+    "zh": "照相机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma carbon γ",
+    "zh": "碳原子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma cellulose γ",
+    "zh": "纤维素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma distribution model γ",
+    "zh": "分布模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma excited X-ray fluorimeter γ",
+    "zh": "射线激发X射线荧光（分析）仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma ferrite γ",
+    "zh": "铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma function γ",
+    "zh": "函数（数）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gammagraph γ",
+    "zh": "射线照相",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-iron oxide γ",
+    "zh": "氧化铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma lay γ",
+    "zh": "层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma nonyl lactone γ-",
+    "zh": "壬内酯；椰子醛（商）；十八醛（商）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma number γ",
+    "zh": "值；酯化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma oxidation γ",
+    "zh": "氧化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma portion γ",
+    "zh": "部分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma position γ",
+    "zh": "位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-radiation γ",
+    "zh": "辐射",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "gamma-radiation-induced polymerization γ",
+    "zh": "辐射诱导聚合 (作用)",
+    "role": "secondary",
+    "confidence": 7.5
+  },
+  {
+    "en": "gamma-radiator γ",
+    "zh": "辐射体；γ辐射源",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray γ",
+    "zh": "射线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray absorption γ",
+    "zh": "射线吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray counter γ",
+    "zh": "射线计数器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray densimeter γ",
+    "zh": "射线密度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray detector γ",
+    "zh": "射线探测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray equipment γ",
+    "zh": "射线设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray-initiated polymerization γ",
+    "zh": "射线引发聚合 (作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray laser",
+    "zh": "γ射线激光器;γ激光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray nuclear resonance spectrofluorimetry γ",
+    "zh": "射线核共振分光荧光法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray orbitography γ",
+    "zh": "射线眼科照相法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray penetration type liquid density meter γ",
+    "zh": "射线穿透式液体密度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray photon γ",
+    "zh": "光子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray polymerization γ",
+    "zh": "射线(引发)聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma-ray spectrometer γ",
+    "zh": "射线分光计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma ray spectroscopy γ",
+    "zh": "射线光谱学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma source γ(",
+    "zh": "射线)源",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma space γ",
+    "zh": "空间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma spectrometer γ",
+    "zh": "谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma spectrometry γ",
+    "zh": "谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma spectroscopy γ",
+    "zh": "谱学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma substitution γ",
+    "zh": "位取代",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma undecalactone γ-",
+    "zh": "十一内酯；桃醛（商）；十四醛（商）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gamma value γ",
+    "zh": "值；酯化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas radiation",
+    "zh": "气体辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Geiger counter",
+    "zh": "盖(革)氏计数器计算机(系统)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Geiger counter detector",
+    "zh": "盖革计数器检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Geiger counter tube",
+    "zh": "盖革计数管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "general radiation",
+    "zh": "一般辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graft copolymerization by ultraviolet radiation",
+    "zh": "紫外线辐射(法)接枝共聚",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gray body radiation",
+    "zh": "灰体辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half-decay time",
+    "zh": "半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard radiation",
+    "zh": "硬(性)辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat of radiation",
+    "zh": "辐射热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat radiation",
+    "zh": "热辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat transfer by radiation",
+    "zh": "辐射传热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high energy irradiation",
+    "zh": "高能辐照（例如用紫外线辐照）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-energy radiation",
+    "zh": "高能辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "image intensifier gamma-ray camera",
+    "zh": "影像增强γ射线照相机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incident radiation",
+    "zh": "入射辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "incipient decay",
+    "zh": "初腐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induced radiation",
+    "zh": "感应辐射；诱导辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "induced radioisotope",
+    "zh": "感生放射性同位素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "infrared laser radiation",
+    "zh": "红外线激光辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "infrared radiation",
+    "zh": "红外辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in-source decay",
+    "zh": "源内裂解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integrated radiation dose",
+    "zh": "累积辐射剂量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intensity of radiation",
+    "zh": "辐射强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermittent irradiation",
+    "zh": "间歇照射；断续照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal bremsstrahlung(=braking radiation) (",
+    "zh": "内)韧致辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionization radiation",
+    "zh": "电离辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionizing radiation",
+    "zh": "电离辐射；离子辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation",
+    "zh": "光渗;照光；照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation capsule",
+    "zh": "照射盒；照射罐",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation chamber",
+    "zh": "辐照室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation crosslinking",
+    "zh": "辐射交联",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation damage",
+    "zh": "辐射损伤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation facility",
+    "zh": "辐照装置*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation grafting",
+    "zh": "辐射接枝 γ-irradiation-initiated oxidation γ辐照引发(的)氧化反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation polymerization",
+    "zh": "辐照聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation source",
+    "zh": "辐照源 γ-irradiation technique γ辐照技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irradiation time",
+    "zh": "辐照时间；照射时间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kilogamma",
+    "zh": "千微克",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "K-radiation K",
+    "zh": "辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "labeling of radioactive substance",
+    "zh": "放射性标记",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "law of radiation",
+    "zh": "辐射定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "law of radioactive decay",
+    "zh": "放射衰变律",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "law of radioactive displacement",
+    "zh": "放射位移定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light alumina hydrate",
+    "zh": "轻体水合氧化铝; 轻体矾土白 light amplification by stimulated emission of radiation (=laser) ;激光;激光器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "light water-moderated nuclear reactor",
+    "zh": "轻水慢化核反应堆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "liquid scintillation counting(LSC)",
+    "zh": "液体闪烁计数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-scintillation radioassay",
+    "zh": "液体闪烁放射性(化验)分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-scintillation spectrometry (",
+    "zh": "纤维细度的)液体闪烁光谱测定(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-scintillation spectrum",
+    "zh": "液体闪烁谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "luminous paint(=radioactive paint)",
+    "zh": "发光涂料；放射性涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnetic dipole radiation",
+    "zh": "磁偶极子辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metastable ion decay",
+    "zh": "亚稳离子裂解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microwave radiation",
+    "zh": "微波辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microwave radiation polymerization",
+    "zh": "微波辐射聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "milligamma",
+    "zh": "毫微克",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mock iodine-131",
+    "zh": "模拟碘-131",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monochromatic radiation",
+    "zh": "单色辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "M radiation M",
+    "zh": "辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multihundred watt radioisotope thermoelectric generator (MHW -RTG) (",
+    "zh": "多)百瓦级放射性同位素热电换能器 (能源)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple decay",
+    "zh": "多重衰变;分支衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple irradiation",
+    "zh": "多重照射*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mutagenic radiation",
+    "zh": "致突变辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "near-ultraviolet radiation",
+    "zh": "近紫外辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "negatron radiation",
+    "zh": "负电子辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutron capture gamma-ray analysis(NCGA)",
+    "zh": "中子俘获γ射线分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neutron irradiation",
+    "zh": "中子照射；中子辐照",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-radioactive component",
+    "zh": "非放射性组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-radioactive electron capture detector",
+    "zh": "非放射性电子俘获检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear decay constant",
+    "zh": "核衰变常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear fission (",
+    "zh": "原子)核分裂(作用)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nuclear fusion",
+    "zh": "核融合",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nuclear gamma-ray resonance adsorption(NGR)",
+    "zh": "核γ射线共振吸收（即穆斯堡尔效应）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear radiation",
+    "zh": "核辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear radiation detector",
+    "zh": "核辐射探测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear reactor",
+    "zh": "核子反应器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "organic ultraviolet-radiation absorber",
+    "zh": "有机紫外线辐射吸收剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "parent radioisotope",
+    "zh": "母体放射性同位素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial decay constant",
+    "zh": "部分衰变常数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partial half-life",
+    "zh": "部分半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particle theory of radiation",
+    "zh": "光辐射的微粒说",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "passive gamma-ray assay",
+    "zh": "无源γ射线分析；固有γ射线分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "passive gamma ray method",
+    "zh": "无源γ射线法；固有γ射线法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "period of decay",
+    "zh": "衰变期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phosphorescent decay",
+    "zh": "磷光体余辉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photoirradiation",
+    "zh": "光辐照",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Planck law of radiation",
+    "zh": "普朗克辐射定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Planck radiation law",
+    "zh": "普朗克辐射定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plasma decay",
+    "zh": "等离子体衰变(减)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Plunck's law of radiation",
+    "zh": "普朗克辐射定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polychromatic radiation",
+    "zh": "多色辐射；杂色辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "portable irradiation facility",
+    "zh": "移动式辐照装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positron decay",
+    "zh": "正电子衰变 positron emission computerized tomography(PET; PECT)正电子发射断层扫描",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-irradiation examination",
+    "zh": "辐照后(照射后)检验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "postirradiation oxidation",
+    "zh": "辐照后氧化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post-source decay",
+    "zh": "源后裂解；源后衰减技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-source decay matrix-assisted laser desorption",
+    "zh": "源后衰减基质辅助的激光解吸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potential decay curve",
+    "zh": "电位衰减(降落)曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-irradiation",
+    "zh": "辐照前；照射前;预辐照法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pre-irradiation treatment",
+    "zh": "辐照前处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preparative radiation chemistry",
+    "zh": "制备辐射化学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressurized water nuclear reactor",
+    "zh": "压水型原子反应器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "primary radiation",
+    "zh": "初级辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "prompt gamma-ray analysis",
+    "zh": "瞬发γ射线分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quadrupole radiation",
+    "zh": "四极辐射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation",
+    "zh": "辐射;放射;放射物;辐射线;放射线;照射(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation absorber",
+    "zh": "辐射吸收剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation absorption",
+    "zh": "辐射吸收",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation absorption analysis",
+    "zh": "放射线吸收分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-actuate",
+    "zh": "辐射诱发；辐射激励",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiational deactivation",
+    "zh": "辐射减活化；辐射去活化；辐射失活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiational excitation",
+    "zh": "辐射激发",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation annealing",
+    "zh": "辐射退火；辐射熟练",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation appliance",
+    "zh": "辐射装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation arc furnace",
+    "zh": "辐射电弧炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation auto-oxidation",
+    "zh": "辐射自氧化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation biochemistry",
+    "zh": "辐射生物化学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation breeding",
+    "zh": "辐射育种",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation buffer",
+    "zh": "光谱(辐射)缓冲剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation catalysis",
+    "zh": "辐射催化",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-chemical chromatography",
+    "zh": "放射化学色谱(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation chemical engineering",
+    "zh": "辐射化工*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation chemical reaction",
+    "zh": "放射线(诱发)化学反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-chemical reduction",
+    "zh": "辐射化学还原",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation chemistry",
+    "zh": "辐射化学*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation cleavage",
+    "zh": "辐射裂解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation coefficient",
+    "zh": "辐射系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation coloration",
+    "zh": "射线着色作用;射线显色作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation constant",
+    "zh": "辐射常数；辐射恒量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation crosslinking",
+    "zh": "辐射交联*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation crosslinking of polymer",
+    "zh": "聚合物辐射交联反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation curable coating",
+    "zh": "辐射固化涂料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation curable polymer",
+    "zh": "辐射固化聚合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation curable system",
+    "zh": "辐射线固化涂料(体系)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation cure",
+    "zh": "辐射熟化;辐射处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-cured",
+    "zh": "辐射硬化的；辐射熟化的；辐射处理的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation cured coating",
+    "zh": "辐射固化涂料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation curing",
+    "zh": "辐射固化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation damage",
+    "zh": "辐射变质；辐射损伤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation damage inhibitor",
+    "zh": "防放射线剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation decomposition",
+    "zh": "辐射分解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-degradable polymer",
+    "zh": "辐射降解聚合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation degradation",
+    "zh": "辐射降解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation degradation of polymer",
+    "zh": "聚合物辐射降解",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation density",
+    "zh": "辐射密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation detection",
+    "zh": "辐射检测",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation detector",
+    "zh": "辐射探测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation dose",
+    "zh": "辐射剂量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation dosimeter",
+    "zh": "射线剂量计；辐射剂量计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation dosimetry",
+    "zh": "辐射剂量学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation effect",
+    "zh": "辐射效应;照射效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation efficiency",
+    "zh": "辐射效率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation electrochemistry",
+    "zh": "辐射电化学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation energy",
+    "zh": "辐射能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation equilibrium",
+    "zh": "辐射平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation error",
+    "zh": "辐射误差",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation field",
+    "zh": "辐射场",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation fins",
+    "zh": "辐射翅；波纹套；辐射叶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation formula",
+    "zh": "辐射式",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation gradient",
+    "zh": "辐射梯度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-grafted",
+    "zh": "辐射接枝的",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation grafting",
+    "zh": "辐射接枝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation hardening",
+    "zh": "辐射硬化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation heat",
+    "zh": "辐射热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation heater",
+    "zh": "辐射加热器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation heating surface",
+    "zh": "辐射受热面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation heat transfer",
+    "zh": "辐射热传递；辐射传热",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation hypothesis",
+    "zh": "辐射假说",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation immobilization",
+    "zh": "辐射固定化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced aberration",
+    "zh": "辐射诱变畸形",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced bulk polymerization",
+    "zh": "辐射诱导本体聚合(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced chlorination",
+    "zh": "辐射诱导氯化(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation induced crosslinking",
+    "zh": "辐射诱导交联",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced graft copolymerization",
+    "zh": "辐射诱导接枝共聚合(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced grafting",
+    "zh": "辐射诱导接枝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced ionic polymerization",
+    "zh": "辐射诱导离子聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced lethal",
+    "zh": "辐射诱发致死因子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation induced mutation",
+    "zh": "辐射诱发突变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced polymerization",
+    "zh": "辐射诱导聚合(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-induced radical reaction",
+    "zh": "辐射诱导自由基反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation induced reaction",
+    "zh": "放射线(诱发)化学反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-initiated polymerization",
+    "zh": "辐射引发聚合*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation injuries",
+    "zh": "辐射损伤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation inversion",
+    "zh": "辐射逆温",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation ion polymerization",
+    "zh": "辐射离子聚合*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation law",
+    "zh": "辐射(定)律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiationless relaxation",
+    "zh": "无辐射弛豫",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiationless transition",
+    "zh": "无辐射跃迁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation level",
+    "zh": "辐射能级；辐射强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation loss",
+    "zh": "辐射损失",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation measurement",
+    "zh": "放射测量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiationmeter",
+    "zh": "伦琴(辐射)计；X射线计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation modification",
+    "zh": "辐射改性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation moisture measurement",
+    "zh": "辐射水分测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation pasteurization",
+    "zh": "辐射巴氏杀菌",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation polymerization",
+    "zh": "辐射聚合*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation power",
+    "zh": "放射功率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation preservation",
+    "zh": "辐射保藏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation preservation of food",
+    "zh": "辐射保藏食品",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation pressure",
+    "zh": "辐射压(力);辐射压强",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation processing",
+    "zh": "辐射加工*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation proof glass fibre",
+    "zh": "防辐射玻璃纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation proof paint",
+    "zh": "防辐射漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation protection",
+    "zh": "辐射防护",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation protective paint",
+    "zh": "防辐射涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation pyrometer",
+    "zh": "辐射高温计;辐射测温计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation resistance",
+    "zh": "抗辐射性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation resistance furnace",
+    "zh": "辐射电阻炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation resistant paint",
+    "zh": "耐辐射漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation resistant polymer",
+    "zh": "耐辐射聚合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation safety",
+    "zh": "放射性安全",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation scavenger",
+    "zh": "辐射清除剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation screen",
+    "zh": "辐射罩;辐射屏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation self-decomposition",
+    "zh": "放射性自分解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation-sensitive bond",
+    "zh": "辐射线敏感键",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding",
+    "zh": "辐射屏蔽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding coating",
+    "zh": "放射线屏蔽涂料;辐射防护涂料;防辐射涂料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding glass",
+    "zh": "放射线屏蔽玻璃;辐射防护玻璃;防辐射玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding material",
+    "zh": "射线屏蔽材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation shielding window",
+    "zh": "辐射屏蔽窗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation source",
+    "zh": "辐射源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation source implant",
+    "zh": "植入辐射源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation sterilization",
+    "zh": "辐射灭菌*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation syndrome",
+    "zh": "辐射并发(症)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation synthesis",
+    "zh": "辐射合成",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation thermometer",
+    "zh": "辐射温度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation thermometry",
+    "zh": "辐射计温学;辐射计温术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation value",
+    "zh": "辐射值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiation vulcanization",
+    "zh": "辐射硫化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive",
+    "zh": "放射(性)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive aerosol",
+    "zh": "放射性气溶胶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive analysis",
+    "zh": "放射分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive analyzer",
+    "zh": "放射性分析器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive antigen-binding assay",
+    "zh": "放射性抗原结合测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive artificial soil",
+    "zh": "放射性人造污垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive background",
+    "zh": "放射性本底",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive bombardment",
+    "zh": "辐照；辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive capture",
+    "zh": "放射捕获",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive chain",
+    "zh": "放射性衰变链",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive change",
+    "zh": "放射性变化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive clathrate technique",
+    "zh": "放射性笼形包合物技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive colloid",
+    "zh": "放射性胶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive component",
+    "zh": "放射性组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive concentration",
+    "zh": "放射性浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive constant",
+    "zh": "放射性常数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive contamination",
+    "zh": "放射性污染*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive contamination monitoring",
+    "zh": "放射性污染监测",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive counter",
+    "zh": "辐射性计数器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive dating",
+    "zh": "放射性测定年代",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive decay",
+    "zh": "放射性衰变",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decay chain",
+    "zh": "放射性衰变链",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decay constant",
+    "zh": "放射性衰变常数",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decay law",
+    "zh": "放射性衰变律",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decay scheme",
+    "zh": "放射性衰变纲图",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decay series",
+    "zh": "放射性衰变系",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive decontamination",
+    "zh": "放射性去污*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive deposit",
+    "zh": "放射性淀质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive deposition",
+    "zh": "放射性沉积物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive detector",
+    "zh": "放射性检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive dirt",
+    "zh": "放射性污垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive disintegration",
+    "zh": "放射性蜕变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive displacement law",
+    "zh": "放射性位移定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive dust",
+    "zh": "放射性灰尘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive earth",
+    "zh": "放射性土",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive electron capture detector",
+    "zh": "放射性电子俘获检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive element",
+    "zh": "放射(性)元素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive equilibrium",
+    "zh": "放射性平衡*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive fallout",
+    "zh": "放射性落尘；放射性沉降物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive family",
+    "zh": "放射系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive foil electron capture detector",
+    "zh": "放射性箔电子俘获检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive half life",
+    "zh": "放射半衰期",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "radioactive immunoassay",
+    "zh": "放射免疫测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive indicator (=radiother)",
+    "zh": "放射指示剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive indicator method",
+    "zh": "放射性指示剂法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive ink",
+    "zh": "放射性油墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive iodinated human serum albumin",
+    "zh": "放射性碘标记的人血清白蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive isotope",
+    "zh": "放射性同位素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive labelling",
+    "zh": "放射性标记",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive level ga(u)ge",
+    "zh": "放射性液面计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive life",
+    "zh": "放射性寿命",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive luminous paint",
+    "zh": "放射性夜明漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactively labelled substance",
+    "zh": "放射性标记物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive marker",
+    "zh": "放射性标记物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive mineral",
+    "zh": "放射性矿物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive nitrogen",
+    "zh": "放射性氮；射氮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive nuclide",
+    "zh": "放射性核素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive nuleus",
+    "zh": "放射性核",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive paint(=luminous paint)",
+    "zh": "发光涂料；放射性涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive protection",
+    "zh": "放射性防护",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive purity",
+    "zh": "放射性纯度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive radiation",
+    "zh": "放射性辐射",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive ray",
+    "zh": "放射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive sample tray",
+    "zh": "放射性测定用样品盘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive secular equilibrium",
+    "zh": "放射性长期平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive series",
+    "zh": "放射系(列)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive soil",
+    "zh": "放射性污垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive source",
+    "zh": "放射源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive standard",
+    "zh": "放射性标准",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive standard solution",
+    "zh": "放射性标准溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive standard source",
+    "zh": "放射性标准源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive static eliminator",
+    "zh": "放射性静电消除器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive substance",
+    "zh": "放射性物质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive tracer",
+    "zh": "放射性示踪物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive-tracer-fibre",
+    "zh": "放射性示踪纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive tracer method",
+    "zh": "放射性示踪剂(分析)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive transformation",
+    "zh": "放射衰变现象",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive transient equilibrium",
+    "zh": "放射性暂时平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive tritium source",
+    "zh": "放射性氚源",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "radioactive waste repository",
+    "zh": "放射性废物处置库*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive waste treatment",
+    "zh": "放射性废物处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiochemistry",
+    "zh": "放射化学",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radioisotope",
+    "zh": "放射性同位素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope applicator",
+    "zh": "放射性同位素敷贴剂*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope arteriography",
+    "zh": "放射性同位素动脉造影术",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope battery",
+    "zh": "放射性同位素电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope cisternography",
+    "zh": "放射性同位素脑池造影法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope customer",
+    "zh": "放射性同位素用户",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope detector",
+    "zh": "放射性同位素检测器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope gauge",
+    "zh": "放射性同位素计",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope generator",
+    "zh": "放射性同位素发生器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope heater unit(RHU)",
+    "zh": "放射性同位素加热装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope instrument",
+    "zh": "放射性同位素仪表",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope renogram",
+    "zh": "放射性同位素肾图",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope scanner",
+    "zh": "放射性同位素扫描机",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope scanning",
+    "zh": "放射性同位素扫描",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope smoke alarm(RISA)",
+    "zh": "放射性同位素火灾烟雾报警器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope source",
+    "zh": "放射性同位素(激发)源",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope suit(RI suit)",
+    "zh": "操作放射性同位素用工作服",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope thermoelectric generator(RTG)",
+    "zh": "放射性同位素热电发生器；放射性同位素热电源",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope tracer method",
+    "zh": "放射性同位素示踪法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope ventriculography",
+    "zh": "放射性同位素脑室造影法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiother(=radioactive indicator)",
+    "zh": "放射指示剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "recoil radiation",
+    "zh": "反冲辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reirradiation technique",
+    "zh": "再照射技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resistance to ultraviolet (ray) radiation",
+    "zh": "耐紫外线辐射性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scintillation",
+    "zh": "闪烁(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation counter",
+    "zh": "闪烁计数器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation counting",
+    "zh": "闪烁计数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation crystal",
+    "zh": "闪烁晶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation detector",
+    "zh": "闪烁探测器*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation fission counter",
+    "zh": "闪烁裂变计数器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation material",
+    "zh": "闪烁物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation probe",
+    "zh": "闪烁探针",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation screen",
+    "zh": "闪烁屏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation solution",
+    "zh": "闪烁液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation spectrometer",
+    "zh": "闪烁分光计；闪烁(能)谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation spectrometry",
+    "zh": "闪烁光谱测定法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation vial",
+    "zh": "闪烁管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary radiation",
+    "zh": "次级辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "selective irradiation",
+    "zh": "选择辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-irradiation damage",
+    "zh": "自辐照损伤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor radiation detector",
+    "zh": "半导体放射检测器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor solid (radiation) detector (SSD)",
+    "zh": "半导体固体检测器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "severe radiation",
+    "zh": "强辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shipboard irradiation (of seafood) (",
+    "zh": "海味水产品)船上照射",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simultaneous irradiation",
+    "zh": "同时辐照法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "slowing-down radiation",
+    "zh": "慢化辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soft beta radiation",
+    "zh": "软β辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soft radiation",
+    "zh": "软(性)射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solar radiation",
+    "zh": "太阳辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solar radiation intensity",
+    "zh": "太阳照射强度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solar radiation pressure",
+    "zh": "太阳辐射压(力)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sound radiation",
+    "zh": "声辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "source of radiation",
+    "zh": "辐射源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spent fuel",
+    "zh": "乏燃料*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spent fuel processing plant",
+    "zh": "燃烧过的燃料处理工厂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spent fuel shipping cask",
+    "zh": "使用过(废)燃料运输容器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spontaneous radiation",
+    "zh": "自发辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Stefan-Boltzmann law of radiation",
+    "zh": "斯蒂芬-玻耳兹曼辐射定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stimulated radiation",
+    "zh": "受激辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stray radiation",
+    "zh": "杂散光",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress decay",
+    "zh": "应力衰减；应力松弛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "successive decay",
+    "zh": "逐次衰变；逐级衰变；连续衰变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supralethal irradiation",
+    "zh": "超致死剂量照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sustained off-resonance irradiation",
+    "zh": "持续去共振照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchronous radiation total reflection X-ray fluorescence analysis",
+    "zh": "同步辐射全反射 X 射线荧光分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchrotron radiation (SR)",
+    "zh": "同步辐射*；同步辐射源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchrotron radiation photoelectron spectroscopy (SRPES)",
+    "zh": "同步辐射光电子能谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchrotron radiation X-ray fluorescence spectrometry",
+    "zh": "同步辐射 X 射线荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tailored radiation",
+    "zh": "单纯辐射；单一(能量)辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "temperature radiation",
+    "zh": "温度辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal radiation",
+    "zh": "热辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermoradiation",
+    "zh": "热辐射（联合消毒法）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thorium decay series",
+    "zh": "钍衰变系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total half-life",
+    "zh": "总半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transition probability of spontaneous radiation",
+    "zh": "自发辐射跃迁概率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tritium",
+    "zh": "氰*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium dating",
+    "zh": "氰测定年龄",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium dating method",
+    "zh": "氰测定年龄法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium foil electron capture detector",
+    "zh": "氰箔电子捕获检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium-free water",
+    "zh": "无氚水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium-generating reactor",
+    "zh": "产氚(反应)堆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium label autoradiography",
+    "zh": "氰示踪自动放射显影法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium-labelled",
+    "zh": "用氚示踪(标记)的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium labilization",
+    "zh": "氰活化；氚不稳定性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium oxide",
+    "zh": "氧化氚；氚水 HTO; T₂O",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium ratio(TR)",
+    "zh": "氰比〔H³/H¹=10⁻¹⁸(原子比)为1TR相当于一克水中氚放射性为7.2×10⁻³衰变/分〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium target",
+    "zh": "氰靶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium unit(TU)",
+    "zh": "氰单位〔氚：氢原子比为1∶10¹⁸为一氚单位；相当于7.2衰变/分/升水的放射性〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-stage radiation induced polymerization",
+    "zh": "二步辐射诱导聚合(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "type of decay",
+    "zh": "衰变形式；衰变方式",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultra-gamma ray (=cosmic ray)",
+    "zh": "超γ射线: 宇宙线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic radiation",
+    "zh": "超声辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet irradiation",
+    "zh": "紫外线照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet radiation",
+    "zh": "紫外线照射(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uranium decay series",
+    "zh": "铀衰变系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uranium-radium decay series",
+    "zh": "铀镭衰变系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "UV-irradiation",
+    "zh": "紫外光照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vacuum ultraviolet radiation source",
+    "zh": "真空紫外源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vapour phase radiation grafting (",
+    "zh": "蒸)气相辐射接枝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "visible radiation",
+    "zh": "可见光辐射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Wein's displacement law of radiation",
+    "zh": "维恩辐射位移定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "weld-decay",
+    "zh": "焊缝晶间腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weld-decay-free quality",
+    "zh": "无焊接侵蚀级；无焊缝晶间腐蚀级",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "white X-ray radiation",
+    "zh": "白色 X 射线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-radiation X",
+    "zh": "辐射; X射线",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

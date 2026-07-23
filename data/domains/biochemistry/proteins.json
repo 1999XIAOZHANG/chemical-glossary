@@ -1,0 +1,3680 @@
+[
+  {
+    "en": "acetylmalonyl enzyme",
+    "zh": "乙酰丙二酸单酰酶；乙酰丙二酰(基)酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "N-acetylmuramyl pentapeptide N-",
+    "zh": "乙酰胞壁酰五肽 2-acetylnaphthalene 2-乙酰萘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acropeptides",
+    "zh": "复氨基酸类",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acrylonitrile-grafted protein fibre",
+    "zh": "丙烯腈接枝蛋白质纤维",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acrylonitrile-protein fibre",
+    "zh": "丙烯腈-蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acting force",
+    "zh": "作用力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actiniasterol",
+    "zh": "海葵甾醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic (",
+    "zh": "有)光化(性)的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic decomposition",
+    "zh": "光化分解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic degradation",
+    "zh": "光化降解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic glass",
+    "zh": "闪光玻璃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic green (",
+    "zh": "毒物瓶用的)光化绿玻璃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinicity",
+    "zh": "光化度；光化性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic light",
+    "zh": "光合光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinic rays",
+    "zh": "光化射线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide",
+    "zh": "钢系元素*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide chalcogenide",
+    "zh": "钢系元素硫族元素化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide chloride",
+    "zh": "钢系元素氯化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide contraction",
+    "zh": "钢系收缩*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide elements",
+    "zh": "钢系元素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide halide",
+    "zh": "钢系元素卤化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide-lanthanide separation",
+    "zh": "钢系-镧系元素(互)分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide metallide",
+    "zh": "钢系元素金属化物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide oxometallate",
+    "zh": "钢系元素含氧酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide oxyfluoride",
+    "zh": "钢系元素氟氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide sesquioxide",
+    "zh": "钢系元素倍半氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide thiocyanate",
+    "zh": "钢系元素硫氰酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinidine",
+    "zh": "猕猴桃碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actiniochrome",
+    "zh": "珊瑚虫色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinism",
+    "zh": "射线化学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium",
+    "zh": "铜（89号元素，化学符号Ac）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium A",
+    "zh": "铜A actinium B 铜B actinium C 铜C actinium C' 铜C' actinium C\" 铜C\" actinium D 铜D ；钢铅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium emanation(=actinon)",
+    "zh": "钢射气 actinium family 铜系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium hydroxide",
+    "zh": "氢氧化钢 Ac(OH) actinium K 铜K actinium lead 铜铅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium nitrate",
+    "zh": "硝酸钢 Ac(NO₃)₃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium series",
+    "zh": "钢系（指89~103号元素）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium tricyclopentadienide",
+    "zh": "三(环戊二烯)钢 Ac(C₅H₅)₃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium uranium",
+    "zh": "钢铀 ²³⁵U",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinium X",
+    "zh": "铜 X ²²³Ra",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinobacillosis",
+    "zh": "放线菌病",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinobolin(=actinovorin)",
+    "zh": "放线菌光素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinocarcin",
+    "zh": "放线抗癌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinochrysin(=actinomycin C)",
+    "zh": "放线菌素C",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinocongestin",
+    "zh": "海葵毒素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinodaphnine",
+    "zh": "放线瑞香宁；黄肉楠碱；六驳碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoerythrin",
+    "zh": "海葵赤素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoflavin",
+    "zh": "放线菌黄毒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoflocin",
+    "zh": "放线菌团素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinogan",
+    "zh": "放线菌制癌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinograph (",
+    "zh": "日光)光化力测定器；光化线强度记录器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinohematin",
+    "zh": "海葵血红毒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoid",
+    "zh": "钢系元素*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoidin",
+    "zh": "类放线菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoleukin",
+    "zh": "放线菌白素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinolichen",
+    "zh": "放线菌地衣",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinolite",
+    "zh": "阳起石",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinolite rock",
+    "zh": "阳起石岩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinology",
+    "zh": "光化学;射线学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinolysin",
+    "zh": "放线菌溶素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinometer",
+    "zh": "光能测定仪*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinometry",
+    "zh": "光能测定学*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomorphy(=radial symmetry)",
+    "zh": "放线对称；辐射对称性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomyce",
+    "zh": "放线菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomycelin",
+    "zh": "放线菌丝素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomycetales",
+    "zh": "放线菌目",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomycetin",
+    "zh": "白放线菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinomycin",
+    "zh": "放线菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinon(=actinium emanation)",
+    "zh": "钢射气",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinone",
+    "zh": "放线菌酮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinonin",
+    "zh": "放线酰胺素 C₁₉H₃₅N₃O₅",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinorhodine",
+    "zh": "放线紫素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinorubin",
+    "zh": "放线红素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinospectacin",
+    "zh": "放线壮观素；大观霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinotiocin",
+    "zh": "放线硫肽素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinouranium",
+    "zh": "钢铀 ²³⁵U",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinouranium decay series",
+    "zh": "钢铀衰变系*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinouranium family",
+    "zh": "钢铀系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinouranium series",
+    "zh": "钢铀系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinovorin(=actinobolin)",
+    "zh": "放线菌光素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinoxanthine",
+    "zh": "放线黄质素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinozyme",
+    "zh": "放线菌酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinyl",
+    "zh": "钢系酰*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinyl fluoride",
+    "zh": "氟化锕系元素酰基",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acyl amino acid",
+    "zh": "酰基氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "acyl amino acid ester",
+    "zh": "酰基氨基酸酯",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "acylated amino acid",
+    "zh": "酰基化氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "acylated peptide",
+    "zh": "酰化缩氨酸; 酰化肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acyl enzyme",
+    "zh": "酰(基)酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acylpeptide",
+    "zh": "酰基肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acylpeptide hydrolase",
+    "zh": "酰基肽水解酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acyl polypeptide",
+    "zh": "酰化多肽；酰基缩多氨酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "adaptive enzyme",
+    "zh": "适应酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adiactinic",
+    "zh": "绝射的；不透射线的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic enzyme",
+    "zh": "需氧酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albumin",
+    "zh": "清蛋白；白蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminoid",
+    "zh": "硬蛋白;类蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminometer",
+    "zh": "清蛋白计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminoscope",
+    "zh": "清蛋白仪；验蛋白器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminous",
+    "zh": "白蛋白的;蛋白的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminous matter",
+    "zh": "蛋白质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albumin tannate",
+    "zh": "鞣酸白蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albuminuria",
+    "zh": "蛋白尿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albumin wave (",
+    "zh": "白)蛋白波",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allergen(=anaphylactin)",
+    "zh": "过敏素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric enzyme",
+    "zh": "变构酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amino acid acylase",
+    "zh": "酰化氨基酸水解酶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "amino acid amide",
+    "zh": "氨基酸酰胺",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "amino acid composition analyzer",
+    "zh": "氨基酸组成分析仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "amylolytic enzyme",
+    "zh": "淀粉(分解)酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analysis of ionic channel open and closed kinetics",
+    "zh": "离子通道开闭动力学分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anaphylactin(=allergen)",
+    "zh": "过敏素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animal protein factor(APF)",
+    "zh": "动物蛋白因子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antianaphylactin",
+    "zh": "抗过敏素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antibody",
+    "zh": "抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antibody absorption test",
+    "zh": "抗体吸收试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antibody cytolytic",
+    "zh": "抗体细胞溶解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antibody half-life",
+    "zh": "抗体半衰期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antigen-antibody complex",
+    "zh": "抗原抗体复合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antigen antibody reaction",
+    "zh": "抗原抗体反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiglobulin",
+    "zh": "抗球蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-idiotypic antibody",
+    "zh": "抗独特型抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apolipoprotein",
+    "zh": "载脂蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "artificial protein fibre",
+    "zh": "人造蛋白纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asymmetric amino acid",
+    "zh": "不对称氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "atrolactic acid(=atrolactinic acid)",
+    "zh": "阿卓乳酸；苯基乳酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic amino acid analyzer",
+    "zh": "氨基酸自动分析仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "automatic analyzer for amino acids",
+    "zh": "氨基酸自动分析仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "automatic thermostat(=selfacting thermostat)",
+    "zh": "自动恒温器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "back-extracting",
+    "zh": "反抽提；反萃取",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "baroreceptor",
+    "zh": "压力感受器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bibasic amino acid",
+    "zh": "二氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bifunctional antibody",
+    "zh": "双功能抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "birefracting",
+    "zh": "双(重)折射的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bis(alkylcyclooctatetraenyl) actinide compound",
+    "zh": "双(烷基代环辛四烯)合锕系元素化合物 </div>",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bispecific antibody",
+    "zh": "双特异性抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blocking antibody",
+    "zh": "封阻抗体；促进抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blue copper protein",
+    "zh": "铜蓝蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bovine serum albumin(BSA)",
+    "zh": "牛血清清蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "branched chain amino acid",
+    "zh": "分支氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bromo-amino acid",
+    "zh": "溴代氨基酸 NH₂RBrCOOH",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bryamycin(=thiactin)",
+    "zh": "硫活素；藓霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cactine",
+    "zh": "仙影拳碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium binding protein",
+    "zh": "钙结合蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capillary channel",
+    "zh": "毛细管道（漆料渗透到颜料层粒子中的细间隙）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capryloyl-collagenic acid",
+    "zh": "辛酰胶原酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "casamino acid",
+    "zh": "酪蛋白氨基酸;酪蛋白水解物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "casein protein fibre",
+    "zh": "酪蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalytic antibody",
+    "zh": "催化抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic protein wave",
+    "zh": "催化蛋白波",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyzing enzyme",
+    "zh": "催化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulolytic enzyme",
+    "zh": "纤维素(水解)酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel",
+    "zh": "频道;通道;联箱;波道;槽；沟",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel black",
+    "zh": "槽法炭黑（补强剂，颜料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel capacity",
+    "zh": "信道容量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel drier",
+    "zh": "烘道干燥器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channeled spectrum",
+    "zh": "沟槽光谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel effect",
+    "zh": "沟道效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel electron multiplier",
+    "zh": "通道电子倍增器；渠道式电子倍增器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel electron multiplier array",
+    "zh": "通道电子倍增器阵列",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel flow",
+    "zh": "明渠流动；载流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel fringe",
+    "zh": "沟槽杂纹",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channeling",
+    "zh": "沟流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel point",
+    "zh": "成沟点（齿轮转动时润滑剂层中形成未充满沟槽的温度）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel process",
+    "zh": "槽法（炭黑生产方法之一）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel spin",
+    "zh": "沟道自旋",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel steel",
+    "zh": "槽钢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel test",
+    "zh": "沟试验（齿轮转动时润滑油层中形成未充满沟槽的试验）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channeltron",
+    "zh": "通道倍增器*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channeltron electron multiplier array",
+    "zh": "通道电子倍增器阵列",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "channel valve",
+    "zh": "檀阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical actinometer",
+    "zh": "化学光量计",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical actinometry",
+    "zh": "化学光量测定法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemiluminescence enhancer",
+    "zh": "化学发光增强剂 chemiluminescence enzyme-linked immunoassay (CLEIA)化学发光酶联免疫分析法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemoceptor (=chemoreceptor)",
+    "zh": "化学接受体；化学受纳体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemoreceptor (=chemoceptor)",
+    "zh": "化学接受体；化学受纳体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chimeric antibody",
+    "zh": "嵌合抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chiral peptide",
+    "zh": "手性缩氨酸",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chloro-amino acid",
+    "zh": "氯代氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "clay contacting",
+    "zh": "黏土接触",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cloned enzyme donor immunoassay",
+    "zh": "克隆酶给体免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clone enzyme immunoassay",
+    "zh": "克隆酶免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "co-acting roller process",
+    "zh": "对轮法（拉制玻璃纤维原丝）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulating enzyme",
+    "zh": "凝固酶 coal carbonization (=coal carbonizing) 煤碳化(作用); 煤干馏",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coding amino acid",
+    "zh": "编码氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coenzyme",
+    "zh": "辅酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme I (NAD; Col; DPN)",
+    "zh": "辅酶I；烟酰胺腺嘌呤二核苷酸；二磷酸吡啶核苷酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme II (NADP; CoII; TPN)",
+    "zh": "辅酶II；烟酰胺腺嘌呤二核苷酸磷酸；三磷酸吡啶核苷酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme A(CoA)",
+    "zh": "辅酶A（药）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme Q",
+    "zh": "辅酶Q；泛醌",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme Q10",
+    "zh": "辅酶Q10（药）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme R(=vitamin H; biotin)",
+    "zh": "辅酶R；维生素H；生物素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cognate amino acid",
+    "zh": "关连氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "collagen",
+    "zh": "骨胶原*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagenase",
+    "zh": "胶原酶；梭菌肽酶 A",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen fibrils",
+    "zh": "胶原纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen membrane",
+    "zh": "骨胶膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen microfibril",
+    "zh": "胶原微纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagenous fiber",
+    "zh": "胶原纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagenous network",
+    "zh": "胶原网络",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagenous tissue",
+    "zh": "胶原组织",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen precipitating agent",
+    "zh": "胶原沉淀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen slurry",
+    "zh": "胶原浆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collagen sugar",
+    "zh": "胶原糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compacting",
+    "zh": "压紧",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compacting factor",
+    "zh": "压紧因数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compacting machine",
+    "zh": "压紧机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "competitive enzyme linked immunosorbent assay",
+    "zh": "竞争酶联免疫吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "competitive protein-binding assay (CPBA)",
+    "zh": "竞争性蛋白质结合分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complete protein",
+    "zh": "完善蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compounded protein",
+    "zh": "复合蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conductive channel black",
+    "zh": "导电槽黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contacting",
+    "zh": "接触",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contacting electrode",
+    "zh": "接触电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contacting element",
+    "zh": "接触单位",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous flow enzyme detector",
+    "zh": "连续流动酶检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "convergent channel",
+    "zh": "会聚槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coplanar hydrogen bond",
+    "zh": "共(平)面氢键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "corn protein fiber",
+    "zh": "玉米蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corn protein plastic",
+    "zh": "玉米蛋白质塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counteracting",
+    "zh": "反作用；抵消;平衡；消解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coupled phosphorylation",
+    "zh": "偶联磷酸化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross-channel flow",
+    "zh": "跨螺槽流(动)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude protein",
+    "zh": "粗蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cushioned channel valve",
+    "zh": "气垫槽阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclodepsipeptide",
+    "zh": "环缩酚肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dactinomycin(=actinomycin D)",
+    "zh": "放线菌素 D",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "DBBP lanthanide-actinide process",
+    "zh": "丁基膦酸二丁酯萃取分离镧系-锕系元素过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "denaturation",
+    "zh": "变性(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deproteinization",
+    "zh": "脱蛋白作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deproteinizing agent",
+    "zh": "脱蛋白剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depsipeptide",
+    "zh": "缩酚肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "derived protein",
+    "zh": "衍生蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "desmoenzyme",
+    "zh": "不溶酶；结合酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of protein by potentiometer",
+    "zh": "蛋白质电位滴定测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of protein by UN-spectrometry",
+    "zh": "紫外光度法测定蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diactinic",
+    "zh": "透光化线的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamino acid",
+    "zh": "二氨基(甲)酸 2,5-diamino-1,4-benzoquinone 2,5-二氨基-1,4-苯醌",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diffracting mask",
+    "zh": "衍射幕; 衍射掩模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "digestive enzyme",
+    "zh": "消化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dipeptide",
+    "zh": "二肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dipeptide phase",
+    "zh": "二肽型固定相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct-acting pump",
+    "zh": "直接作用泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct acting steam pump",
+    "zh": "直动泵；蒸汽直接作用泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct-acting valve",
+    "zh": "直动阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct antiglobulin test",
+    "zh": "直接抗球蛋白试验；直接湿片检查",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct reacting bilirubin",
+    "zh": "直(接反)应胆红素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissociation channel",
+    "zh": "解离通道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distributing box",
+    "zh": "分配槽 distributing channel(=distributing duct; distributing flue)配水渠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "distributing duct(=distributing channel)",
+    "zh": "配水渠",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distributing flue(=distributing channel)",
+    "zh": "配水渠",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distributive channel",
+    "zh": "配水渠(槽)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disulfide bond",
+    "zh": "二硫键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "DNA enzyme DNA",
+    "zh": "酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double acting",
+    "zh": "双作用；往复;双动(式)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double acting compressor",
+    "zh": "双作用压缩机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double acting cylinder",
+    "zh": "双作用气缸；往复式气缸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double acting press",
+    "zh": "双动压力机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double acting pump",
+    "zh": "双动泵；双向(作用)泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double channel plate",
+    "zh": "双通道板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double channel screw",
+    "zh": "双螺槽螺杆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double refracting",
+    "zh": "双折射的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "down-channel flow",
+    "zh": "顺螺槽料流；顺螺槽流(动)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "down-channel pressure",
+    "zh": "顺螺槽压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "down-channel pressure profile (",
+    "zh": "挤塑)顺螺槽压力分布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "down-channel velocity (",
+    "zh": "挤塑)顺螺槽流速",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dried milk albumin",
+    "zh": "干燥乳品蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual-channel flame photometric detector",
+    "zh": "双道火焰光度检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual-channel screen changer",
+    "zh": "双流道换网机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duplex double acting pump",
+    "zh": "双缸复动泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye receptor",
+    "zh": "染料吸取体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "edible tubular collagen casing",
+    "zh": "食用胶原肠衣",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "egg albumin fiber",
+    "zh": "卵清蛋白纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-attracting",
+    "zh": "吸电子的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron-attacting group(=electrondrawing group)",
+    "zh": "吸电子基团",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron channel effect",
+    "zh": "电子通道效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron channel image",
+    "zh": "电子通道图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron channeling pattern",
+    "zh": "电子通道图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron channel pattern",
+    "zh": "电子沟道图样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron transfer protein",
+    "zh": "电子传递蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrooptic multichannel detection",
+    "zh": "电光学多道检测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elution-extracting resin",
+    "zh": "萃淋树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endo receptor",
+    "zh": "内向型受体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activation",
+    "zh": "酶激活",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activator",
+    "zh": "酶活化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activity",
+    "zh": "酶活性;酶活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activity unit",
+    "zh": "酶活性单位",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme allosteric effect",
+    "zh": "酶的别构效应 enzyme-catalytic kinetic spectrophotometry 酶催化动力学分光光度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-containing detergent",
+    "zh": "加酶洗涤剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme detergent",
+    "zh": "加酶洗涤剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme electrode",
+    "zh": "酶电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme imitative polymer",
+    "zh": "类酶高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme immunoassay",
+    "zh": "酶免疫分析法；酶免疫测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-immuno sensor",
+    "zh": "酶-免疫传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme inhibition",
+    "zh": "酶抑制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme inhibitor",
+    "zh": "酶抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme labeling",
+    "zh": "酶标记",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme like polymer",
+    "zh": "模拟酶高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-linked fluorescence immunoassay",
+    "zh": "酶联荧光免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-linked immunosensor",
+    "zh": "酶联免疫传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-linked immunosensor of α-fetoprotein α-",
+    "zh": "甲胎蛋白酶免疫传感器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme-linked immunosorbent assay",
+    "zh": "酶联免疫吸附测定；酶联免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme multiplied immunoassay technique",
+    "zh": "酶放大免疫分析技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme precursor",
+    "zh": "酶原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme preparation",
+    "zh": "酶制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme receptor assay",
+    "zh": "酶受体分析",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "enzyme selective detector",
+    "zh": "酶选择性检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme sensor",
+    "zh": "酶传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme steeping",
+    "zh": "酶浸渍退浆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme-substrate complex",
+    "zh": "酶-底物复合体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme substrate electrode",
+    "zh": "酶底物电极；酶电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme system",
+    "zh": "酶系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "essential amino acid",
+    "zh": "必需氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "exothermic channel",
+    "zh": "放热通道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extractant(=extracting agent)",
+    "zh": "提取剂；萃取剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting (",
+    "zh": "植鞣革)滚浓鞣液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting agent(=extractant)",
+    "zh": "萃取剂；提取剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting power",
+    "zh": "萃取能力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting solvent",
+    "zh": "萃取溶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting stage",
+    "zh": "萃取级",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extracting tower",
+    "zh": "萃取塔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast protein liquid chromatography",
+    "zh": "快速蛋白质分析液相色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feed channel",
+    "zh": "进料道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrous protein",
+    "zh": "纤维状蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fish protein fiber",
+    "zh": "鱼蛋白纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluid channel",
+    "zh": "流道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid contacting apparatus",
+    "zh": "流体接触装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid contacting unit",
+    "zh": "流体接触装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluidic channel",
+    "zh": "流体管道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoprot(o)actinate",
+    "zh": "氟镁酸盐 M2[PaF7]",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent antibody inhibition",
+    "zh": "荧光抗体抑制反应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent-antibody technique",
+    "zh": "荧光抗体技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent treponemal antibody absorption test",
+    "zh": "荧光密螺旋体抗体吸收试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoroamino acid",
+    "zh": "氟代氨基酸 NH₂RFCOOH",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluoroprotactinate",
+    "zh": "氟镁酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "four channel magnetic mass spectrometer",
+    "zh": "四通道磁式质谱仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fungous enzyme",
+    "zh": "霉菌酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galactinol",
+    "zh": "肌醇半乳糖苷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas phase protein sequenator",
+    "zh": "气相蛋白质序列分析仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "globular protein",
+    "zh": "球状蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "globulimeter",
+    "zh": "血球计算器 γ-globulin γ球蛋白；丙种球蛋白",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "globulin zinc insulin",
+    "zh": "球蛋白锌胰岛素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glycoprotein(=glucoprotein)",
+    "zh": "糖蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grease channeling",
+    "zh": "润滑脂(中生成的)沟流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "guiding channel",
+    "zh": "管道片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "haemaglobinometer (=hemoglobinometer)",
+    "zh": "血红蛋白计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "haemproteins",
+    "zh": "血蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "half-lives of actinides",
+    "zh": "钢系的半衰期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard processing channel black",
+    "zh": "难加工槽黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hemoglobin",
+    "zh": "血红蛋白 </div>",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hemoprotein",
+    "zh": "血红素蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterogeneous enzyme immunoassay",
+    "zh": "非均相酶免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high colour channel black",
+    "zh": "高色素槽法炭黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high density lipoprotein (HDL)",
+    "zh": "高密度脂蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "higher actinide",
+    "zh": "重锕系(元素)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous enzyme immunoassay",
+    "zh": "均相酶免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "humidification by contacting with heated liquid",
+    "zh": "热液增湿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen bond",
+    "zh": "氢键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bond acceptor",
+    "zh": "氢键受体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bonder",
+    "zh": "氢键键合剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bond index",
+    "zh": "氢键指数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bonding",
+    "zh": "氢键合; 氢键键合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bonding agent",
+    "zh": "氢键键合剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen bonding energy",
+    "zh": "氢键合能",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrolytic enzyme",
+    "zh": "水解酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immobilized enzyme",
+    "zh": "固定化酶；固相酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immune protein",
+    "zh": "免疫蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "immunoglobulin",
+    "zh": "免疫球蛋白",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "immunoglobulin G(IgG)",
+    "zh": "免疫球蛋白 G",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "impeller channel",
+    "zh": "叶轮流道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incomplete antibody",
+    "zh": "不完全抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incomplete channel",
+    "zh": "不完整孔道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incomplete protein",
+    "zh": "不完全蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indirect fluorescent antibody technique",
+    "zh": "间接荧光抗体技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indispensable amino acid",
+    "zh": "必需氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "induced enzyme",
+    "zh": "诱导酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection channel",
+    "zh": "注样通道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ink receptor",
+    "zh": "受墨物；吸墨剂（如纸张、塑料中的填料等多孔物）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insolubilized enzyme",
+    "zh": "固相酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insoluble enzyme",
+    "zh": "固相酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediate density lipoprotein",
+    "zh": "中密度脂蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intermolecular hydrogen bonding",
+    "zh": "分子间氢键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intramolecular hydrogen bond",
+    "zh": "分子内氢键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "iodo-amino acid",
+    "zh": "碘代氨基酸 NH₂RICOOH",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "p-iodophenylsulfonyl amino acid",
+    "zh": "对碘苯磺酰氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ion channel",
+    "zh": "离子通道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion channel switching immunosensor",
+    "zh": "离子通道免疫传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irreversible denaturation",
+    "zh": "不可逆变性(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoantibody",
+    "zh": "同种抗体；同族抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobutyl coenzyme",
+    "zh": "异丁基辅酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoionic protein",
+    "zh": "等离子蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "keratin",
+    "zh": "角蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "keratin fiber",
+    "zh": "角蛋白纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "keratinization",
+    "zh": "角蛋白化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lactin",
+    "zh": "内酰亚胺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lauroyl amino acid",
+    "zh": "月桂酰氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "light actinide",
+    "zh": "轻钢系(元素)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limes reacting dose",
+    "zh": "反应限量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lipoprotein",
+    "zh": "脂蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "long-range interchannel effect",
+    "zh": "远程通际效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low density lipoprotein(LDL)",
+    "zh": "低密度脂蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnetic extracting device",
+    "zh": "磁选器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "marker enzyme",
+    "zh": "标志酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean channel depth",
+    "zh": "平均螺槽深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanical denaturation spinning",
+    "zh": "力学变性纺丝；索引纺丝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium processing channel black",
+    "zh": "中等加工槽黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "membrane receptor",
+    "zh": "细胞膜受体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "membrane antibody",
+    "zh": "膜抗体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "membrane antigen receptor",
+    "zh": "膜抗原受体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mercaptoamino acid",
+    "zh": "疏基氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metalloenzyme",
+    "zh": "金属酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metalloprotein",
+    "zh": "金属蛋白*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methemoglobin",
+    "zh": "高铁血红蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylated albumin",
+    "zh": "甲基化清蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylated albumin kieselguhr(MAK)",
+    "zh": "甲基清蛋白硅藻土",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microchannel detector",
+    "zh": "微通道检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microchannel multiplier",
+    "zh": "微通道倍增器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microchannel plate",
+    "zh": "微通道板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microchannel plate detector",
+    "zh": "微通道板检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microfluidic channel",
+    "zh": "微液管道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microsomal antibody",
+    "zh": "微粒体抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modification enzyme",
+    "zh": "改性酶：修饰酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified collagen fiber",
+    "zh": "变形胶原纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monoclonal antibody",
+    "zh": "单克隆抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monoclonal antibody labelling",
+    "zh": "单克隆抗体标记",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moving-bed contacting",
+    "zh": "移动床接触",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel analysis",
+    "zh": "多通道分析法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel analyzer(MCA)",
+    "zh": "多道分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multichannel column",
+    "zh": "多(流)路柱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel detector",
+    "zh": "多道检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel imaging spectrophotometer",
+    "zh": "多道成像分光光度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel plate",
+    "zh": "多道板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel pulse height analyzer",
+    "zh": "多道脉冲高度分析器multi-channel recorder 多路记录器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel scaling",
+    "zh": "多道定标",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel scan",
+    "zh": "多道扫描",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel spectrometer",
+    "zh": "多通道谱仪*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-channel X-ray fluorescence spectrometer",
+    "zh": "多道X射线荧光光谱仪*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multidimensional protein identification technology",
+    "zh": "多维蛋白质鉴定技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multienzyme",
+    "zh": "多酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multienzyme system",
+    "zh": "多酶系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-event multichannel analyzer",
+    "zh": "多种多道分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multifunctional enzyme",
+    "zh": "多功能酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple antibody",
+    "zh": "多种抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple enzyme system",
+    "zh": "多酶体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanochannel",
+    "zh": "纳米通道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "native protein",
+    "zh": "天然蛋白质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural antibody",
+    "zh": "自然抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural collagen(ous) fibre",
+    "zh": "天然胶原纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonapeptide",
+    "zh": "九氨酸肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-contacting measurement",
+    "zh": "非接触性测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-essential amino acid",
+    "zh": "非必需氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "noninteracting",
+    "zh": "不相互作用的；不相互影响的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "noninteracting solvent blend",
+    "zh": "不相互作用的混合溶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-protein nitrogen(NPN)",
+    "zh": "非蛋白氮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-protein-nitrogenous compound",
+    "zh": "非蛋白氮化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "octapeptide",
+    "zh": "八肽；八缩氨酸肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil channel",
+    "zh": "油沟",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oligoamino acid",
+    "zh": "氨基酸低聚物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "open channel",
+    "zh": "明渠",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open channel blocking",
+    "zh": "阻断通道开放",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical multichannel analyzer",
+    "zh": "光学多道分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organoactinide",
+    "zh": "有机锕系元素化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ovalbumin",
+    "zh": "卵清蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ox-hide collagen",
+    "zh": "牛皮胶元",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation channels treatment",
+    "zh": "氧化沟法处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidative phosphorylation",
+    "zh": "氧化磷酸化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizing enzyme",
+    "zh": "氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxyproteinic acid",
+    "zh": "羟基蛋白酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paint channel",
+    "zh": "油漆管道(路)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pancreatic enzyme",
+    "zh": "胰酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "P-collagen P",
+    "zh": "胶原",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pea protein fiber",
+    "zh": "大豆蛋白纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peptide",
+    "zh": "肽*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peptide bond",
+    "zh": "肽键",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peptide chain",
+    "zh": "肽链",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peptide sequencer",
+    "zh": "肽序列(分析)仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peptides mapping",
+    "zh": "肽图谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphorylation",
+    "zh": "磷酸(酰)化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photoreceptor",
+    "zh": "光(感)受器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthaloylamino acid",
+    "zh": "邻苯二甲酰氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phytoactin",
+    "zh": "植病活菌素；多肽霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezo-electric enzyme sensor",
+    "zh": "压电酶传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pipsylamino acid",
+    "zh": "对碘苯磺酰氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyamidohygrostrepton(=phytoactin)",
+    "zh": "植病活菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamino acid",
+    "zh": "聚氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyclonal antibody",
+    "zh": "多克隆抗体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polynactin",
+    "zh": "浏阳菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polypeptide",
+    "zh": "多肽",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "polypeptide of fibroin",
+    "zh": "丝素肽",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "porous collagen fiber matrix",
+    "zh": "多孔胶原纤维基底",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potassium fluoprotactinate",
+    "zh": "氟镁酸钾；七氟镁酸钾 K₂[PaF₇]",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precollagen",
+    "zh": "前胶原",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-enzyme",
+    "zh": "前体酶；酶原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary protein derivatives",
+    "zh": "初步衍生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proenzyme",
+    "zh": "酶原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinide",
+    "zh": "镁化物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium(=protoactinium)",
+    "zh": "镁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium oxychloride",
+    "zh": "氯氧化镁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium pentachloride",
+    "zh": "五氯化镁 PaCl5",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium pentoxide",
+    "zh": "五氧化二镁 Pa2O5",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium peroxide",
+    "zh": "过氧化镁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protactinium sulfate",
+    "zh": "硫酸镁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protective enzyme",
+    "zh": "防护酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "protein adhesive",
+    "zh": "蛋白质黏合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein-aldehyde plastic",
+    "zh": "蛋白醛塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein-aldehyde resin",
+    "zh": "蛋白醛树脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proteinase",
+    "zh": "蛋白(水解)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein binding assay",
+    "zh": "蛋白结合测定(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein blotting",
+    "zh": "蛋白质印迹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein carrier",
+    "zh": "载体蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein chip",
+    "zh": "蛋白质芯片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein-doped matrix crystals",
+    "zh": "蛋白质掺杂基质结晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein error",
+    "zh": "蛋白质误差",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein fiber",
+    "zh": "蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein finishes",
+    "zh": "蛋白质漆；蛋白质涂饰剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein gel",
+    "zh": "蛋白凝胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein hydrolysis",
+    "zh": "蛋白(质)水解",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein index",
+    "zh": "蛋白质指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein kinase",
+    "zh": "蛋白激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein nitrogen",
+    "zh": "蛋白质氮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proteinoid",
+    "zh": "类蛋白(质)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein-peptide sequencer",
+    "zh": "蛋白质-肽序列分析仪",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "protein plastic",
+    "zh": "蛋白质塑料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein-polyamide condensation product",
+    "zh": "蛋白质-聚酰胺缩合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein powder",
+    "zh": "蛋白质粉末",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein refractometer",
+    "zh": "蛋白计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein regenerated fibre",
+    "zh": "再生蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein resin",
+    "zh": "蛋白质树脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein sequenator",
+    "zh": "蛋白质序列分析仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein synthesizer",
+    "zh": "蛋白质合成器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein wave",
+    "zh": "蛋白质波",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proteolytic enzyme",
+    "zh": "蛋白(水解)酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quick acting accelerator",
+    "zh": "快速促进剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quick acting catalyst",
+    "zh": "快速催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine albuminate",
+    "zh": "白蛋白合奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rabbit serum albumin",
+    "zh": "兔血清白蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rabbit serum globulin",
+    "zh": "兔血清球蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radial symmetry(=actinomorphy)",
+    "zh": "放线对称；辐射对称性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactinium",
+    "zh": "射锕 Th",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive iodinated human serum albumin",
+    "zh": "放射性碘标记的人血清白蛋白",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioimmunofluorescent antibody technique",
+    "zh": "放射免疫荧光抗体技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioiodinated serum albumin(RISA)",
+    "zh": "放射性碘标记血清 (色)蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioreceptor assay",
+    "zh": "放射性受体测定(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting (",
+    "zh": "起)反应的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting capacity(=reaction capacity)",
+    "zh": "反应本领",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting furnace",
+    "zh": "反应炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting mass",
+    "zh": "反应物料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting power (",
+    "zh": "化学)反应本领",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting substance (",
+    "zh": "起)反应物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reacting weight",
+    "zh": "反应量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction capacity(=reacting capacity)",
+    "zh": "反应本领",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction channel",
+    "zh": "反应通道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "receptor",
+    "zh": "接受器;受体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "receptor model",
+    "zh": "受体模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regenerated protein fiber",
+    "zh": "再生蛋白质纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "regular colo(u)r channel black",
+    "zh": "普通色素槽黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "renaturation",
+    "zh": "变性复原(作用): 复性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replicative enzyme",
+    "zh": "复制酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "retracting drop",
+    "zh": "收缩液滴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reverse-acting valve",
+    "zh": "可逆阀；换向阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reversed transcriptive enzyme",
+    "zh": "逆转录酶；反转录酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw channel depth (",
+    "zh": "螺杆)螺槽深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw channel width (",
+    "zh": "螺杆)螺槽宽度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-acting lubricator",
+    "zh": "自动润滑器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-acting scale",
+    "zh": "自动秤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-acting seal",
+    "zh": "自紧密封",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-acting thermostat(=automatic thermostat)",
+    "zh": "自调恒温器；自动恒温器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-acting valve",
+    "zh": "自动阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "serum albumin",
+    "zh": "血清清蛋白：血清白蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "serum globulin",
+    "zh": "血清球蛋白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "serum protein",
+    "zh": "血清蛋白",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "serum protein refractometer",
+    "zh": "血清蛋白(折射)计 $$",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "short-range interchannel effect",
+    "zh": "短程通际效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "signal peptide",
+    "zh": "信号肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sinactine",
+    "zh": "华尖碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single acting",
+    "zh": "单动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single acting compressor",
+    "zh": "单作用压缩机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single acting piston",
+    "zh": "单动活塞",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single acting pump",
+    "zh": "单动泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single channel analyzer (SCA)",
+    "zh": "单道分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-channel chart pen type",
+    "zh": "单道记录笔式(记录器)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single channel ICP monochromator",
+    "zh": "单通道电感耦合等离子体单色仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-channel injection valve",
+    "zh": "单道注入阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single channel pulse height analyzer",
+    "zh": "单波道脉冲高度分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steam channel",
+    "zh": "蒸汽沟",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfactin",
+    "zh": "硫放线菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superactinide",
+    "zh": "超锕系元素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superactinide element",
+    "zh": "后锕系元素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superactinide series",
+    "zh": "超锕系元素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface antibody",
+    "zh": "表面抗体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synalbumin",
+    "zh": "抗胰岛素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Talspesk process（",
+    "zh": "词源：Trivalent actinidelanthanide",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tapping channel (",
+    "zh": "树上割的)割汁沟",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terminal amino acid residue",
+    "zh": "末端氨基酸残基",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tetrapeptide",
+    "zh": "四肽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal denaturation",
+    "zh": "热变性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermally oxidized black(=channel black)",
+    "zh": "热氧化炭黑；槽法炭黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiactin(=bryamycin)",
+    "zh": "硫活素；藓霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiophosphorylation",
+    "zh": "硫代磷酰化作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-channel colorimeter",
+    "zh": "三道比色计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-channel multipoint recorder",
+    "zh": "三道多点记录器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-channel ultravioletvisible spectrophotometer",
+    "zh": "三道紫外-可见光分光光度计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transactinide element",
+    "zh": "铜系后元素*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transactinium elements",
+    "zh": "铜后元素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transporter",
+    "zh": "运输机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-channel recorder",
+    "zh": "双道记录器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasensitive amino acid analyzer",
+    "zh": "超灵敏氨基酸分析仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uranium-actinium",
+    "zh": "钢铀 ²³⁵U",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor-reflux contacting",
+    "zh": "蒸气(汽)与回流液的接触",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapour-liquid contacting column",
+    "zh": "气液接触塔；气液混合塔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "viscose proteinised",
+    "zh": "蛋白质化黏胶纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wash channel",
+    "zh": "洗涤孔道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xanthoglobulin",
+    "zh": "黄色(球)蛋白;次黄嘌呤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zwitterionic amino acid",
+    "zh": "两性离子氨基酸",
+    "role": "secondary",
+    "confidence": 3.5
+  }
+]

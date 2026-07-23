@@ -1,0 +1,5924 @@
+[
+  {
+    "en": "absolute analysis of GFAAS",
+    "zh": "石墨炉原子吸收分光光度法绝对分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "absolute calibration",
+    "zh": "绝对校准",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absolute calibration curve method",
+    "zh": "绝对校正曲线法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absolute calibration method",
+    "zh": "绝对校准法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absolute colorimetry",
+    "zh": "绝对比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "absorption spectrophotometry",
+    "zh": "吸收分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accordin mould(=integral mould)",
+    "zh": "集成模具",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "accordion interlock fabric",
+    "zh": "抽条棉毛织物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid bordeaux",
+    "zh": "酸性枣红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid mordant",
+    "zh": "酸性媒染剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid mordant dye",
+    "zh": "酸性媒染染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "addition order",
+    "zh": "加料顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "algol bordeaux",
+    "zh": "阿果枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alpha-calibration α",
+    "zh": "射线校准",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amalthion bordeaux",
+    "zh": "阿马堇枣红（一种硫化染料的商名）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amanthrene bordeaux",
+    "zh": "阿曼士林枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "analytical method standard",
+    "zh": "分析方法标准",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aniline colorimetric method",
+    "zh": "苯胺比色法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anionic coordination mechanism",
+    "zh": "阴离子配位机理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aniracetam",
+    "zh": "茴拉西坦（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anthanthrene",
+    "zh": "二苯并 [cd, jk] 芘",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anthanthrone",
+    "zh": "二苯并 [cd, jk] 芘-5,10-二酮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anthrone colorimetry",
+    "zh": "蒽酮比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asbestos cord",
+    "zh": "石棉绳",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "atomic absorption spectrometry(AAS)",
+    "zh": "原子吸收光谱法",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "atomic absorption spectrophotometry",
+    "zh": "原子吸收分光光度法",
+    "role": "secondary",
+    "confidence": 6.5
+  },
+  {
+    "en": "atomic (fractional) coordinate",
+    "zh": "原子(分数)坐标",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic colorimetric analysis",
+    "zh": "自动比色分析(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "automatic colorimetric determination",
+    "zh": "自动比色测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "automatic recorder",
+    "zh": "自动记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording",
+    "zh": "自动记录",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording detector",
+    "zh": "自动记录检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording photoelectric polarimeter",
+    "zh": "自动记录光电偏振仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording photoelectric spectropolarimeter",
+    "zh": "自动记录光电分光偏振仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording spectrophotometer",
+    "zh": "自动记录分光光度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording thermobalance",
+    "zh": "自动记录式热天平",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording thermometer",
+    "zh": "自动记录式温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording titrimeter",
+    "zh": "自动记录滴定仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic recording X-ray spectrometer",
+    "zh": "自动记录X射线分光计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic temperature recorder",
+    "zh": "自动温度记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic temperature recorder controller",
+    "zh": "自动温度记录调节器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic X-ray fluorescence spectrometer",
+    "zh": "自动 X 射线荧光光谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autoordering (",
+    "zh": "纤维分子的)自动排列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "back coordination",
+    "zh": "反馈配位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barrels per calendar day(BPCD)",
+    "zh": "每日历日桶数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bell recorder",
+    "zh": "浮钟计压器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biddiblack",
+    "zh": "比地黑（天然颜料，采自比德弗德 Bideford）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "BL method(=borderline method)",
+    "zh": "边界线方法（评价汽油抗爆性的方法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bond order",
+    "zh": "键级*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Boord olefin synthesis",
+    "zh": "伯德烯烃合成法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bordeaux",
+    "zh": "枣红（色名）;酸性枣红（染料）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bordeaux lake",
+    "zh": "酸性枣红色淀",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bordeaux turpentine(=French turpentine)",
+    "zh": "枣红松节油；法国松节油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "border",
+    "zh": "边缘；边沿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "border curve",
+    "zh": "界面曲线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bordered pit",
+    "zh": "具缘纹孔",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bordered pit-pair",
+    "zh": "具缘纹孔对",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline",
+    "zh": "分界线；边界线；轮廓线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline acid",
+    "zh": "边缘酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline base",
+    "zh": "边缘碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline curve",
+    "zh": "边界线曲线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline dilatancy",
+    "zh": "边界膨胀性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline knock curve",
+    "zh": "边界(线)爆震曲线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline mechanism",
+    "zh": "边界机理*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline method",
+    "zh": "边界线法（评价汽油抗爆性）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline motor fuel",
+    "zh": "卡边发动机燃料（其性质刚合标准）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "borderline sensitivity",
+    "zh": "边界灵敏度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "border motif",
+    "zh": "界面形色；边界形态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Bradford crude oil",
+    "zh": "布拉德福德原油（美）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "brilliant bordeaux",
+    "zh": "亮枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "buffer for electrode calibration",
+    "zh": "电极校正用缓冲溶液；电极校准用缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cable corder",
+    "zh": "帘子线并捻机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium",
+    "zh": "镉（48号元素，化学符号 Cd）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium acetate",
+    "zh": "乙酸镉 Cd(C₂H₃O₂)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium borotungstate",
+    "zh": "硼钨酸镉 2CdO·B₂O₃·9WO₃·18H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium bromate",
+    "zh": "溴酸镉 Cd(BrO₃)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium bromide",
+    "zh": "溴化镉 CdBr₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium chlorate",
+    "zh": "氯酸镉 Cd(ClO₃)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium chloride",
+    "zh": "氯化镉 CdCl₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium cyanate",
+    "zh": "氰酸镉 Cd(OCN)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium cyanide",
+    "zh": "氰化镉 Cd(CN)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium dithionate",
+    "zh": "连二硫酸镉 CdSO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium ethide",
+    "zh": "乙基镉 Cd(CH)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium ferricyanide",
+    "zh": "氰铁酸镉 Cd[Fe(CN)]",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium ferrocyanide",
+    "zh": "氰亚铁酸镉 Cd[Fe(CN)]",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium fluoride",
+    "zh": "氟化镉 CdF",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium fluosilicate",
+    "zh": "氟硅酸镉 Cd[SiF]",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium hydride",
+    "zh": "氢化镉 CdH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium hydroxide",
+    "zh": "氢氧化镉 Cd(OH)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium iodate",
+    "zh": "碘酸镉 Cd(IO)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium iodide",
+    "zh": "碘化镉 CdI",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium metasilicate",
+    "zh": "硅酸镉 CdSiO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium methide",
+    "zh": "甲基镉 Cd(CH)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium nitrate",
+    "zh": "硝酸镉 Cd(NO)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium orthosilicate",
+    "zh": "正硅酸镉 CdSiO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium oxalate",
+    "zh": "草酸镉 CdCO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium oxide",
+    "zh": "一氧化镉 CdO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium oxybromide",
+    "zh": "溴氧化镉 BrCd·O·CdBr </div>",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium oxychloride",
+    "zh": "氯氧化镉：二氯一氧化二镉 ClCd·O·CdCl",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium oxyiodide",
+    "zh": "碘氧化镉 ICd·O·CdI",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium perchlorate",
+    "zh": "高氯酸镉 Cd(ClO₄)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium permanganate",
+    "zh": "高锰酸镉 Cd(MnO₄)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium peroxide",
+    "zh": "过氧化镉 Cd(O₂)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium phosphate",
+    "zh": "磷酸镉 Cd₃(PO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium selenate",
+    "zh": "硒酸镉 CdSeO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium selenide",
+    "zh": "硒化镉 CdSe",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium silicofluoride",
+    "zh": "氟硅酸镉 Cd[SiF₆]",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cadmium suboxide",
+    "zh": "一氧化二镉 Cd₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium sulfate",
+    "zh": "硫酸镉 CdSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium sulfide",
+    "zh": "硫化镉 CdS",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium sulfite",
+    "zh": "亚硫酸镉 CdSO₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium telluride",
+    "zh": "碲化镉 CdTe",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium yellow",
+    "zh": "镉黄 CdS",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calibration",
+    "zh": "校准；校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration accuracy",
+    "zh": "标定精度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration chart (=calibration scales)",
+    "zh": "校准表；校准图",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration check compound",
+    "zh": "校准用对照化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration correction",
+    "zh": "刻度校准；校准修正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration curve",
+    "zh": "校正曲线；标准曲线；工作曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration curve method",
+    "zh": "校正曲线法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration factor",
+    "zh": "校准因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration filter",
+    "zh": "校准滤光片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration function",
+    "zh": "校准函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration gas",
+    "zh": "校准气体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration graph",
+    "zh": "校正图",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration leak",
+    "zh": "校准漏孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration line",
+    "zh": "定标线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration mark",
+    "zh": "校准标记",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration model",
+    "zh": "校正模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of absorbance scale",
+    "zh": "吸光度标度校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of conductivity vessels",
+    "zh": "电导池校准；电导容器校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of peak area",
+    "zh": "峰面积校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of reference fuel",
+    "zh": "参比燃料校准；标准燃料校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of viscometer",
+    "zh": "黏度计标定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of wavelength scale",
+    "zh": "波长标度校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration of weights",
+    "zh": "砝码校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration peak",
+    "zh": "定标峰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration procedure",
+    "zh": "校准程序；校正方法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration sample",
+    "zh": "校准试样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration scales (=calibration chart)",
+    "zh": "校准表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration set",
+    "zh": "校正集",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration standard",
+    "zh": "校准标准：校准标准物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration standard method",
+    "zh": "校准标准法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration system",
+    "zh": "校准系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibration table (=calibration chart)",
+    "zh": "校准表",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "candela",
+    "zh": "坎德拉；新(国际)烛光（光强单位，符号 cd, 1 国际烛光=1.018cd）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "canonical coordinate",
+    "zh": "正则坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capacitance recorder",
+    "zh": "电容电阻记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbon monoxide recorder",
+    "zh": "一氧化碳记录器(记录空气中的含量)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Cary recording spectrophotometer",
+    "zh": "凯利记录式分光光度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytical discoloring spectrophotometry",
+    "zh": "催化退色分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalytic colorimetry",
+    "zh": "催化比色法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalytic fluorimetry",
+    "zh": "催化荧光法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalytic spectrophotometry",
+    "zh": "催化分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cefdinir",
+    "zh": "头孢地尼（药）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "center-of-mass coordinate",
+    "zh": "质心坐标*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cetane number in borderline",
+    "zh": "在交界线的十六烷值；卡边的十六烷值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain-ordering",
+    "zh": "链序列；链有序排列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain orientational disorder",
+    "zh": "链取向无序*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charged particle X-ray fluorescence",
+    "zh": "带电粒子(致)X射线荧光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charged particle X-ray fluorescence analysis",
+    "zh": "带电粒子X射线荧光分析*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charge transfer spectrophotometry",
+    "zh": "电荷转移分光光度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chart recorder",
+    "zh": "图表记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorazol fast bordeaux",
+    "zh": "氯唑坚牢枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlordane (=octa-klor)",
+    "zh": "氯丹；八氯化甲桥茚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorpheniramine (=chlorphenamine)",
+    "zh": "氯苯那敏；氯屈米；氯曲米通（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorprophenpyridamine (=chlorpheniramine)",
+    "zh": "扑尔敏；氯芬胺（药，俗名）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chord",
+    "zh": "翼弦",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chord modulus",
+    "zh": "切弦模数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chromaticity coordinate",
+    "zh": "色度坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromatospectrophotometric",
+    "zh": "色谱分光光度法的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chrome mordant",
+    "zh": "铬媒染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrome printing bordeaux",
+    "zh": "铬印染枣红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "circular dichroism",
+    "zh": "圆二色性*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coefficient multiple derivative spectrophotometry",
+    "zh": "系数倍率导数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coefficient of concordance",
+    "zh": "和谐性系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coherent anti-Stockes Raman spectroscopy",
+    "zh": "相干反斯托克斯拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coherent Raman spectroscopy",
+    "zh": "相干拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coherent Stokes Raman spectroscopy",
+    "zh": "相干斯托克斯拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "colinearity",
+    "zh": "同线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "color coordinate",
+    "zh": "色坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "color cord",
+    "zh": "色带",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "colorimetric",
+    "zh": "比色的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetrical analysis",
+    "zh": "色度分析; 比色分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetrical coordinate",
+    "zh": "色坐标",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "colorimetric analysis",
+    "zh": "比色分析(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric determination",
+    "zh": "比色测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric disc",
+    "zh": "比色盘",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric estimation",
+    "zh": "比色测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric method",
+    "zh": "比色法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric method of chromium",
+    "zh": "铬的比色测定法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric method with ninhydrin",
+    "zh": "苗三酮比色法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric method with salicylate acid",
+    "zh": "水杨酸比色法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric purity",
+    "zh": "色彩纯度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric standard illuminant",
+    "zh": "彩色标准光源; 彩色标准发光物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric system",
+    "zh": "色度体系",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetric tube",
+    "zh": "比色管",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colorimetry",
+    "zh": "比色法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color order system",
+    "zh": "颜色序列体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "colour coordinates",
+    "zh": "色坐标值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combined derivative spectrophotometry",
+    "zh": "组合导数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combustion recorder",
+    "zh": "燃烧记录器combustion research 燃烧研究",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compact steel cord",
+    "zh": "密封结构钢丝帘线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "competition coordination",
+    "zh": "竞争络合(反应)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "competitive coordination",
+    "zh": "竞争配位(价)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "completely automatic colorimetric analyzer",
+    "zh": "全自动比色分析器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "complete reflection long-pass spectrophotometry",
+    "zh": "全反射长光路分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "computational spectrophotometry",
+    "zh": "计算分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "configurational disorder",
+    "zh": "构型无序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "configuration coordinate",
+    "zh": "位形坐标*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "conformational disorder",
+    "zh": "构象无序*温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous method for calibration with ISE",
+    "zh": "离子选择电极连续校准法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "control of detection limit",
+    "zh": "检出限控制",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "convected coordinate",
+    "zh": "迁移坐标；轮换坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate",
+    "zh": "配位的；配价的;坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate axis",
+    "zh": "坐标轴",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate bond",
+    "zh": "配位键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate complex",
+    "zh": "配位化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate complex salt",
+    "zh": "配位复盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate-covalent bond",
+    "zh": "配位共价键*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated-anionic mechanism",
+    "zh": "配位阴离子机理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated anionic polymerization",
+    "zh": "配位阴离子聚合(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated cationic polymerization",
+    "zh": "配位阳离子聚合(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated ionic polymerization",
+    "zh": "配位离子聚合(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated metal complex",
+    "zh": "配位金属配合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated polymer",
+    "zh": "配位聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinated water",
+    "zh": "配位水",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate electrovalent bond",
+    "zh": "配位电价键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate factor",
+    "zh": "配位因子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate formula",
+    "zh": "配位式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate link (=coordinate bond)",
+    "zh": "配位键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate linkage (=coordinate link)",
+    "zh": "配位键",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinately linked",
+    "zh": "配位地；键合的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate motion",
+    "zh": "协调动作",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate paper",
+    "zh": "坐标纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate plane",
+    "zh": "坐标平面；标轴面",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate polymerization",
+    "zh": "配位聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate repression",
+    "zh": "电价阻遏;配位阻遏；协同抑制",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate scale",
+    "zh": "坐标标度(刻度)；坐标(比例)尺",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate system",
+    "zh": "坐标系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate valence",
+    "zh": "配位价",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinate valence force",
+    "zh": "配位价力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinating atom",
+    "zh": "配位原子 Coordinating Fuel and Equipment Research Committee燃料及设备研究协调委员会 Coordinating Lubricant and Equipment Research",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinating polyhedron",
+    "zh": "配位多面体*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination",
+    "zh": "配位作用*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination agent",
+    "zh": "配位剂*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination anion",
+    "zh": "配(位)阴离子*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination cation",
+    "zh": "配(位)阳离子*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination center",
+    "zh": "配位中心*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination complex",
+    "zh": "配位化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination effect",
+    "zh": "配位效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination formula",
+    "zh": "配位式；配价式",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination group",
+    "zh": "配位基",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination ion",
+    "zh": "配离子*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination isomerism",
+    "zh": "配位异构*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination link (=coordination linkage)",
+    "zh": "配位键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination linkage (=coordination link)",
+    "zh": "配位键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination number",
+    "zh": "配位数*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination polyhedron",
+    "zh": "配位多面体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination polymer",
+    "zh": "配位聚合物*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination polymerization",
+    "zh": "配位聚合*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination position isomerism",
+    "zh": "配位位置异构(现象)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination shell",
+    "zh": "配位壳(层)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination theory",
+    "zh": "配位理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordination type initiator",
+    "zh": "配位型引发剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinative activity",
+    "zh": "配位活性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coordinative polymerization isomerism",
+    "zh": "配位聚合异构*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper mordant",
+    "zh": "铜媒染剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cord",
+    "zh": "帘布；帘线;条痕;绳;科德（一种木材体积单位）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord body",
+    "zh": "帘布层；胎体；胎身",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord count",
+    "zh": "帘布密度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord dipping",
+    "zh": "帘子线浸胶；帘线浸胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord drive",
+    "zh": "绳传动",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "corded fabric",
+    "zh": "灯芯布",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cord fabric",
+    "zh": "帘子布；帘布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord factor",
+    "zh": "索因子",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cordial",
+    "zh": "强心药;浸果酒",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cordierite",
+    "zh": "萃青石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cordierite-based glass fibre",
+    "zh": "萃青石基玻璃纤维",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cord-in-rubber test",
+    "zh": "橡胶内帘子线试验",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cordite",
+    "zh": "柯达炸药；柯戴特（硝棉、硝化甘油、石油脂炸药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cord lock-ups",
+    "zh": "帘布卷边",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cordol",
+    "zh": "帘布酚；水杨酸三溴苯酯 cord ply 帘线层；帘布层",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord roller",
+    "zh": "导纱辊",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord tyre fabric",
+    "zh": "轮胎布，帘布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cord-wood",
+    "zh": "层积材（以科德(即128立方英尺)为单位出售的小木料和枝材等）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cordycepic acid",
+    "zh": "虫草酸 cordycepin 虫草品〔取自冬虫夏草属的胃虫草〕",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cordycepose",
+    "zh": "虫草糖 core ;心层;铁心;原子实;(中心;心板(层压木板的))",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crystal coordinates",
+    "zh": "晶体坐标",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crystalline order",
+    "zh": "晶态有序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crystal order",
+    "zh": "晶序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "curvilinear coordinate",
+    "zh": "曲线坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclically ordered pulse sequence",
+    "zh": "循环指令脉冲序列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclic coordinate",
+    "zh": "环坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylinder coordinate",
+    "zh": "柱面坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylindrical polar coordinate system",
+    "zh": "柱面极坐标系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylindrical coordinate",
+    "zh": "柱面坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "data recording",
+    "zh": "数据记录",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "data retrieval recorder",
+    "zh": "数据检索记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "decentralized and coordinated control",
+    "zh": "分散集中型控制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deformational nonlinearity",
+    "zh": "形变非线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deformation coordinate",
+    "zh": "形变坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of disorder",
+    "zh": "无序度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of internal order (",
+    "zh": "分子)内部有序度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of order",
+    "zh": "有序度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "density recorder",
+    "zh": "自记密度计；比重纪录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "depressor bar recorder",
+    "zh": "抑制记录棒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "derivative ratio spectrophotometry",
+    "zh": "比值导数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "derivative spectrophotometry",
+    "zh": "导数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "derivative synchronous fluorimetry",
+    "zh": "导数同步荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "detection limit",
+    "zh": "检出限*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "detection limit of spectral analysis",
+    "zh": "光谱分析检出限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deuterated polyethylene",
+    "zh": "氘化聚乙烯 (CD₂)ₙ",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deuteroacetoprotic acid",
+    "zh": "氘乙酸 CD₃COOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dianil bordeaux",
+    "zh": "双苯胺枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazamine bordeaux",
+    "zh": "重氮胺枣红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazogen bordeaux",
+    "zh": "重氮精枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazol bordeaux",
+    "zh": "重氮盐枣红；显色盐枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazol light bordeaux",
+    "zh": "重氮浅枣红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "differential pressure recorder",
+    "zh": "差压记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "differential spectrophotometry",
+    "zh": "示差分光光度法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffraction order",
+    "zh": "衍射级",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "difumarate",
+    "zh": "富马酸氢盐 COOHCH=CHCOOM;富马酸氢酯 COOHCH=CHCOORDIFunctional 双官能的 </div>",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimensionless coordinate",
+    "zh": "无因次坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl cadmium",
+    "zh": "二甲基镉 Cd(CH₃)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dipped cord",
+    "zh": "浸胶帘线；浸渍帘子线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "directionally ordered structure",
+    "zh": "指向有序结构",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "direct recording polarograph",
+    "zh": "直接记录式极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "discolour spectrophotometry",
+    "zh": "褪色分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "discordant polar system",
+    "zh": "参差极性系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disorder",
+    "zh": "无序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered",
+    "zh": "无序(态)的；不规则的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered carbon",
+    "zh": "无序碳；不正常碳",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered chain",
+    "zh": "不规则链；不整齐链",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered chain propagation",
+    "zh": "不规则链增长",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered fold surface",
+    "zh": "不规则折叠面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered orientation",
+    "zh": "无序取向",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered region",
+    "zh": "无序区",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered state",
+    "zh": "无序状态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordered structure",
+    "zh": "无规结构；无序结构",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordering agent",
+    "zh": "破序剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disordering effect",
+    "zh": "无序化效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "distance recorder",
+    "zh": "遥测记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "domain of order",
+    "zh": "有序畴",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dotting recorder",
+    "zh": "打点式记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drying time automatic recorder(=drying time recorder)",
+    "zh": "干燥时间自动记录仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drying time recorder(=drying time automatic recorder)",
+    "zh": "干燥时间自动记录仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual pen recorder",
+    "zh": "双笔记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual wavelength - factor spectrophotometry",
+    "zh": "双波长系数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual wavelength spectrophotometry",
+    "zh": "双波长分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic calibration",
+    "zh": "动态校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ecdysial fluid",
+    "zh": "蜕皮液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effect of order",
+    "zh": "有序效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrochemical probe",
+    "zh": "电化学探针electrochromic display device(ECD) 电致变色显示器；电致显色装置",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrolytic fluorescence spectrophotometry",
+    "zh": "电解荧光分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron capture detector(ECD)",
+    "zh": "电子捕获检测器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron excited X-ray fluorescence analysis",
+    "zh": "电子激发 X射线荧光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electronic recorder",
+    "zh": "电子记录仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eluting order",
+    "zh": "洗脱顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elution order",
+    "zh": "洗脱顺序;流出顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "embedded coordinate",
+    "zh": "嵌入坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emulsion calibration curve",
+    "zh": "乳剂校准(特性)曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end-on coordination",
+    "zh": "端向配位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy-dispersion X-ray fluorescence spectrometer",
+    "zh": "能量色散 X 射线荧光光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy dispersion X-ray fluorescence spectrometry",
+    "zh": "能量色散 X 射线荧光光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy dispersive X-ray fluorescence(EDXRF)",
+    "zh": "能量分散 X 射线荧光(分析)",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "energy dispersive X-ray fluorescence spectrometry",
+    "zh": "能量分散式 X 射线荧光光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy diverged X-ray fluorescence spectrometry",
+    "zh": "能量色散 X 射线荧光光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enzyme allosteric effect",
+    "zh": "酶的别构效应 enzyme-catalytic kinetic spectrophotometry 酶催化动力学分光光度法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "expanded-scale spectrophotometry",
+    "zh": "扩展标尺分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extraction-catalytical kinetic spectrophotometry",
+    "zh": "萃取催化动力学光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extraction-inhibition kinetic spectrophotometry",
+    "zh": "萃取阻抑动力学光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extraordinary ray",
+    "zh": "非常射线；非常光线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "factor analysis spectrophotometry",
+    "zh": "因子分析分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "first order",
+    "zh": "一级；一次;第一级（数）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order configuration",
+    "zh": "一级组态",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order coupling spectrum",
+    "zh": "一级耦合谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order derivative titration",
+    "zh": "一级导数滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order differential titration",
+    "zh": "一次微分滴定；一级导数滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order directional focusing mass spectrometer",
+    "zh": "一级方向聚焦质谱计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order direction focusing",
+    "zh": "一级方向聚焦",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order focusing",
+    "zh": "一级聚焦",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order nucleation",
+    "zh": "一级成核作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order phase transformation",
+    "zh": "一级相变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order reaction",
+    "zh": "一级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order reduced density matrix",
+    "zh": "一阶约化密度矩阵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order spectrum",
+    "zh": "一级光谱；一级图谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order spin pattern",
+    "zh": "一级自旋图形",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first-order transition",
+    "zh": "一级跃迁;一级转变（指高分子物从高弹态到黏流态转变）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order transition point",
+    "zh": "一级转变点;一级跃迁点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first-order transition temperature",
+    "zh": "一级转变温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "first order velocity focusing",
+    "zh": "一级速度聚焦",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fixed coordinate",
+    "zh": "固定坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flame spectrophotometry",
+    "zh": "火焰分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flotation spectrophotometry",
+    "zh": "浮选分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flowing liquid colorimetric detector",
+    "zh": "流液比色检测器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flow injection-spectrophotometry",
+    "zh": "流动注射分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flow recorder",
+    "zh": "流量记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flow recording controller",
+    "zh": "流量记录控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluorescence spectrophotometry",
+    "zh": "荧光分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorimetric detector",
+    "zh": "荧光检测器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorimetric determination",
+    "zh": "荧光测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorimetric labelling technique",
+    "zh": "荧光计量法标记技术",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorimetry",
+    "zh": "荧光测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorometry(=fluorimetry)",
+    "zh": "荧光分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ford cup",
+    "zh": "福特(黏度)杯",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Ford viscosity cup",
+    "zh": "福特黏度杯",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "four-coordinate complex",
+    "zh": "四配位(数)复盐；四配价复盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fourier transform infrared spectrometer(FTIR)",
+    "zh": "傅里叶变换红外光谱仪",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Fourier transform Raman spectroscopy",
+    "zh": "傅里叶变换拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "four-pen recorder",
+    "zh": "四笔记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fraas breaking point",
+    "zh": "弗拉斯沥青破裂点(或温度)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Fraas tester (",
+    "zh": "测定沥青强度的)弗拉斯试验器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fractional order reaction",
+    "zh": "分数级反应；非整数级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "French turpentine(=bordeaux turpentine)",
+    "zh": "枣红松节油; 法国松节油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fringe order",
+    "zh": "缨状有序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuzzy clustering analysis",
+    "zh": "模糊聚类分析 fuzzy cluster-partial least squares regression spectrophotometry模糊聚类-偏最小二乘光度法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "galvanometer recorder",
+    "zh": "检流计记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gamma-ray nuclear resonance spectrofluorimetry γ",
+    "zh": "射线核共振分光荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gardner drying time recorder",
+    "zh": "加德纳干燥时间记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas density recorder",
+    "zh": "气体密度记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "general chromaticity coordinate",
+    "zh": "普通色度坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "general electric recording spectrophotometer",
+    "zh": "普通电子记录分光光度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "generalized coordinate",
+    "zh": "广义坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "goniospectrophotometry",
+    "zh": "测角分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Goodrich cord testing vibrator",
+    "zh": "古德里奇型帘子线测试用振动仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gradient ratio calibration",
+    "zh": "梯度比校正",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graphic recorder",
+    "zh": "图解记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "graphite furnace",
+    "zh": "石墨炉 graphite furnace atomic absorption spectrometry(GFAAS)石墨炉原子吸收光谱法",
+    "role": "secondary",
+    "confidence": 5.5
+  },
+  {
+    "en": "Haas-Oettel cell",
+    "zh": "哈斯-奥提耳电池",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Hadamard transform Raman spectroscopy",
+    "zh": "阿达马变换拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hamiltonian coordinate",
+    "zh": "哈密顿坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hanford thermite process",
+    "zh": "汉福特铝热过程（将高放射性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heating cord",
+    "zh": "电炉线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hexacoordinated aluminum-hydroxy",
+    "zh": "六配位的铝-羟基",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "higher order compound",
+    "zh": "高级化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "higher order reaction",
+    "zh": "高级次反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "higher order structure",
+    "zh": "高次结构；高序结构",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-lateral order",
+    "zh": "高侧序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hollow cathode discharge tube (HCDT)",
+    "zh": "空心阴极放电管；空心阴极灯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "holographic recording",
+    "zh": "全息记录",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hordenine",
+    "zh": "大麦芽碱；对二甲氨乙基苯酚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horizontal coordinate",
+    "zh": "横坐标；水平坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horsfordite",
+    "zh": "锑铜矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hose cord",
+    "zh": "水龙带合股纱线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "host-guest coordination",
+    "zh": "主体-客体配位作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-pen type recorder",
+    "zh": "热笔式记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-stretched cord",
+    "zh": "热拉伸的帘子线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "humidity recorder",
+    "zh": "湿度记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrometer calibration (",
+    "zh": "液体)比重计校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ICP quantometer",
+    "zh": "电感耦合等离子体光量计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ICP spectrograph",
+    "zh": "电感耦合等离子体摄谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "indirect spectrophotometric method",
+    "zh": "间接分光光度法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "indirect spectrophotometry",
+    "zh": "间接分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indophenol blue colorimetry",
+    "zh": "靛酚蓝比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "induced circular dichroism",
+    "zh": "诱导圆二色性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inductively coupled plasma ionization source",
+    "zh": "电感耦合等离子体质谱 inductively coupled plasma mass spectrometer(ICP-MS)电感耦合等离子体质谱仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "infrared spectrophotometry",
+    "zh": "红外分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inhibition discoloring spectrophotometry",
+    "zh": "抑制褪色光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inhibition kinetic-spectrophotometry",
+    "zh": "阻抑动力学光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "integral mould(=accordin mould)",
+    "zh": "集成模具",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intercalibration",
+    "zh": "相互校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interface reaction order",
+    "zh": "界面反应级数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intermittent-contact recorder",
+    "zh": "间歇接触记录机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intermolecular order",
+    "zh": "分子间有序(状态)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intermolecular second order moment",
+    "zh": "分子间二级矩",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intramolecular second order moment",
+    "zh": "分子内二级矩",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion exchange resin spectrophotometry",
+    "zh": "离子交换树脂分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionization buffer for flame AAS",
+    "zh": "火焰原子光谱法的电离缓冲剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "iron mordant",
+    "zh": "铁质媒染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isoabsorption point-spectrophotometry",
+    "zh": "等吸收点分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isothermal linearity",
+    "zh": "等温线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope excited X-ray fluorescence spectrometry",
+    "zh": "同位素激发 X 射线荧光法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Janecke coordinate",
+    "zh": "简克坐标（液-液萃取用）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "jordan",
+    "zh": "锥形精磨机; 低速磨浆机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Jordan chest",
+    "zh": "约旦(储浆)柜",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Jordan engine",
+    "zh": "约旦(打浆)机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "jordanite",
+    "zh": "锑硫砷铅矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Jordan refiner",
+    "zh": "约旦精制机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Jordan's double focusing mass spectrograph",
+    "zh": "乔丹双聚焦质谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Kalman filter spectrophotometry",
+    "zh": "卡尔曼滤波分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kanirin",
+    "zh": "氧化三甲胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinetic colorimetry",
+    "zh": "动力学比色法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kinetic spectrophotometry",
+    "zh": "动力学分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kordofan gum",
+    "zh": "金合欢胶；阿拉伯树胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laser induced fluorimetry",
+    "zh": "激光诱导荧光(测定)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lateral order",
+    "zh": "侧序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lateral order distribution",
+    "zh": "侧序分布",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lattice disorder",
+    "zh": "晶格无序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lattice order",
+    "zh": "晶格序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laying down order",
+    "zh": "铺绵顺序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lead mordant",
+    "zh": "铅媒染剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lenirobin(=chrysarobin tetra-acetate)",
+    "zh": "四乙酸柯桠素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limit of quantification",
+    "zh": "测定(极)限；定量限",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear calibration",
+    "zh": "线性校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear calibration curve",
+    "zh": "线性校准曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linearity",
+    "zh": "线性；直线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "line recorder mass spectrometer",
+    "zh": "连续记录质谱计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "local order",
+    "zh": "局部有序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "longitudinal order",
+    "zh": "纵次序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long-range order",
+    "zh": "长程有序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lower chord member",
+    "zh": "下弦构件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "low-temperature fluorimetry",
+    "zh": "低温荧光法 low-temperature Fourier transform infrared spectroscopy傅里叶变换低温红外光谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lubrication order",
+    "zh": "润滑程序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "macdougallin",
+    "zh": "仙人掌甾醇；甲(基)胆甾烯二醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "macromolecular order",
+    "zh": "高分子序态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "made-to-order",
+    "zh": "特制：定制；按定户要求制作",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "magnetic circular dichroism(MCD)",
+    "zh": "磁性圆二色散",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "magnetic tape cassette recorder",
+    "zh": "盒式磁带记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "magnetic recording pigment",
+    "zh": "磁性录音颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "manganese mordant",
+    "zh": "锰媒染剂〔染〕",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mass detection limit",
+    "zh": "质量检测限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maximum detection limit",
+    "zh": "最大检测限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl cadmium",
+    "zh": "甲基镉 Cd(CH₃)₂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "micellar (solubilization) spectrophotometry",
+    "zh": "胶束(增溶)分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized flow injection spectrophotometry",
+    "zh": "胶束增敏流动注射分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micelle-sensitized fluorimetry",
+    "zh": "胶束增敏荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcomponent",
+    "zh": "微量组分 microcomputer-controlled recording spectrophotometer微型计算机控制自记分光光度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcoulometric detector(MCD)",
+    "zh": "微库仑检测器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "microfossil analysis",
+    "zh": "微量化石分析 micro-Fourier transform infrared spectrometry(M-FTIR)显微傅里叶变换红外光谱法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "microscopic Raman spectroscopy",
+    "zh": "显微拉曼光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microspectrophotometric analysis",
+    "zh": "显微分光光度分析法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microspectrophotometry",
+    "zh": "显微分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "millirutherford",
+    "zh": "毫卢瑟福",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "miscalibration",
+    "zh": "校准误差；校准失误",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixing order",
+    "zh": "加料顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moisture recording controller",
+    "zh": "水分记录控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molecular order",
+    "zh": "分子序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "momordicin",
+    "zh": "苦瓜叶素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "momordin",
+    "zh": "苦瓜定；木鳖子皂苷；苦瓜毒蛋白",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "momordin Ic",
+    "zh": "地肤子皂苷 Ic",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant",
+    "zh": "媒染剂;媒染的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant color(=mordant dye)",
+    "zh": "媒染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant dye(=mordant color)",
+    "zh": "媒染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant dyeing",
+    "zh": "媒染(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant-fixed dye",
+    "zh": "固着媒染染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordanting",
+    "zh": "媒染;酸洗（冶）;浸色;浸治",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordanting bath",
+    "zh": "媒染液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordanting dye",
+    "zh": "媒染染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordanting process",
+    "zh": "媒染法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant rouge",
+    "zh": "媒染红",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant toning",
+    "zh": "媒染调色法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordant yellow",
+    "zh": "媒染黄（染）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mordenite",
+    "zh": "发光沸石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moving coordinate system",
+    "zh": "移动坐标系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-channel pulse height analyzer",
+    "zh": "多道脉冲高度分析器multi-channel recorder 多路记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-channel X-ray fluorescence spectrometer",
+    "zh": "多道X射线荧光光谱仪*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multicollinearity",
+    "zh": "多重共线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multicomponent spectrophotometry",
+    "zh": "多组分分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple cord tyre",
+    "zh": "多层外胎",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multiple linear regression spectrophotometry",
+    "zh": "多元线性回归分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple recording device",
+    "zh": "多能记录装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple record recorder",
+    "zh": "多记记录器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multipoint recorder",
+    "zh": "多点记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multivariate calibration",
+    "zh": "多元校正；多变量校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi wavelength spectrophotometry",
+    "zh": "多波长分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "naphthamine brilliant bordeaux",
+    "zh": "萘胺亮枣红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "near infrared Fourier transform surface-enhanced Raman spectroscopy",
+    "zh": "近红外傅里叶变换表面增强拉曼光谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "near-infrared spectroscopy",
+    "zh": "近红外光谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niranium",
+    "zh": "含镍镶牙合金",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "niribine oil(=black currant flower oil)",
+    "zh": "黑茶藨子花油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "niromycin(=nairomycin)",
+    "zh": "新露霉素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nirvanol(=5-phenyl-5-ethylhydantoin)",
+    "zh": "尼凡诺；5-苯基-5-乙基海因",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nocarbon recording paper",
+    "zh": "无碳复写纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nondispersive X-ray fluorescence",
+    "zh": "非色散X射线荧光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonirradiated",
+    "zh": "未经照射的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonirritating",
+    "zh": "无刺激性的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-linear calibration",
+    "zh": "非线性校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linearity",
+    "zh": "非线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linearity split stream",
+    "zh": "非线性分流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linear Raman spectroscopy",
+    "zh": "非线性拉曼光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-recording instrument",
+    "zh": "非记录式仪器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nordenskiöldine",
+    "zh": "硼钙锡矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Nordhausen acid",
+    "zh": "发烟硫酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nordihydroguaiaretic acid",
+    "zh": "去甲二氢愈创木酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nordin",
+    "zh": "诺定素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nuclear analytical method",
+    "zh": "核分析(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "null seeking recorder",
+    "zh": "找零记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "octa-klor(=chlordane)",
+    "zh": "氯丹：八氯化甲桥茚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil mordant",
+    "zh": "石油媒染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "one-dimensional order",
+    "zh": "单向有序；线型有序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "on-line colorimetric analysis",
+    "zh": "流线比色分析；在线比色分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "operation recorder",
+    "zh": "操作记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "optical fiber resonance Raman spectroscopy",
+    "zh": "光纤共振拉曼光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordeal bark",
+    "zh": "毒树皮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordeal bean",
+    "zh": "毒豆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order",
+    "zh": "秩序;级；次；次序；等级",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order-disorder distribution",
+    "zh": "有序-无序分布(状态)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order-disorder (phase) transition",
+    "zh": "有序-无序(相)转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order-disorder transformation",
+    "zh": "有序-无序转变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order-disorder transition",
+    "zh": "有序-无序转变",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order distribution",
+    "zh": "序态分布",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered alloy",
+    "zh": "有序合金",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered aromatic copolyamide",
+    "zh": "有序芳族共聚酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered arrangement",
+    "zh": "有序排列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered copolymer",
+    "zh": "有序共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered copolymerization",
+    "zh": "有序共聚(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered domain",
+    "zh": "有序(微)区",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered-form",
+    "zh": "有序型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered heterocyclic copolymer",
+    "zh": "有序杂环共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered heterocyclic-imide copolymer",
+    "zh": "有序(的)杂环酰亚胺共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered lattice",
+    "zh": "有序晶格",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered linear copolymer",
+    "zh": "有规线型共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered point defect",
+    "zh": "有序点缺陷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered polymer",
+    "zh": "有序聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered region",
+    "zh": "有序区",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered sequence",
+    "zh": "有序序列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordered structure",
+    "zh": "有序结构",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordering",
+    "zh": "调整;有序化(转变)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordering beat treatment",
+    "zh": "有序化热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordering parameter",
+    "zh": "排列次序参数；调整参数；有序化参数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordering reaction",
+    "zh": "有序化反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orderly shutdown",
+    "zh": "正常停车",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orderly three-dimensional arrangement",
+    "zh": "有序三维(度)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order number",
+    "zh": "原子序(数)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of addition",
+    "zh": "加料顺序；加药顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of compound",
+    "zh": "化合物次序;化合物目数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of diffraction",
+    "zh": "衍射级",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of excellence",
+    "zh": "优劣顺序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of magnitude",
+    "zh": "数量级",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of multiple-quantum coherence",
+    "zh": "多量子相干的阶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of prefix",
+    "zh": "词头的次序：字头的次序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of radical",
+    "zh": "基名的次序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of reaction",
+    "zh": "反应级数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of resonance",
+    "zh": "共振序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of spectrum",
+    "zh": "光谱级",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order of volatility",
+    "zh": "挥发顺序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order parameter",
+    "zh": "序参数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order sorter (",
+    "zh": "光谱)级数分类器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "order statistics",
+    "zh": "顺序统计量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinal",
+    "zh": "序数;按序的;属于某目的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinal number",
+    "zh": "序数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinal test",
+    "zh": "定序试验;定目试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary (",
+    "zh": "寻)常的；普通的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary bond(=ordinary link)",
+    "zh": "单价键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary bright cone",
+    "zh": "普通有光丝筒子；普通有光筒子丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary differential equation",
+    "zh": "常微分方程(式)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary elastic deformation",
+    "zh": "常弹性形变；普(通)弹(性)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary elasticity",
+    "zh": "普通弹性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary extract",
+    "zh": "普通浸膏（未经亚硫酸盐处理的）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary iron",
+    "zh": "铸铁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary least square",
+    "zh": "普通最小二乘",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary least square fitting",
+    "zh": "普通最小二乘拟合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary link(=ordinary linkage)",
+    "zh": "单价键",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary linkage(=ordinary link)",
+    "zh": "单价键",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary loop knot",
+    "zh": "筒子结",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary portland cement",
+    "zh": "普通硅酸盐水泥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary pressure (",
+    "zh": "寻)常压(力)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary ray",
+    "zh": "寻常光线；寻常射线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary superphosphate",
+    "zh": "过磷酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary temperature (",
+    "zh": "寻)常温(度)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary valence",
+    "zh": "主(要化合)价；常见价",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinary water",
+    "zh": "普通水；轻水",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordinate",
+    "zh": "纵(坐)标（数）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordination number",
+    "zh": "原子序(数)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordnance",
+    "zh": "兵工(制)品；军需品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ordosite",
+    "zh": "河套岩；鄂尔多斯岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orientational disorder",
+    "zh": "取向无序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orthogonal coordinate",
+    "zh": "垂直坐标；正交坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orthogonal coordinate system",
+    "zh": "正交坐标系（数）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orthogonal function spectrophotometry",
+    "zh": "正交函数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "out-of-order",
+    "zh": "无次序(的)；出故障(的)；不正常(的)；混乱(的)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Oxford process",
+    "zh": "用硫化钠从铜中分离镍法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Oxford unit",
+    "zh": "青霉素强度单位；牛津单位",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oxidant recorder",
+    "zh": "氧化剂记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "parametrical nonlinearity",
+    "zh": "参数非线性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partial least squares regression spectrophotometry",
+    "zh": "偏最小二乘分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pen recorder",
+    "zh": "笔式记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pen recording polarograph",
+    "zh": "笔录极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pentacoordinate siloxane",
+    "zh": "五配位硅氧烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "perdeuteriomethane",
+    "zh": "全氘甲烷 CD₄",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenol disulfonic acid",
+    "zh": "苯酚二磺酸 phenol-2,4-disulphonic acid colorimetry 酚二磺酸比色法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phosphite-coordinated titanate",
+    "zh": "亚磷酸配位的钛酸盐(酯)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photocolorimetry",
+    "zh": "光比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectric spectrophotometry",
+    "zh": "光电分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectric colorimetry",
+    "zh": "光电比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photographic recording polarograph",
+    "zh": "摄影极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photographic spectrophotometry",
+    "zh": "照相分光(光度)测定法 photographic spectroscope 照相分光镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photon excited X-ray fluorescence analysis",
+    "zh": "光子激发的X射线荧光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photopen recorder",
+    "zh": "光电笔记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photo-recording polarograph",
+    "zh": "照相式极谱仪;摄影极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pH-recorder pH",
+    "zh": "记录器; 氢离子浓度记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pickles tyre cord",
+    "zh": "无纬轮胎帘子布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pigment bordeaux",
+    "zh": "颜料枣红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pinched cord",
+    "zh": "乱线; 线绳错位",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pit border",
+    "zh": "纹孔缘",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plasticorder",
+    "zh": "塑度计：塑性计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Plasti-Corder rheometer",
+    "zh": "普拉斯蒂-科德流变仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Plateau border",
+    "zh": "普拉特奥边界（气泡间三薄膜相遇处，形成微小三角形液柱，该处的曲率半径是负值）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pneumatic double-pen recorder",
+    "zh": "气动双针记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polar coordinate",
+    "zh": "极坐标（数）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polycarboimide(PCD)",
+    "zh": "聚碳酰亚胺",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polychlorinated dibenzo-p-dioxin(s)(PCDD(s))",
+    "zh": "氯代二苯并二噁英",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polycoordination",
+    "zh": "配位缩聚；配位聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyester cord",
+    "zh": "聚酯帘线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyhedral borders liquid cell",
+    "zh": "多面边界液胞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "portable cord",
+    "zh": "移动线；拉线（电）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "potentiometer recorder",
+    "zh": "电势计记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potentiometric recorder",
+    "zh": "电势记录器；电位记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "precalibration",
+    "zh": "预校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precision colorimetry",
+    "zh": "精密比色分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precision of spectrophotometry",
+    "zh": "分光光度法的精密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preferential spectrophotometry",
+    "zh": "优先分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preliminary calibration curve",
+    "zh": "预备校正曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preresonance Raman spectroscopy",
+    "zh": "预共振拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pressure recorder",
+    "zh": "压力记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pressure recording controller",
+    "zh": "压力记录控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primordial radioelement",
+    "zh": "原生放射性元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primordial radionuclide",
+    "zh": "原生放射性核素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primordial sediment",
+    "zh": "原生沉积物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primordium",
+    "zh": "原基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "principal coordinate analysis",
+    "zh": "主坐标分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "principle of coordinate invariance",
+    "zh": "坐标不变性原理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "print out recorder",
+    "zh": "印出记录器 $$",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "process control word",
+    "zh": "过程控制代码",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "program word",
+    "zh": "程序字码; 程序语",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pseudo first order",
+    "zh": "准一级",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pseudo first order reaction",
+    "zh": "准一级反应*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pulse sequence and time-order scheme",
+    "zh": "脉冲序列与时序图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyridine colorimetric method",
+    "zh": "吡啶比色法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantification(=quantitation)",
+    "zh": "定量；量化；以数量计定量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantocorder",
+    "zh": "光电直读式发射光谱仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quantorecorder",
+    "zh": "光量计；辐射强度测量计;光子计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quasi-ordered region",
+    "zh": "准有序区",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radial coordinate",
+    "zh": "径向配位;极坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radial wire (-cord) tire",
+    "zh": "钢丝子午(线)轮胎",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Raman spectroscopy",
+    "zh": "拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ratio recording electric-null system",
+    "zh": "电比率记录式电学零位平衡系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ratio-recording method",
+    "zh": "记录比例法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ratio spectrum derivative UV-spectrophotometry",
+    "zh": "比光谱导数紫外分光光度法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rayon cord",
+    "zh": "嫌萦帘线；黏胶帘线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reaction coordinate",
+    "zh": "反应坐标",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reaction of the third order",
+    "zh": "第三级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reaction order",
+    "zh": "反应级数*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "receiver recorder",
+    "zh": "二级记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recalibration",
+    "zh": "再次校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "record",
+    "zh": "记录;资料；数据",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "record chart",
+    "zh": "记录表；记录纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "recorder",
+    "zh": "记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recorder deflection",
+    "zh": "记录器偏转度；记录器行程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recorder response",
+    "zh": "记录器响应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recorder scan",
+    "zh": "记录器扫描",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording controller",
+    "zh": "记录控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording flow controller",
+    "zh": "自记流量控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording flow meter",
+    "zh": "自记流量计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording gas meter",
+    "zh": "记录式气体流量计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording gear",
+    "zh": "记录传动装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording hygrometer",
+    "zh": "自记湿度计；湿度记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording infrared spectrophotometer",
+    "zh": "记录式红外分光光度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording instrument",
+    "zh": "记录式仪器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording liquid level gauge",
+    "zh": "自记液面仪；液面记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording meter",
+    "zh": "自记计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording oscillograph",
+    "zh": "记录示波器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording pen lifter",
+    "zh": "记录笔升降器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording pen linkage",
+    "zh": "记录笔尖的传动装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording polarograph",
+    "zh": "记录式极谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording pressure gauge",
+    "zh": "自记压力计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording pyrometer",
+    "zh": "自记高温计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording Raman spectrophotometer",
+    "zh": "记录式拉曼分光光度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording spectrometer",
+    "zh": "记录式光谱仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording spectrophotometer",
+    "zh": "记录式分光光度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording thermometer",
+    "zh": "记录式温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recording titrator",
+    "zh": "记录式滴定计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rectangular coordinate",
+    "zh": "直角坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rectilinear coordinate paper",
+    "zh": "直线坐标纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reduced co-ordinates",
+    "zh": "对比坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reduced mordant",
+    "zh": "还原媒染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reflective spectrophotometry",
+    "zh": "反射分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "region of disorder",
+    "zh": "无序区；不规则区",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regular-ordered polymer",
+    "zh": "规则有序聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative detection limit",
+    "zh": "相对检出限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reordering",
+    "zh": "重有序化；重成序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "retention order",
+    "zh": "保留顺序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reversed least square-derivative spectrophotometry",
+    "zh": "逆最小二乘-导数分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle enhanced fluorimetry",
+    "zh": "反向胶束增强荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed micelle-stabilized room temperature fluorimetry",
+    "zh": "逆胶束增稳室温荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rheochord",
+    "zh": "滑线变阻器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "right circular cylinder coordinate",
+    "zh": "竖圆柱坐标系",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rigid coordinate",
+    "zh": "刚性坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ring colorimetry",
+    "zh": "环圈比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotating coordinates",
+    "zh": "旋转坐标系*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotational Raman spectroscopy",
+    "zh": "转动拉曼散射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber sheathed flexible cord",
+    "zh": "橡皮线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Russian leather bordered with pebble grain",
+    "zh": "镶粒俄罗斯革",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rutherford(rd)",
+    "zh": "卢瑟福（放射性强度单位, 1rd=10⁶衰变/秒）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Rutherford back scattering(RBS)",
+    "zh": "卢瑟福背散射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Rutherford back scattering spectroscopy(RBS)",
+    "zh": "卢瑟福背散射谱法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Rutherford-Bohr atom model",
+    "zh": "卢瑟福-玻尔原子模型",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rutherfordine",
+    "zh": "菱铀矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Rutherford prism",
+    "zh": "卢瑟福棱镜",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "salicine bordeaux R",
+    "zh": "柳醇枣红R",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sanfordization",
+    "zh": "防缩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Seabord process of gas purification",
+    "zh": "西鲍尔特气体纯化法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "secondary X-ray fluorescence",
+    "zh": "次级 X 射线荧光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "secondary X-ray fluorescence spectrometry",
+    "zh": "次级 X 射线荧光光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order differential titration",
+    "zh": "二次微分滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order effect",
+    "zh": "二阶效应；次级效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order elasticity",
+    "zh": "二阶弹性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order fluid",
+    "zh": "二阶流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order ionization potential",
+    "zh": "二级电离电势；二级电离电位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order microfluid",
+    "zh": "二阶微观流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order moment",
+    "zh": "次级矩",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order nucleation",
+    "zh": "二级成核作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order phase change",
+    "zh": "二级相变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order rate constant",
+    "zh": "二级(反应)速率常数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order reaction",
+    "zh": "二级反应*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order reduced density matrix",
+    "zh": "二阶约化密度矩阵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order spectrum",
+    "zh": "二级图谱*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order stress",
+    "zh": "二阶应力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order temperature",
+    "zh": "二级转变温度；玻璃化温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order tensor",
+    "zh": "二阶张量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order thermomechanical disturbance",
+    "zh": "二阶热力学扰动",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order transition (",
+    "zh": "第)二级转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order transition point",
+    "zh": "二次转变点；二级转变点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order transition temperature",
+    "zh": "二级转变温度；玻璃化转变温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order viscoelastic fluid",
+    "zh": "二阶黏弹流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order viscoelasticity",
+    "zh": "二阶黏弹性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second order viscoelastic theory",
+    "zh": "二阶黏弹理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second-order viscous effect",
+    "zh": "二阶黏性效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selected ordinate method",
+    "zh": "选择坐标法；图解分析法；选择波长法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-balancing recorder",
+    "zh": "自平衡记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-calibration",
+    "zh": "自动校准",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-ordering rigid-chain polymer",
+    "zh": "自(动有)序刚性链聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-recording",
+    "zh": "自记的; 自动记录的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-recording barometer",
+    "zh": "自录气压计; 自记气压计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-recording dilatometer",
+    "zh": "自(动)记(录)式膨胀计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-recording instrument",
+    "zh": "自记式仪器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-recording measurement",
+    "zh": "自记测量; 自(动)测量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "servoscribe recorder",
+    "zh": "伺服记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "short range order",
+    "zh": "短程有序*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "side-on coordination",
+    "zh": "侧向配位*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single beam non-recording ultraviolet spectrophotometer",
+    "zh": "单光束非记录式紫外分光光度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single channel ICP monochromator",
+    "zh": "单通道电感耦合等离子体单色仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "six coordinate complex",
+    "zh": "六配位络合物;六配位复盐;六配位配合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium metaarsenite",
+    "zh": "偏亚砷酸钠 NaAsO₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid fluorimetry",
+    "zh": "固体荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid phase reflection spectrophotometry",
+    "zh": "固相反射分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid phase spectrophotometry",
+    "zh": "固相分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solid spectrophotometry",
+    "zh": "固相分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "somnirol",
+    "zh": "茄醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spark discharge type recorder",
+    "zh": "火花放电型记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spatial coordinate",
+    "zh": "空间坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spectral order",
+    "zh": "光谱级",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spectrofluorimetry",
+    "zh": "分光荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spectrophotofluorimetry",
+    "zh": "荧光分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spectrophotometric",
+    "zh": "分光光度的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric analysis",
+    "zh": "分光光度分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric color match",
+    "zh": "分光光度计法配色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric curve",
+    "zh": "分光光度曲线：光谱辐射曲线",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric determination",
+    "zh": "分光光度测定(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric evaluation",
+    "zh": "分光光度推定法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric hiding",
+    "zh": "分光光度(法)遮盖力",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric measurement",
+    "zh": "分光光度测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric method",
+    "zh": "分光光度法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric reflectance curve",
+    "zh": "分光光度反射曲线",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric study",
+    "zh": "分光光度测定研究",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric titrating apparatus",
+    "zh": "分光光度滴定仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric titration",
+    "zh": "分光光度滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometric trichromatic colo(u)rimeter",
+    "zh": "分光光度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectrophotometry",
+    "zh": "分光光度测定(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherical coordinate",
+    "zh": "球面坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spherical polar coordinate",
+    "zh": "球极坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spherical polar coordinate system",
+    "zh": "球极坐标系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spot colorimetry",
+    "zh": "点滴比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Stafford process",
+    "zh": "司坦福(干馏)法（一种连续干馏作业）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "standard curve",
+    "zh": "标准曲线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard multipoint recorder",
+    "zh": "标准多点记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "state coordinate",
+    "zh": "状态坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "statistical simulation spectrophotometry",
+    "zh": "统计模拟分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steady-state electroanalytical method",
+    "zh": "稳态电分析法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steel-cord conveyor belt",
+    "zh": "钢丝绳运输带",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "steel wire cord",
+    "zh": "钢丝帘线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "stereo-ordered polymer",
+    "zh": "立构有序聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steric order",
+    "zh": "立构有序；立体秩序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stop-flow fluorimetry",
+    "zh": "停流荧光分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stop-flow spectrophotometry",
+    "zh": "停流分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Stratford centrifuge treating system",
+    "zh": "斯特拉福特离心处理系统（精制石油产品）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Stratford process",
+    "zh": "斯特拉福特法（用脱色白土精制裂化馏分）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Stredford process",
+    "zh": "斯特雷福德法；蒽醌法（净化水煤气和焦炉气）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "strip chart recorder",
+    "zh": "长条纸记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subordinate quantum number",
+    "zh": "次量子数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sugordomycin",
+    "zh": "库马霉素；苏哥多霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "superlattice ordering",
+    "zh": "超晶格有序化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supersonic jet fluorimetry",
+    "zh": "超声喷雾荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supersonic jet synchronous fluorimetry",
+    "zh": "超声喷雾同步荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surface enhanced Raman spectroscopy",
+    "zh": "表面增强拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surface enhanced resonant Raman spectroscopy",
+    "zh": "表面增强共振拉曼光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synchronous derivative fluorimetry",
+    "zh": "同步导数荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchronous fluorimetry",
+    "zh": "同步荧光分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchronous radiation total reflection X-ray fluorescence analysis",
+    "zh": "同步辐射全反射 X 射线荧光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synchrotron radiation X-ray fluorescence spectrometry",
+    "zh": "同步辐射 X 射线荧光法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synthetic calibration sample",
+    "zh": "合成校准样品",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic mordenite",
+    "zh": "合成发光沸石",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tank calibration",
+    "zh": "油罐校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "technical word",
+    "zh": "术语",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "temperature recorder",
+    "zh": "温度记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "temperature recorder-controller",
+    "zh": "温度记录控制器；温度记录调节器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetrazoline colorimetry",
+    "zh": "四唑啉比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal conductivity detector (TCD)",
+    "zh": "热导式检测器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thermal lens spectrophotometry",
+    "zh": "热透镜分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermodynamical coordinate",
+    "zh": "热力学坐标；热力学参数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermometer calibration",
+    "zh": "温度计校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thickened mordant",
+    "zh": "增稠媒染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thioindigo bordeaux",
+    "zh": "硫靛枣红(瓮颜料)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thiosemicarbazide colorimetry",
+    "zh": "氨基硫脲比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "third order aberration",
+    "zh": "第三级像差",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "third-order fluid",
+    "zh": "三阶流体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "third-order meridional diffraction",
+    "zh": "三级子午线衍射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "third order reaction",
+    "zh": "三级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three-channel multipoint recorder",
+    "zh": "三道多点记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three-coordinate complex",
+    "zh": "三配位复盐；三配位络(合)盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three dimensional model for spectrophotometry",
+    "zh": "分光光度法的三维模型；分光光度法的立体模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-dimensional order",
+    "zh": "三维有序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three dimension total scanning fluorimetry",
+    "zh": "三维全扫描荧 three dimensional cross-linked molecule 三维交联分子；体型交联分子",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-pen recorder",
+    "zh": "三笔记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three wavelength spectrophotometry",
+    "zh": "三波长分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "time recorder",
+    "zh": "记时器；时间记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tin mordant",
+    "zh": "锡媒染剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tin mordanting",
+    "zh": "用锡媒染",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tire cord",
+    "zh": "帘子线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "total bond order",
+    "zh": "总键级",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total reflection X-ray fluorescence analysis",
+    "zh": "全反射 X 射线荧光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total reflection X-ray fluorescence spectrometer",
+    "zh": "全反射 X 射线荧光光谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "transformation to linearity",
+    "zh": "线性化变换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transient electroanalytical method",
+    "zh": "暂态电分析方法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "transition order",
+    "zh": "转变次序；跃迁次序",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "transverse carcass cord",
+    "zh": "子午排列帘线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "triangular coordinate",
+    "zh": "三角坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trichromatic colorimetry",
+    "zh": "三色定色法；三(原)色测色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trichromatic coordinates",
+    "zh": "三色坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trilinear coordinates",
+    "zh": "三直线坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tristimulus colorimetry",
+    "zh": "三色激励测色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tristimulus coordinates",
+    "zh": "三原色坐标；色度坐标；三刺激值坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two-channel recorder",
+    "zh": "双道记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two-pen recorder",
+    "zh": "双笔记录仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tyre cord",
+    "zh": "轮胎帘子布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ultramicrospectrophotometry",
+    "zh": "超显微分光光度测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet and visible spectrophotometry",
+    "zh": "紫外-可见分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet laser resonance Raman spectroscopy",
+    "zh": "紫外激发共振拉曼光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultraviolet recorder",
+    "zh": "紫外线记录器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultraviolet spectrophotometric method",
+    "zh": "紫外分光光度法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ultraviolet spectrophotometry",
+    "zh": "紫外分光光度法*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unirradiated fuel",
+    "zh": "未照射过的燃料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "universal calibration",
+    "zh": "普适标定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "universal calibration method",
+    "zh": "通用校正法；普适校正法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vanirom 3-",
+    "zh": "乙氧基-4-羟基苯甲醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapour phase matrix isolation fluorimetry",
+    "zh": "蒸气(汽)相基体隔离荧光法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "variable wavelength spectrophotometric detector",
+    "zh": "可变波长分光光度检测器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "variate calibration",
+    "zh": "变量校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vectorial calibration method",
+    "zh": "矢量校正法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "velsicol 1068(=chlordane)",
+    "zh": "氯丹；八氯化甲桥茚；一〇六八",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "video recording",
+    "zh": "显像记录",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "video recording device",
+    "zh": "显像记录装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscosity alarm recorder",
+    "zh": "黏度警报记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscose cord fabric",
+    "zh": "黏胶帘布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "visible absorption spectrophotometry",
+    "zh": "可见吸收分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "visigraph recorder",
+    "zh": "示波记录器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "visual colorimetric determination",
+    "zh": "目视比色(测定)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "visual colorimetry",
+    "zh": "目视比色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wave length calibration",
+    "zh": "波长校正",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wavelength dispersion spectrometer",
+    "zh": "波长色散光谱仪 wavelength dispersion X-ray fluorescence spectrometer波长色散 X 射线荧光光谱仪 wavelength dispersion X-ray fluorescence spectrometry波长色散 X 射线荧光光谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wavelet transformation-multiple spectrophotometry",
+    "zh": "小波变换多元分光光度法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wave number calibration",
+    "zh": "波数校准*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wave of the first order",
+    "zh": "一级波",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wave of the second order",
+    "zh": "二级波",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wave of the zeroth order",
+    "zh": "零级波",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "webcord process",
+    "zh": "帘布浸胶法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "weftless cord fabric",
+    "zh": "无纬织物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "well-ordered",
+    "zh": "序态良好的；良序的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "well-ordered cluster",
+    "zh": "充分有序群集束；良序群集束",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wilfordic acid",
+    "zh": "雷公藤酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "working order",
+    "zh": "操作顺序；工作状态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-coordinate X",
+    "zh": "坐标；横坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray absorption spectrophotometry",
+    "zh": "单色 X 射线吸收分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "X-ray fluorescence X",
+    "zh": "射线荧光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence absorption X",
+    "zh": "射线荧光吸收",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence analysis X",
+    "zh": "射线荧光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence method X",
+    "zh": "射线荧光分析法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence spectra X",
+    "zh": "射线荧光光谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence spectrometer X",
+    "zh": "射线荧光光谱仪*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence spectrometry X",
+    "zh": "射线荧光光谱法*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray fluorescence spectroscopy X",
+    "zh": "射线荧光光谱学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Y-coordinate Y",
+    "zh": "坐标；纵坐标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero-order reaction",
+    "zh": "零级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero-order streamline",
+    "zh": "零级流线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zeroth order reaction",
+    "zh": "零级反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc mordant",
+    "zh": "锌媒染剂",
+    "role": "secondary",
+    "confidence": 2.0
+  }
+]

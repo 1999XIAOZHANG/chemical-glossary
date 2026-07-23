@@ -1,0 +1,236 @@
+[
+  {
+    "en": "adenosine triphosphate(ATP)",
+    "zh": "腺苷三磷酸；三磷酸腺苷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alicyclic hydrocarbon metabolism",
+    "zh": "脂环烃代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anabolism",
+    "zh": "合成代谢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antimetabolite",
+    "zh": "抗代谢物；代谢拮抗物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antimetabolite analog",
+    "zh": "抗代谢类似物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "basal metabolic rate(BMR)",
+    "zh": "基础代谢率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basal metabolism",
+    "zh": "基础代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basic metabolism",
+    "zh": "基础代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "benzoic acid metabolism",
+    "zh": "苯甲酸代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catabolism",
+    "zh": "分解代谢：降解代谢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "citric acid cycle",
+    "zh": "柠檬酸循环",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drug metabolism",
+    "zh": "药物代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron transport system",
+    "zh": "电子传递体系",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fruitcake",
+    "zh": "水果蛋糕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ghatpot",
+    "zh": "绫",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inadherent",
+    "zh": "不黏结的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inadhesion",
+    "zh": "不密着；不黏合;缺乏黏性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inadhesive",
+    "zh": "不能黏结的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediary metabolism",
+    "zh": "中间代谢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Krebs unit(s)",
+    "zh": "克雷布斯黏度单位（测定高稠度的单位；特别用于颜料浆）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "metabolic",
+    "zh": "代谢的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolic antagonism",
+    "zh": "代谢拮抗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolic balance",
+    "zh": "代谢平衡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolic inhibition test",
+    "zh": "代谢抑制试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolic rate",
+    "zh": "代谢率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolic rate analyzer",
+    "zh": "代谢率分析仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolism sensor",
+    "zh": "代谢型传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metabolite",
+    "zh": "代谢物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitrogenous metabolism",
+    "zh": "氮的代谢作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxidative phosphorylation",
+    "zh": "氧化磷酸化(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "paintcast",
+    "zh": "铸型涂料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phosphorylation",
+    "zh": "磷酸(酰)化(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "photosynthesis",
+    "zh": "光合(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photosynthesis analyzer",
+    "zh": "光合作用分析仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "premetabolite",
+    "zh": "前代谢物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "preparative photosynthesis",
+    "zh": "制备性光化合成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiophosphorylation",
+    "zh": "硫代磷酰化作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trichloroacetic acid(TCA)",
+    "zh": "三氯乙酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "water metabolism",
+    "zh": "水代谢",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

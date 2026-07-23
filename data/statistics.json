@@ -1,0 +1,73 @@
+{
+  "total_entries": 151337,
+  "source": "英汉化学化工词汇（第五版）",
+  "isbn": "978-7-03-046913-7",
+  "publisher": "科学出版社",
+  "edition": "第五版 (2016)",
+  "domains": {
+    "通用化学": {
+      "count": 93393,
+      "key": "general_chemistry"
+    },
+    "环境科学": {
+      "count": 21266,
+      "key": "environmental_science"
+    },
+    "无机化学": {
+      "count": 20312,
+      "key": "inorganic_chemistry"
+    },
+    "有机化学": {
+      "count": 17342,
+      "key": "organic_chemistry"
+    },
+    "物理化学": {
+      "count": 15865,
+      "key": "physical_chemistry"
+    },
+    "化工": {
+      "count": 9386,
+      "key": "chemical_engineering"
+    },
+    "分析化学": {
+      "count": 6914,
+      "key": "analytical_chemistry"
+    },
+    "材料科学": {
+      "count": 6661,
+      "key": "materials_science"
+    },
+    "高分子科学": {
+      "count": 4400,
+      "key": "polymer_science"
+    },
+    "药物化学": {
+      "count": 4322,
+      "key": "pharmaceutical_chemistry"
+    },
+    "地球化学": {
+      "count": 3817,
+      "key": "geological_chemistry"
+    },
+    "生物化学": {
+      "count": 3170,
+      "key": "biochemistry"
+    },
+    "食品科学": {
+      "count": 2072,
+      "key": "food_science"
+    },
+    "染料颜料": {
+      "count": 925,
+      "key": "dye_pigment"
+    },
+    "催化": {
+      "count": 613,
+      "key": "catalysis"
+    },
+    "核科学": {
+      "count": 548,
+      "key": "nuclear_science"
+    }
+  }
+}

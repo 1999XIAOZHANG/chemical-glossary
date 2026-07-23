@@ -1,0 +1,2210 @@
+[
+  {
+    "en": "accelerated sulfur vulcanization",
+    "zh": "促进硫硫化*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acetylcarnanine(=bellamarine)",
+    "zh": "孤挺花碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acetylcarbamide",
+    "zh": "乙酰碳酰二胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acetylcarbinol",
+    "zh": "乙酰甲醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "o-acetylcarnitine o-",
+    "zh": "乙酰肉碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "O-acylcarnitine O-",
+    "zh": "酰基肉碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "additional vulcanization",
+    "zh": "后硫化；二次硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after-vulcanization",
+    "zh": "后硫化作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aged vulcanizate",
+    "zh": "老化后硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "air plus steam vulcanization",
+    "zh": "混气硫化（空气和蒸气并用）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "air vulcanization",
+    "zh": "常温硫化；室温硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "air vulcanizing cement",
+    "zh": "常温硫化胶浆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcahest(=alkahest)",
+    "zh": "仙丹（炼丹术）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcali(=alkali)",
+    "zh": "碱；强碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcaline",
+    "zh": "碱的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcamines",
+    "zh": "醇胺类",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcapton",
+    "zh": "尿黑酸；2,5-二羟基苯乙酸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alcaptonuria",
+    "zh": "尿黑酸尿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkahest(=alcahest)",
+    "zh": "仙丹（炼丹术）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkali(=alcali)",
+    "zh": "碱；强碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkaline aqueous suspension",
+    "zh": "碱性水悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allyl cyclohexylcapronate",
+    "zh": "环己基己酸烯丙酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium uranate",
+    "zh": "铀酸铵 ammonium uranylcarbonate 碳酸氧铀铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aq(=aqueous)",
+    "zh": "水的；含水的；水成的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous",
+    "zh": "水的;含水的;水成的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous acrylic pressure sensitive adhesive",
+    "zh": "水性丙烯酸压敏黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous adhesive",
+    "zh": "水基胶黏剂；水溶黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous alcohol",
+    "zh": "含水酒精",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous alcoholic",
+    "zh": "含水酒精的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous ammonia",
+    "zh": "氨水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous caustic",
+    "zh": "苛性碱液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous coagulation bath",
+    "zh": "水溶液凝固浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous continuous phase",
+    "zh": "水连续相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous cooling solution",
+    "zh": "冷却水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous deposit",
+    "zh": "水成沉积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous dispersion",
+    "zh": "水分散体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous dispersoid of reclaim",
+    "zh": "再生橡胶水分散体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous distillate",
+    "zh": "水馏分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous emulsion",
+    "zh": "水乳浊液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous extract",
+    "zh": "水提(出)物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous-favoring",
+    "zh": "亲水相的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous fusion",
+    "zh": "水熔(作用)〔结晶体在其本身的结晶水中熔化〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous hydrazine",
+    "zh": "含水肼",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous layer",
+    "zh": "水层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous liquid",
+    "zh": "水成液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous medium",
+    "zh": "水介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous mobile phase",
+    "zh": "含水流动相",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous phase",
+    "zh": "水相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous phase partition",
+    "zh": "水相分配",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous phenol",
+    "zh": "含水酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous photoresist",
+    "zh": "液态光阻",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous polymer dispersion",
+    "zh": "聚合物水分散体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous polymerization",
+    "zh": "水相聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous reactor fuel",
+    "zh": "水溶液反应堆燃料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous reprocessing",
+    "zh": "水法后处理*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous salt spinning",
+    "zh": "盐溶液纺丝(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous sample",
+    "zh": "含水试样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous-slurry polymerization",
+    "zh": "水相淤浆聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous soluble oil",
+    "zh": "可乳化油（冷却切削刀具用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous solution",
+    "zh": "水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous solution growth",
+    "zh": "水溶液生长",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous spinning bath",
+    "zh": "水溶液纺丝浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous stratum",
+    "zh": "蓄水层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous subphase",
+    "zh": "纯水亚相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous tension",
+    "zh": "水蒸气张力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous tincture",
+    "zh": "含水酊剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous two-phase system",
+    "zh": "双水相系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous type adhesive",
+    "zh": "水溶型黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous vapour",
+    "zh": "水汽;水蒸气",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous vapour pressure",
+    "zh": "水汽压",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous vapour tension",
+    "zh": "水汽张力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous varnish(=water thinned varnish)",
+    "zh": "水性漆: 水稀释性清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aromatization catalytic process",
+    "zh": "催化芳构化过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure vulcanization",
+    "zh": "常压硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auto-vulcanization",
+    "zh": "常温硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autovulcanizing stock",
+    "zh": "常温硫化胶料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bellamarine(=acetylcaranine)",
+    "zh": "孤挺花碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzyl dimethylcarbinyl acetate",
+    "zh": "乙酸苄基二甲基甲酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bilateral vulcanization",
+    "zh": "双面硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biodegradable polyester",
+    "zh": "生物裂解聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biodegradable polymer",
+    "zh": "生物降解高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "p-tert-butylcatechol",
+    "zh": "对叔丁基邻苯二酚（抑制剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcar",
+    "zh": "熔(玻璃)炉：锻烧炉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcar arch",
+    "zh": "熔(玻璃)炉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareobarite",
+    "zh": "钙重晶石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous",
+    "zh": "石灰的;含钙的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous aeolianite",
+    "zh": "钙质风成岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous brick",
+    "zh": "钙质砖",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous cement",
+    "zh": "石灰黏合剂；钙质水泥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous clay",
+    "zh": "钙质黏土；石灰质黏土",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous dolostone",
+    "zh": "钙质白云岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous hydraulic binder",
+    "zh": "水凝灰浆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous phyllite",
+    "zh": "钙质千枚岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous rock",
+    "zh": "钙质岩；石灰岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous sandstone",
+    "zh": "钙质砂岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous sediment",
+    "zh": "钙质沉积物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous sinter",
+    "zh": "钙质凝灰岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous slag",
+    "zh": "石灰炉渣",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous spar",
+    "zh": "方解石 CaCO₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous spring",
+    "zh": "钙泉；石灰泉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous tuff",
+    "zh": "石灰性凝灰岩；石灰华",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcareous water",
+    "zh": "石灰水;硬水",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcarious",
+    "zh": "含钙的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcariuria",
+    "zh": "石灰尿；钙盐尿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcarius",
+    "zh": "石灰质的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcarone",
+    "zh": "炼硫窑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbonless vulcanized elastomer",
+    "zh": "无炭黑硫化高弹体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic process",
+    "zh": "催化过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catenary continuous vulcanizer",
+    "zh": "弯管式连续硫化机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chalcacene",
+    "zh": "白垩省 C30H16",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chalcanthite",
+    "zh": "蓝矾；胆矾；五水(合)硫酸铜 CuSO4·5H2O",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical vulcanizate",
+    "zh": "化学硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromatography in aqueous media",
+    "zh": "水介质色谱(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of vulcanization",
+    "zh": "硫化系数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coil vulcanized",
+    "zh": "冷(法)硫化的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cold (cured) vulcanizate",
+    "zh": "冷硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cold vulcanization",
+    "zh": "冷硫化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cold-vulcanizing machine",
+    "zh": "冷硫化机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "conditions of vulcanization",
+    "zh": "硫化条件",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous process vulcanizer",
+    "zh": "连续操作硫化机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "covulcanizability",
+    "zh": "共硫化性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclohexylcarbinol",
+    "zh": "环己基甲醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanization",
+    "zh": "脱硫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanized product",
+    "zh": "再生胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanized (waste) rubber",
+    "zh": "再生胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanizer",
+    "zh": "脱硫器；反硫化器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanizing",
+    "zh": "脱硫",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanizing agent",
+    "zh": "脱硫剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanizing pan",
+    "zh": "脱硫釜",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dichlorophenol sulfonphthalein",
+    "zh": "氯酚红;二氯苯酚磺酰酞 $$ 1,1-dichloroethane) 双氯苯二氯乙烷；双(对氯苯基) 3,3'-dichlorophenyl diisocyanate 3,3'-二氯苯基二异氰酸 3-(3,4-dichlorophenyl)-1,1-dimethylurea(DCMU) 二氯苯 1,3-dichloro-p-phenylene diisocyanate 1,3-二氯对亚苯基二异氰酸酯（硫化剂） di(p-chlorophenyl)-methylcarbinol(=1,1-bis(p-chlorophenyl)-",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dicumyl peroxide vulcanized elastomer",
+    "zh": "过氧化二枯基硫化的弹性体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dicyclohexylcarbodiimide(DCC; DCCI)",
+    "zh": "二环己基碳二亚胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diethylcarbamazine",
+    "zh": "乙胺嗪（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "differentiating nonaqueous titration",
+    "zh": "差示非水滴定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "digester devulcanizing method",
+    "zh": "水油脱硫法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diisopropylcarbinol",
+    "zh": "二异丙基甲醇 $(CH_{3})_{2}CHOCH(CH_{3})_{2}$ </div>",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethylcarbinol",
+    "zh": "异丙醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl phenylcarbinol",
+    "zh": "二甲基苯甲醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dry heat vulcanization",
+    "zh": "干热硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual tire vulcanizer",
+    "zh": "双模化胎硫化机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dulcamarin",
+    "zh": "苦茄苷；蜀羊泉苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dynamic steam devulcanization",
+    "zh": "废胶动态再生法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dynamic vulcanization",
+    "zh": "动态硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "efficient vulcanization",
+    "zh": "有效硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron beam vulcanization",
+    "zh": "电子束硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electronic vulcanizer",
+    "zh": "高频硫化装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emulsified aqueous wax polish",
+    "zh": "水-蜡乳液光亮剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endless vulcanization",
+    "zh": "连续硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "equivalent vulcanization",
+    "zh": "等效硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl dibutylcarbamate",
+    "zh": "二丁氨基甲酸乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl phenylcarbinol",
+    "zh": "乙基苯基甲醇 C₂H₅CHOHC₆H₅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "faintly alcaline reaction",
+    "zh": "弱碱性反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "filled vulcanizate",
+    "zh": "填料硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "filler-free vulcanizate",
+    "zh": "无填料硫化胶；纯硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fischer-Tropsch catalytic process",
+    "zh": "费-托催化过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flash vulcanization",
+    "zh": "超速硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flow injection-renewable surface technique",
+    "zh": "流动注射-可更新表面技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid bed vulcanization",
+    "zh": "流动床硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free vulcanization",
+    "zh": "无模硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gama-vulcanizate （",
+    "zh": "丙种射线）辐射硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas vulcanization （",
+    "zh": "用）气体硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gelling-vulcanizing",
+    "zh": "胶凝硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground vulcanized scrap",
+    "zh": "废硫化胶末",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hand-screw vulcanizing press",
+    "zh": "手旋硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat of vulcanization",
+    "zh": "硫化热",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat vulcanizate",
+    "zh": "热硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat vulcanization",
+    "zh": "热硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heterogeneous vulcanization",
+    "zh": "不均匀硫化*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-frequency vulcanization",
+    "zh": "高频(率)硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-speed vulcanization",
+    "zh": "快速硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-air vulcanization",
+    "zh": "热空气硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot vulcanization",
+    "zh": "热硫化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydraulic vulcanizing press",
+    "zh": "水压硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incomplete vulcanization",
+    "zh": "不完全硫化；部分硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "indicator for non-aqueous acid-base titration",
+    "zh": "非水酸碱滴定指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indicator for nonaqueous system",
+    "zh": "非水体系指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indicator for nonaqueous titration",
+    "zh": "非水滴定指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "individual vulcanizer",
+    "zh": "单人硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "infrared vulcanization",
+    "zh": "红外(线)硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "initial vulcanization step",
+    "zh": "硫化开始阶段；硫化初期",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inter-vulcanizability",
+    "zh": "共硫化性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isobutylcapramide",
+    "zh": "异丁基癸酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isothermal vulcanization",
+    "zh": "等温硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "latex vulcanizate",
+    "zh": "胶乳硫化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "LCAO-MO method",
+    "zh": "原子轨道的线性组合-分子轨道法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "life cycle analysis(LCA)",
+    "zh": "产品生命周期分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methylcarvacryl ketone",
+    "zh": "甲基香芹基(甲)酮 CH₃COC₁₀H₁₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl-isohexylcarbinol",
+    "zh": "甲基异己基甲醇；6-甲基-2-庚醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microwave vulcanization",
+    "zh": "微波硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mold vulcanization",
+    "zh": "模型硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mould vulcanization",
+    "zh": "模塑硫化（橡）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiform unit vulcanizer",
+    "zh": "多份硫化器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "natural rubber vulcanizate",
+    "zh": "天然(胶)硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-aqueous",
+    "zh": "非水的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous adhesive",
+    "zh": "非水溶液(型)黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous catalytic thermometric titration",
+    "zh": "非水催化热滴定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous colloid",
+    "zh": "非水胶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous cooling medium",
+    "zh": "非水冷却介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous dispersion",
+    "zh": "非水分散(作用);非水分散体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonaqueous electrochemistry",
+    "zh": "非水溶液电化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonaqueous finishing agent",
+    "zh": "非水整理剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonaqueous finishing composition",
+    "zh": "非水整理剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous gel permeation",
+    "zh": "非水凝胶渗透",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous ion exchange",
+    "zh": "非水离子交换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonaqueous leaching",
+    "zh": "非水溶液浸出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous media",
+    "zh": "非水介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonaqueous mill base",
+    "zh": "非水漆浆(颜料浆)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous phase chromatography",
+    "zh": "非水相色谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous phase partition chromatography",
+    "zh": "无水相分配色谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous phosphating",
+    "zh": "非水性磷化处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous phosphating primer",
+    "zh": "非水磷化底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous polymerization",
+    "zh": "非水相聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous processing",
+    "zh": "非水处理法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous reprocessing",
+    "zh": "非水法后处理*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous reversed phase chromatography",
+    "zh": "无水(相)反相色谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous solubilization",
+    "zh": "非水增溶(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous solution",
+    "zh": "非水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous solvent",
+    "zh": "非水溶剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous titrimetry",
+    "zh": "非水滴定(分析)法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-biodegradable",
+    "zh": "不能生物降解的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-catalytic process",
+    "zh": "非催化过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-renewable energy resources",
+    "zh": "不可再生能源",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-sulfur vulcanization",
+    "zh": "非硫硫化*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "one-factor experiment",
+    "zh": "单因子试验；单因素试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "open vulcanization",
+    "zh": "无模硫化*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "overvulcanization",
+    "zh": "过度硫化；硫化过度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pan vulcanization",
+    "zh": "罐中硫化法（橡）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "partial vulcanization",
+    "zh": "部分硫化 α-particle α粒(子)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Peachey process of vulcanization",
+    "zh": "皮契硫化法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxide vulcanization",
+    "zh": "过氧化物硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxide vulcanizing agent",
+    "zh": "过氧化物硫化剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenthylcarbamide",
+    "zh": "苯乙基脲",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenyl carbamate",
+    "zh": "氨基甲酸苯酯 NH₂CO₂C₆H₅ 3-phenylcarbamido(=3-phenylureido) 苯氨基甲酰氨基;苯脲基 C6H5NHCONH—",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenylcarbamoyl",
+    "zh": "苯氨羰基；苯氨基甲酰 C6H5NHCO—",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenylcarbinol",
+    "zh": "苯甲醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenyldiphenylcarbinol",
+    "zh": "苯基二苯基甲醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenyl-urea",
+    "zh": "苯脲 C₆H₅NHCONH₂ 3-phenylureido(=3-phenylcarbamido) 苯氨基甲酰氨基；苯脲基 C₆H₅NHCONH—",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photovulcanization",
+    "zh": "光硫化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polydiisopropylcarbinol methacrylate",
+    "zh": "聚甲基丙烯酸二异丙基甲醇酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post vulcanization",
+    "zh": "后硫化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "powdered vulcanized rubber",
+    "zh": "粉状硫化橡胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature vulcanization(=bin cure) (",
+    "zh": "橡胶)早期硫化；仓储硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pressurized aqueous combustion(PAC)",
+    "zh": "压水燃烧法；湿空气氧化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "press vulcanization",
+    "zh": "加压硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "press vulcanizer",
+    "zh": "平压硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "prevulcanization",
+    "zh": "预(先)硫化(作用)；过早硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "prevulcanized",
+    "zh": "预硫化的；预硬化的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primary vulcanization",
+    "zh": "第一次硫化；定型硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "promoter of vulcanization",
+    "zh": "硫化活性(促进)剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pseudo-vulcanizate",
+    "zh": "假硫化橡胶（橡）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrrolylcarbonyl(=pyrroyl)",
+    "zh": "吡咯基甲酰；吡咯羰基 C5H3NO",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiovulcanization",
+    "zh": "无线电硫化；高频硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reclaim vulcanizate",
+    "zh": "翻造硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "renewable energy sources",
+    "zh": "可再生能源 renewals 备件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "revulcanization",
+    "zh": "再(次)硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "room temperature vulcanization",
+    "zh": "室温硫化；常温硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber unvulcanizate",
+    "zh": "未硫化胶料；混炼胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scullcap",
+    "zh": "黄芩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-texturing yarn",
+    "zh": "自变形丝 self-thermosetting(=self-curing;ambient cure,self-vulcanizing)自(热)固化；室温固化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-vulcanizing",
+    "zh": "自动硫化*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-vulcanizing adhesive",
+    "zh": "自硫化黏合剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semi-vulcanization",
+    "zh": "半硫化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "skullcap",
+    "zh": "黄芩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Sola catalytic process (",
+    "zh": "降低锅垢生成的)索拉催化法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soladulcamarine",
+    "zh": "茄甜苦碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solvent-free",
+    "zh": "无溶剂的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free alkylammonium",
+    "zh": "无溶剂烷基铵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free analysis",
+    "zh": "无溶剂分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free coating",
+    "zh": "无溶剂涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free encapsulated pigment",
+    "zh": "无溶剂胶囊颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free injection",
+    "zh": "无溶剂注射",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free liquid epoxy resin",
+    "zh": "无溶剂液体环氧树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free melt extrusion",
+    "zh": "无溶剂熔体挤出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free paint",
+    "zh": "无溶剂漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free polyisocyanate",
+    "zh": "无溶剂多异氰酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free polyurethane adhesive",
+    "zh": "无溶剂聚氨酯黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free shaping",
+    "zh": "无溶剂成形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free single layer complex",
+    "zh": "无溶剂(分子)单层配合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "state of vulcanization",
+    "zh": "硫化程度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steam vulcanization",
+    "zh": "蒸汽硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfur-cured vulcanizate",
+    "zh": "硫黄硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfur-free vulcanization",
+    "zh": "无硫硫化；无硫硬化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfurless vulcanizing agent",
+    "zh": "无硫硫化剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfur vulcanization",
+    "zh": "硫黄硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "super HILCA",
+    "zh": "超重离子直线加速器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sustainable development",
+    "zh": "可持续发展",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank type vulcanizer",
+    "zh": "硫化罐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetraethyldiaminotriphenylcarbinol",
+    "zh": "二(N-二乙氨基苯基)苯甲醇 [(C₂H₅)₂NC₆H₄]₂C(OH)C₆H₅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetramethyl-diaminobenzophenone",
+    "zh": "四甲基二氨基二苯（甲）酮 N-tetramethyl diaminodiphenylcarbinol(=Michler's hydrol)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermovulcanizate",
+    "zh": "热硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thiolcarbamic ethyl ester",
+    "zh": "硫羟氨基甲酸乙酯 H₂NCOSC₂H₅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thiolcarbonic acid",
+    "zh": "一硫羟碳酸 OHCOSH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thiolcarbonic ester",
+    "zh": "硫羟碳酸酯 RSCOOR",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "titration in nonaqueous solvent",
+    "zh": "非水溶剂滴定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "triphenylcarbinol",
+    "zh": "三苯基甲醇 (C₆H₅)₃COH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "triphenylcarbinol methyl ether",
+    "zh": "三苯甲基甲基醚 (C₆H₅)₃COCH₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "triphenylcarbonium ion",
+    "zh": "三苯基碳离子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two catalytic process",
+    "zh": "两段催化法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unaccelerated sulfur vulcanizate",
+    "zh": "无促进剂的硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "undervulcanization",
+    "zh": "欠硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unfilled gum vulcanizate",
+    "zh": "纯硫化胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit tyre vulcanizer",
+    "zh": "单元外胎硫化器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit vulcanizer",
+    "zh": "单元硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unloaded vulcanizate",
+    "zh": "纯硫化胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unvulcanized",
+    "zh": "未硫化的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unvulcanized rubber",
+    "zh": "生胶；未硫化橡胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic",
+    "zh": "火山的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic ash",
+    "zh": "火山灰石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic gas",
+    "zh": "火山气体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic glass",
+    "zh": "火山玻璃；松脂石",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic mud",
+    "zh": "火山泥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanics",
+    "zh": "火山岩；含硅硫黄；火山物质；辉石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volcanic tuff",
+    "zh": "火山凝灰岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcacite",
+    "zh": "乌卡赛特（硫化促进剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcafor",
+    "zh": "乌卡福（硫化促进剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcalock process",
+    "zh": "异构化增强橡胶作业法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcameter",
+    "zh": "硫化仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcamycin(=novobiocin)",
+    "zh": "新生霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcan fast red B",
+    "zh": "硫化坚牢红 B",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanite",
+    "zh": "硫化橡胶；硬质橡胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizable plasticizer",
+    "zh": "可硫化的增塑剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizate",
+    "zh": "硫化橡胶；橡皮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization",
+    "zh": "硫化;硬化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization accelerator",
+    "zh": "硫化促进剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization activator",
+    "zh": "硫化活化(性)剂*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization aid",
+    "zh": "硫化助剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization bond",
+    "zh": "硫化结合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization characteristic",
+    "zh": "硫化特性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization coefficient",
+    "zh": "硫化系数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization curve",
+    "zh": "硫化曲线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization cycle controller",
+    "zh": "硫化时序控制器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization leveller",
+    "zh": "硫化调节剂；硫化活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization process",
+    "zh": "硫化工序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization rate",
+    "zh": "硫化速度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization reaction",
+    "zh": "硫化反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization relationship",
+    "zh": "硫化关系曲线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization retarder",
+    "zh": "硫化延迟剂*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization system",
+    "zh": "硫化体系",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizator",
+    "zh": "硫化剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized",
+    "zh": "硫化的;硬化的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized article",
+    "zh": "硫化成品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized asbestos",
+    "zh": "夹胶石棉制品（如制动片）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized bitumen",
+    "zh": "硬化沥青",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized fatty oil",
+    "zh": "油膏（软化剂、增量剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized fiber",
+    "zh": "硬化纸板",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized fiber paper",
+    "zh": "硬化纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized latex",
+    "zh": "硫化橡浆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized oil",
+    "zh": "硫化油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized paper",
+    "zh": "氯化锌硬化的纸料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanized rubber",
+    "zh": "硫化橡胶；橡皮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizer",
+    "zh": "硫化罐;硫化机;硫化剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing",
+    "zh": "硫化的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing agent",
+    "zh": "硫化剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing apparatus",
+    "zh": "硫化器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing boiler",
+    "zh": "硫化罐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing chamber",
+    "zh": "硫化室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing group",
+    "zh": "硫化基团",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing heater",
+    "zh": "加热硫化机;加热硫化罐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing ingredient",
+    "zh": "硫化剂：硫化加入的成分",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing pan",
+    "zh": "硫化锅",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing plant",
+    "zh": "加硫设备；硫化装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing press",
+    "zh": "加压硫化机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanizing properties",
+    "zh": "硫化性质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcan oil",
+    "zh": "硫化油；加硫动植物油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanosol",
+    "zh": "乌卡洛塞尔（混炼胶着色剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcan powder",
+    "zh": "伏尔甘炸药（30%硝化甘油，52.5% , 10.5%木炭，7%硫黄）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water thinned varnish(=aqueous varnish)",
+    "zh": "水性漆；水稀释性清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water vulcanization (",
+    "zh": "过)热水硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  }
+]

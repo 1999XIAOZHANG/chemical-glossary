@@ -1,0 +1,1802 @@
+[
+  {
+    "en": "abundance of isotope",
+    "zh": "同位素丰度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid mantle (",
+    "zh": "皮肤的)酸保护层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerodynamic isotope separation",
+    "zh": "空气动力学法同位素分离(法)*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alpha-emitting isotope α",
+    "zh": "放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticrustator",
+    "zh": "表面硬化防止剂；防结垢剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-incrustant",
+    "zh": "防水垢剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-sedimentation",
+    "zh": "抗沉积(降)作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-sedimentation agent",
+    "zh": "防沉(降)剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atom percent (of isotope) (",
+    "zh": "同位素)原子(超额)百分数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "band isotope effect",
+    "zh": "光带同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basic sediment",
+    "zh": "碱性沉积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-emitting isotope β",
+    "zh": "放射同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bottleneck isotope “",
+    "zh": "瓶颈”同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bottom sediment",
+    "zh": "底部籽晶(生长)法;底沉积物；脚子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bottom sediment and water",
+    "zh": "油脚与水；底部残渣与水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcareous sediment",
+    "zh": "钙质沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical isotope separation",
+    "zh": "化学法同位素分离(法)*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chronogeochemistry",
+    "zh": "年代地球化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coagulant sedimentation",
+    "zh": "混凝沉淀法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cobalt crust",
+    "zh": "钴华 Co₃(AsO₄)₂·8H₂O",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "condensed phase isotope effect",
+    "zh": "凝聚相同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact metamorphism",
+    "zh": "接触变性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust",
+    "zh": "外皮;壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust forming agent",
+    "zh": "表皮形成剂；结皮剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crusting",
+    "zh": "结硬皮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crustization",
+    "zh": "结壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust leather",
+    "zh": "坯革；半硝革",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust of cobalt",
+    "zh": "钴壳；钴华",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust of iron",
+    "zh": "铁渣;氧化皮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crust sorter",
+    "zh": "坯革挑选工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "daughter isotope",
+    "zh": "子体同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deposition sedimentation",
+    "zh": "沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deuterium isotope effect",
+    "zh": "氘同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diagenesis",
+    "zh": "成岩作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential sedimentation",
+    "zh": "差示沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct isotope dilution method",
+    "zh": "直接同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double isotope derivative method",
+    "zh": "双同位素衍生物法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double isotope dilution method",
+    "zh": "双同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double mantle column oven",
+    "zh": "双罩柱加热炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "doubly-closed-shell isotope",
+    "zh": "双闭合壳层同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "earth crust",
+    "zh": "地壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electric mantle",
+    "zh": "电热套",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrothermal mantle",
+    "zh": "电热罩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emission spectral analysis of isotopes",
+    "zh": "同位素发射光谱分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "encrust",
+    "zh": "包的皮壳；结壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enriched isotope",
+    "zh": "浓缩同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enriched metal stable isotope",
+    "zh": "浓缩金属稳定同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "equilibrium constants for isotope-exchange reactions",
+    "zh": "同位素交换反应的平衡常数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "essential trace element",
+    "zh": "必需微量元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "filter mantle",
+    "zh": "过滤罩；滤罩;微孔陶瓷过滤管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fissile isotope",
+    "zh": "裂生同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fissiogenic isotope",
+    "zh": "裂生同位素；裂变成因同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flinty crust",
+    "zh": "硬壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation by sedimentation velocity",
+    "zh": "沉降速度分级(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gravitational sedimentation",
+    "zh": "重力沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "halogen sediment",
+    "zh": "卤化沉积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard-caked sediment",
+    "zh": "硬(结)沉淀(物);硬底（油漆储存缺陷）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heating mantle",
+    "zh": "加热夹套；罩式电热器；加热帽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy-isotope buildup",
+    "zh": "重同位素积累",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high flux isotope reactor (HFIR)",
+    "zh": "高通量同位素(生产)堆",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high precision isotope ratio mass spectrometer",
+    "zh": "高精度同位素比质谱计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrometamorphism",
+    "zh": "水热变质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immunoradiometric assay(IRMA)",
+    "zh": "免疫放射分析*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "incrustation",
+    "zh": "表面硬化;结壳;沉垢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "incrustation-proof pipe",
+    "zh": "防表面硬化纺丝管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induced radioisotope",
+    "zh": "感生放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inorganic sediments",
+    "zh": "无机沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inverse isotope dilution method",
+    "zh": "反同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inverse isotope effect",
+    "zh": "逆同位素效应*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inverse metamorphism",
+    "zh": "逆变形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "IRT method(=isotope ratio tracer)",
+    "zh": "同位素比示踪剂法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope",
+    "zh": "同位素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope abundance",
+    "zh": "同位素丰度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope addition method",
+    "zh": "同位素加入法; 直接同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope analysis",
+    "zh": "同位素分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope assay",
+    "zh": "同位素分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope broadening",
+    "zh": "同位素加宽",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope buildup",
+    "zh": "同位素累积",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope capsule",
+    "zh": "同位素源盒",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope carrier",
+    "zh": "同位素载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope cask(=isotope container; isotope flask)",
+    "zh": "同位素(储运)容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope chart",
+    "zh": "同位素图表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope chemistry",
+    "zh": "同位素化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope cisternography",
+    "zh": "同位素脑池造影法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope container(=isotope cask; isotope flask)",
+    "zh": "同位素(储运)容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope cow",
+    "zh": "同位素母牛发生器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dating",
+    "zh": "同位素年代测定*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope derivative method",
+    "zh": "同位素衍生物法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution",
+    "zh": "同位素稀释(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution analysis(IDA)",
+    "zh": "同位素稀释分析(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution mass spectrometry(IDM)",
+    "zh": "同位素稀释质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution method",
+    "zh": "同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution-neutron activation analysis",
+    "zh": "同位素稀释中子活化分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope dilution spark source mass spectrometry",
+    "zh": "同位素稀释火花源质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope effect",
+    "zh": "同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope enrichment",
+    "zh": "同位素富集; 同位素浓集",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope exchange method",
+    "zh": "同位素交换法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope exchange reaction",
+    "zh": "同位素交换反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope excited X-ray fluorescence spectrometry",
+    "zh": "同位素激发 X 射线荧光法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope farming",
+    "zh": "同位素农作；同位素饲养",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope flask(=isotope cask)",
+    "zh": "同位素(储运)容器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope fractionation",
+    "zh": "同位素分离；同位素分凝；同位素分馏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope gauge",
+    "zh": "同位素仪表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope generator",
+    "zh": "同位素电源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope geochemistry",
+    "zh": "同位素地球化学",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "isotope geochronology",
+    "zh": "同位素地质年代学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope geology",
+    "zh": "同位素地质学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope handling calculator",
+    "zh": "同位素操作计算尺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope hydrology",
+    "zh": "同位素水文学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope ion",
+    "zh": "同位素离子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope irradiator",
+    "zh": "同位素辐照器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope isomer",
+    "zh": "同位素异构体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope-isomeric",
+    "zh": "同位素异构的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope-isomeric mixture",
+    "zh": "同位素异构混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope-isomerism",
+    "zh": "同位素异构(现象)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope-isomerization",
+    "zh": "同位素异构作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope labeling",
+    "zh": "同位素标记",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope level detector",
+    "zh": "同位素液面检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope mass ratio",
+    "zh": "同位素质量比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope mass spectrometer",
+    "zh": "同位素质谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope mass spectrometry",
+    "zh": "同位素质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope milker",
+    "zh": "子体同位素发生器;子体同位素产生生物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope milking",
+    "zh": "从母体中分离子体同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope mixture",
+    "zh": "同位素混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope neutralizer",
+    "zh": "同位素电中和器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope peak",
+    "zh": "同位素峰",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope pool",
+    "zh": "同位素库",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope production reactor",
+    "zh": "同位素生产(反应)堆",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope ratio mass spectrometer",
+    "zh": "同位素比质谱计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope ratio tracer method",
+    "zh": "同位素比示踪物法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope replacement method",
+    "zh": "同位素取代法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotopes broadening",
+    "zh": "同位素变宽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope separation",
+    "zh": "同位素分离",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope separator",
+    "zh": "同位素分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope-separator-on-line(ISOL)",
+    "zh": "在线同位素分离器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope shift",
+    "zh": "同位素位移",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope side band",
+    "zh": "同位素边峰",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope spectrum line",
+    "zh": "同位素谱线",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope tagging detection",
+    "zh": "同位素示踪探测",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope tracer",
+    "zh": "同位素示踪剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isotope tracer technique",
+    "zh": "同位素示踪技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kerosene sediment test",
+    "zh": "煤油中沉积物的测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinetic isotope effect",
+    "zh": "动力学同位素效应*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kinetic solvent isotope effect(KSIE)",
+    "zh": "动态溶剂同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lac encrusted twig",
+    "zh": "紫梗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lake sediment",
+    "zh": "湖底沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser isotope separation",
+    "zh": "激光同位素分离",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead isotope dating method",
+    "zh": "铅同位素(定)年代法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lincrusta",
+    "zh": "油毡纸: 彩色拷花墙纸(商标名)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "load metamorphism",
+    "zh": "承载变性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low pulse sedimentation",
+    "zh": "低脉动沉淀技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metamorphism (",
+    "zh": "岩石)变形现象",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "minor isotopes safeguard technique(MIST)",
+    "zh": "次要(小量)同位素核监督技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Mössbauer isotope",
+    "zh": "穆斯堡尔同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multihundred watt radioisotope thermoelectric generator (MHW -RTG) (",
+    "zh": "多)百瓦级放射性同位素热电换能器 (能源)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple isotope dilution method",
+    "zh": "多同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiplet isotope dilution method",
+    "zh": "多重同位素稀释(分析)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural abundance of isotopes",
+    "zh": "同位素的天然丰度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neutron-poor isotope",
+    "zh": "缺中子同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear geochemistry",
+    "zh": "核地球化学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oceanic sediment",
+    "zh": "海洋沉积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil crust",
+    "zh": "油壳；固体油层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil sediments",
+    "zh": "油中沉淀物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organogenous sediment",
+    "zh": "有机沉淀物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "outer mantle of flame",
+    "zh": "火焰外光轮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "parent radioisotope",
+    "zh": "母体放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "petrol sediment bulb",
+    "zh": "汽油沉降器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment sediment",
+    "zh": "颜料沉积物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plain sedimentation",
+    "zh": "简单沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potassium-argon age",
+    "zh": "钾-氩(法测得的)年龄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium-argon dating method",
+    "zh": "钾氩定年代法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium-argon method",
+    "zh": "钾-氩法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium-argon method of age determination",
+    "zh": "钾氩法(地",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary isotope effect",
+    "zh": "一级同位素效应*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primeval isotope",
+    "zh": "原始(时代)的同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primordial sediment",
+    "zh": "原生沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "processed isotope",
+    "zh": "化学加工精制放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protecting crust",
+    "zh": "防护壳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudoisotope",
+    "zh": "假同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrometamorphism",
+    "zh": "热力变质；高温变质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasi-stable isotope",
+    "zh": "准稳定同位素（指碘-129、镎-237 等长寿命同位素）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive isotope",
+    "zh": "放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiobiogeochemistry",
+    "zh": "放射生物地球化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope",
+    "zh": "放射性同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope applicator",
+    "zh": "放射性同位素敷贴剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope arteriography",
+    "zh": "放射性同位素动脉造影术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope battery",
+    "zh": "放射性同位素电池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope cisternography",
+    "zh": "放射性同位素脑池造影法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope customer",
+    "zh": "放射性同位素用户",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope detector",
+    "zh": "放射性同位素检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope gauge",
+    "zh": "放射性同位素计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope generator",
+    "zh": "放射性同位素发生器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope heater unit(RHU)",
+    "zh": "放射性同位素加热装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope instrument",
+    "zh": "放射性同位素仪表",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radio isotope monitor technique",
+    "zh": "放射性同位素(示踪原子)监测技术 (能源)心脏起搏器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope renogram",
+    "zh": "放射性同位素肾图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radio-isotope resistant paint",
+    "zh": "防放(辐)射性同位素漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope scanner",
+    "zh": "放射性同位素扫描机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope scanning",
+    "zh": "放射性同位素扫描",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope smoke alarm(RISA)",
+    "zh": "放射性同位素火灾烟雾报警器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope source",
+    "zh": "放射性同位素(激发)源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope suit(RI suit)",
+    "zh": "操作放射性同位素用工作服",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope thermoelectric generator(RTG)",
+    "zh": "放射性同位素热电发生器；放射性同位素热电源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope tracer method",
+    "zh": "放射性同位素示踪法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioisotope ventriculography",
+    "zh": "放射性同位素脑室造影法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiometric analysis",
+    "zh": "放射分析；辐射测量分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radiometric calorimetry",
+    "zh": "放射量热法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radiometric detector",
+    "zh": "放射度检测器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radiometric ga(u)ge",
+    "zh": "放射性计器（测量仪表）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radiometric polarography",
+    "zh": "放射极谱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radiometric sorter",
+    "zh": "放射性分选计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rare earth element",
+    "zh": "稀土元素*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rate of sedimentation",
+    "zh": "沉积速率；淀积速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rectangular sedimentation tank",
+    "zh": "平流式沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative isotope abundance determination",
+    "zh": "相对同位素丰度测量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reverse isotope dilution analysis",
+    "zh": "逆同位素稀释分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scale incrustation",
+    "zh": "水垢；水锈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary isotope effect",
+    "zh": "二级同位素效应*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary sedimentation",
+    "zh": "二次沉淀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary sedimentation basin",
+    "zh": "二次沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second-growth isotope",
+    "zh": "次生同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sediment",
+    "zh": "沉降物; 沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimental(=sedimentary)",
+    "zh": "沉淀的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentary",
+    "zh": "沉积的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentary clay",
+    "zh": "沉积泥",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentary deposits",
+    "zh": "沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentary rock",
+    "zh": "沉积岩；水成岩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation",
+    "zh": "沉降*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation analysis",
+    "zh": "沉降分析法（土壤）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation average molecular weight",
+    "zh": "沉降平均分子量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation balance",
+    "zh": "沉降天平",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation basin",
+    "zh": "沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation boundary",
+    "zh": "沉降界面",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation centrifuge",
+    "zh": "离心沉降机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation chamber",
+    "zh": "沉淀槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation coefficient",
+    "zh": "沉降系数*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation constant",
+    "zh": "沉降系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation field flow fractionation",
+    "zh": "沉降场流分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation fractionation",
+    "zh": "沉降分级",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation method",
+    "zh": "沉降法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation number",
+    "zh": "沉降值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation of coke",
+    "zh": "焦炭沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation of fuel",
+    "zh": "燃料沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation potential",
+    "zh": "沉降势*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation rate",
+    "zh": "沉积(速)率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation tank",
+    "zh": "沉积槽；沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation value",
+    "zh": "沉降值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation velocity",
+    "zh": "沉降速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation velocity method",
+    "zh": "沉降速度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentator",
+    "zh": "沉淀器；离心器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment box",
+    "zh": "沉积箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment bulb",
+    "zh": "沉降器；沉淀器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment chamber",
+    "zh": "沉积室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment collector",
+    "zh": "沉积收集器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment-filled phase",
+    "zh": "沉积物填充相；沉积相",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimenting boundary",
+    "zh": "沉降界面",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentograph",
+    "zh": "沉降测定器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentometer",
+    "zh": "沉降仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentometric analysis",
+    "zh": "沉淀体积分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment pan",
+    "zh": "沉积盘；沉降池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment sampler",
+    "zh": "底泥采样器，沉积物采样器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment sampling",
+    "zh": "底泥采样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment tank",
+    "zh": "澄清槽（橡胶）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment transport",
+    "zh": "沉积物运移",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment trap",
+    "zh": "沉降池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sediment volume",
+    "zh": "沉降体积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separated isotope",
+    "zh": "分离同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "separator sediment",
+    "zh": "分离器沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slag crust",
+    "zh": "渣皮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent isotope effect (SIE)",
+    "zh": "溶剂同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spectroradiometric",
+    "zh": "辐射分光的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spike isotope",
+    "zh": "添加同位素；示踪同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spiking isotope",
+    "zh": "加同位素指示剂;掺料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope",
+    "zh": "稳定同位素*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope analysis",
+    "zh": "稳定同位素分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope dilution mass spectrometry",
+    "zh": "稳定同位素稀释质谱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope dilution technique",
+    "zh": "稳定同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope ratio mass spectrometer",
+    "zh": "稳定同位素比质谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stable isotope tracer method",
+    "zh": "稳定同位素示踪法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steric isotope effect",
+    "zh": "立体同位素效应；空间同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "subcrustal",
+    "zh": "地壳下的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substoichiometric isotope-dilution analysis",
+    "zh": "亚化学计量同位素稀释分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "substoichiometric reverse isotope dilution method",
+    "zh": "亚化学计量反同位素稀释法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supercrust rocks",
+    "zh": "表成岩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermo-metamorphism",
+    "zh": "热同素异形(现象)；热力变质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trace element",
+    "zh": "痕量元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trace element pollution",
+    "zh": "痕量元素污染",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tracer isotope",
+    "zh": "示踪同位素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace sediment",
+    "zh": "痕迹沉淀；痕迹沉积物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-site immunoradiometric assay",
+    "zh": "双位免疫放射测定法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "two-story sedimentation tank",
+    "zh": "双层沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "uranium-lead age",
+    "zh": "铀-铅定年代法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vapor pressure isotope effect(VPIE)",
+    "zh": "蒸气(汽)压同位素效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "velocity sedimentation",
+    "zh": "速度(梯度)沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vertical assembler-dismantler",
+    "zh": "立式装卸装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water and sediment content",
+    "zh": "水及沉渣含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water and sediment test",
+    "zh": "水及沉渣(含量)测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water body sediment",
+    "zh": "水体沉积物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Welsbach (gas) mantle",
+    "zh": "韦耳斯巴奇纱罩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wind-borne sediment",
+    "zh": "风成沉积层",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

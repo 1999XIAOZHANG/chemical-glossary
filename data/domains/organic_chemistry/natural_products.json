@@ -1,0 +1,5804 @@
+[
+  {
+    "en": "aabomycin",
+    "zh": "阿博霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aburamycin",
+    "zh": "阿布拉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acacin",
+    "zh": "金合欢胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acetylacrifoline(=lycopodium alkaloid 12)",
+    "zh": "乙酰尖叶(石 松)碱 -acetyl acrolein -乙酰丙烯醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetyl biuret",
+    "zh": "乙酰基缩二脲 4-acetyl borneol 4-乙酰龙脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acetyl camphor",
+    "zh": "乙酰樟脑 C12H18O2",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetylspiramycin",
+    "zh": "乙酰螺旋霉素（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "achromycin",
+    "zh": "(=tetracycline)四环素;(=puromycin)嘌呤霉素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "aclarubicin",
+    "zh": "阿柔比星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aconite alkaloid",
+    "zh": "乌头植物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinocarcin",
+    "zh": "放线抗癌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "actinomycin",
+    "zh": "放线菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "actinospectacin",
+    "zh": "放线壮观素；大观霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "actinotiocin",
+    "zh": "放线硫肽素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acumycin",
+    "zh": "针霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acyclic monoterpene",
+    "zh": "无环单萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acyclic terpene",
+    "zh": "无环萜烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adramycin",
+    "zh": "甲稀土霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "adriamycin",
+    "zh": "阿霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aescorcin",
+    "zh": "七叶酚 C9H8O4",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "agaricin",
+    "zh": "落叶松蕈浸膏",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aizumycin",
+    "zh": "爱图霉素；双环霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "akimycin",
+    "zh": "秋霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "akitamycin",
+    "zh": "秋田霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alamethicin",
+    "zh": "丙甲菌素；丙甲甘肽",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alant camphor(=helenin)",
+    "zh": "阿兰脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "albimycin",
+    "zh": "微白霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aldgamycin",
+    "zh": "阿德加霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aliomycin",
+    "zh": "棕黄霉素；阿留(棕黄)霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aliphatic sesquiterpene",
+    "zh": "脂族倍半萜 aliphatic solvents 脂族溶剂；脂肪烃溶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aliphatic terpene",
+    "zh": "脂肪族萜烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaloid",
+    "zh": "生物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaloidal",
+    "zh": "生物碱的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaloidal drug",
+    "zh": "生物碱药物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaloidal reagent",
+    "zh": "生物碱试剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allicin",
+    "zh": "蒜素 (CH₂=CHCH₂S)₂O",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "allosteroid",
+    "zh": "别甾",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "almond camphor",
+    "zh": "杏仁脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alomycin",
+    "zh": "芦荟霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "althiomycin",
+    "zh": "异硫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amethobottromycin",
+    "zh": "无甲基波卓霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amidomycin",
+    "zh": "胺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amikacin",
+    "zh": "阿米卡星; 丁胺卡那霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amphotericin",
+    "zh": "两性霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amycin",
+    "zh": "阿霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anemone camphor",
+    "zh": "银莲花脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anesthetic steroid compound",
+    "zh": "麻醉性甾族化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "angelicin",
+    "zh": "当归根素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "angostura alkaloids",
+    "zh": "安果斯都拉生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anhalonium alkaloids",
+    "zh": "仙人掌生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anhydrocamphoronic acid",
+    "zh": "脱水樟脑酮酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animal alkaloid",
+    "zh": "动物碱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anise camphor",
+    "zh": "茴香樟脑；茴香脑；对丙烯基苯甲醚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anstratene(=α-pinene) α-",
+    "zh": "蒎烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthelmycin",
+    "zh": "抗蠕霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anthelvencin",
+    "zh": "萎蠕菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anthramycin",
+    "zh": "氨茴霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antipyrine and caffeine citrate",
+    "zh": "米格来宁（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aphanicin",
+    "zh": "阿番素；束生藻色素乙",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "apocaffeine",
+    "zh": "阿朴咖啡因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apocamphane",
+    "zh": "阿朴莰烷 apocamphor 阿朴樟脑；脱甲樟脑 apocamphoric acid 阿朴樟脑酸 apochromatic 消多色差的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apocodeine",
+    "zh": "阿朴可待因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apomorphine",
+    "zh": "阿朴吗啡（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apomorphine hydrochloride",
+    "zh": "盐酸阿朴吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apoquinine(=homoquinine)",
+    "zh": "阿朴奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apramycin",
+    "zh": "阿泊拉霉素；硫酸安普霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aquamycin",
+    "zh": "水霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aquayamycin",
+    "zh": "水绫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arbomycin",
+    "zh": "阿鲍霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arborescin",
+    "zh": "乔木素；蒿萜",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "areca alkaloids",
+    "zh": "槟榔生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arecin",
+    "zh": "槟榔素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arenaemycin",
+    "zh": "阿雷纳霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arenomycin",
+    "zh": "沙霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "argomycin",
+    "zh": "金船霉素；阿格霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aristeromycin",
+    "zh": "芒霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "armentomycin",
+    "zh": "畜群霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arnicin",
+    "zh": "山金车苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aromaticin",
+    "zh": "香菊精",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "artemisinin",
+    "zh": "青蒿素(药)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aspartocin",
+    "zh": "天冬菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "astacin",
+    "zh": "虾红素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "asteroidal theory",
+    "zh": "小行星学说",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asteromycin",
+    "zh": "星霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aurantiacin",
+    "zh": "齿菌橙；橙齿菌色素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aureomycin(=chlorotetracycline)",
+    "zh": "金霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aureomycine(=chlorotetracycline)",
+    "zh": "金霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aureothricin",
+    "zh": "金丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "austricin",
+    "zh": "奥菊素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "axenomycin",
+    "zh": "轴霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ayamycin",
+    "zh": "绫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "azirinomycin",
+    "zh": "阿际霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "azithromycin",
+    "zh": "阿奇霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bandamycin",
+    "zh": "包扎霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bankomycin",
+    "zh": "庄行霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "baras camphor",
+    "zh": "冰片；龙脑；莰醇 C₁₀H₁₇OH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzanthramycin",
+    "zh": "苯氨茴霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benzathine benzylpenicillin",
+    "zh": "苄星青霉素（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzyl menthol",
+    "zh": "苄基薄荷醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzylpenicillin",
+    "zh": "青霉素（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "berninamycin",
+    "zh": "伯尔尼霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "beromycin",
+    "zh": "别洛霉素：青霉素 V 钾",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "beta camphor β-",
+    "zh": "樟脑 C₁₀H₁₆O",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta-pinene β-",
+    "zh": "蒎烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "betula camphor(=betulin)",
+    "zh": "桦木脑；桦木酮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bicyclic monoterpene",
+    "zh": "双环单萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bicyclomycin",
+    "zh": "双环霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bihoromycin",
+    "zh": "比奥罗霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "birch camphor",
+    "zh": "桦木脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bisnorsteroids",
+    "zh": "联降甾族化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bitter almond camphor",
+    "zh": "苯偶姻；二苯乙醇酮；苦杏仁脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bitter almond oil camphor",
+    "zh": "苯偶姻；二苯乙醇酮；苦杏仁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bleomycin",
+    "zh": "博莱霉素；争光霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "blue camphor oil",
+    "zh": "蓝樟脑油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boldoglucin",
+    "zh": "玻耳多苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bombycin",
+    "zh": "蚕素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bonducin",
+    "zh": "云实豆素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "borneo camphor(=borneol)",
+    "zh": "冰片；龙脑；2-莰醇",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "borneo camphor oil",
+    "zh": "龙脑香油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borneo camphor tree",
+    "zh": "龙脑香树",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borneol(=borneo camphor)",
+    "zh": "冰片；龙脑；2-莰醇",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "borneol acetate(=bornyl acetate)",
+    "zh": "乙酸冰片酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borneol flakes",
+    "zh": "片状；冰片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borneol salicylate(=salit)",
+    "zh": "水杨酸冰片酯；沙里特",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bornyl acetate(=borneol acetate)",
+    "zh": "乙酸冰片酯 C₁₀H₁₇OOCCH₃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bornyl alcohol(=borneol)",
+    "zh": "冰片；龙脑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boromycin",
+    "zh": "硼霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "boseimycin",
+    "zh": "勃赛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bostrycin",
+    "zh": "卷线孢菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bottromycin",
+    "zh": "波卓霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bramycin",
+    "zh": "短霉素；妥布霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "brassicin",
+    "zh": "蔓菁苷; 异鼠李黄酮葡糖苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bromocaffeine",
+    "zh": "溴代咖啡碱 C₈H₉O₂N₄Br",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromo-camphor",
+    "zh": "溴樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromoemimycin",
+    "zh": "溴血霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bromomonamycin",
+    "zh": "溴弧霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bromothricin",
+    "zh": "溴丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bromquatrimycin",
+    "zh": "溴差向四环素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "brown camphor oil",
+    "zh": "棕樟油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bruneomycin",
+    "zh": "棕霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bucco camphor",
+    "zh": "布枯樟脑；1-甲基-2-羟基-3-氧-4-异丙基环己烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buchu camphor(=diosphenol)",
+    "zh": "布枯樟脑；地奥酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butyricin",
+    "zh": "丁酸梭菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "byak-angelicin",
+    "zh": "白当归素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cadmium coating",
+    "zh": "镉(系)涂料（以镉红或镉黄为颜料的caffeine sodio-benzoate 苯甲酸咖啡碱钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cajuputole (=eucalyptole)",
+    "zh": "白千层脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caffeine (=coffee; theine; guaranine; psoraline)",
+    "zh": "咖啡碱；咖啡因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caffeine and sodium benzoate",
+    "zh": "苯甲酸钠咖啡因；安钠咖（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caffeine citrate",
+    "zh": "柠檬酸咖啡因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calabash-alkaloid 1",
+    "zh": "葫芦箭毒碱 1",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calameone (=calamus camphor)",
+    "zh": "白菖(蒲)脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calamus camphor (=calameone)",
+    "zh": "白菖(蒲)脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caldariomycin",
+    "zh": "卡尔里霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "camenthol",
+    "zh": "樟脑 γ-camera γ照相机*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphol (=isoborneol)",
+    "zh": "龙脑; 2-莰烷醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor",
+    "zh": "樟脑; 2-莰酮 camphoraldehyde 樟脑醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphoramic acid (=camphoramidic acid)",
+    "zh": "樟脑氨酸; 樟脑酰胺酸 camphoramidic acid (=camphoramic acid) 樟脑氨酸; 樟脑酰胺酸 camphoranilic acid 樟脑苯胺酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphorated oil",
+    "zh": "樟脑油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphorated soap liniment",
+    "zh": "樟脑皂搽剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor ball",
+    "zh": "樟脑丸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphorene",
+    "zh": "樟脑烯 camphoric acid 樟脑酸 camphoric acid amide 樟脑酸酰胺; 樟脑氨酸 camphoric anhydride 樟脑酸酐 camphorimide 樟脑酰亚胺 camphorism 樟脑中毒",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor liniment",
+    "zh": "樟脑擦剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor oil",
+    "zh": "樟脑油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphorone (=camphorphorone)",
+    "zh": "樟脑酮; 5-甲基-2-异亚丙基环戊酮 camphoronic acid 分解樟脑酸; 樟脑三酸; 2,2,3-三甲基-3-羧基戊二酸 camphor original oil 樟脑原油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphoroxime",
+    "zh": "樟脑肟; 2-莰酮肟 camphoroyl 樟脑酰; 茨二酰 camphorphorone (=camphorone) 樟脑酮; 5-甲基-2-异亚丙基环戊酮 camphorquinone 樟脑醌; 茨醌 camphor silk 樟蚕丝camphor soap 樟脑皂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor spirit",
+    "zh": "樟脑酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphorsulfonic acid",
+    "zh": "樟脑磺酸 camphor type basil oil 樟脑型罗勒油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor water",
+    "zh": "樟脑水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphor wood oil",
+    "zh": "樟木油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camphoryl",
+    "zh": "樟脑基 camphorylidene 亚樟脑基 camphyl 茯基 camphylamine 茯基胺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "camptothecin",
+    "zh": "喜树碱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "candicin",
+    "zh": "坎底辛；对羟苯乙基三甲基铵",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "capsicin",
+    "zh": "辣椒胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carbomycin",
+    "zh": "碳霉素；卡波霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carcinomycin",
+    "zh": "癌霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cardicin",
+    "zh": "卡氏菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caricin",
+    "zh": "番木瓜苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carotenoid",
+    "zh": "类胡萝卜素；类叶红素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carvene (=d-limonene)",
+    "zh": "香芹烯；d-苧烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carvomenthol",
+    "zh": "香芹醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caulerpacin",
+    "zh": "蕨藻素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cedar camphor (=cedrol)",
+    "zh": "柏木脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cephalomycin",
+    "zh": "头孢菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cephalothecin",
+    "zh": "复端孢菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cephamycin",
+    "zh": "头霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chain interpenetration",
+    "zh": "链的相互穿透",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chamaecin",
+    "zh": "扁柏素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chantalmycin",
+    "zh": "商塔霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chinic acid",
+    "zh": "奎宁酸 ( chinine (=quinine) 奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chiomomycin",
+    "zh": "久莫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorobiocin",
+    "zh": "氯新生霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorocamphor",
+    "zh": "氯樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chloromycin",
+    "zh": "氯新霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorotetracycline (=aureomycin)",
+    "zh": "金霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorquatrimycin",
+    "zh": "差向金霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlortetracycline",
+    "zh": "氯四环素（即指金霉素）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlortetracycline hydrochloride",
+    "zh": "盐酸金霉素；盐酸氯四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chrothiomycin",
+    "zh": "色硫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chrysophyscin",
+    "zh": "蜈蚣苔素 </div>",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cinaebene camphor",
+    "zh": "山道年脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cinoxacin",
+    "zh": "西罗沙星",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ciprofloxacin",
+    "zh": "环丙沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cineole (=eucalyptol; eucalyptole)",
+    "zh": "桉叶油素；桉树脑 C10H18O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cineromycin",
+    "zh": "焔灰霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cinnamycin",
+    "zh": "肉桂霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cirramycin",
+    "zh": "卷须霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "citral (=dimethyl octadienal)",
+    "zh": "柠檬醛；橙花醛；3,7-二甲基-2,6-辛二烯醛 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "citral diethyl acetal",
+    "zh": "柠檬醛二乙缩醛 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "citromycin",
+    "zh": "柠檬霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cladiomycin",
+    "zh": "萌霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cladomycin",
+    "zh": "芽枝霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "clindamycin",
+    "zh": "克林霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cnicin",
+    "zh": "蓟苦素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cnidicin",
+    "zh": "蛇床素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "codeine (=methylmorphine)",
+    "zh": "可待因（药）",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "codeine methyl bromide (=eucodin)",
+    "zh": "甲基溴可待因；优可定（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "codeine phosphate",
+    "zh": "磷酸可待因",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "codethyline (=ethyl morphine)",
+    "zh": "可待乙碱；乙基吗啡 code wire 分色电线（按用途分别着色的电线）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coecomycin",
+    "zh": "互利霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coelicomycin",
+    "zh": "天蓝霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coerulomycin",
+    "zh": "浅蓝霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coformycin",
+    "zh": "助间型霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colchicin",
+    "zh": "秋水仙素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "collinomycin",
+    "zh": "覆盖霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "convicin",
+    "zh": "伴蚕豆嘧啶核苷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "copiamycin",
+    "zh": "丰富霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coralinomycin",
+    "zh": "珊瑚霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coriandrol (=linalool)",
+    "zh": "芫荽(萜)醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "craterifermycin",
+    "zh": "火山口霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cremeomycin",
+    "zh": "乳脂霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crithmene (=γ-terpinene)",
+    "zh": "海茴香烯；γ-松油烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "croceomycin",
+    "zh": "藏花霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crocin",
+    "zh": "藏花素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "croweacin",
+    "zh": "克罗葳素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cryomycin",
+    "zh": "冷霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cryptomycin",
+    "zh": "隐球霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystallomycin",
+    "zh": "晶霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cubeb camphor",
+    "zh": "荜澄茄脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cucurbitacin",
+    "zh": "葫芦素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curamycin",
+    "zh": "居拉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curarisant alkaloids",
+    "zh": "箭毒植物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curcumin",
+    "zh": "姜黄(素)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curcumine",
+    "zh": "姜黄素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyanomycin",
+    "zh": "蓝霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyclamidomycin",
+    "zh": "赛拉霉素；环氨霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyclic terpene",
+    "zh": "环式萜烯；环萜(烃)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclocitral",
+    "zh": "环柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclofenchene",
+    "zh": "环葑烯 cyclogeranic acid 环牻牛儿酸 cyclogeraniol 环香叶醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclogeraniolene",
+    "zh": "环香叶烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclogeraniolene alcohol",
+    "zh": "环香叶烯醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclomycin (=tetracycline)",
+    "zh": "四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cypress camphor",
+    "zh": "柏木脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "daptomycin",
+    "zh": "达托霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "daunomycin",
+    "zh": "柔红霉素; 道诺霉素; 柔毛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "daunorubicin",
+    "zh": "柔红霉素(药)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "declomycin(=demethytetracycline)",
+    "zh": "去甲基四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrocyclocitral",
+    "zh": "脱氢环柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrohomocamphoric acid",
+    "zh": "脱氢高樟脑酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrolinalool",
+    "zh": "脱氢芳樟醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dementholized peppermint oil",
+    "zh": "薄荷素油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "denamycin",
+    "zh": "德纳霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deoxynybomycin",
+    "zh": "脱氧尼博霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deoxytetracycline(=doxycycline)",
+    "zh": "多西环素；强力霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deschlorothricin",
+    "zh": "脱氯丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "desertomycin",
+    "zh": "沙漠霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "desoxystreptomycin",
+    "zh": "脱氧链霉素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "destomycin",
+    "zh": "越霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "determination of flavacin",
+    "zh": "黄曲霉素测定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deutomycin",
+    "zh": "丢托霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dextromycin",
+    "zh": "右霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diacetyl morphine(=heroine)",
+    "zh": "二乙酰吗啡；海洛英",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamorphine hydrochloride",
+    "zh": "盐酸海洛因：盐酸二乙酰吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dianemycin",
+    "zh": "猎神霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dibenzenazoresorcin",
+    "zh": "二苯偶氮间苯二酚 (CHN)=CH(OH)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dicodeine (",
+    "zh": "四)聚可待因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dienomycin",
+    "zh": "二烯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dierucin",
+    "zh": "二芥精；甘油二芥酸酯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diethenoid tetracyclic triterpene alcohol",
+    "zh": "二烯系四环三萜烯醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diethyl camphorate",
+    "zh": "樟脑酸二乙酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dihydrocitronellol(=tetrahydrogeraniol)",
+    "zh": "二氢香茅醇；四",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dihydrocyclocitral",
+    "zh": "二氢环柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dihydrodaunomycin",
+    "zh": "二氢道诺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimethyl nonanal",
+    "zh": "二甲基壬醛 4,8-dimethyl nonyl acetate 乙酸 4,8-二甲基壬酯 6,6-dimethyl-2-norpinene-2-aldehyde 6,6-二甲基-2-降蒎烯-2-甲醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl octadienal(=citral)",
+    "zh": "二甲基辛二烯醛；柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dimethyl octadienol(=linalool)",
+    "zh": "二甲基辛二烯醇；芳樟醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dionin(=ethylmorphine hydrochloride)",
+    "zh": "盐酸乙基吗啡；地昂宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dioscin",
+    "zh": "薯蓣素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dipinene",
+    "zh": "双蒎烯 2,5-dipiperidino-p-benzoquinone 2,5-二哌啶基对苯醌",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diplococcin",
+    "zh": "双球菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diploicin",
+    "zh": "双球标氏衣素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diplomycin",
+    "zh": "双球霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diresorcin",
+    "zh": "联间苯二酚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distamycin",
+    "zh": "偏端霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diterpene",
+    "zh": "二萜* $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dithio-resorcin",
+    "zh": "二硫代间苯二酚；间苯二硫酚",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diumycin",
+    "zh": "久霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "doricin",
+    "zh": "多丽菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "doxorubicin",
+    "zh": "阿霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "doxycycline(=deoxytetracycline)",
+    "zh": "多西环素；强力霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dryobalanops camphor",
+    "zh": "龙脑；冰片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duamycin",
+    "zh": "二重霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dulcin",
+    "zh": "卫矛(己六)醇;对(位)乙氧基苯脲；甘素〔俗〕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "duramycin",
+    "zh": "都拉霉素；耐久霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ebucin",
+    "zh": "葡萄糖酸钙",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "elaiomycin",
+    "zh": "洋橄榄霉素；油霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "elemecin",
+    "zh": "异榄香素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "elemicin",
+    "zh": "橘香素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "emicin",
+    "zh": "厄迷僧；榄香素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "emimycin",
+    "zh": "放霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endokrocin",
+    "zh": "黄肾盘衣素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endomycin",
+    "zh": "涂霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enomycin",
+    "zh": "伊诺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enramycin",
+    "zh": "恩拉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enterocin",
+    "zh": "肠道菌素；促肠活动素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enterococcin",
+    "zh": "肠道球菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enteromycin",
+    "zh": "肠霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "entromycin",
+    "zh": "内透霉素(链霉素和杆菌肽及次甲基水杨酸盐的混合制剂)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "epiborneol",
+    "zh": "表冰片；3-莰烷醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epicamphor",
+    "zh": "表樟脑；3-氧代莰烷 C₁₀H₁₆O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epiquinine",
+    "zh": "表奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epirubicin",
+    "zh": "表柔比星（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "episteroid",
+    "zh": "表(式)甾族化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxylinalool(=linalool monoxide)",
+    "zh": "环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ergotamine caffeine",
+    "zh": "麦角胺咖啡因（药）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ericamycin",
+    "zh": "欧石南霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erizomycin",
+    "zh": "埃里兹霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erucin",
+    "zh": "芥酸精；甘油三芥酸脂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erycin",
+    "zh": "刺桐素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erythrocin(=erythromycin)",
+    "zh": "红霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "erythroglaucin",
+    "zh": "毛罂红",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erythroglucin",
+    "zh": "赤丁四醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erythrolaccin",
+    "zh": "红紫胶素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erythromycin(=erythrocin)",
+    "zh": "红霉素（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "erythromycin ethylsuccinate",
+    "zh": "琥乙红霉素（药） </div>",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "espinomycin",
+    "zh": "针棘霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "essential oil",
+    "zh": "精油*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "essential oil microemulsion (",
+    "zh": "香)精油微乳液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "etabetacin",
+    "zh": "庚二菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "etamycin",
+    "zh": "宜他霉素 -etane（词尾） 表示四节环",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethyl citral",
+    "zh": "乙基柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl linalool",
+    "zh": "乙基芳樟醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl menthol",
+    "zh": "乙基薄荷醇 </div>",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl morphine(=codethyline)",
+    "zh": "可待乙碱；乙基吗啡 C₁₉H₂₃O₃N",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethylmorphine hydrochloride(=dionin)",
+    "zh": "盐酸乙基吗啡；地昂宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etimicin",
+    "zh": "依替米星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eucalyptol(=cineole)",
+    "zh": "桉叶油素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eucalyptole(=cajuputole)",
+    "zh": "桉树脑；顺(式)-1,8-萜二醇内醚；白千层脑 C₁₀H₁₈O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eucalyptolene",
+    "zh": "桉树脑烯 C₁₀H₁₆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eucodin(=codeine methyl bromide)",
+    "zh": "甲基溴可待因；优可定（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eulicin",
+    "zh": "美菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "euminycin",
+    "zh": "弓霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eumycin",
+    "zh": "优霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "euquinine(=quinine ethyl carbonate)",
+    "zh": "无味奎宁; 碳酸乙酯奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eusintomycin",
+    "zh": "硬脂酸合霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "evericin",
+    "zh": "埃维菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "everninocin",
+    "zh": "扁枝衣菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "everninomicin",
+    "zh": "扁枝衣霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ezomycin",
+    "zh": "鲟霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "farcinicin",
+    "zh": "皮疽菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fenchocamphorone",
+    "zh": "茴香樟脑；脱甲樟脑；葑樟酮 C9H14O2",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferrimycin",
+    "zh": "高铁霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ferromycin",
+    "zh": "菲洛霉素 ferron(=7-iodo-8-hydroxyquinoline-5-sulfonic acid) 7-碘-8-羟基喹啉-5-磺酸；试铁灵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "filicin",
+    "zh": "绵马精",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flavacin",
+    "zh": "黄曲霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flavensomycin",
+    "zh": "菌虫霉素；黄烯霉素酸；黄质霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flavicidin(=penicillin F)",
+    "zh": "青霉素 F",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavicin(=penicillin F)",
+    "zh": "青霉素 F",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavomycin",
+    "zh": "黄霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flavonoid",
+    "zh": "类黄酮；黄酮类化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoviridomycin",
+    "zh": "黄绿霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fleroxacin",
+    "zh": "氟罗沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "florimycin",
+    "zh": "弗罗里霉素；紫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluocin",
+    "zh": "荧光极毛菌素；荧光菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "folimycin",
+    "zh": "多叶霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fomecin",
+    "zh": "层孔菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "formycin",
+    "zh": "间型霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fradicin",
+    "zh": "弗氏菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fradiomycin",
+    "zh": "弗氏霉素；新霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "framycin",
+    "zh": "弗拉霉素；护乐霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fumanomycin",
+    "zh": "烟霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fungimycin",
+    "zh": "真菌霉素；培里霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fungocin",
+    "zh": "杆菌制霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "furanomycin",
+    "zh": "呋喃霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fusariocin",
+    "zh": "珠镰孢菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fuscin",
+    "zh": "暗褐菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fuscomycin",
+    "zh": "褐霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fusicoccin",
+    "zh": "壳梭孢(菌)素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "garancin",
+    "zh": "茜色淀",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "garlicin",
+    "zh": "大蒜素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gatifloxacin",
+    "zh": "加替沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "geldanamycin",
+    "zh": "格尔德霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "geminimycin",
+    "zh": "双生霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gemmatin",
+    "zh": "埃蕈色素 genalkaloids 氧化生物碱类(氨基变为氨氧基的生物碱)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "genimycin",
+    "zh": "世霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gentamicin",
+    "zh": "庆大霉素；艮他霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gentamycin",
+    "zh": "庆大霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "geomycin",
+    "zh": "土霉素；地霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "geraniol",
+    "zh": "牲牛儿醇；香叶醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "geraniolene",
+    "zh": "香叶烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gerobriecin",
+    "zh": "截短菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glebomycin",
+    "zh": "士块霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "globicin",
+    "zh": "格鲁比型杆菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "globomycin",
+    "zh": "球霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glumamycin",
+    "zh": "颖霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glumitocin",
+    "zh": "谷催产素；4-丝-8-谷酰胺催产素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glutamycin",
+    "zh": "戊二霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glycoalkaloid",
+    "zh": "配糖(生物)碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gougeroxymycin",
+    "zh": "谷氏氧霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "graminomycin",
+    "zh": "禾霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "granaticin",
+    "zh": "榴菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "grasseriomycin",
+    "zh": "蚕病霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "green camphor oil",
+    "zh": "樟脑蓝油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "griselimycin",
+    "zh": "浅灰霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "griseococcin",
+    "zh": "灰球菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "griseomycin",
+    "zh": "灰色霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "grisonomycin",
+    "zh": "灰诺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "guaiacin",
+    "zh": "愈创木粉",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "guamycin",
+    "zh": "瓜霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "guanamycin",
+    "zh": "瓜那霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "guaranine(=caffeine)",
+    "zh": "咖啡碱；咖啡因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gum camphor",
+    "zh": "樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "halomicin",
+    "zh": "卤霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hamycin",
+    "zh": "哈霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "harimycin",
+    "zh": "下里霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heliomycin",
+    "zh": "日光霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "helvomycin",
+    "zh": "蜡黄霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heptamycin",
+    "zh": "庚霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "herapathite (=quinine iodosulfate)",
+    "zh": "碘硫酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heroin (=heroine;diacetyl morphine)",
+    "zh": "海洛因；二乙酰吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heroine (=heroin;diacetyl morphine)",
+    "zh": "海洛因；二乙酰吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterochinine (=heteroquinine)",
+    "zh": "杂奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heteroquinine (=heterochinine)",
+    "zh": "杂奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hexamycin",
+    "zh": "己霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexyl resorcin",
+    "zh": "己基间苯二酚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hialomycin",
+    "zh": "透明霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hikizimycin",
+    "zh": "引地霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "histidomycin",
+    "zh": "组氨霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hodydamycin",
+    "zh": "郝迪达霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "holomycin",
+    "zh": "全霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homoborneol",
+    "zh": "高冰片；高莰醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homocamphor",
+    "zh": "高樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homocamphoric acid",
+    "zh": "高樟脑酸（高指多一个—CH₂—） COOHC₈H₁₄CH₂COOH",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homocyclic ring",
+    "zh": "碳环;同素环 β-homocyclocitral β-环高柠檬醛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homoepicamphor",
+    "zh": "高表樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homomycin",
+    "zh": "匀霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homopinol (=pinene hydrate)",
+    "zh": "水合蒎烯；高蒎醇 C₁₀H₁₈O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homoquinine",
+    "zh": "高奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homosteroid",
+    "zh": "高甾化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hondamycin",
+    "zh": "宏大霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hoxamycin",
+    "zh": "贺克沙霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hybrimycin",
+    "zh": "杂交霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydroconchinine (=hydroconquinine)",
+    "zh": "氢化奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroconquinine (=hydroconchinine)",
+    "zh": "氢化奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroquinine (=hydrochinine)",
+    "zh": "氢化奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "p-hydroxybenzylpenicillin",
+    "zh": "对羟苄青霉素；青霉素X",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxycamptothecin",
+    "zh": "羟喜树碱（药） α-hydroxycaproic acid α-羟(基)己酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydroxystearic triethylene tetramide",
+    "zh": "羟基硬脂酸三亚乙基四酰胺 17-hydroxysteroid 17-羟甾类",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ibuprofen and codeine",
+    "zh": "洛芬待因；布洛芬可待因（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ikarugamycin",
+    "zh": "斑鸠霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ikutamycin",
+    "zh": "生田霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ilamycin",
+    "zh": "岛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ilotycin(=erythromycin)",
+    "zh": "红霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indole alkaloid",
+    "zh": "吲哚生物碱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indolmycin",
+    "zh": "吲哚霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "indometacin",
+    "zh": "吲哚美辛〔药〕 α-indone 二氢-α-茚酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ingramycin",
+    "zh": "英格拉霉素；白环霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "interpenetrating",
+    "zh": "互(相贯)穿的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interpenetrating networks",
+    "zh": "互穿网络",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interpenetrating network system",
+    "zh": "互穿网络体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interpenetrating polymer",
+    "zh": "互穿聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interpenetrating polymer networks(IPN)",
+    "zh": "互穿聚合物网络*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interpenetration",
+    "zh": "互穿；互相渗透",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iridomyrmecin",
+    "zh": "蚁素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isemycin",
+    "zh": "伊势霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isepamicin",
+    "zh": "异帕米星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoanthricin",
+    "zh": "异峨参内酯 C₂₂H₂₂O₇·H₂O",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoborneol",
+    "zh": "异冰片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobutyl linalool",
+    "zh": "异丁基芳樟醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isocamphor",
+    "zh": "异樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isocamphoric acid",
+    "zh": "异樟脑酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isocamphoronic acid",
+    "zh": "异樟脑酮酸（异樟脑三酸）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isocyclocitral",
+    "zh": "异环柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoerythrolaccin",
+    "zh": "异红紫胶素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isogeraniol",
+    "zh": "异牻牛儿醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isolimonene",
+    "zh": "异柠檬烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomenthol",
+    "zh": "异薄荷醇 C₁₀H₂₀O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomycomycin",
+    "zh": "异菌霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isonicotine",
+    "zh": "异烟碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isonitrosocamphor",
+    "zh": "异亚硝基樟脑；肟基樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isonitrosothiocamphor",
+    "zh": "肪基硫代樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopenicillin",
+    "zh": "异青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isorhodomycin",
+    "zh": "异紫红霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "janiemycin",
+    "zh": "贾尼霉素（一种多肽抗生素）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Japan camphor",
+    "zh": "日本樟脑 Japan clay 蒙脱石",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "josamycin",
+    "zh": "交沙霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "juverimicin",
+    "zh": "幼霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kalamycin",
+    "zh": "卡拉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ketomycin",
+    "zh": "酮霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ketostearic acid",
+    "zh": "酮硬脂酸 C₁₈H₃₄O₃ 17-ketosteroid 17-酮甾类",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ketosteroid compound",
+    "zh": "留酮类化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kidamycin",
+    "zh": "贵田霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kikumycin",
+    "zh": "菊霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kinamycin",
+    "zh": "醌那霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kirromycin",
+    "zh": "黄色霉素 -kis(=times) （词尾）接数词之后表示若干个；若干倍",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kitasamycin",
+    "zh": "吉他霉素（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "komamycin",
+    "zh": "古满霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kotomycin",
+    "zh": "古藤霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kromycin",
+    "zh": "克洛霉素（苦霉素 picromycin 的降解产物）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kujimycin",
+    "zh": "久慈霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kundrymycin",
+    "zh": "昆追霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kunomycin",
+    "zh": "久野霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "labilomycin",
+    "zh": "易毁霉素；抗分枝杆菌抗生素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "laidlomycin",
+    "zh": "莱特洛霉素；来洛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lankamycin",
+    "zh": "兰卡霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lateriomycin",
+    "zh": "砖红霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ledermycin(=demethylchlortetracycline)",
+    "zh": "去甲基金霉素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ledum camphor",
+    "zh": "喇叭茶脑；喇叭茶醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lentinacin",
+    "zh": "香菇素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "leucomycin",
+    "zh": "柱晶白霉素；吉他霉素 $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "levofloxacin",
+    "zh": "左氧氟沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "light camphor oil",
+    "zh": "樟脑白油（樟脑油低馏分）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lilacin",
+    "zh": "丁香配基",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "limonene",
+    "zh": "苎烯；1,8-萜二烯 dl-limonene dl-芒烯；dl-萜二烯；外消旋芒烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limonene dioxide",
+    "zh": "二氧化芒烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limonene monoepoxide (",
+    "zh": "单)环氧芒；(单)环氧柠檬烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool",
+    "zh": "里哪木醇；沉香醇；芳樟醇 linalool acetate 里哪醇乙酸酯 linalool diepoxide 二环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool epoxide",
+    "zh": "环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool monoepoxide (",
+    "zh": "单)环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool monoxide(=epoxylinalool)",
+    "zh": "环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linalool oxide",
+    "zh": "氧化芳樟醇；环氧芳樟醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lithium caffeine sulfonate",
+    "zh": "磺酸咖啡碱锂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lodermycin(=demethylchlortetracycline)",
+    "zh": "去甲基金霉素lodestone 极磁铁矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lomefloxacin",
+    "zh": "洛美沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "longicatenamycin",
+    "zh": "长脂链霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lunamycin",
+    "zh": "月亮霉素；月光菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lupin alkaloid",
+    "zh": "羽扇豆碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lusomycin",
+    "zh": "琉沙霉素；光霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "luteomycin",
+    "zh": "藤黄霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lydimycin",
+    "zh": "利迪霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "macarbomycin",
+    "zh": "大炭霉素；马加霉素（是1964年梅泽等由瑞士土壤中的streptomyces phaeochromogenes菌培养所得的一种多磷多糖类抗生素，此种抗生素日本已列为饲料添加物，但我国尚未应用，它是动物单用的抗生素）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "maleic anhydride terpinene adduct α-",
+    "zh": "萜品烯-顺丁烯二酸酐加成物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maleimycin",
+    "zh": "马来酰亚胺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "manumycin",
+    "zh": "手霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "marcomycin",
+    "zh": "马可霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "maridomycin",
+    "zh": "麦里多霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "matchamycin",
+    "zh": "绿茶霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "matico camphor",
+    "zh": "胡椒叶脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matricaria camphor",
+    "zh": "母菊脑 C₁₀H₁₆O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matricin",
+    "zh": "母菊素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "maxioffoxacin",
+    "zh": "莫西沙星(药)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "megalomycin",
+    "zh": "巨大霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mekemycin",
+    "zh": "梅克霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mentha camphor",
+    "zh": "薄荷醇；薄荷脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "menthol",
+    "zh": "薄荷醇；蓝醇 menthol ester 薄荷醇酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "menthol salicylate",
+    "zh": "水杨酸蓝醇酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "menthol valerate",
+    "zh": "戊酸蓝醇酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesorcin",
+    "zh": "菜间二酚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "metamycin",
+    "zh": "间霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methicillin（",
+    "zh": "商）(=2,6-dimethyloxybenzo penicillin) 2,6-二甲氧基苯青霉素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methobottromycin",
+    "zh": "甲基波卓霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methylbenzyl ether",
+    "zh": "甲基苄基醚；苄氧基甲烷 4-methyl benzylidene camphor 4-甲基亚苄基樟脑 </div>",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methylenomycin",
+    "zh": "次甲霉素 1-methylenpyrrolizidine 1-亚甲基吡咯双烷；亚甲基双稠吡咯啶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methyl theobromine",
+    "zh": "咖啡碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methymycin",
+    "zh": "酒霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methysticin",
+    "zh": "麻醉椒苦素；醉人素（另有醉椒素）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mevalonate",
+    "zh": "甲羟戊酸；3-甲基-3,5-二羟(基)戊酸;甲羟戊酸盐(酯或根)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mevalonate-5-pyrophosphate",
+    "zh": "甲羟戊酸-5-焦磷酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mezzanomycin",
+    "zh": "梅扎诺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miamycin",
+    "zh": "迈亚密霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microcin",
+    "zh": "微生物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "minocycline(=7-dimethylamino-6-demethyl-6-deoxytetracycline)",
+    "zh": "二甲胺四环素；米诺环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "minomycin",
+    "zh": "美浓霉素；米诺环素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mitomycin",
+    "zh": "丝裂霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "momordicin",
+    "zh": "苦瓜叶素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "monamycin",
+    "zh": "摩那霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "monocyclic monoterpene",
+    "zh": "单环单萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monocyclic terpene",
+    "zh": "单环萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphenol",
+    "zh": "吗吩醇 morphia(=morphine) 吗啡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "morphina(=morphine)",
+    "zh": "吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine(=morphia; morphina)",
+    "zh": "吗啡 morphine acetate 乙酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine benzoate",
+    "zh": "苯甲酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine borate",
+    "zh": "硼酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine bromide",
+    "zh": "氢溴酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine chloride",
+    "zh": "氢氯酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine hydrobromide",
+    "zh": "氢溴酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine hydrochloride",
+    "zh": "氢氯酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine meconate",
+    "zh": "袱康酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine methyl bromide",
+    "zh": "甲基溴吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine salicylate",
+    "zh": "水杨酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "morphine tartrate",
+    "zh": "酒石酸吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multhiomycin",
+    "zh": "多硫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "myricin",
+    "zh": "杨梅酯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "myristicin",
+    "zh": "肉豆蔻醚",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nairomycin",
+    "zh": "新露霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nalecin",
+    "zh": "丁二酸左菌素酯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nanaomycin",
+    "zh": "七尾霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nancimycin",
+    "zh": "南锡霉素；利福霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "naphthomycin",
+    "zh": "萘霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "naphthyridinomycin",
+    "zh": "萘啶霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "naramycin",
+    "zh": "放线菌酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "narangomycin",
+    "zh": "纳朗果霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "narbomycin",
+    "zh": "冥菌素；那波霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "narcissus alkaloid",
+    "zh": "水仙生物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "narobomycin",
+    "zh": "那波霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "natamycin",
+    "zh": "纳他霉素；游霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nebramycin",
+    "zh": "硫酸安普霉素；硫酸阿布拉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "negamycin",
+    "zh": "负霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neoantimycin",
+    "zh": "新抗霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neoisomenthol",
+    "zh": "新异薄荷醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neomenthol",
+    "zh": "新盂醇；新薄荷醇 C₁₀H₂₀O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neomethymycin",
+    "zh": "新酒霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neomycin",
+    "zh": "新霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neonicotine(=anabasine)",
+    "zh": "新烟碱；假木贼碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neopluramycin",
+    "zh": "新多色霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neotelomycin",
+    "zh": "新远霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neothelomycin",
+    "zh": "新乳霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neothricin",
+    "zh": "新丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "netilmicin",
+    "zh": "奈替米星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neutramycin",
+    "zh": "中性霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ngai camphor",
+    "zh": "恩盖樟脑；冰片 C₁₀H₁₈O",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niacin",
+    "zh": "烟酸；尼克酸；抗糙皮病维生素；维生素 P",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nicotine",
+    "zh": "烟碱：尼古丁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nicotine group",
+    "zh": "吡啶和吡咯烷类生物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nicotine remover",
+    "zh": "尼古丁除去液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nicotine stain",
+    "zh": "烟碱污染：尼古丁污染",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nicotine sulfate",
+    "zh": "硫酸烟碱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nicotine tannate",
+    "zh": "鞣酸烟碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niddamycin",
+    "zh": "尼达霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nigericin",
+    "zh": "尼日利亚菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitrocamphor",
+    "zh": "硝基樟脑 C₈H₁₄COCHNO₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrosocamphor",
+    "zh": "亚硝基樟脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "noformicin",
+    "zh": "诺卡型霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nogalamycin",
+    "zh": "诺加霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nojirimycin",
+    "zh": "野尻霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nopinene",
+    "zh": "诺品烯 C10H16",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "norborneol",
+    "zh": "降冰片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "norcamphor",
+    "zh": "降樟脑 π-norcamphor(=santenone) π-降樟脑；檀烯酮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "norfloxacin",
+    "zh": "诺氟沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "norhomocamphoric acid",
+    "zh": "降高樟脑酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal camphor oil",
+    "zh": "樟脑原油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "notomycin",
+    "zh": "脊霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nourseothricin",
+    "zh": "诺尔丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "novomycin",
+    "zh": "新新霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nursimycin",
+    "zh": "诺尔斯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nybomycin",
+    "zh": "尼博霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nyphimycin",
+    "zh": "尼菲霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ofloxacin",
+    "zh": "氧氟沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "olefinic terpene",
+    "zh": "烯属萜烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oligomycin",
+    "zh": "寡霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "olivacin",
+    "zh": "橄色菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "olivomycin",
+    "zh": "橄榄霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oncovin(=vinblastine)",
+    "zh": "长春新碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "onomycin",
+    "zh": "小野霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "opacin",
+    "zh": "碘酞",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "opium alkaloid hydrochloride",
+    "zh": "盐酸鸦片碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "opium alkaloids",
+    "zh": "罂粟碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orientomycin",
+    "zh": "东霉素；环丝氨酸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ornamycin",
+    "zh": "装饰霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "orosomycin",
+    "zh": "山霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "orymycin",
+    "zh": "稻霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oryzoxymycin",
+    "zh": "白叶枯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ossamycin",
+    "zh": "奥萨霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ovalicin",
+    "zh": "卵假散囊菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ovothricin",
+    "zh": "卵丝菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxamycin",
+    "zh": "草霉素；环丝氨酸；氧霉素 </div>",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxazinomycin",
+    "zh": "噁嗪霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxotomycin",
+    "zh": "氧玉米霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxyjavanicin",
+    "zh": "氧爪哇镰菌素；镰红菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxymorphine",
+    "zh": "脱氢吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxynicotine",
+    "zh": "氧化烟碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxystearin",
+    "zh": "氧化硬脂精 11-oxysteroid 11-氧甾类",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxytetracycline",
+    "zh": "土霉素；氧四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxytocin",
+    "zh": "催产素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oyamycin",
+    "zh": "大谷霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paclitaxel",
+    "zh": "紫杉醇（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "panmycin(=tetracycline)",
+    "zh": "四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pantomycin",
+    "zh": "双氢链霉素泛酸盐",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paramecin",
+    "zh": "草履虫素 $$",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paramorphine(=thebaine)",
+    "zh": "蒂巴因；二甲基吗啡；副吗啡 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "parasiticin",
+    "zh": "苄青霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paromycin",
+    "zh": "巴龙霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "parsley camphor",
+    "zh": "欧芹樟脑; 芹菜脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pasomycin",
+    "zh": "步霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pefloxacin",
+    "zh": "培氟沙星（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peliomycin",
+    "zh": "佩里霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "penicillin",
+    "zh": "青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin A",
+    "zh": "青霉素 A; 青霉氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin dihydro F",
+    "zh": "戊青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin F",
+    "zh": "青霉素 F; 2-戊烯青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin G",
+    "zh": "青霉素 G; 苄青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin K",
+    "zh": "青霉素 K; 庚青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin sodium",
+    "zh": "青霉素钠",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin V",
+    "zh": "青霉素 V; 苯氧甲基青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "penicillin X",
+    "zh": "青霉素 X; 对羟苄青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentamycin",
+    "zh": "戊霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pentenomycin",
+    "zh": "环戊烯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peppermint camphor",
+    "zh": "薄荷醇；3-萜醇 C₁₀H₁₉OH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pepthiomycin",
+    "zh": "肽硫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peptimycin",
+    "zh": "肽霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "perimycin",
+    "zh": "表霉素；培里霉素；真菌霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pertucin",
+    "zh": "穿孔假胞菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pesticin",
+    "zh": "鼠疫巴氏菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phaeophacin",
+    "zh": "生暗菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phalamycin",
+    "zh": "亮霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pharmiglucin",
+    "zh": "药胶菌素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenetidine",
+    "zh": "氨基苯乙醚；乙氧基苯胺；苯乙定〔俗〕 phenetidine camphorate 樟脑酸乙氧基苯胺",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenicin",
+    "zh": "芬尼菌素；猩红青霉菌素；盐酸苯异丙肼",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenol camphor (",
+    "zh": "苯)酚-樟脑混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic steroid",
+    "zh": "酚类甾族化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolquinine",
+    "zh": "苯酚奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol terpene",
+    "zh": "酚萜(缩合物)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenomycin",
+    "zh": "酚霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenoresorcin",
+    "zh": "苯酚-间苯二酚混合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenosuccin",
+    "zh": "对乙氧苯基琥珀酰亚胺",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenoxy caffeine",
+    "zh": "苯氧基咖啡碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenoxymethylpenicillin",
+    "zh": "青霉素 V（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenoxy methylpenicillin potassium",
+    "zh": "苯氧基甲基青霉素钾",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phleomycin",
+    "zh": "腐草霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "photobacteriomycin",
+    "zh": "光菌霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phthiomycin",
+    "zh": "痨霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phytobacteriomycin",
+    "zh": "植菌霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "picrocrocin",
+    "zh": "苦藏花素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pikrococin",
+    "zh": "藏花醛苷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pillaromycin",
+    "zh": "基柱霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pilosomycin",
+    "zh": "毛发霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pimaricin",
+    "zh": "匹马菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pine camphor",
+    "zh": "松醇；松脑 pine cone oil 松节油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinene",
+    "zh": "蒎烯 pinene dichloride 蒎烯化二氯 pine needle oil(=pine leaf oil) 松针油 -pinene epoxide 环氧- -蒎烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinene epoxide",
+    "zh": "环氧蒎烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pineneglycol",
+    "zh": "蒎烯二醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinene hydrate(=homopinol)",
+    "zh": "水合蒎烯；高蒎醇 pinene hydrochloride 盐酸蒎烯；蒎烯化氢氯 pinenol 蒎烯醇；马鞭草烯醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piomycin",
+    "zh": "多效霉素；多氧霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pirarubicin",
+    "zh": "吡柔比星（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pitocin",
+    "zh": "催产素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "planomycin",
+    "zh": "平霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plant alkaloid",
+    "zh": "植物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "platenomycin",
+    "zh": "普拉特霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pleomycin",
+    "zh": "满霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plumbomycin",
+    "zh": "铅色霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plumericin",
+    "zh": "鸡蛋花素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pluramycin",
+    "zh": "多色霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "podomycin",
+    "zh": "足霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyethylene glycol terpene ether",
+    "zh": "聚乙二醇萜烯醚",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyketide",
+    "zh": "聚酮化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyketoacidomycin",
+    "zh": "多酮酸霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polymycin",
+    "zh": "多链丝霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyterpene",
+    "zh": "多萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyterpene resin",
+    "zh": "多萜树脂；萜烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "porfiromycin",
+    "zh": "紫菜霉素；甲基丝裂霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "poricin",
+    "zh": "卧孔菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "porphyrinogenic steroid",
+    "zh": "生卟啉甾类；生卟啉类固醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poryzamycin",
+    "zh": "治稻瘟霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "practomycin",
+    "zh": "实霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prasinomycin",
+    "zh": "葱绿霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "primycin",
+    "zh": "伯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pristinamycin",
+    "zh": "原始霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "procaine penicillin",
+    "zh": "普鲁卡因青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proceomycin",
+    "zh": "高霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "protomycin",
+    "zh": "原虫霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "proviridomycin",
+    "zh": "原绿霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prumycin",
+    "zh": "普鲁霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudomorphine",
+    "zh": "假吗啡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudostreptomycin",
+    "zh": "假链霉素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "psilocin",
+    "zh": "二甲-4-羟色胺",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "psoraline(=caffeine)",
+    "zh": "补骨脂灵",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "puccin",
+    "zh": "血根素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pulvomycin",
+    "zh": "粉霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "purpuromycin",
+    "zh": "绛红霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "putrefactive alkaloids",
+    "zh": "腐败生物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyocin",
+    "zh": "脓菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyracrimycin",
+    "zh": "吡丙烯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyrazomycin",
+    "zh": "吡唑霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyrethrum camphor",
+    "zh": "除虫菊脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyridomycin",
+    "zh": "吡啶霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyrrocolino-steroids",
+    "zh": "中氮茚并甾类(化合物)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrrolidine alkaloids",
+    "zh": "吡咯烷生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrrolidinomethyl tetracycline",
+    "zh": "吡咯烷甲基四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrromycin",
+    "zh": "吡咯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quatrimycin",
+    "zh": "四一霉素（即：差向四环素）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quercin",
+    "zh": "槲皮苦素；栎辛",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "questiomycin",
+    "zh": "寻霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quinia(=quinine)",
+    "zh": "奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine(=chinine)",
+    "zh": "奎宁；金鸡纳碱；金鸡纳霜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine acetate",
+    "zh": "乙酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine acetyl salicylate",
+    "zh": "乙酰水杨酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine albuminate",
+    "zh": "白蛋白合奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine alkaloids",
+    "zh": "奎宁生物碱类",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "quinine antimonate",
+    "zh": "锑酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine arrhenate",
+    "zh": "甲基胂酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine aspirin",
+    "zh": "乙酰水杨酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine bisulfate",
+    "zh": "酸式硫酸奎宁；金鸡纳霜；重硫酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine bromate",
+    "zh": "溴酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine camphorate",
+    "zh": "樟脑酸奎宁",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "quinine carbolate",
+    "zh": "石炭酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine dihydrochloride",
+    "zh": "二盐酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine ethyl carbonate(=euquinine)",
+    "zh": "碳酸乙酯奎宁；无味奎宁；优奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine ferricyanide",
+    "zh": "氰铁酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine glycerophosphate",
+    "zh": "甘油磷酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine hydrochloride",
+    "zh": "盐酸奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine iodosulfate(=herapathite)",
+    "zh": "碘硫酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine phenol sulfonate",
+    "zh": "苯酚磺酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine salt",
+    "zh": "奎宁盐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine sulfate",
+    "zh": "硫酸奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine sulfate periodide",
+    "zh": "硫酸奎宁合高碘化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine sulfoguaiacolate",
+    "zh": "硫愈创木酚奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinine trisulfoacetyl creosote",
+    "zh": "三硫乙酰杂酚油奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinomycin",
+    "zh": "醌霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quinquamycin",
+    "zh": "五烯霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quintomycin",
+    "zh": "五氮霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radioiodinated steroid",
+    "zh": "放射性碘标记甾族化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "raisnomycin",
+    "zh": "雷斯诺霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rauwolfia alkaloids",
+    "zh": "萝芙藤碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rauwolfia serpentina alkaloids",
+    "zh": "萝芙藤碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "red camphor oil",
+    "zh": "樟脑红油; 樟脑重油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relomycin",
+    "zh": "雷洛霉素；氢泰乐菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "renastacarcin",
+    "zh": "雷纳抗癌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "residual sericin",
+    "zh": "残胶比；残胶量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "resorcin",
+    "zh": "间苯二酚；雷琐酚；雷琐辛",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "resveratrol",
+    "zh": "白藜芦醇；3,4,5-三羟(基)芪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rifamycin",
+    "zh": "利福霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "risamicin",
+    "zh": "利萨霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rondomycin(=6-methyleneoxytetracycline) 6-",
+    "zh": "亚甲基土霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "roxithromycin",
+    "zh": "罗红霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rufochromomycin",
+    "zh": "绛色霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rufomycin",
+    "zh": "绛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rumicin",
+    "zh": "羊蹄根素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rutamycin",
+    "zh": "鲁塔霉素；芦他霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ryridomycin",
+    "zh": "莱里多霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "salimenthol",
+    "zh": "水杨盖醇 C6H4(OH)COOC10H19",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saloquinine",
+    "zh": "萨罗奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sancIomycin(=tetracycline)",
+    "zh": "四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "santal camphor",
+    "zh": "檀香脑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selenomycin",
+    "zh": "月霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "senecio alkaloids",
+    "zh": "千里光碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "senfolomycin",
+    "zh": "桑福洛霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "senomycin",
+    "zh": "濑野霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sequential interpenetrating polymer network",
+    "zh": "有序互相贯穿聚合物网络",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sericin",
+    "zh": "丝胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sesquiterpene",
+    "zh": "倍半萜*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sesquiterpenoid",
+    "zh": "倍半萜(烯)化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shinomycin",
+    "zh": "志野霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "showdomycin",
+    "zh": "焦土霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sigmamycin",
+    "zh": "十八霉素（四环素与竹桃霉素合剂）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "simultaneous interpenetrating network",
+    "zh": "同步互穿网络",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siomycin",
+    "zh": "盐屋霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sisomycin",
+    "zh": "紫苏霉素;西梭霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "smilacin",
+    "zh": "菝葜素；菝葜苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sparsomycin",
+    "zh": "稀疏霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spartium alkaloids",
+    "zh": "鹰爪豆生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "speciomycin",
+    "zh": "特霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spectinomycin",
+    "zh": "大观霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "speleomycin",
+    "zh": "岩洞霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spheromycin",
+    "zh": "新生霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spiracin",
+    "zh": "甲基羧基水杨酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spiramycin",
+    "zh": "螺旋霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "staphisagria alkaloids",
+    "zh": "翠雀生物碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steclin(=tetracycline)",
+    "zh": "四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steride(=steroid)",
+    "zh": "鲕族化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steroid",
+    "zh": "甾族化合物*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steroidal",
+    "zh": "甾族的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steroidal amine",
+    "zh": "甾族胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steroid glycoside",
+    "zh": "甾类糖苷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steroid nucleus",
+    "zh": "甾核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "streptomycin",
+    "zh": "链霉素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streptomycin hydrochloride",
+    "zh": "盐酸链霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "streptomycin sulfate",
+    "zh": "硫酸链霉素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styracin",
+    "zh": "苏合香英；苯丙烯酸苯丙烯酯 C6H5CH=CHCOOCH2CH=CHC6H5",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sugordomycin",
+    "zh": "库马霉素；苏哥多霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "suitamycin",
+    "zh": "吹田霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfasolucin",
+    "zh": "磺胺溶素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfoguaiacin",
+    "zh": "磺基愈创木酚",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Sumatra camphor",
+    "zh": "苏门答腊樟脑（即：冰片；莰醇） C₁₀H₁₇OH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surgumycin",
+    "zh": "苏尔古霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "synthetic camphor",
+    "zh": "合成樟脑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "syringomycin",
+    "zh": "丁香假单胞菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "taitomycin",
+    "zh": "泰东霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tampicin",
+    "zh": "牵牛树脂 C₃₄H₅₄O₁₄",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "taraxacin",
+    "zh": "蒲公英素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tar camphor(=naphthalene)",
+    "zh": "萘",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tauremycin",
+    "zh": "牛蒿素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tbilimycin",
+    "zh": "第比利霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "terpene",
+    "zh": "萜*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene acids",
+    "zh": "萜酸类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene alcohol",
+    "zh": "萜(烯)醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene aldehyde",
+    "zh": "萜(烯)醛",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene dihydrochloride",
+    "zh": "二氢氯酸萜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene diphenyl sulfonate",
+    "zh": "萜烯二苯磺酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene hydrate",
+    "zh": "水合萜烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene hydriodide",
+    "zh": "氢碘酸萜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene hydrocarbon",
+    "zh": "萜烯烃〔再生剂〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene hydrochloride",
+    "zh": "氢氯酸萜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpeneless oil",
+    "zh": "无萜油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene maleic anhydride condensation product",
+    "zh": "萜烯-顺丁烯二酸酐缩合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene peroxide",
+    "zh": "过氧化萜烯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene phenol",
+    "zh": "萜(化)酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene resin",
+    "zh": "萜烯树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene-resinic acid blend",
+    "zh": "萜烯-树脂酸共混料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpene solvent",
+    "zh": "萜烯溶剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpenoid",
+    "zh": "萜类化合物；类萜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpinene",
+    "zh": "萜品烯；松油烯 C10H16 α-terpinene α-萜品烯；1,3-萜二烯 C10H16",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terpinene maleic anhydride adduct",
+    "zh": "萜品烯-顺丁烯二酸酐加成物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terramycin(=oxytetracycline)",
+    "zh": "土霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terrecin",
+    "zh": "土曲菌素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tertiomycin",
+    "zh": "叔霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "teruchiomycin",
+    "zh": "照内霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetracycline (=ambramycin;cyclomycin)",
+    "zh": "琥珀霉素；四环素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetracycline antibiotics",
+    "zh": "四环系抗菌素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrahydrocitral",
+    "zh": "四氢柠檬醛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrahydrogeraniol",
+    "zh": "四氢香叶醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrahydrolinalool",
+    "zh": "四氢芳樟醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetramycin",
+    "zh": "四霉素；四环素；四环素碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetraterpene",
+    "zh": "四萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theine(=caffeine)",
+    "zh": "茶碱; 咖啡因",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine",
+    "zh": "可可碱; 3,7-二甲基黄嘌呤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine acetyl salicylate",
+    "zh": "乙酰水杨酸可可碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine barium sodium salicylate",
+    "zh": "水杨酸钠合可可碱钡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine calcium salicylate",
+    "zh": "水杨酸可可碱钙",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine hydrochloride",
+    "zh": "盐酸可可碱 theobromine lithium 可可碱锂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine lithium salicylate",
+    "zh": "水杨酸锂可可碱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine salicylate",
+    "zh": "水杨酸可可碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine sodium acetate",
+    "zh": "乙酸钠可可碱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine sodium formate",
+    "zh": "甲酸钠可可碱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theobromine sodium salicylate",
+    "zh": "水杨酸可可碱钠",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiazolidomycin",
+    "zh": "噻唑霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thiolinalool",
+    "zh": "硫代芳樟醇 α-thiolpropionic acid α-硫代丙酸；巯基丙酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thujaplicin",
+    "zh": "芨侧素; 大叶崖柏素 α-thujaplicin α-苧侧素; 大叶崖柏素 β-thujaplicin(=hinokitiol) β-苧侧素; 4-异丙基苧酚酮;日扁柏素 γ-thujaplicin γ-苧侧素; 4-异丙基苧酚酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thyme camphor",
+    "zh": "百里酚 (CH₃)₂CHC₆H₃(CH₃)OH",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tirandamycin",
+    "zh": "提朗达霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tobacco smoke alkaloid",
+    "zh": "烟草烟(中的)碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tobramycin",
+    "zh": "妥布霉素（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tokamycin",
+    "zh": "东海霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tolypomycin",
+    "zh": "颗粒霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tonka bean camphor",
+    "zh": "黑香豆脑；香豆素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "totomycin",
+    "zh": "妥妥霉素；盐酸四环素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tricin",
+    "zh": "麦黄酮；4',5,7-三羟(基)-3',5'-二甲氧黄酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trinitroresorcin",
+    "zh": "三硝基间苯二酚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "triterpene",
+    "zh": "三萜(烯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "triterpene alcohol",
+    "zh": "三萜烯醇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "triterpenoid",
+    "zh": "三萜系化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tropine alkaloids",
+    "zh": "托品生物碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true camphor wood",
+    "zh": "樟木",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true terpene",
+    "zh": "真萜烯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "turmeric yellow(=curcumin)",
+    "zh": "姜黄；酸性黄",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultraquinine",
+    "zh": "超奎宁；类奎宁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea quinine",
+    "zh": "盐酸脲合奎宁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urocitral",
+    "zh": "可可碱柠檬酸钠",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ussamycin",
+    "zh": "乌萨霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "validamycin",
+    "zh": "有效霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vancomycin",
+    "zh": "万古霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "variacyclomycin",
+    "zh": "变环霉素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "variamycin",
+    "zh": "变易霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vasotocin",
+    "zh": "管催产素；8-精催产素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "V-cillin(=penicillin V)",
+    "zh": "青霉素 V；苯氧甲基青霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "velbe(=vinblastine)",
+    "zh": "长春花碱；长春碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "veratrine alkaloids",
+    "zh": "藜芦碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "veratrum alkaloids",
+    "zh": "藜芦碱类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vibramycin(=deoxytetracycline)",
+    "zh": "强力霉素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vinblastine",
+    "zh": "长春碱（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vincristine",
+    "zh": "长春新碱（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "viscin",
+    "zh": "槲寄生素（取自槲寄生 viscum）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamycin",
+    "zh": "维他霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vomicin",
+    "zh": "吐素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "white camphor oil",
+    "zh": "白樟油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wild limonene tree",
+    "zh": "柠味树",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yakusimycin",
+    "zh": "药师霉素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "zanthoxylum (fruit) essential oil",
+    "zh": "山椒油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zaomycin",
+    "zh": "沙阿霉素",
+    "role": "primary",
+    "confidence": 1.5
+  }
+]

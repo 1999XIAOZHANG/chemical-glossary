@@ -1,0 +1,4526 @@
+[
+  {
+    "en": "absolute detection limit",
+    "zh": "绝对探测极限",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "absorption extraction",
+    "zh": "吸收提(萃)取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absorptive extraction",
+    "zh": "吸收提(萃)取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerated solvent extraction method",
+    "zh": "加速溶剂萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetylacetone extraction",
+    "zh": "乙酰丙酮萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actinide-lanthanide separation",
+    "zh": "钢系-镧系元素(互)分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activable tracer",
+    "zh": "可活化示踪剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activable tracer technique",
+    "zh": "可活化示踪技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activated carbon extraction",
+    "zh": "活性炭萃取（增塑剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adhesive separation",
+    "zh": "黏附脱层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption bubble separation method",
+    "zh": "吸附气泡分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption separation",
+    "zh": "吸附分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorptive(=adsorbate)",
+    "zh": "(被)吸附物;吸附的 adsorptive bubble separation method(=adsubble method)吸附气泡分离法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adstringent(=astringent)",
+    "zh": "收敛剂；涩剂;涩嘴的 adsubble method(=adsorptive bubble separation method)吸附气泡分离法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aerodynamic isotope separation",
+    "zh": "空气动力学法同位素分离(法)*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "airborne contaminants",
+    "zh": "气载污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air contaminant",
+    "zh": "空气污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air extraction system",
+    "zh": "排气系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air pollutant",
+    "zh": "大气污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air pollutant analysis",
+    "zh": "空气污染分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air separation",
+    "zh": "吹(气分)离；风选",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air separation plant",
+    "zh": "吹(气分)离装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Ajo process (for copper extraction)",
+    "zh": "阿焦提铜法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alcoholic extraction",
+    "zh": "酒精提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alcoholic-potash extraction",
+    "zh": "钾碱醇液萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allodimer",
+    "zh": "异二聚物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alloy separation process",
+    "zh": "合金分离过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amalgamating plodder",
+    "zh": "压条式拌和机 amber crepe 琥珀绉片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Amex process",
+    "zh": "（词源 Amine extraction）阿姆克斯法 〔用叔胺萃取法从铀矿浸取液中提取铀〕;阿镅克斯法（用磷酸三丁酯萃取法从冶金废渣和坩埚料中回收镅）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amine extraction method",
+    "zh": "胺萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amlodipine",
+    "zh": "氨氯地平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium salt extraction",
+    "zh": "铵盐萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amylodextrin",
+    "zh": "淀粉糊精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Anaconda-Trail process (for zinc extraction)",
+    "zh": "安那康达-特雷耳(提锌)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analytical separation",
+    "zh": "分析分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "analytical ultracentrifuge",
+    "zh": "分析超速离心机",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anodic impurity",
+    "zh": "阳极杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous two-phase extraction",
+    "zh": "双水相萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aromatic cyclodehydration",
+    "zh": "芳化成环脱水作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aromatic extraction unit",
+    "zh": "芳烃抽提装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "artificial silk from collodion",
+    "zh": "火棉胶人造丝；硝酯人造丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aspartic acid amlodipine L-",
+    "zh": "天冬氨酸氨氯地平（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollutant",
+    "zh": "大气污染物（指大气中的二氧化硫、二氧化氮等污染物）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atmospheric pollutant monitoring",
+    "zh": "大气污染监测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atmospheric trace gas",
+    "zh": "大气痕量气体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic separation",
+    "zh": "原子间距",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "azatetracene",
+    "zh": "氮杂丁省",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "azeotropic extraction",
+    "zh": "共沸萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "back-extraction",
+    "zh": "反萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "background impurity",
+    "zh": "本底杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "baffle separation",
+    "zh": "折流分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bailey-Walker extraction apparatus",
+    "zh": "贝利-瓦耳克提取器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Baker process (for zinc extraction)",
+    "zh": "巴克尔(提锌)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "band impurity",
+    "zh": "谱带杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batch extraction",
+    "zh": "分批萃取；间歇萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batchwise fractional liquid extraction",
+    "zh": "分批式分级液体抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzene extraction (carbon black)",
+    "zh": "苯抽出(炭黑)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder extraction",
+    "zh": "基料抽出（油漆调稀故障）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biochemical separation",
+    "zh": "生化分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioseparation",
+    "zh": "生物分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blistering collodion",
+    "zh": "发泡火棉胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blodite (bloedite) blodit",
+    "zh": "白钠镁矾",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bond failure(=separation)",
+    "zh": "脱开",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromide extraction system",
+    "zh": "溴化物萃取系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butadiene extraction",
+    "zh": "丁二烯抽出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calodorant",
+    "zh": "美嗅剂（煤气添味剂；酒精变性添味剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbonaceous impurity",
+    "zh": "碳质杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon tracer",
+    "zh": "示踪碳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbonyl-containing contaminant (",
+    "zh": "含)羰基杂质；羰基污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Carmichael copper extraction process",
+    "zh": "卡麦克尔提铜法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carrier free separation",
+    "zh": "无载体分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carrier-free tracer",
+    "zh": "无载体(同位素)示踪物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cascade extraction train",
+    "zh": "级联型萃取装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellodextrin",
+    "zh": "纤维糊精",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "centrifugal air separation",
+    "zh": "离心空气分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "centrifugal separation",
+    "zh": "离心分离(法)*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "centrifuge extraction analysis",
+    "zh": "离心抽提分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "certification of reference material",
+    "zh": "标准物质定值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "certified reference material",
+    "zh": "认证标准物质；有证标准物质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chelate extraction system",
+    "zh": "螯合物萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chelate separation process",
+    "zh": "螯合分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chelation extraction",
+    "zh": "螯合萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical method of separation",
+    "zh": "化学分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical pollutant",
+    "zh": "化学污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical tracer",
+    "zh": "化学指示(剂)；化学示踪物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorinated cyclodienes",
+    "zh": "氯代环二烯类",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chiral separation",
+    "zh": "手性拆分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chiral solid phase separation",
+    "zh": "手性固定相拆分法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cholodinic acid",
+    "zh": "胆定酸 choloidanic acid 胆丹酸 chololic acid (=cholic acid) 胆酸；3,7,12-三羟甾代异戊酸 cholonic acid 胆酮酸 chondrilla rubber 粉苞苣橡胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromatographic trace",
+    "zh": "色谱记录仪上的图录;(在记录纸上画的)色谱图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "circumferential separation",
+    "zh": "环形断裂；环状断孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clancy process (for gold extraction)",
+    "zh": "克兰西(炼金)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clanex process (=co-lanthanide-actinide nitrate-extraction process)",
+    "zh": "克兰纳克斯法；镧系、锕系元素硝酸盐共萃取法（将镧系、锕系元素混合物用胺类萃取法从硝酸盐溶液转换成氯化物溶液，为 Tramex 法制备料液的过程）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clean cut separation",
+    "zh": "精确分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clod",
+    "zh": "块；大块；岩块",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "clodronate disodium",
+    "zh": "氯膦酸二钠（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "close cut separation",
+    "zh": "窄馏分分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coarse separation",
+    "zh": "粗分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cochromatographic separation",
+    "zh": "共同(进行)色谱分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cocurrent extraction",
+    "zh": "并流萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coextraction",
+    "zh": "共萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coextraction phenomenon",
+    "zh": "共萃取现象",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collodion (=collodium)",
+    "zh": "火棉胶；硝棉胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion coating color",
+    "zh": "硝纤涂层色料 collodion cotton (=collodion nitrocotton; collodion wool)胶棉；低氮硝化纤维素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion emulsion",
+    "zh": "火棉乳胶液;胶棉乳剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion film",
+    "zh": "硝棉胶片；火(棉)胶薄片",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion lacquer",
+    "zh": "硝纤清漆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion membrane",
+    "zh": "胶棉膜",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion membrane electrode",
+    "zh": "火棉胶膜电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion nitrocotton (=collodion cotton)",
+    "zh": "胶棉；低氮硝化纤维素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion-protamine membrane",
+    "zh": "硝棉胶-鱼精蛋白薄膜（测定胶束电荷和表面活性剂活度系数）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion silk",
+    "zh": "胶棉(人造纤维)丝；胶丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodion wool (=collodion cotton)",
+    "zh": "火棉胶；低氮硝化纤维素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "collodium (=collodion)",
+    "zh": "火棉胶；胶棉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "color separation",
+    "zh": "分色; 色分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coloured contaminant",
+    "zh": "有色污染物；有色杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colour-forming impurity",
+    "zh": "成色杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complete baseline separation",
+    "zh": "在基线处完全分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complete metal extraction",
+    "zh": "完全萃取金属",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complex exchange extraction",
+    "zh": "络合交换萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conditional extraction constant",
+    "zh": "条件萃取常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contaminant",
+    "zh": "污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contaminant detection",
+    "zh": "污染物检测",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contaminant loading",
+    "zh": "污染负荷(量)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous extraction",
+    "zh": "连续浸提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contraceptive",
+    "zh": "避孕药",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "controlled potential electroseparation",
+    "zh": "控制电位电分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "control of detection limit",
+    "zh": "检出限控制",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coprecipitation separation method",
+    "zh": "共沉淀分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion contaminant",
+    "zh": "腐蚀污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coseparation",
+    "zh": "共分离；同时分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current separation process",
+    "zh": "反流分离过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter extraction",
+    "zh": "逆萃取；反抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current extraction",
+    "zh": "逆流萃取*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "counter-current multi-stage extraction",
+    "zh": "反流多级萃取：逆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Craig extraction",
+    "zh": "克雷格萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Craig extraction apparatus",
+    "zh": "克雷格萃取仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical diameter of particle separation",
+    "zh": "粒子分离临界直径；粒子分离中肯直径",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross-current solvent extraction",
+    "zh": "串联的溶剂抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude separation",
+    "zh": "粗分离;原油分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross solvent extraction",
+    "zh": "逆流溶剂萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cryogenic separation",
+    "zh": "深冷分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Csrex process",
+    "zh": "铯锶雷克斯过程（词源:cesium Strontium Rare Earth Extraction, 铯锶稀土提取法，用酸性磷酸酯和取代酚类萃取剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodeca-",
+    "zh": "芳癸并（指环癸间五烯并）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodecanone",
+    "zh": "环十酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodehydration",
+    "zh": "环化脱水作用：脱水成环作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodehydrogenation",
+    "zh": "环化脱氢作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodepolymerization",
+    "zh": "环化解聚反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodepsipeptide",
+    "zh": "环缩酚肽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodextrin",
+    "zh": "环糊精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodextrin derivative gas chromatography",
+    "zh": "环糊精衍生物气相色谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodextrin electrokinetic chromatography",
+    "zh": "环糊精电动色谱(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodextrin stationary phase",
+    "zh": "环糊精固定相",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodihydromyrcene",
+    "zh": "环二氢月桂烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclodimerisation",
+    "zh": "环二聚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecalactam",
+    "zh": "环十二烷内酰胺（尼龙12的原料）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecane",
+    "zh": "环十二烷（尼龙12的中间体）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecanol",
+    "zh": "环十二烷(基)醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecanone",
+    "zh": "环十二酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecanone dimethyl ketal",
+    "zh": "环十二酮二甲缩酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecatriene",
+    "zh": "环十二碳三烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecene",
+    "zh": "环十二烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecenol",
+    "zh": "环十二烯醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyclododecyl ethyl ether",
+    "zh": "环十二烷(基)乙醚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "decontaminant",
+    "zh": "去污剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed extraction",
+    "zh": "延迟引出；延迟排出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "denitrated collodion",
+    "zh": "脱硝基火棉胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dense media separation",
+    "zh": "重液分离;重介质分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density gradient separation",
+    "zh": "密度梯度分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density separation",
+    "zh": "密度分离(法);比重分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detection limit",
+    "zh": "检出限*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "detection limit of spectral analysis",
+    "zh": "光谱分析检出限",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dicyclooctatetracene-neptunium",
+    "zh": "二环辛四烯合镎 Np(C8H8)2",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dicyclooctatetracene-plutonium",
+    "zh": "二环辛四烯合钚 Pu(C8H8)2",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential extraction",
+    "zh": "微分萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diffusion separation technique",
+    "zh": "扩散分离技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diplodnabactivirus",
+    "zh": "双脱噬菌体；双 DNA 噬菌体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dirt particles(=impurity)",
+    "zh": "杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dislodged sludge",
+    "zh": "沉积泥渣",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dislodger",
+    "zh": "沉积槽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dissociation extraction",
+    "zh": "解离萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolved impurity",
+    "zh": "溶解的杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distribution ratio(=extraction coefficient;distribution coefficient)",
+    "zh": "萃取系数;(萃取)分配比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dithizone extraction method",
+    "zh": "双硫腙抽提法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "donor impurity",
+    "zh": "施主杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double solvent extraction",
+    "zh": "双溶剂萃取；双溶剂抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double-tracer clearance technique",
+    "zh": "双指示剂清除技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double-tracer technique",
+    "zh": "双指示剂法；双示踪技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drastic extraction",
+    "zh": "深度抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry separation",
+    "zh": "干选；风选",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual-temperature exchange separation",
+    "zh": "双温交换分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual temperature separation",
+    "zh": "双温分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duo-sol extraction",
+    "zh": "双溶剂提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duplex vacuum plodder",
+    "zh": "双联真空压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dust exploding",
+    "zh": "粉尘爆炸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dust separation",
+    "zh": "灰尘分离; 除尘",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic separation",
+    "zh": "动态分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic separation of the pH gradient pH",
+    "zh": "梯度动态分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "easy-to-degrade organic pollutant",
+    "zh": "易降解有机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Edeleanu extraction",
+    "zh": "埃德林抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "efficiency of fractional separation",
+    "zh": "分级分离效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical separation method",
+    "zh": "电化学分离方法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electroextraction",
+    "zh": "电萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrogravimetric trace analysis",
+    "zh": "电重量痕量分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolytic extraction",
+    "zh": "电解萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic separation",
+    "zh": "电解分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic separation factor",
+    "zh": "电解分离因子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic separation",
+    "zh": "电磁分离(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrophoretic separation",
+    "zh": "电泳分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electroseparation",
+    "zh": "电分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "environmental reference materials",
+    "zh": "环境标准物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "environmental standard reference material",
+    "zh": "环境标准参考物质",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "equilibrium gradient separation method",
+    "zh": "平衡梯度分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "essential trace element",
+    "zh": "必需微量元素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ether extraction",
+    "zh": "醚类萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Eurex process",
+    "zh": "尤雷克斯过程 (词源: enriched uranium extraction, 意大利发展的高浓铀燃料胺类萃取后处理流程)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exchange extraction",
+    "zh": "交换萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exhaustive extraction",
+    "zh": "极限抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "expiration date of reference material",
+    "zh": "标准物质的有效期",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exploded pulp",
+    "zh": "爆炸法纸浆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exploded view",
+    "zh": "展开图；部件分解图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exploder",
+    "zh": "爆炸剂；爆轰剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exploding",
+    "zh": "爆炸；爆发",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "exploding atom",
+    "zh": "爆裂原子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extraction",
+    "zh": "浸提(法)；萃取(法)；提取(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction agent",
+    "zh": "萃取剂；提取剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction apparatus",
+    "zh": "抽提器；提取器；萃取器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction bank",
+    "zh": "萃取槽组",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction bath",
+    "zh": "萃取浴；抽提浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction battery",
+    "zh": "抽提器组；萃取组",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction cartridge",
+    "zh": "萃取柱柱体(柱身)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction chamber",
+    "zh": "萃取室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction coefficient(=distribution ratio)",
+    "zh": "萃取系数；(萃取)分配比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction column",
+    "zh": "抽提塔；萃取塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction constant",
+    "zh": "萃取常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction-contamination problem",
+    "zh": "萃取沾污问题；提取污染问题",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction curve",
+    "zh": "萃取曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction cycle",
+    "zh": "萃取周期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction data",
+    "zh": "提取数据",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction disk",
+    "zh": "抽取碟片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction distillation column",
+    "zh": "萃取蒸馏塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction distribution coefficient",
+    "zh": "萃取分配系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction efficiency",
+    "zh": "萃取效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction equilibrium",
+    "zh": "萃取平衡；抽提平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction equilibrium constant",
+    "zh": "萃取平衡常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction equipment",
+    "zh": "浸提(取)设备；萃取装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction factor",
+    "zh": "萃取因素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction feed",
+    "zh": "萃取原料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction flask",
+    "zh": "提取瓶；萃取瓶；浸提瓶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction floatation",
+    "zh": "萃取浮选法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction flow",
+    "zh": "排气流量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction fractionation",
+    "zh": "萃取分级*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction gravimetry",
+    "zh": "萃取(抽提)重量分析法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction indicator",
+    "zh": "萃取指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction isotherm",
+    "zh": "萃取等温线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction line",
+    "zh": "出料管；排出管;抽提管路",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction mechanism",
+    "zh": "萃取机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction metallurgy",
+    "zh": "萃取冶金学；提取冶金学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction method",
+    "zh": "萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction of sugar",
+    "zh": "糖提取法（糖）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction packed column",
+    "zh": "填充抽提塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction-photometric method",
+    "zh": "萃取光度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction pump",
+    "zh": "排气泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction raffinate",
+    "zh": "萃余液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction rate",
+    "zh": "萃取率；浸提率；出粉率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction section",
+    "zh": "萃取段",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction separation",
+    "zh": "萃取分离(法)；提取分离(法)",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "extraction separation method",
+    "zh": "萃取分离法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "extraction shell",
+    "zh": "提取筒壳",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction solvent",
+    "zh": "萃取溶剂；抽提溶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction spectrophotometric method",
+    "zh": "萃取分光光度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction stage efficiency",
+    "zh": "萃取级效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction suppression",
+    "zh": "萃取抑制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction system",
+    "zh": "萃取系统；抽提系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction thimble",
+    "zh": "抽提套管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction titration method",
+    "zh": "萃取滴定法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction tower",
+    "zh": "抽提塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction tube",
+    "zh": "提取管；抽提管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction yield",
+    "zh": "萃取率；提取率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extract-separation",
+    "zh": "抽提物分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extreme trace analysis",
+    "zh": "超痕量分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrinsic contaminant",
+    "zh": "外来杂质；外来沾污",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast radiochemical separation",
+    "zh": "快放射化学分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fat-free extraction paper",
+    "zh": "脱脂提取纸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fatty acid separation",
+    "zh": "脂肪酸分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "felodipine",
+    "zh": "非洛地平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "film extraction",
+    "zh": "薄膜萃取(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flame trace",
+    "zh": "火焰痕迹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash separation",
+    "zh": "石油接触脱气",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexible collodion",
+    "zh": "挠性火棉胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "floating pollutants",
+    "zh": "浮动污物；漂浮污物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "floded molecule",
+    "zh": "折叠分子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluid separation device",
+    "zh": "流体分离装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent tracer",
+    "zh": "荧光示踪剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent tracer technique",
+    "zh": "荧光示踪法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoride extraction system",
+    "zh": "氟化物萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam separation",
+    "zh": "泡沫分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foreign impurity",
+    "zh": "外来杂质；夹杂物；异物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "formylcyclododecane",
+    "zh": "甲酰基环十二烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "forward extraction (",
+    "zh": "正向)萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional extraction",
+    "zh": "分馏萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional separation",
+    "zh": "分级分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionated by coacervate extraction",
+    "zh": "凝聚析出分级法；凝聚抽提分级法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "French process (for zine extraction)",
+    "zh": "法兰西提锌法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fume extraction",
+    "zh": "抽吸烟雾(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fume extraction system",
+    "zh": "雾化萃取器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfural solvent extraction process",
+    "zh": "糠醛溶剂抽提法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fused salt extraction",
+    "zh": "熔融盐萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fused salt-liquid metal extraction",
+    "zh": "熔盐-液相金属萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous contaminant",
+    "zh": "气态污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous diffusional separation",
+    "zh": "气体扩散分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous pollutant",
+    "zh": "气态污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas impurity",
+    "zh": "气体杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas separation unit",
+    "zh": "气体分离装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grade efficiency of separation",
+    "zh": "分级分离效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gradient elution separation",
+    "zh": "梯度洗脱分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gravimetric separation",
+    "zh": "重量法分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gravitational separation",
+    "zh": "重力分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gravity separation",
+    "zh": "按比重分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grease separation",
+    "zh": "润滑脂分油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "group separation (",
+    "zh": "按)组分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hard-to-degrade organic pollutant",
+    "zh": "难降解有机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat extraction",
+    "zh": "热除去",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy fluid separation",
+    "zh": "重流体分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy impurity",
+    "zh": "重质杂质；重组分杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy media separation",
+    "zh": "重介质分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy paraffinic impurity",
+    "zh": "重(链)烷烃杂质；重石蜡基杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Henning process (for nickel extraction)",
+    "zh": "亨宁(炼镍)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction)",
+    "zh": "海派克斯过程(用酸性膦酸酯萃取分离重元素(超铀元素)的过程)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hexabromo-cyclododecane",
+    "zh": "六溴环十二烷（阻燃剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high resolution chromatographic separation",
+    "zh": "高分辨色谱分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneity of reference material",
+    "zh": "标准物质均匀性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homogeneity test of reference material",
+    "zh": "标准物均匀性检验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homogeneous extraction",
+    "zh": "均相萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hybinette process (for nickel extraction)",
+    "zh": "海宾尼特(炼镍)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydraulic separation",
+    "zh": "水力离析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon extraction",
+    "zh": "烃类抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydro-extraction",
+    "zh": "脱水;水力提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen extraction apparatus",
+    "zh": "氢提取装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen fluoride extraction",
+    "zh": "氟化氢抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrotropic extraction",
+    "zh": "水溶抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxylated contaminant",
+    "zh": "羟基(化的)污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxymethyl cyclodecane",
+    "zh": "羟甲基环癸烷 5-hydroxymethyl cytosine (HMC) 5-羟甲基胞嘧啶 4-hydroxymethyl-2,6-di-t-butyl phenol 4-羟甲基-2,6-二叔丁基苯酚（防老剂） 5-hydroxymethyl furfural 5-羟甲基糠醛 β-hydroxy-β-methyl glutaryl-CoA(HMG-CoA) β-羟基-β-甲基戊二酸单酰 CoA 2-hydroxy methylmercapto benzene 2-羟基甲硫基苯 2-hydroxy methyl-5-norbornene (=5-norbornene-2-methanol) 5-降冰片烯-2-甲醇；2-羟甲基-5-降冰片烯（涂料用聚合物改性剂） 3-(hydroxymethyl)-2-octanone 3-(羟甲基)-2-辛酮 2(2-hydroxy-5-methylphenyl) benzothiazole 2(2-羟基-5-甲基苯基)苯并三唑（紫外线吸收剂） 4-hydroxy-N-methyl-proline 4-羟基-N-甲基脯氨酸 2-hydroxy-2-methyl-propiophenone 2-羟基-2-甲基苯丙酮 (CH₃)₂C(OH)C(O)C₆H₅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "impurity(=dirt particles)",
+    "zh": "杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity absorption",
+    "zh": "杂质吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity analysis by spark source",
+    "zh": "火花源杂质分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity atoms",
+    "zh": "杂质原子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity-containing waste polyester",
+    "zh": "含杂质废聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity content",
+    "zh": "杂质含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity defect",
+    "zh": "杂质缺陷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity element",
+    "zh": "杂质元素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "impurity level",
+    "zh": "杂质量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inductive separation",
+    "zh": "感应分选",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "influence exploder",
+    "zh": "非触发引信；感应雷管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "information value of reference material",
+    "zh": "标准物质参考值informative pattern 可提供数据的图形",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inorganic pollutant",
+    "zh": "无机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in situ tracer",
+    "zh": "原位示踪剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal separation",
+    "zh": "分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interrupted extraction",
+    "zh": "间歇萃取；断续萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intrinsic contaminants",
+    "zh": "内在杂质; 固有杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intrinsic tracer",
+    "zh": "内部示踪物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iodide extraction system",
+    "zh": "碘化物萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion association extraction system",
+    "zh": "离子缔合萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange separation",
+    "zh": "离子交换分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exclusion separation",
+    "zh": "离子排斥分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionizable contaminant",
+    "zh": "离子污染",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionophortic separation (",
+    "zh": "离子)电泳分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion pair extraction",
+    "zh": "离子对萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion retardation separation",
+    "zh": "离子阻滞分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "IRT method(=isotope ratio tracer)",
+    "zh": "同位素比示踪剂法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isomer separation",
+    "zh": "(同分)异构体;同质异能素分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopentane separation",
+    "zh": "异戊烷分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isorheic separation",
+    "zh": "等黏度分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope ratio tracer method",
+    "zh": "同位素比示踪物法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope separation",
+    "zh": "同位素分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope tracer",
+    "zh": "同位素示踪剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope tracer technique",
+    "zh": "同位素示踪技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotopic tracer",
+    "zh": "同位素指示剂；示踪同位素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotopic tracer technique",
+    "zh": "同位素示踪技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kilodyne",
+    "zh": "千达因",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Knöfler type extraction apparatus",
+    "zh": "克涅夫勒式萃取装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminar separation",
+    "zh": "层流分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir-Blodgett film L-B",
+    "zh": "膜*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "large pore separation gel",
+    "zh": "大孔分离凝胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser extraction chemistry",
+    "zh": "激光萃取化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser isotope separation",
+    "zh": "激光同位素分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lay separation",
+    "zh": "分层；脱层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "levamlodipine",
+    "zh": "左旋氨氯地平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lippmann electrode",
+    "zh": "李普曼毛细管电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lippmann electrometer",
+    "zh": "李普曼毛细管静电计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "liquid air pollutants",
+    "zh": "液体大气污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid film separation",
+    "zh": "液膜分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-liquid extraction",
+    "zh": "液-液萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-liquid extraction system",
+    "zh": "液-液萃取系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-liquid separation",
+    "zh": "液-液分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid metal extraction",
+    "zh": "液体金属萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-solid extraction",
+    "zh": "液固萃取；固液萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lode",
+    "zh": "矿脉;水路；沟",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lodermycin(=demethylchlortetracycline)",
+    "zh": "去甲基金霉素lodestone 极磁铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lodgment of stock",
+    "zh": "窝浆；淀浆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low boiling impurity",
+    "zh": "低沸点杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature separation",
+    "zh": "低温分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low temperature separation process",
+    "zh": "低温分离；深冷分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic separation",
+    "zh": "磁力分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "malodor",
+    "zh": "臭气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "malodorous",
+    "zh": "恶臭的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "man-made pollutant",
+    "zh": "人为污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass detection limit",
+    "zh": "质量检测限",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mass separation",
+    "zh": "质量分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass separation/mass identification mass spectrometer",
+    "zh": "质量分离-质量鉴定质谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass separation/mass identification spectrometry",
+    "zh": "质量分离-质量鉴定法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass separation-mass spectra characterization",
+    "zh": "质量分离的质谱检测技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matrix reference material",
+    "zh": "基体标准物质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maximum detection limit",
+    "zh": "最大检测限",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mechanical air separation",
+    "zh": "机械空气分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanical separation",
+    "zh": "机械分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medical grade $^{238}$ Pu",
+    "zh": "医学级钚-238（含 Pu 在 0.3ppm 以下）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "membrane separation process",
+    "zh": "薄膜分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "membrane separation technique",
+    "zh": "膜分离技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mercury cathode separation",
+    "zh": "汞阴极分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal chelate extraction",
+    "zh": "金属螯合物萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microphase separation",
+    "zh": "微相分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microphase separation structure of polyurethane block copolymer",
+    "zh": "聚氨酯嵌段共聚物微相分离结构",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microwave-assisted extraction",
+    "zh": "微波辅助萃取；微波辅助抽提法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microwave extraction separation",
+    "zh": "微波萃取分离法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "minimum separation time",
+    "zh": "最短分离时间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed solvent extraction",
+    "zh": "混合溶剂抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular sieve separation",
+    "zh": "分子筛分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molsep(=molecular separation)",
+    "zh": "分子分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molten silver extraction process",
+    "zh": "熔融银萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mother lode",
+    "zh": "母脉；主矿脉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multielement substoichiometric separation",
+    "zh": "多元素亚化学计量分离法；多元素不足化学计量分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multielement trace analyses",
+    "zh": "多元素痕量分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple-batch extraction",
+    "zh": "多级间断提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple extraction",
+    "zh": "多次萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple headspace extraction",
+    "zh": "多次顶空提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multistage extraction",
+    "zh": "多级抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multistage liquid-liquid extraction",
+    "zh": "多级液-液萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multivane air separation",
+    "zh": "偏转器空气分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural impurity",
+    "zh": "天然杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nilodin",
+    "zh": "尼鲁定; 尼罗丁(药)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nitracetanilide",
+    "zh": "硝基乙酰苯胺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrilodiacetic monopropionic acid(NDAP)",
+    "zh": "次氮基二乙酸一丙酸 N(CH₂COOH)₂(C₂H₄COOH)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nitrogen-containing impurity",
+    "zh": "含氮杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-electrolyte impurity",
+    "zh": "非电解质杂质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nontracer isotopic method",
+    "zh": "非示踪物的同位素法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nozzle separation",
+    "zh": "喷嘴分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear separation",
+    "zh": "核间距离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-extraction plant",
+    "zh": "炼油厂；提油厂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oily pollutant",
+    "zh": "含油污物；油性污物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oligomer extraction",
+    "zh": "低聚物萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "on-line preconcentration",
+    "zh": "在线预浓集",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "on-line separation",
+    "zh": "线上分离；流线分离；在线分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oral contraceptive",
+    "zh": "口服避孕药",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic chemical pollutant",
+    "zh": "有机化学污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic contaminant",
+    "zh": "有机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic pollutant",
+    "zh": "有机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic pollutant analysis",
+    "zh": "有机污染物分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxalodiacetic acid",
+    "zh": "草二乙酸；草酰 3,4-己二酮二酸 COOHCHCOCOCHCOOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxatollic acid",
+    "zh": "草陶酸〔俗〕; 二苄基乙醇酸 HOC(CH₂Ph)₂COOH 1-oxa-4,7,10-triazacyclododecane 1-氧杂-4,7,10-三氮杂环十二烷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxine extraction 8-",
+    "zh": "羟基喹啉萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxonium salt extraction",
+    "zh": "锌盐萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "packed extraction column",
+    "zh": "填充(式)萃取塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paper electrophoretic separation",
+    "zh": "纸电泳分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "particulate pollutant",
+    "zh": "微粒污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "part per billion(ppb)",
+    "zh": "十亿分之一（10^-9）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "part per million(ppm)",
+    "zh": "百万分之一（10^-6）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "part per trillion(ppt)",
+    "zh": "万亿分之一（10^-12）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "percentage extraction (",
+    "zh": "百分)萃取率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percent extraction",
+    "zh": "萃取率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perchlorate extraction system",
+    "zh": "高氯酸盐萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perchloropentacyclodecane",
+    "zh": "全氯五环癸烷（阻燃剂常与Sb₂O₃并用）；灭蚁灵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "permeation separation",
+    "zh": "渗透分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permeation separation unit",
+    "zh": "渗透分离装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "persistent organic pollutants(POPs)",
+    "zh": "持久性有机污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase separation",
+    "zh": "相分离；析相作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase separation fluoroimmunoassay",
+    "zh": "相分离荧光免疫分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase separation model",
+    "zh": "析相模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase separation temperature",
+    "zh": "析相温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photochemical degradation of pollutant",
+    "zh": "污染物的光化学降解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photochemical separation",
+    "zh": "光化学分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phytoextraction",
+    "zh": "植物萃取作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piloquinone",
+    "zh": "毛醌素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plasticizer extraction",
+    "zh": "增塑剂析出；增塑剂萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plasticizer extraction test",
+    "zh": "增塑剂的萃取试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plodder",
+    "zh": "蜗压机;压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plodding",
+    "zh": "模压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ply separation machine",
+    "zh": "层离机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pneumatic separation",
+    "zh": "气流分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant",
+    "zh": "污染物；沾污物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant analyzer",
+    "zh": "污染物分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant burden",
+    "zh": "污染物负荷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant characterization",
+    "zh": "污染物表征",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant concentration",
+    "zh": "污染物浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pollutant discharging license",
+    "zh": "排污许可证",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerisable contaminant",
+    "zh": "可聚污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poor separation",
+    "zh": "不良分离；不清晰分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precipitation separation",
+    "zh": "沉淀分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preextraction",
+    "zh": "预提取；预浸出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-extraction step",
+    "zh": "萃取操作前的步骤；预萃取步骤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-plodder",
+    "zh": "预压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "preseparation column",
+    "zh": "预分离柱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure extraction",
+    "zh": "加压萃取；压力萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary pollutant",
+    "zh": "首要污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary reference material",
+    "zh": "一级标准物质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "priority pollutant",
+    "zh": "优先污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "product separation",
+    "zh": "产品分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proximity exploder",
+    "zh": "遥控引信; 近爆信管; 近爆引信",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Pubex process（",
+    "zh": "词源: plutonium batch extraction） 普贝克斯过程（从提取超钚元素用的辐照过钚靶中用 D2EHPA/二乙苯从酸性溶液中回收和纯化未烧尽钚的间歇萃取过程）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pull-push extraction system",
+    "zh": "推拉萃取体系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulsed extraction column",
+    "zh": "脉冲萃取塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulsed ion extraction",
+    "zh": "脉冲引出",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse extraction column",
+    "zh": "脉动抽提柱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Purex process （",
+    "zh": "词源:pluotnum-uranium refining by extraction）钚雷克斯流程〔从辐照铀燃料用磷酸三丁酯萃取法回收纯化铀钚〕",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrazoloquinazolone pigment",
+    "zh": "吡唑喹唑(啉)酮颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrocollodion",
+    "zh": "焦珂罗酊；高硝珂罗酊",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrroloquinoline",
+    "zh": "吡咯并喹啉 C₁₁H₉N;任何含有一个吡咯环及一个喹啉环的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinium(=mefloquine)",
+    "zh": "甲氟喹；奎宁母",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radial compression separation system",
+    "zh": "径向压缩分离系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive tracer",
+    "zh": "放射性示踪物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive-tracer-fibre",
+    "zh": "放射性示踪纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive tracer method",
+    "zh": "放射性示踪剂(分析)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiochemical separation",
+    "zh": "放射化学分离*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiochromatographic separation",
+    "zh": "辐射色谱分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioisotope tracer method",
+    "zh": "放射性同位素示踪法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioisotopic tracer",
+    "zh": "放射性同位素示踪物；放射性同位素指示剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotracer",
+    "zh": "放射指示剂;(放射)示踪剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotracer leak detector",
+    "zh": "放射示踪检漏仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reader trace",
+    "zh": "记录仪划线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reciprocating plate extraction column",
+    "zh": "往复振动板式萃取柱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recoil separation",
+    "zh": "反冲分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recycling separation",
+    "zh": "循环分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reducing impurity",
+    "zh": "还原性杂质 reducing machine 磨碎机；粉碎机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reduction reextraction",
+    "zh": "还原反萃(取)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reference material",
+    "zh": "标准物质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reference material certificate(RM)",
+    "zh": "标准物质证书",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reextraction",
+    "zh": "反萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reflux extraction flowsheet",
+    "zh": "回流萃取流程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative detection limit",
+    "zh": "相对检出限",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "retainable pollutant",
+    "zh": "保守性污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "roll separation",
+    "zh": "滚距",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Rossler-Edelmann process (for zinc extraction)",
+    "zh": "罗斯勒-埃德曼炼锌法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salicylic acid collodion",
+    "zh": "水杨酸胶棉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saloquinine",
+    "zh": "萨罗奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sample extraction",
+    "zh": "样本提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Scharples type ultracentrifuge",
+    "zh": "夏普列斯超速离心机",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "secondary extraction oil",
+    "zh": "二次萃取油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary pollutant",
+    "zh": "二次污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary reference material",
+    "zh": "二级标准物质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sedimentation (separation) technique",
+    "zh": "沉降(分离)技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective extraction",
+    "zh": "选择性提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective solvent extraction",
+    "zh": "选择溶剂萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation",
+    "zh": "分离*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation analysis",
+    "zh": "分离分析 separation by development(=separation by displacement)置换分离 separation by displacement(=separation by development)置换分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation cell",
+    "zh": "分离池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation chamber",
+    "zh": "分离槽; 展开槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation coal",
+    "zh": "精选煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation coefficient",
+    "zh": "分离系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation column",
+    "zh": "分馏塔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation criterion",
+    "zh": "分离判据",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation development",
+    "zh": "分离展开",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation efficiency",
+    "zh": "分离效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation equipment",
+    "zh": "分选设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation facility",
+    "zh": "分离装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation factor",
+    "zh": "分离因子*; 分离系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation function",
+    "zh": "分离函数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation gel",
+    "zh": "分离胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation identification system",
+    "zh": "分离鉴定系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation intensity factor",
+    "zh": "分离强度因数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation number",
+    "zh": "分离数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation optimization",
+    "zh": "分离最佳化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation parameter",
+    "zh": "分离参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation plant",
+    "zh": "分离工厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation potential",
+    "zh": "分离势*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation problem",
+    "zh": "分离课题",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation process",
+    "zh": "分离过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation quotient",
+    "zh": "分离商",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation reaction",
+    "zh": "分离反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation-reaction-separation technique",
+    "zh": "分离-反应-分离技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation sieve",
+    "zh": "分离筛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation system",
+    "zh": "分离系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation temperature",
+    "zh": "分离温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation test for greases",
+    "zh": "润滑脂分油试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation value",
+    "zh": "分离值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "separation work",
+    "zh": "分离功*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shale oil extraction",
+    "zh": "页岩油抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Shank's extraction process",
+    "zh": "香克提取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sharp separation",
+    "zh": "清晰分离；快速分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simple multiple extraction",
+    "zh": "并流多级萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simulated reference material",
+    "zh": "模拟标准物质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single-batch extraction",
+    "zh": "单釜提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single extraction",
+    "zh": "一次萃取；一次抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-solvent extraction",
+    "zh": "单一溶剂提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-stage extraction",
+    "zh": "单级提取；一段抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single-worm plodder",
+    "zh": "单螺杆压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sink-and-float separation",
+    "zh": "沉浮分离法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "size separation",
+    "zh": "粒析；颗粒离析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "size separation equipment",
+    "zh": "分选设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sklodwskite",
+    "zh": "硅镁铀矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "small pore separation gel",
+    "zh": "小孔分离凝胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "smoke extraction unit",
+    "zh": "烟雾提取装置（熄灭时用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap extraction",
+    "zh": "皂萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap plodder",
+    "zh": "肥皂压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap plodding",
+    "zh": "肥皂压条",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid-liquid extraction",
+    "zh": "固体-液体提取;固液提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid-liquid separation",
+    "zh": "固液分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid phase extraction",
+    "zh": "固相萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid phase microextraction",
+    "zh": "固相微萃取；固相微量抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solodization (",
+    "zh": "土壤)脱碱(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solvent extraction",
+    "zh": "溶剂萃取*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent extraction generator",
+    "zh": "溶剂萃取(同位素)发生器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent extraction method",
+    "zh": "溶剂萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent extraction process",
+    "zh": "溶剂提取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent extraction separation",
+    "zh": "溶剂萃取分离",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "solvent extraction test",
+    "zh": "溶剂萃取试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent extraction tower",
+    "zh": "溶剂提取塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-in-pulp extraction",
+    "zh": "矿浆萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent separation",
+    "zh": "溶剂分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sorption extraction",
+    "zh": "吸附萃取(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Soxhlet extraction",
+    "zh": "索氏萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Soxhlet extraction method",
+    "zh": "索格利特萃取法；索氏萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spirally traced pipe-line insulation",
+    "zh": "管道绝缘层的螺旋形安装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "split extraction",
+    "zh": "分裂提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spray extraction column",
+    "zh": "喷淋式抽提塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "SRL electrolytic dissolver SRL",
+    "zh": "电解溶解器 SRS technique(=separation-reaction-separation technique)分离-反应-分离技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stability of reference material",
+    "zh": "标准物质的稳定性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stability test of reference material",
+    "zh": "标准物质稳定性检验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stable isotope tracer method",
+    "zh": "稳定同位素示踪法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stable isotopic tracer",
+    "zh": "稳定同位素示踪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stage extraction",
+    "zh": "分段提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard reference color",
+    "zh": "标准参比色；标准色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard reference material (SRM)",
+    "zh": "标准参考物质；标准物质",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "steam trace (",
+    "zh": "加热)蒸汽管道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam tracer line",
+    "zh": "蒸汽伴热管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stoichiometric impurity",
+    "zh": "化学计量杂质；化学计算杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight-lode compressor (",
+    "zh": "罗茨型)转子压缩机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strip-extraction",
+    "zh": "反萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strip extraction column",
+    "zh": "反萃取柱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substoichiometric extraction",
+    "zh": "亚化学计量萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sugar juice extraction",
+    "zh": "糖汁提取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supercritical fluid extraction (SFE)",
+    "zh": "超临界流体萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface-active impurity",
+    "zh": "表面活性杂质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surrogate reference material",
+    "zh": "代用标准物质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synergetic extraction",
+    "zh": "协同萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synergistic extraction",
+    "zh": "协同萃取synergistic flame retardant 增效性阻燃剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic reference material",
+    "zh": "合成标准物质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tagged atom (=tracer atom)",
+    "zh": "标记原子；加有标记的原子；示迹原子；显迹原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Tainton process (for zinc extraction)",
+    "zh": "泰恩汤(提锌)法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tar extraction",
+    "zh": "焦油提取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tar separation",
+    "zh": "焦油分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "temperature controlled phase-separation immunoassay (TCPSIA)",
+    "zh": "控温相分离免疫分析法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetracene",
+    "zh": "并四苯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetracetate",
+    "zh": "四乙酸盐(酯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical extraction curve",
+    "zh": "理论萃取曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal separation",
+    "zh": "热分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal trace",
+    "zh": "热示踪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermo micro-application separation",
+    "zh": "热微量转移",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiocyanate extraction system",
+    "zh": "硫氰酸盐萃取系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-color separation",
+    "zh": "三色分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "three-phase extraction",
+    "zh": "三相萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titrimetric-extraction method",
+    "zh": "滴定-萃取法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trace amount",
+    "zh": "痕量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace analysis",
+    "zh": "痕量分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace catcher",
+    "zh": "痕量(成分)捕集剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace chemistry",
+    "zh": "痕量化学*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace colloid",
+    "zh": "示踪胶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace components",
+    "zh": "痕量组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace constituent",
+    "zh": "痕量成分*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace detection",
+    "zh": "痕量检测",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace element",
+    "zh": "痕量元素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace element pollution",
+    "zh": "痕量元素污染",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace enrichment",
+    "zh": "痕量富集",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace impurity",
+    "zh": "微量杂质；痕量杂质",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "trace level",
+    "zh": "痕量级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace metal",
+    "zh": "痕量金属；微迹金属",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace metal analysis of environment",
+    "zh": "环境中的痕量金属分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace of impurity",
+    "zh": "微量杂质",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "trace peroxidic impurity",
+    "zh": "微量过氧化物杂质",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "trace pollutant",
+    "zh": "痕量污染物",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "tracer",
+    "zh": "示踪剂 ；示踪物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer analysis",
+    "zh": "示踪分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer atom (=tagged atom)",
+    "zh": "标记原子；加有标记的原子； tracer atom (=tagged atom)示迹原子；显迹原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer bullet",
+    "zh": "示踪(子)弹；曳光(子)弹",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer chemistry",
+    "zh": "示踪化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer composition",
+    "zh": "曳光剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer diffusion",
+    "zh": "示踪原子扩散",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer element",
+    "zh": "示踪元素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer experiment",
+    "zh": "示踪实验；显迹实验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer-free",
+    "zh": "无指示剂的；无示踪物的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer isotope",
+    "zh": "示踪同位素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracerlab",
+    "zh": "同位素示踪物实验室；放射化学实验室",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer-labelling",
+    "zh": "同位素示踪物标记",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer level",
+    "zh": "示踪量；痕迹量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer method",
+    "zh": "示踪法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer milling machine",
+    "zh": "靠模铣床",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic pollutants",
+    "zh": "有毒污染物；毒性污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer needle",
+    "zh": "触针；描形针",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer pulse chromatography",
+    "zh": "示踪脉冲色谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer scale",
+    "zh": "示踪量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer scale extraction",
+    "zh": "示踪量萃取",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "tracer shell",
+    "zh": "示踪(炮)弹；曳光(炮)弹",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer study",
+    "zh": "示踪研究",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer technique",
+    "zh": "示踪技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer test of labelled drug",
+    "zh": "标记药物示踪实验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tracer yarn",
+    "zh": "标志纱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trace sediment",
+    "zh": "痕迹沉淀；痕迹沉积物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trace",
+    "zh": "描；画;示踪；探索;痕量；微量;迹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "traceability",
+    "zh": "溯源性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tread separation",
+    "zh": "胎面分层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "turbulent separation",
+    "zh": "湍流分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "twin-screw plodder",
+    "zh": "双螺杆压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "twin-worm plodder",
+    "zh": "双螺压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two-dimensional separation",
+    "zh": "两向分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two dimensional stacked trace plot",
+    "zh": "二维堆积图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Ubbelodhe drop point",
+    "zh": "乌伯娄德滴点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ubbelodhe melting point",
+    "zh": "乌伯娄德熔点（润滑脂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ubbelodhe viscometer",
+    "zh": "乌氏黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Ubbelodhe viscosimeter",
+    "zh": "乌伯娄德黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Udex extraction process(=Udex process)",
+    "zh": "尤狄克斯抽提过程（在逆流塔用二醇抽提芳烃）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Udex process(=Udex extraction process)",
+    "zh": "尤狄克斯抽提过程（在逆流塔用二醇抽提芳烃）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultimate separation",
+    "zh": "极限分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultracentrifugal analysis",
+    "zh": "超(速)离心分析",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifugal characterization",
+    "zh": "超离心特性",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifugal sedimentation",
+    "zh": "超离心沉积",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifugal stability (",
+    "zh": "乳状液的)超离心稳定性",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifugation",
+    "zh": "超(速)离心法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifugation sedimentation",
+    "zh": "超速离心沉降(法)",
+    "role": "secondary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultra-centrifugation sedimentation separation and analysis",
+    "zh": "超离心沉降分离分析方法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultracentrifuge",
+    "zh": "超离心机*",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifuge method",
+    "zh": "超离心机法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultracentrifuge sedimentation",
+    "zh": "超离心(机)淀积(法)",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "ultrasonic extraction",
+    "zh": "超声萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrasonic separation",
+    "zh": "超声分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultra trace",
+    "zh": "超痕量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultratrace amount",
+    "zh": "超示踪量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultra trace analysis",
+    "zh": "超痕量分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Unisol (mercaptan extraction) process",
+    "zh": "尤尼索尔精制过程（用含甲醇的氢氧化钠或钾的水溶液抽提油品中的硫醇和某些含氮化合物的再生式过程）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urea extraction",
+    "zh": "尿素抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum extraction still",
+    "zh": "真空(蒸馏)提取器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum hydro-extraction",
+    "zh": "真空脱水；真空萃取",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum plodder",
+    "zh": "真空压条机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor-liquid extraction",
+    "zh": "汽液抽提",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile impurity",
+    "zh": "挥发性杂质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volatile separation",
+    "zh": "耐挥发分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water environmental capacity of pollutant",
+    "zh": "污染物水环境容量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water pollutant",
+    "zh": "水污染物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water separation index",
+    "zh": "水分离指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wax-oil separation",
+    "zh": "蜡-油分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet collodion process",
+    "zh": "火棉胶湿板(照相)法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wet separation",
+    "zh": "湿选；水选",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whizzer air separation",
+    "zh": "离心空气分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wide-mouthed flat-bottom extraction flask",
+    "zh": "广口平底抽提瓶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xylene isomerization-separation unit",
+    "zh": "二甲苯异构化分离装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zero (ppm) water",
+    "zh": "零硬水；软水；蒸馏水",
+    "role": "primary",
+    "confidence": 3.5
+  }
+]

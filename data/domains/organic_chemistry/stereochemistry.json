@@ -1,0 +1,9578 @@
+[
+  {
+    "en": "Abderhalden's dryer(=drying pistol)",
+    "zh": "阿布德哈登干燥器；干燥枪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "abequose",
+    "zh": "阿比可糖；3-脱氧-D-岩藻糖",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "absolute configuration",
+    "zh": "绝对构型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acetamidopropyl trimonium chloride",
+    "zh": "乙酰氨基丙基三甲基氯化铵 4-acetamido-trans-azobenzene 4-乙酰氨基反式偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acetphenetidin(e) $N$ -",
+    "zh": "乙酰乙氧基苯胺",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "achiral",
+    "zh": "非手性(的)*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "achiral molecule",
+    "zh": "非手性分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "achiral reagent",
+    "zh": "非手性试剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "achiralty",
+    "zh": "非手性型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cis-aconitic anhydride",
+    "zh": "顺-3-羧基戊烯二酸酐; 顺-乌头酸酐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acsinatine(=(S)-4,7-dimethyl-6,7-dihydro-5H-cyclopenta[c] pyridine)",
+    "zh": "阿克亭",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "actinium A",
+    "zh": "铜A actinium B 铜B actinium C 铜C actinium C' 铜C' actinium C\" 铜C\" actinium D 铜D ；钢铅",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "active region(s)",
+    "zh": "活性中心；活泼区域；活泼中心(反应)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-addition",
+    "zh": "顺(式)加(成)作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "adrenalin(e)(=adnephrine; epinephrine)",
+    "zh": "肾上腺素 C6H3(OH)2(CHOHCH2NHCH3)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "A/D transformation",
+    "zh": "模/数转换",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "agaphite(=turquois(e))",
+    "zh": "绿松石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ag(e)ing maturation",
+    "zh": "熟成",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ag(e)ing vessel",
+    "zh": "老化器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Agulhon's reagent",
+    "zh": "阿居隆试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Aich's metal",
+    "zh": "艾奇合金；含铁四六黄铜",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aldol(s)",
+    "zh": "醇醛缩合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Alfrey's rule",
+    "zh": "阿尔弗雷法则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alga(e)",
+    "zh": "藻",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alizarin red S",
+    "zh": "茜素红S*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alizarin yellow R(=sodium p-nitrobenzene-azo-salicylate)",
+    "zh": "茜素黄R",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alkyl azide",
+    "zh": "烷基叠氮 R[N₃]",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-alkyl isothiourea S-",
+    "zh": "烷基异硫脲",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-alkyl pseudo thiourea S-",
+    "zh": "烷基假硫脲",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alkyl sulfuric acid S-",
+    "zh": "烷基硫酸 RSO₄H",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-alloisohumulone",
+    "zh": "顺-别异葎草酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alloxan(=mesoxalyl urea)",
+    "zh": "阿脲；四氧嘧啶；2-氧代丙二酰脲 HN(CO)3NHCO _______",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allyl trans-2-methyl-2-butenoate",
+    "zh": "反-2-甲基-2-丁烯酸烯丙酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "allyl trisulfide",
+    "zh": "双烯丙基化三硫：三硫二丙烯 ()S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "alternating twist",
+    "zh": "交替加捻(变形工艺中交替加 S 捻和 Z 捻) ;交替捻度(自捻纺纱条具有的 S 向和 Z 向捻度)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amarin(e)",
+    "zh": "苦杏精；2,4,5-三苯基咪唑啉",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S text {-aminoethylcysteine} quad S text {-",
+    "zh": "氨乙基半胱氨酸} $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S - (2 text {-aminoethyl}) text {phosphorothioic acid} quad S - (2 text {-",
+    "zh": "氨基乙基}) text {硫} $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amino methyl valeric acid",
+    "zh": "氨基甲基戊酸；L-异白氨酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "amphichiralty",
+    "zh": "兼手性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ampoul(e)",
+    "zh": "安瓿；针药管;安瓿剂；针药;壶腹（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anagen(e)",
+    "zh": "安纳晶；乙氧基苯酰胺基喹啉",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "analgen(e)(=8-ethoxy-5-benzamido quinoline)",
+    "zh": "安纳晶； 8-乙氧基-5-苯酰氨基喹啉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Anderson's disease",
+    "zh": "遗传性肝糖储积病（由于分支酶淀粉-1,4-1,6转葡萄糖苷酶缺乏引起的疾病）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Andrade's equation",
+    "zh": "安德雷德方程（描述聚合物溶液中温度对黏度的影响）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Andrade's viscosity formula",
+    "zh": "安德雷德黏度(公)式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aneurin(e)(=thiamine;vitamin B₁)",
+    "zh": "抗神经炎素；盐酸硫胺素；维生素 B₁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "angel's hair",
+    "zh": "金银丝（织造用）;玻璃(纤维)丝;假发",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "angle thermometer L",
+    "zh": "型温度计；直角温度计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-（",
+    "zh": "希腊字头） 反；抗；对；解；阻；减",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-abrasion additives",
+    "zh": "抗磨蚀添加剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-activator",
+    "zh": "阻活剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-adherent",
+    "zh": "防黏剂；隔离剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-adhesion agent",
+    "zh": "防黏剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-adhesive",
+    "zh": "防黏剂；隔离剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-aging agent",
+    "zh": "防老剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-aging protective",
+    "zh": "防老剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-alopecia factor(=inositol)",
+    "zh": "抗脱毛因子；环己六醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-arsenical",
+    "zh": "抗吡药（解砒霜毒性）；驱砷剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bacterial fibre",
+    "zh": "抗菌纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bacterial finish",
+    "zh": "抑菌整理；抗菌整理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-ballistic material",
+    "zh": "防弹材料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bleed sealer",
+    "zh": "防渗色封闭剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-blocking",
+    "zh": "抗粘连剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-blocking agent",
+    "zh": "防结块剂;防粘连剂;防贴合剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-blowing agent",
+    "zh": "消泡剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-blushing agent",
+    "zh": "防变色剂;抗混浊剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bonding agent",
+    "zh": "防黏剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bonding state",
+    "zh": "反键态",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-bubbling agent",
+    "zh": "消泡剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-carrier",
+    "zh": "反载体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-catalyst",
+    "zh": "反催化剂；负催化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-cavitation",
+    "zh": "防气蚀；防穴蚀",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-centrifugal splash",
+    "zh": "抗甩性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-chemical properties",
+    "zh": "抗化学药品性能",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-circular development",
+    "zh": "反圆心式展开",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-clinal conformation",
+    "zh": "反错构象",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-clockwise",
+    "zh": "反时针(方向)旋转的；左旋的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-clogging separator",
+    "zh": "防堵塞分离器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-clouding agent",
+    "zh": "防晕剂；防雾剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-coagulant",
+    "zh": "阻凝剂；抗凝(固)剂;抗凝血剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-coagulating agent",
+    "zh": "抗凝(固)剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-configuration",
+    "zh": "反型；反式构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti conformation",
+    "zh": "反式构象",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-corrosive oil",
+    "zh": "防锈油",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-corrosive paint",
+    "zh": "防锈漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-cratering agent",
+    "zh": "防缩孔剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-crawling agent",
+    "zh": "防蠕变剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-crystallizing rubber",
+    "zh": "抗结晶橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-darkening agent",
+    "zh": "防黯色剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-detonating joint",
+    "zh": "抗震缝",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-detonation",
+    "zh": "抗爆(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-detonation fuel",
+    "zh": "抗爆燃料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-dust",
+    "zh": "去污斑",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-emulsifier",
+    "zh": "抗乳化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-emulsifying property",
+    "zh": "抗乳化性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-explosion",
+    "zh": "防爆(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-explosion fuel",
+    "zh": "防爆燃料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-exposure cracking agent",
+    "zh": "防候化龟裂剂（橡胶）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-extrusion ring",
+    "zh": "抗挤胶圈",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-ferroelectricity",
+    "zh": "反铁电性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-fibrillant masterbatch",
+    "zh": "抗纤维剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-flaming",
+    "zh": "防燃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-flammability agent",
+    "zh": "防燃剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-float agent",
+    "zh": "防发花剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-floating agent",
+    "zh": "防泛剂；抗泛剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-flocculating properties",
+    "zh": "防絮凝性质",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-flooding agent",
+    "zh": "防浮剂；抗浮剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-foaming property",
+    "zh": "抗泡性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-form",
+    "zh": "反式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-fouling",
+    "zh": "防污的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-fouling composition(=antifouling compound)",
+    "zh": "防污剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antifouling compound(=anti-fouling composition)",
+    "zh": "防污剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-frosting agent",
+    "zh": "防霜剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-fungal fibre",
+    "zh": "抗菌纤维；耐菌纤维",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-fuzzing finish",
+    "zh": "防起毛整理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-gelling agent",
+    "zh": "防胶凝剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-glare glass",
+    "zh": "防眩玻璃；太阳镜用玻璃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-groove crack (",
+    "zh": "轮胎面)抗花纹龟裂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-halation",
+    "zh": "防光晕",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-hard caking agent",
+    "zh": "防结(硬)块剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-hazard classification",
+    "zh": "防爆等级",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-hemorrhagic compound",
+    "zh": "止血物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-hemorrhagic fibre",
+    "zh": "止血纤维",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-homomorphism",
+    "zh": "反同态；反异质同晶(现象)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Hückel system",
+    "zh": "反休克尔体系",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-humidity oil",
+    "zh": "防潮油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-idiotypic antibody",
+    "zh": "抗独特型抗体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-incrustant",
+    "zh": "防水垢剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-inflammatory action",
+    "zh": "抗炎作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-irritant",
+    "zh": "抗刺激剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-isomerism",
+    "zh": "反式同分异构(现象)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-isomorphism",
+    "zh": "反类质同晶*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Langmuir isotherm",
+    "zh": "反朗格缪尔等温线",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti leaching",
+    "zh": "抗浸出",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-livering agent",
+    "zh": "防肝化剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Markovnikov addition",
+    "zh": "反马氏加成*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-nitrite compound",
+    "zh": "抗亚硝酸化合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-noise paint",
+    "zh": "消声漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-offset agent",
+    "zh": "防背面粘脏剂；防蹭背剂；防(粘)脏剂 〔油墨〕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-oxime",
+    "zh": "反式肟",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-packing chemical",
+    "zh": "除积垢剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-patterning",
+    "zh": "防叠",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-percolator",
+    "zh": "防渗装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti periplanar conformation",
+    "zh": "反叠构象",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-perspiration finish",
+    "zh": "防汗渍整理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pill fibre",
+    "zh": "防起球纤维",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pilling finishing",
+    "zh": "防起球整理；抗起球整理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-piping compound",
+    "zh": "防缩孔剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pitting additives",
+    "zh": "防针孔添加剂（电镀）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pollution",
+    "zh": "防污染；去污染",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pollution barrier",
+    "zh": "防污染栅",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pollution device",
+    "zh": "防污染装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pollution system",
+    "zh": "防污染系统",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-pressing standing velvet",
+    "zh": "抗拉力绒",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-press-off device",
+    "zh": "防脱套装置",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antirachitic factor",
+    "zh": "抗佝偻病因子；维生维 D",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-rads",
+    "zh": "抗射线(老化)剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-reversion agent",
+    "zh": "抗硫化返原剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-rheumatic fibre",
+    "zh": "防风湿纤维（具有低导热、高电位性能的纤维）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-rivelling paint",
+    "zh": "防起条纹漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-run-down",
+    "zh": "防脱散",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-rust additive",
+    "zh": "防锈添加剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sag agent",
+    "zh": "防流淌剂；防流挂剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sagging agent",
+    "zh": "防流挂剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sag index",
+    "zh": "抗流挂指数",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sag property",
+    "zh": "抗塌性能；坚挺性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scorcher",
+    "zh": "防焦(烧)剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scratch additive",
+    "zh": "耐刮擦助剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scuff additive",
+    "zh": "抗擦伤添加剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scuff agent",
+    "zh": "抗磨剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scuffing",
+    "zh": "抗磨蚀；抗擦伤；抗刮(划)伤",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scuffing paste",
+    "zh": "抛光膏；研磨膏",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-scumming agent",
+    "zh": "抗浮垢剂；防浮沫剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sequestrating agent",
+    "zh": "反螯合剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-settling agent",
+    "zh": "防沉剂；抗沉降剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-shatter composition",
+    "zh": "防碎剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-shock mounting",
+    "zh": "防冲装置；缓冲橡皮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-shrink",
+    "zh": "防缩(的)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-shrink finish",
+    "zh": "防缩整理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-shrinking medium",
+    "zh": "防(收)缩剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-siccative agent",
+    "zh": "阻干剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-silking agent",
+    "zh": "防走丝剂；防丝纹剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skid",
+    "zh": "防滑性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skid design",
+    "zh": "防滑花纹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skid groove",
+    "zh": "防滑花纹沟",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skid tread pattern",
+    "zh": "防滑胎面花纹",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skimming agent",
+    "zh": "防结皮剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-skinning paste",
+    "zh": "防结皮浆(膏)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-slip agent",
+    "zh": "防滑剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-slip effect",
+    "zh": "防滑效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-slip paint",
+    "zh": "防滑漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-snag agent",
+    "zh": "防起毛整理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-snarl device",
+    "zh": "防扭结装置",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-softener",
+    "zh": "防软剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-soil",
+    "zh": "防污；抗污",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-soil-redeposition property",
+    "zh": "防尘污再沾着性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-spark",
+    "zh": "防(消)火花的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-spatter",
+    "zh": "防溅器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-spew agent",
+    "zh": "防胶边形成剂：除胶边剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-squeak",
+    "zh": "消声器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-stat(=anti-static agent)",
+    "zh": "抗静电剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static",
+    "zh": "抗静电的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static additive",
+    "zh": "抗静电添加剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static agent(=anti-stat)",
+    "zh": "抗静电剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static cartridge",
+    "zh": "防静电芯筒",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static device",
+    "zh": "抗静电装置",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static hose",
+    "zh": "抗静电胶管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-static rubber",
+    "zh": "抗静电橡胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-stick",
+    "zh": "抗黏结",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-stickness",
+    "zh": "抗黏着；抗黏性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Stokes fluorescence",
+    "zh": "反斯托克斯荧光",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Stokes scattering",
+    "zh": "反斯托克斯散射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-Stokes shift",
+    "zh": "反斯托克斯位移",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-suckback nozzle",
+    "zh": "防回料注嘴",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-sun agent",
+    "zh": "抗日光剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-surge blow off",
+    "zh": "防喘振排放",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-surge control system",
+    "zh": "防喘振控制系统",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-swelling",
+    "zh": "抗溶胀性；抗膨润性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-swelling finish",
+    "zh": "防溶胀处理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-symmetric",
+    "zh": "反对称的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-symmetric function",
+    "zh": "反对称函数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-symmetric tensor",
+    "zh": "反对称张量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-synbiosis effect",
+    "zh": "反共生效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-syphon rod(=support rod)",
+    "zh": "反虹吸棒",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tack agent",
+    "zh": "防黏剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tarnishing agent",
+    "zh": "防晦暗剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tarnish paper",
+    "zh": "防锈纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tarnish spray",
+    "zh": "防污喷雾剂；防晦暗喷剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-termite agent",
+    "zh": "防白蚁剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-thrombocytic fibre",
+    "zh": "血小板分离用纤维；血浆分离用纤维",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-toxicity",
+    "zh": "防毒",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tracking chemicals",
+    "zh": "防漏电剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tracking lacquer",
+    "zh": "抗电弧径迹漆；防迹漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-tracking varnish",
+    "zh": "防迹漆（在高电压下不起碳黑迹）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-type",
+    "zh": "反式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-type isomerism",
+    "zh": "反式同分异构(现象)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-variants",
+    "zh": "防差异剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-wetskid property",
+    "zh": "抗湿滑性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-wrinkling agent",
+    "zh": "抗皱剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anti-yellowing agent",
+    "zh": "防黄变剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arcain(e)",
+    "zh": "魁蛤素；1,4-二胍丁烷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Archibald's method",
+    "zh": "阿奇博尔德法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Armstrong's equation",
+    "zh": "阿姆斯特朗方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Army aircraft engine fuel (grade 92 U.S.) (",
+    "zh": "美国)陆军飞机燃料（辛烷值 92）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Arnaudon's green",
+    "zh": "阿尔诺当绿；磷酸铬",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Arnold's scrubbing bottle",
+    "zh": "阿诺德洗瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Arnold's U-tube",
+    "zh": "阿诺德U形管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arylthioglycol(l)ic acid",
+    "zh": "芳巯基乙酸；芳基氢硫基乙酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ascaridol(e)",
+    "zh": "驱蛔萜；1,4-过氧对蓝烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ascarylose",
+    "zh": "蛔糖；3,6-二脱氧-L-甘露糖",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "asparacemic acid",
+    "zh": "消旋天冬氨酸 COOHCHNH₂CH₂COOH",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asparaginase",
+    "zh": "天冬酰胺酶；L-天冬酰胺酶（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "aspartic acid amlodipine L-",
+    "zh": "天冬氨酸氨氯地平（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Aston's mass spectrograph",
+    "zh": "阿斯顿质谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "asymmetric",
+    "zh": "不对称的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric absorption band",
+    "zh": "不对称吸收谱带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetrical peak",
+    "zh": "不对称峰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetrical top",
+    "zh": "不对称陀螺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric amino acid",
+    "zh": "不对称氨基酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric atom",
+    "zh": "不对称原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric carbon",
+    "zh": "不对称碳*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric carbon atom",
+    "zh": "不对称碳原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric catalyst",
+    "zh": "不对称催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric center",
+    "zh": "不对称中心",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric compound",
+    "zh": "不对称化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric fission",
+    "zh": "非对称裂变；不对称裂变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric focusing",
+    "zh": "不对称聚焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric hollow fibre",
+    "zh": "非对称性中空纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric hydrolysis",
+    "zh": "不对称水解",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric induced copolymerization",
+    "zh": "不对称诱导共聚（作用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric induction polymerization",
+    "zh": "不对称诱导聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric inductive effect",
+    "zh": "不对称诱导效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric ligand",
+    "zh": "不对称配体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric magnetic lens",
+    "zh": "不对称磁透镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric molecule",
+    "zh": "不对称分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric polymer",
+    "zh": "不对称聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric potential",
+    "zh": "不对称电势",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric reflection",
+    "zh": "不对称反射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric selection polymerization",
+    "zh": "不对称选择聚合（作用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric stereoselective polymerization",
+    "zh": "不对称立体选择性聚合",
+    "role": "secondary",
+    "confidence": 6.0
+  },
+  {
+    "en": "asymmetric stretching vibration",
+    "zh": "不对称伸展振动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric surface ridge",
+    "zh": "不对称表面皱纹",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric synthesis",
+    "zh": "不对称合成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric system",
+    "zh": "不对称系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric top molecule",
+    "zh": "不对称陀螺分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "asymmetric unit",
+    "zh": "不对称单位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atebrin(e)（",
+    "zh": "商） 疟涤平；阿的平",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "atlanton(e)",
+    "zh": "大西洋(萜)酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "atropisomer",
+    "zh": "阻转异构体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atropisomerism",
+    "zh": "旋转对映异构(现象); 阻转异构现象",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aucubin(e)",
+    "zh": "珊瑚木苷 C15H22O9",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "authoris(z)ed pressure",
+    "zh": "法定压力；规定压力；容许压力",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "auxanogram(s)",
+    "zh": "生长图",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Avogadro's law",
+    "zh": "阿伏伽德罗(定)律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Avogadro's number",
+    "zh": "阿伏伽德罗数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "A-waste(s)",
+    "zh": "放射性废物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-azobenzene",
+    "zh": "顺式偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "azoflavin(e)",
+    "zh": "偶氮黄素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-azomethane",
+    "zh": "顺式偶氮甲烷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Badouin's reagent",
+    "zh": "巴杜英试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bainbridge's mass spectrograph",
+    "zh": "班布里奇质谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "baker's sugar(=corn sugar)",
+    "zh": "玉米葡糖",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "baker's wrap",
+    "zh": "面包纸（包面包等产品用纸）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ball's sledge sorter",
+    "zh": "包氏纤维长度分析仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Balmer's generalized formula",
+    "zh": "广义巴尔末公式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Baly's tube",
+    "zh": "巴利管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bang's reagent",
+    "zh": "巴恩试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Barbet's process",
+    "zh": "巴别特(甘油蒸馏)法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "barbiturate(s)",
+    "zh": "巴比妥酸盐",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "barrel ratio",
+    "zh": "圆筒(机筒；滚筒)长径比（L/D 比）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "barytin(e)(=barytes)",
+    "zh": "重晶石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "baryton(=meson)",
+    "zh": "介子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bartlett's test for equal variances",
+    "zh": "等方差性巴特利特检验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Beaudouin's reagent",
+    "zh": "包道因试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Beer's law",
+    "zh": "比尔定律*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Beilstein's test",
+    "zh": "贝尔斯坦试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "B/E linked scan B/E",
+    "zh": "联扫",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bellier's test",
+    "zh": "伯利埃试验（一种检出花生油的试验）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bending Young's modulus test",
+    "zh": "弯曲杨氏模量试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Benedict's reagent",
+    "zh": "本尼迪特试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Benedict's test",
+    "zh": "本尼迪特试验（鉴别糖分、树脂、淀粉）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benihinal(=d-myrtenal)",
+    "zh": "贝尼烯醛；d-桃金娘烯醛",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benihinol(=d-myrtenol)",
+    "zh": "贝尼烯醇；d-桃金娘烯醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benzdiketohyrindene(=benz[e]indanedione)",
+    "zh": "苯并[e]二氢茚-1,3-二酮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benzhydrindene",
+    "zh": "苯并[e]二氢茚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benzhydrindone",
+    "zh": "苯并[e]二氢茚酮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benz[e]indane",
+    "zh": "苯并[e]二氢茚",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "benzyl trans-2-methyl-2-butenoate",
+    "zh": "反-2-甲基-2-丁烯酸苄酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bergenin(e)",
+    "zh": "虎耳草素（岩白菜素是从新疆虎耳草科植物厚叶岩白菜提炼精制得到的）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bernoulli's law",
+    "zh": "伯努利法则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bernoulli's theorem",
+    "zh": "伯努利定理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Berthollet's tester",
+    "zh": "柏氏测氯仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bianchi's densimeter",
+    "zh": "比安希氏密度计(测定粉末物质密度用)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Biemann's shift rule",
+    "zh": "比曼匀移规则",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Billroth's mixture",
+    "zh": "比耳罗思混合剂（一种麻醉剂）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "binder's board",
+    "zh": "书皮纸板",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "binding energies per nucleon(b.e.p.n)",
+    "zh": "每核子平均结合能",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "binding energies per proton(b.e.p.p.)",
+    "zh": "每质子平均结合能",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "biocytin",
+    "zh": "生物胞素: N-生物素酰-L-赖氨酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bird's foot oil",
+    "zh": "鸟足油；假地豆油",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bisphenol S",
+    "zh": "双酚 S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bis (triphenyltin) mesodibromo succinate",
+    "zh": "中(均)二溴丁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bjorkman's lignin",
+    "zh": "磨木木素；贝克曼木素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Blackadder's method",
+    "zh": "涂刷(显色)法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Blagden's law",
+    "zh": "布拉格登定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Blanc's rule",
+    "zh": "布兰规则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "blanc fix(e)",
+    "zh": "钡白；硫酸钡粉；重晶石粉 BaSO₄",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Blaud's pill",
+    "zh": "碳酸铁丸剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "boraxen(e)",
+    "zh": "硼氧烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bouin's fluid",
+    "zh": "布英防腐液",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bowman & Cichelli's relation",
+    "zh": "鲍曼-西切利关系（分批精馏时蒸馏曲线形状和最少回流比、最小理论板数的关系）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Boyle's law",
+    "zh": "波义耳定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Boyle-Marriote's law",
+    "zh": "波义耳-马里奥特定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Boyle's temperature",
+    "zh": "波义耳温度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bragg's equation",
+    "zh": "布拉格方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bragg's condition of reflection",
+    "zh": "布拉格(的)反射条件",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bragg-William's approximation",
+    "zh": "布拉格-威廉姆斯近似法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "brassidic acid(=13-dodecosenoic acid)",
+    "zh": "巴西烯酸; 顺芜酸; (Z)-△-二十二碳烯酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Braun's native lignin(BNL)",
+    "zh": "布朗氏天然木素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "breathable plastic(s)",
+    "zh": "透气性塑料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "brewer's pitch",
+    "zh": "啤酒厂用沥青；啤酒桶涂料（用松香、油、蜡及其他材料制成的啤酒桶涂料，并非沥青漆）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Brewster's law of photo-elasticity",
+    "zh": "布鲁斯特光弹性定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bromomaleic acid",
+    "zh": "溴代马来酸：(E)-溴代丁烯二酸 CH=CBr(CO₂H)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bronner's acid(=2-naphthylamine-6-sulfonic acid)",
+    "zh": "布咙酸；2-萘胺-6-磺酸 NH₂C₁₀H₆SO₃H",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Brown's method",
+    "zh": "布朗方法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Brown's opacity tube",
+    "zh": "布朗比浊管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bubulum oil(=neat's-foot oil)",
+    "zh": "牛脚油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "burner's platform",
+    "zh": "看火台",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-1,3-butadiene rubber",
+    "zh": "顺-1,3-丁二烯橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "butcher's paper",
+    "zh": "包肉纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "butyl isocrotonate",
+    "zh": "异巴豆酸丁酯; (Z)-丁烯酸丁酯 CH₃CH=CHCO₂C₄H₉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Buxton's fluid",
+    "zh": "巴克斯顿液",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "calcium L-threonate",
+    "zh": "苏糖酸钙",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "callitrol (=d-citronellic acid) d-",
+    "zh": "香茅酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "callose",
+    "zh": "愈创葡聚糖；β-D-(1→3)-葡聚糖",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Campbell's solubility apparatus",
+    "zh": "坎贝尔溶解度测定仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Campbell-Hurley's colorimeter",
+    "zh": "坎贝尔-赫尔利比色计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-canadene d-",
+    "zh": "加拿烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "canary dextrin (e)",
+    "zh": "黄糊精",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "candy maker's wax",
+    "zh": "糖果蜡",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cannabin (e)",
+    "zh": "大麻苷;大麻碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cantaloup (e)",
+    "zh": "棱瓜；有棱甜瓜",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cantaloup (e) seed oil",
+    "zh": "棱瓜子油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "caprolactam (=2-oxohexamethylen(e) imine) 2-",
+    "zh": "氧代六亚甲亚胺；己内酰胺",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "capsaicin (e)",
+    "zh": "辣椒碱; 辣椒素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "capsulate(d)",
+    "zh": "胶囊包裹的;装入雷管的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "o text {-carbamyl - D - serine} quad text {",
+    "zh": "邻氨基甲酰 - D - 丝氨酸} $$",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "c a r b a z o c h r o m e quad text {",
+    "zh": "肾上腺色素缩氨脲} $$",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carbide cermet (s)",
+    "zh": "金属碳化物；金属陶瓷烧结物",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carmin(e) lake",
+    "zh": "胭脂红色淀",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carone",
+    "zh": "营酮；5-蒈酮 Caro's acid 过一硫酸 carotane 胡萝卜烷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carpenter's glue",
+    "zh": "木工胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carvene (=d-limonene)",
+    "zh": "香芹烯；d-苧烯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carvol (=d-carvone)",
+    "zh": "香芹酮 C₁₀H₁₄O",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cassella's acid",
+    "zh": "卡塞拉酸：2-萘酚-7-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "catecholamin(e)",
+    "zh": "儿茶酚胺",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cat's eye",
+    "zh": "猫眼（薄膜缺陷）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cedrat(e)",
+    "zh": "橘皮;橙皮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cerametalic(s)",
+    "zh": "金属陶瓷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cerasin(e)",
+    "zh": "野樱素;角苷脂;角铅矿",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ceratophyr(e)",
+    "zh": "角斑岩",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ceresin(e) (",
+    "zh": "纯)地蜡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ceresin(e) wax (",
+    "zh": "纯)地蜡：微晶蜡；不定形蜡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cerf's theory",
+    "zh": "西夫理论",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "characteristic Reynold's number",
+    "zh": "特征雷诺数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ch(e)ilitis",
+    "zh": "唇炎",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chiral",
+    "zh": "手性(的)*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral auxiliary (reagent)",
+    "zh": "手性助剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral bonded stationary phase",
+    "zh": "手性键合固定相",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral building block",
+    "zh": "手性子*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral carbon atom",
+    "zh": "手性碳原子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral catalyst",
+    "zh": "手性催化剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral center",
+    "zh": "手性中心*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral chromatography",
+    "zh": "手性色谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral coordination compound",
+    "zh": "手性配合物*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral cyclodextrin derivatives stationary phase in GC",
+    "zh": "手性环糊精衍生物气相色谱固定相",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral derivation method",
+    "zh": "手性衍生化法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral derivatization reagent",
+    "zh": "手性衍生化试剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral elution",
+    "zh": "手性洗脱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral gas chromatography",
+    "zh": "手性气相色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral group",
+    "zh": "手性基团",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral induction",
+    "zh": "手性诱导*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chirality",
+    "zh": "手性*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "chirality phase",
+    "zh": "手性固定相",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "chirality sensing electrode",
+    "zh": "对映异构体敏感电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "chiral ligand-exchange complex",
+    "zh": "配体交换型手性添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral metal stationary phase in GC",
+    "zh": "手性金属络合物气相色谱固定相",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral mobile phase",
+    "zh": "手性流动相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral mobile phase separation",
+    "zh": "手性流动相拆分法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral molecule",
+    "zh": "手性分子*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral monomer",
+    "zh": "手性单体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral peptide",
+    "zh": "手性缩氨酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral polymer",
+    "zh": "手性高分子*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral reagent",
+    "zh": "手性试剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral recognition",
+    "zh": "手性识别",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral selection gas chromatography",
+    "zh": "手性选择气相色谱法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral selector",
+    "zh": "手性选择剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral separation",
+    "zh": "手性拆分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral shift reagent",
+    "zh": "手性位移试剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral solid phase separation",
+    "zh": "手性固定相拆分法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral solvating agent",
+    "zh": "手性溶剂化试剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral solvent",
+    "zh": "手性溶剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chiral stationary phase",
+    "zh": "手性固定相；手性静止相",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorocyclohexane",
+    "zh": "氯代环己烷 2-chloro-4,6-diamino-s-triazine 2-氯-4,6-二氨基均三嗪 (促进剂)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chloroethyl ethyl sulfide",
+    "zh": "氯乙基乙基硫醚; 氯乙硫基乙烷 (ClC₂H₄)S(C₂H₅)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chloro-hydrin(e)",
+    "zh": "氯乙醇;氯代醇 α-chlorohydrin glycerin 3-氯-1,2-丙二醇；α-氯甘油 CH₂ClCHOHCH₂OH",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chloro-maleic acid",
+    "zh": "氯代马来酸: (E)一氯代丁烯二酸 CH=CCl(CO₂H)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorophyr (e)",
+    "zh": "斑英闪长岩",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorosulfophenol S",
+    "zh": "氯磺酚 S*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chloroxone (=2,4-D) 2,4-",
+    "zh": "滴；2,4-D；2,4-二氯苯氧基乙酸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chlorsulphophenol S",
+    "zh": "氯磺酚 S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cholesterin(e)(=cholesterol)",
+    "zh": "胆甾醇; 胆固醇〔俗〕",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cholesterin hydrate",
+    "zh": "胆甾醇合水 cholesterol (=cholesterin (e)) 胆甾醇; 胆固醇〔俗〕",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chrome azurol S",
+    "zh": "铬天青 S*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chrome cyanine R(=pontachrome blue)",
+    "zh": "滂铬蓝（染）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chry(s)-（",
+    "zh": "词头） 柯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "circular dichroism",
+    "zh": "圆二色性*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "circular dichroism electrochemistry",
+    "zh": "圆二色谱电化学法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cis-",
+    "zh": "顺式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-configuration",
+    "zh": "顺式构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-content",
+    "zh": "顺式含量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-effect",
+    "zh": "顺位效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis form",
+    "zh": "顺式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-isomer",
+    "zh": "顺式异构体*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-1,4-polybutadiene",
+    "zh": "顺(式)-1,4-聚丁二烯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-polybutadiene rubber",
+    "zh": "顺式聚丁二烯橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-1,4-polybutadiene rubber",
+    "zh": "顺丁橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-polyisoprene",
+    "zh": "顺(式)聚异戊间二烯；顺(式)聚2-甲基丁二烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-1,4-polyisoprene",
+    "zh": "顺(式)-1,4-聚异戊二烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-1,4-polyisoprene rubber",
+    "zh": "顺式-1,4-异戊二烯橡胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-polymerr",
+    "zh": "顺式聚合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-position",
+    "zh": "顺位 11-cis-retinol 11-顺视黄醇；新视黄醛B",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-rich polybutadiene",
+    "zh": "高顺(式)聚丁二烯橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-rubber",
+    "zh": "顺式橡胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-stereoisomer",
+    "zh": "顺式立体异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-tactic",
+    "zh": "顺式有规的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-thioindigo",
+    "zh": "顺式硫靛(蓝)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-trans effect",
+    "zh": "顺-反式效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-trans equilibrium",
+    "zh": "顺-反式平衡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-trans-isomer",
+    "zh": "顺反异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-trans isomerism",
+    "zh": "顺反异构*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-uranium element",
+    "zh": "铀前元素*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "citraconic acid",
+    "zh": "顺甲基丁烯二酸；(Z)-甲基丁烯二酸；柠康酸 HOOCCH=C(CH₃)COOH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Clarke's internal electrolysis apparatus",
+    "zh": "克拉克内电解装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Clarke's method",
+    "zh": "克拉克法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Clarke's soap method",
+    "zh": "克拉克皂测法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Classen's electrode",
+    "zh": "克拉森电极",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Claus's blue",
+    "zh": "克劳斯蓝（三氧化二铑的苛性碱溶液）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "clear coat-colo(u)r coat",
+    "zh": "清漆罩光；彩色(透明)面漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cleve's acid",
+    "zh": "克列氏酸；1-萘胺-6-磺酸和1-萘胺-7-磺酸的混合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cleve's α-acid (=1-naphthylamine-5-sulfonic acid)",
+    "zh": "克列夫氏α-酸；1-萘胺-5-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cleve's δ-acid (=1-naphthylamine-7-sulfonic acid)",
+    "zh": "克列夫氏-δ-酸；1-萘胺-7-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l-cocaine l-",
+    "zh": "可卡因；1-古柯碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cochrane's test for variance",
+    "zh": "柯奇拉法检验方差",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cochrane's test method",
+    "zh": "柯奇拉检验法*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coefficient of viscous traction (=Trauton's coefficient)",
+    "zh": "拉伸黏性系数；黏性曳引系数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coherent anti-Stokes Raman scattering",
+    "zh": "相干反斯托克斯拉曼散射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coherent anti-Stokes Raman spectrometry",
+    "zh": "相干反斯托克斯拉曼光谱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cole-Cole's circular arc law",
+    "zh": "科尔-科尔圆弧定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cole-Cole's complex plane plot",
+    "zh": "科尔-科尔作图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Collin's bleacher",
+    "zh": "科林漂白器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r comparator",
+    "zh": "比色计；比色器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r development",
+    "zh": "显色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r fastness",
+    "zh": "染色牢度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r fastness to laundering",
+    "zh": "耐机械洗涤(色)牢度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r grinding machine",
+    "zh": "染料研磨机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r harmony",
+    "zh": "颜色和谐；颜色协调;调色；配色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r lacking uniformity",
+    "zh": "颜色不均",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r matching",
+    "zh": "配色；比色；仿色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r pick-up",
+    "zh": "着色量（印刷）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "colo(u)r vision",
+    "zh": "色视觉；色视力",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Colson's ebulliometer",
+    "zh": "考尔松沸点计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "complete Ferund's adjuvent",
+    "zh": "完全福氏佐剂（油包水乳剂，由液体石蜡、去污剂和已杀死的微生物组成）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "complex Poisson's ratio",
+    "zh": "复数泊松比",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "complex Young's modulus",
+    "zh": "复数杨氏模量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "conessin(e)",
+    "zh": "止泻木碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "conformational analysis",
+    "zh": "构象分析*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational array",
+    "zh": "构象阵列；构象排列",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational disorder",
+    "zh": "构象无序*温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational effect",
+    "zh": "构象效应*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational energy",
+    "zh": "构象能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational entropy",
+    "zh": "构象熵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational freedom",
+    "zh": "构象自由(度)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational inversion",
+    "zh": "构象反转*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational isomer",
+    "zh": "构象异构体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational repeating unit",
+    "zh": "构象重复单元*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformational transmission",
+    "zh": "构象传递*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conicein (e)",
+    "zh": "毒芹瑟碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "contact treatment with Fuller's earth (",
+    "zh": "石油产品)用白土接触精制",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "contractor's hose",
+    "zh": "建设用胶管",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Conway's diffusion analysis",
+    "zh": "微量扩散",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Coolidge's quartz fiber manometer",
+    "zh": "考利基石英丝压力计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cooper's wood",
+    "zh": "桶材",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cotarnin(e)",
+    "zh": "可他宁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cottrell's ebulliometer",
+    "zh": "科特雷尔沸点计；沸点酒精计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cottrel(l) dehydrator",
+    "zh": "科特雷尔脱水器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cottrel(l) gas filter (=Cottrel(l) gas cleaner)",
+    "zh": "科特雷尔净气器；气体电滤器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cottrel(l) precipitator",
+    "zh": "科特雷尔沉淀器；科特雷尔聚尘器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cottrel(l) process",
+    "zh": "科特雷尔法；静电气体净制法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Couette's law",
+    "zh": "库爱特定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Coulomb's friction",
+    "zh": "库仑摩擦",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Coulomb's law",
+    "zh": "库仑定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "counter-clockwise twist",
+    "zh": "反手捻；Z 捻",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Coupier's blue",
+    "zh": "考皮尔蓝",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cram's rule",
+    "zh": "克拉姆规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Cramer's rule",
+    "zh": "克莱姆法则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crepenynic acid",
+    "zh": "还阳参油酸；顺(式)十八碳-9-烯-12-炔酸；(Z)-十八碳-9-烯-12-炔酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Criegee's oxidation",
+    "zh": "克里吉氧化(反应)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "critical area (s)",
+    "zh": "危险部位；危险面；锈蚀严重的表面",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crude material (s)",
+    "zh": "原料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crow's foot cracking",
+    "zh": "鸡爪裂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curd fiber(s)",
+    "zh": "皂粒纤维",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Curie's constant",
+    "zh": "居里常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Curie's law",
+    "zh": "居里定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "currier's knife",
+    "zh": "刨;刮刀",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "currier's oil",
+    "zh": "骨(质)油；鞣革用油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "currier's ink",
+    "zh": "铁黑；灯黑",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cut-layer (s)",
+    "zh": "示层面；(层压材料)露层",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyanformate",
+    "zh": "氰(代)甲酸盐(或酯) CNCOOM(R)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyanogen sulfide",
+    "zh": "硫化氰 (CN) S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cycloalkyne(s)",
+    "zh": "环炔(烃类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d（",
+    "zh": "符号）比重",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "D-",
+    "zh": "右型",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dactinomycin(=actinomycin D)",
+    "zh": "放线菌素 D",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dalton's law",
+    "zh": "道尔顿定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dame's violet oil",
+    "zh": "夜堇油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Daniel flow technique(=Daniel's flow point method)",
+    "zh": "丹尼尔流点技术；丹尼尔流点法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Daniel's flow point (method)",
+    "zh": "丹尼尔流点法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Darcy's law",
+    "zh": "达西定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dark distiller's grain",
+    "zh": "暗酒糟",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "D band D",
+    "zh": "谱带",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-block element d",
+    "zh": "区元素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-character factor d",
+    "zh": "特性因子",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Debye's equation",
+    "zh": "德拜公式*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "debye unit(D)",
+    "zh": "德拜单位（电偶极矩单位,等于10^-18静电单位·厘米,或3.336×10^-30库仑米）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deer's tongue",
+    "zh": "香蛇鞭菊",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "degree (s) Schopper-Riegler (SR)",
+    "zh": "打浆度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dehydroacetic acid",
+    "zh": "脱氢乙酸〔俗〕；a,r-二乙酰基乙酰乙酸 CH₃COCH₂ COCH(COOH)COCH₃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dempster's mass spectrometer",
+    "zh": "登普斯特质谱计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Denige's reagent",
+    "zh": "德尼格试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dentin(e)",
+    "zh": "牙质",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "depth of colo(u)r",
+    "zh": "色浓度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "deviations from Beer's law",
+    "zh": "偏离比尔定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dewar's bottle",
+    "zh": "真空瓶；杜瓦瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dewar's rules",
+    "zh": "杜瓦规律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dexpanthenol(=D-pantothenyl alcohol) D-",
+    "zh": "泛醇; 右泛醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "D glass fibre D",
+    "zh": "玻璃纤维；低介电玻璃纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diastereomer",
+    "zh": "非对映(异构)体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diastereomeric",
+    "zh": "非对映的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diastereomeric excess",
+    "zh": "非对映体过量*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diastereomeric form",
+    "zh": "非对映形",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diazoum chloride",
+    "zh": "氯化重氮盐 N≡N(R)⁺Cl⁻",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dibutyl ester",
+    "zh": "二丁酯 R(COOC4H9)2",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dibutyl ether",
+    "zh": "二丁醚 C4H9OC4H9;二丁基醚 R(OC4H9)2",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dicarboximide",
+    "zh": "二羧酰亚胺 R(COO)₂NH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dichrostachinic acid S-",
+    "zh": "琥珀基半胱氨酸；二辛可宁酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dicodid(e)",
+    "zh": "二氢化可待因醌",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dicyanin(e)",
+    "zh": "双花青 1,4-dicyanobutane 1,4-二氰基丁烷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dielectric glass fibre D",
+    "zh": "玻璃纤维；低介电玻璃纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Diels-Alder adduct(s)",
+    "zh": "狄尔斯-阿尔德(反应)加成物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diethyl ester（",
+    "zh": "泛指）二乙酯 R(COOC₂H₅)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diethyl meso-2,3-dibromosuccinate",
+    "zh": "中-2,3-二溴琥珀酸二乙酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dihydroxy monobasic acid",
+    "zh": "二羟一(碱)价酸 R(OH)R(OH)COOH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimeso-periodic acid",
+    "zh": "二中高碘酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cis-4-dimethylaminoazobenzene",
+    "zh": "顺-4-二甲氨基偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimethyl diallylammonium",
+    "zh": "二甲基二烯丙基铵 2,5-dimethyl-2,5-dibenzoylperoxy hexane 2,5-二甲基-2,5-二(苯甲酰过氧基)己烷 2,5-dimethyl-2,5-di(t-butyl peroxy) hexane 2,5-二甲基-2,5-二(叔丁基过氧基)己烷（硫化剂） (S)-4,7-dimethyl-6,7-dihydro-5H-cyclopenta[c]pyridine (S)-4,7-二甲基-6,7-二氢-5H-环五烷并吡啶；阿克亭",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimethyl ester",
+    "zh": "二甲酯 R(COOCH₃)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimethyl ether",
+    "zh": "二甲醚 CH₃OCH₃; R(OCH₃)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dimethyl isobutyl(roy)l chloride",
+    "zh": "二甲基异丁酰氯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dingler's green",
+    "zh": "磷酸铬绿;丁勒绿",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "di-n-octyltin-S,S'-bis-(iso-octyl mercaptoacetate)",
+    "zh": "二-正辛基锡-S,S'-双(巯基乙酸异辛酯)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dioxanate",
+    "zh": "二噁烷盐 1,4-dioxan(e) 1,4-二噁烷；二氧杂环己烷 (CH₂)₄O₂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diperacid",
+    "zh": "双过酸 H₂(R[O₂])₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diphenyl guanidine",
+    "zh": "二苯胍；促进剂 D (C₆H₅NH)₂C=NH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dippel's oil",
+    "zh": "骨焦油；地柏油",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diquinone(s)",
+    "zh": "二醌(类)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "direct colo(u)r",
+    "zh": "直接染料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dische's reaction",
+    "zh": "联苯胺反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "discoloring type anti-oxidant",
+    "zh": "变(脱)色型防老化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's dried grain",
+    "zh": "干酒糟",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's grain",
+    "zh": "酒糟",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's malt",
+    "zh": "酿酒麦芽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's solubles",
+    "zh": "酒糟",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's wort",
+    "zh": "酿酒麦芽汁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "distiller's yeast",
+    "zh": "酒曲；酿酒酵母",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diuretic(s)",
+    "zh": "利尿的;利尿剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dixon's test",
+    "zh": "狄克松检验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dixon's test method",
+    "zh": "狄克松检验法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-13-docosenoic acid(=erucidic acid;erucid acid)",
+    "zh": "芥酸；顺(式)13-二十二(碳)烯酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dodecoic acid",
+    "zh": "十二酸 C₁₁H₂₃COOH 12-dodecosenoic acid 顺(式)-12-二十三碳烯酸；(Z)-△¹²-二十三碳烯酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dog's grass",
+    "zh": "鸭茅",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Donnan's membrane theory",
+    "zh": "唐南膜理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "doubly label(l)ed soil",
+    "zh": "双标记污垢",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dry colo(u)r",
+    "zh": "干颜料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dulong and Petit's rule",
+    "zh": "杜隆-珀替规则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dumont's blue",
+    "zh": "钴蓝",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dupre's equation",
+    "zh": "杜普雷公式*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Durran's melting point",
+    "zh": "达兰(水银法)熔点",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Durran's mercury method",
+    "zh": "达兰水银法（测树脂熔点）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "D-value D",
+    "zh": "值；中和延缓值（加改性剂后黏胶中和时间与不加改性剂的黏胶中和时间的比值）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dyer's bath",
+    "zh": "染浴器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dynamic Young's modulus",
+    "zh": "动态杨氏模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Dyson's interference microscope",
+    "zh": "戴森干涉显微镜",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "E band E",
+    "zh": "谱带",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Eber's reagent",
+    "zh": "埃伯尔试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Edmister's equation",
+    "zh": "埃德明斯特公式（多组分气体吸收装置的吸收率计算式）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Edmond's balance",
+    "zh": "埃德蒙天平（测定气体相对密度用）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Edward's bottle",
+    "zh": "爱德华气瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Edward's gas density balance",
+    "zh": "爱德华气体密度天平",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "E fiber glass E",
+    "zh": "玻璃纤维；无碱玻璃纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "egg packer's oil",
+    "zh": "涂蛋油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Egloff's equation",
+    "zh": "埃格劳夫方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electric fire(s)",
+    "zh": "电炉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-elimination",
+    "zh": "顺位消除 α,β-elimination α,β-消除* γ-elimination γ-消除* β-elimination β-消除*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "emulsifiable concentrate(s)",
+    "zh": "可乳化的浓缩物: 浓(缩)乳剂(俗)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "emulsion cleaner(s)",
+    "zh": "乳液型清洗剂；乳化清洗剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enantioasymmetric polymerization",
+    "zh": "对映(体)不对称聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enantiomer",
+    "zh": "对映(异构)体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enantiomer selective chemical sensor",
+    "zh": "对映体选择性化学传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "endo-",
+    "zh": "内;桥（环内桥接）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo addition",
+    "zh": "内型加成",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo-compound",
+    "zh": "桥(环)化合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo-configuration",
+    "zh": "内向构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo-exo configuration",
+    "zh": "内(向)-外(向)构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo-exo isomerization",
+    "zh": "内(向)-外(向)异构化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo isomer",
+    "zh": "内型异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo-methylene group",
+    "zh": "内亚甲基 3,6-endomethylene-1,2,3,6-tetrahydro phthalic anhydride (=carbic anhydride) 3,6-内亚甲基-1,2,3,6-四氢邻苯二甲酸酐；降冰片烯二酸酐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endo receptor",
+    "zh": "内向型受体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "endy",
+    "zh": "裂断丝绞 -ene（词尾）烯 -enediol（词尾）烯二醇 RC(OH)=C(OH)R",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "enolic ester type",
+    "zh": "烯醇型酯 R₂C=C(OH)R",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "epithio-（",
+    "zh": "词头） 环硫；表硫；桥硫 —S—",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eriochrome blue black R",
+    "zh": "铬蓝黑 R",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eriochrome cyanine R",
+    "zh": "铬花青 R*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erucic acid(=cis-13-docosenoic acid;erucidic acid)",
+    "zh": "芥酸；顺(式)13-二十二(碳)烯酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erucidic acid(=erucic acid; cis-13-docosenoic acid)",
+    "zh": "芥酸；顺(式)13-二十二(碳)烯酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "erythro-di-iso-trans-tactic",
+    "zh": "叠(同)双反式全同立构",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Eschka's method",
+    "zh": "埃斯卡混熔法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Eschka's mixture",
+    "zh": "埃斯卡混合剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "etcher's wax",
+    "zh": "蚀刻用的石蜡",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethenoxy unit(s)",
+    "zh": "氧乙烯单位；环氧乙烷单位",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethylene oxide unit(s)",
+    "zh": "环氧乙烷单位",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-ethyl thiocarbamate(=thiourethane)",
+    "zh": "硫代氨基甲酸 S-乙酯: 硫尿烷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethyl trans-2-butenoate",
+    "zh": "反-2-丁烯酸乙酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethyl trans-2-cis-4-decadienoate",
+    "zh": "反-2-顺-4-癸二烯酸乙酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethyl trans-2,3-dimethylacrylate",
+    "zh": "反-2,3-二甲基丙烯酸乙酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Euler's expansion formula",
+    "zh": "欧拉展开式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eupittonic acid(=hexamethylaurine;eupittone)",
+    "zh": "优皮酮; 优皮酮酸; 六甲金精 euporphin(e) 溴甲烷阿朴吗啡",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eupyrin(e)",
+    "zh": "优剖林 (药)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "e value e",
+    "zh": "值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Everitt's salt",
+    "zh": "埃弗立特盐 K₂Fe[Fe(CN)₆]",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ewald's diffraction sphere",
+    "zh": "埃瓦尔德衍射球",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ewald's sphere of reflection",
+    "zh": "埃瓦尔德反射球(纤维 X 射线衍射图用语)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "exo",
+    "zh": "外；挂（取代在侧链上）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "exo addition",
+    "zh": "外型加成*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "exo isomer",
+    "zh": "外型异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "extruder length to diameter ratio",
+    "zh": "挤压(出)机长(度)(直)径比(L/D)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fabry's disease",
+    "zh": "费勃莱氏病；酰基鞘氨醇己三糖苷酶缺乏症",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fanning's equation for turbulent motion",
+    "zh": "湍流运动的范宁方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Faraday's law",
+    "zh": "法拉第定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Farmer's reducer",
+    "zh": "法麦尔减薄剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fast colo(u)r",
+    "zh": "坚牢染料；坚牢色泽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "febrifugin(e)",
+    "zh": "退热碱；常山碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fehling's reaction",
+    "zh": "费林反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fiberglas(s)",
+    "zh": "玻璃纤维；玻璃丝",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fick's first law",
+    "zh": "菲克第一定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fick's law of diffusion",
+    "zh": "菲克扩散定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fick's second law",
+    "zh": "菲克第二定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fikentscher's viscosity formula",
+    "zh": "菲肯切尔黏度式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fisherman's soap",
+    "zh": "渔民皂（能去鱼腥）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fischer's acid",
+    "zh": "费歇尔酸：2-萘酚-6-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fischer's method",
+    "zh": "费歇尔法（人造石油制法）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fischer's potassium nitrite method",
+    "zh": "费歇尔亚硝酸钾法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fischer's yellow",
+    "zh": "费歇尔黄；硝酸钴钾",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flavo(u)r",
+    "zh": "味；香味；风味；滋味;食用香料;食用香精;调料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Flieger's equation",
+    "zh": "弗利格方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flindersin(e)",
+    "zh": "弗林辛；二甲吡喃并喹啉酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Flory-Stockmayer's theory",
+    "zh": "弗洛里-施托克迈尔理论（关于高分子凝胶化的理论）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flour dredge(r)",
+    "zh": "面粉掺和机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluoriodate",
+    "zh": "氟碘酸盐 R·IO₂F₂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Folin's method",
+    "zh": "福林法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Folin's reaction",
+    "zh": "福林反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Folin's reagent",
+    "zh": "福林试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fool's gold(=pyrite)",
+    "zh": "黄铁矿",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-form",
+    "zh": "顺式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fourrine D",
+    "zh": "四灵（商）；毛皮对氨黑",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "frame(d) building",
+    "zh": "构架建筑",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fremy's salt",
+    "zh": "费里米盐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Freudenberg's lignin",
+    "zh": "铜铵木素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "friar's cap",
+    "zh": "乌头根",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fruit packer's oil",
+    "zh": "水果装罐用油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fry's theory(=alternate polarity theory)",
+    "zh": "弗莱氏理论；交替极性说",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fuel of high (anti) knock rating",
+    "zh": "高抗爆性燃料；高辛烷值燃料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fuller's earth",
+    "zh": "漂白土",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "furocoumarin(e)",
+    "zh": "呋喃香豆素；呋喃并香豆精",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gardner engine",
+    "zh": "加德纳引擎；润滑油试验用 L-2 型单缸及动机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gardner-Park's tensile strength meter",
+    "zh": "加德纳-帕克抗张强度试验机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gauche-trans conformational transition",
+    "zh": "旁-反式构象转变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gauche-trans energy difference",
+    "zh": "旁-反式(构象)能量差",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gauss's double weighing method",
+    "zh": "高斯交换称量法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gay-Lussac's method",
+    "zh": "盖吕萨克方法；等浊(滴定)法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "generalized Hooke's law",
+    "zh": "广义虎克定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "genisteine(=l-α-isoparteine) l-α-",
+    "zh": "异鹰爪豆碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gerard's pine oil",
+    "zh": "格雷松油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gibbs-Konovalow's rule",
+    "zh": "吉布斯-孔诺伐洛夫定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gillespie's bicolorimeter",
+    "zh": "吉莱斯皮双色比色计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gillespie's still",
+    "zh": "吉莱斯皮蒸气压测定装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glass blower's burner",
+    "zh": "吹玻璃用喷灯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glazier's putty",
+    "zh": "镶玻璃用腻子；玻璃工(用)腻子；镶嵌玻璃用的油灰",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glazier's salt",
+    "zh": "硫酸钾 K2SO4",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glycerin(e) cement",
+    "zh": "甘油(型)胶泥（油性漆的脂肪酸酯与铁盐反应生成R(OH)3型化合物）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gold ruby(=lake red D)",
+    "zh": "色淀红 D",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Goodeve's rotational viscometer",
+    "zh": "古迪夫旋转黏度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Graham's law",
+    "zh": "格雷姆定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Graham's law of diffusion",
+    "zh": "格雷姆扩散定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gran's plot",
+    "zh": "格兰作图法；格氏作图法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gran's plot paper",
+    "zh": "格兰作图纸；格氏作图纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gravelliferon(e)",
+    "zh": "芸香内酯；芸香酚内酯；芸香酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gravitol(e)",
+    "zh": "格拉维妥（药）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Green's viscometer",
+    "zh": "格林氏黏度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Grethen's weight bottle",
+    "zh": "格雷森(挥发液)称量瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Griffith's fracture criterion",
+    "zh": "格里菲思断裂判据",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Grignard's reagent",
+    "zh": "格氏试剂*；格利雅试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Grotthuss-Draper's law",
+    "zh": "格罗图斯-德雷珀定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Guignet's green",
+    "zh": "吉勒特绿",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Guldberg-Waage's law",
+    "zh": "质量作用定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Guichard's thermobalance",
+    "zh": "盖查德热天平",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Haber's process",
+    "zh": "哈伯氏固氮法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hammett's acidity function",
+    "zh": "哈米特酸度函数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hammett's coefficient",
+    "zh": "哈米特系数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hammett's rule",
+    "zh": "哈米特法则 (苯环上邻位对位取代基衍生物的反应性与结构关系的经验法则)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hanu's method",
+    "zh": "哈纳斯法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Harshel's demulsibility test",
+    "zh": "哈希尔抗乳化性试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hartley's test",
+    "zh": "哈特莱检验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "H-D analyzer",
+    "zh": "氢-氘分析器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heavy electron (=meson)",
+    "zh": "重电子；介子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "helianthin(e)(=methyl orange)",
+    "zh": "半日花素；甲基橙；酸性黄",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "helindone orange R（",
+    "zh": "商） 赫林顿橙R",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Henry's constant",
+    "zh": "亨利常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Henry's law",
+    "zh": "亨利定律*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cis-3-henxenol (=leaf alcohol)",
+    "zh": "叶醇；顺式己烯-3-醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hercynin(e)",
+    "zh": "组氨酸三甲基内盐",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Herman's orientation function",
+    "zh": "赫曼取向因子；赫曼取向函数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "heterochirality",
+    "zh": "异手性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "heterocumulenes",
+    "zh": "杂累接双键化合物系（如 S=C=N—， $$",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexagonal mesomorphic form",
+    "zh": "六方介晶型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hexon(e)",
+    "zh": "异己酮；2-异己酮；甲基异丁基(甲)酮 (CH3)2CHCH2COCH3",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "high strength glass fibre S",
+    "zh": "玻璃纤维；高强玻璃纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hill's measuring apparatus of vapor pressure",
+    "zh": "希尔蒸气压测定仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-himenol d-",
+    "zh": "红香茅醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hinzke's sulfur burner",
+    "zh": "欣兹克烧硫炉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hittorff's method",
+    "zh": "希托夫法*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hollemann's rules",
+    "zh": "霍莱曼氏规则",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hofmann's method",
+    "zh": "霍夫曼方法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hofmann's rule",
+    "zh": "霍夫曼规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homochiral",
+    "zh": "纯手性(的)*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homochirality",
+    "zh": "同手型",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Honda's thermobalance",
+    "zh": "本多氏热天平",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hook's law",
+    "zh": "胡克定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Horn's dry lead subacetate method",
+    "zh": "霍恩干碱式乙酸铅法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "horse's foot oil",
+    "zh": "马足油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hortvat's tube",
+    "zh": "离心分离管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Huckel's rule",
+    "zh": "休克尔规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hudson's lactone rule",
+    "zh": "赫德逊内酯规则",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Humphrey's generator",
+    "zh": "汉姆弗利式水煤气发生炉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hund's rule",
+    "zh": "洪德规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hyalite (=Müller's glass)",
+    "zh": "玻璃蛋白石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydrogen abstraction reaction",
+    "zh": "夺氢反应 (R · +HR → RH+R · )",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydron blue R（",
+    "zh": "商） 海昌蓝 R",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydrosulfate",
+    "zh": "硫酸氢盐 MHSO₄;硫酸化物 R·H₂SO₄",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydroxocobalamin(e)",
+    "zh": "羟钴胺素；维生素 B12a",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydroxy amide",
+    "zh": "羟基酰胺 R(OH)CONH₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hydroxy amine",
+    "zh": "羟基胺 R(OH)NH₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-hydroxysparteine (=17-oxosparteine) d-",
+    "zh": "羟基鹰爪豆碱 10-hydroxy-stearic acid 10-羟基硬脂酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "o-hydroxythiobenzoic acid",
+    "zh": "邻羟基硫代苯甲酸（防焦剂） 2-hydroxytrimethylene dinitrilo tetraacetic acid (HPDTA) 2-羟基亚丙基二次氮基四乙酸 5-hydroxytryptamine (=serotonin;enteramine) 5-羟基色胺 5-hydroxytryptophan(e) 5-羟色氨酸 3β-Hydroxy-12-ursen-28-oic acid 熊果酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "illustrator's azo paper",
+    "zh": "画家偶氮纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "illustrator's special paper",
+    "zh": "画家特种纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "impingement area(s)",
+    "zh": "碰撞面；冲击面",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "incomplete Ferund's adjuvent",
+    "zh": "不完全福氏佐剂（不含微生物）生物)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "indan(e) musk",
+    "zh": "茚满型麝香",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "independent variable(s)",
+    "zh": "自变数；自变量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "induced circular dichroism",
+    "zh": "诱导圆二色性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "instrumental deviations from Beer's law",
+    "zh": "偏离比尔定律的仪器偏差（指仪器响应值偏离比尔定律产生的偏差）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "internal heteronuclear D lock",
+    "zh": "异核氘内锁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isobutyl cis-α,β-dimethylacrylate",
+    "zh": "顺-α,β-二甲基丙烯酸异丁酯 1-isobutyl-3,5-dimethylhexylphosphoric acid(DDPA) 1-异丁基-3,5-二甲基己基磷酸；十二烷基磷酸酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isobutyl cis-2-methyl-2-butenoate",
+    "zh": "顺-2-甲基-2-丁烯酸异丁酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l-isocorypalmine (=casealutine) l-",
+    "zh": "异紫杷明",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isocyanate plastic(s)",
+    "zh": "异氰酸酯塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isoephedrine (=d-pseudoephedrine) d-",
+    "zh": "假麻黄碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "DL-isomerism DL",
+    "zh": "异构现象（一般指光学异构现象，D 指右旋性；L 指左旋性）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l-α-isoparteine (=genisteine) l-α-",
+    "zh": "异鹰爪豆碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isophan(e)insulin",
+    "zh": "鱼精蛋白锌胰岛素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isopropyl-β-D-thiogalactoside(IPTG)",
+    "zh": "异丙基-β-D-硫代半乳糖苷",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isothiocyanato(=isothiocyanone)",
+    "zh": "异硫氰基 S=C=N—",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "isothiocyano(=isothiocyanato)",
+    "zh": "异硫氰基 S=C=N—",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "iso-trans-tactic",
+    "zh": "反式全同立构",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Jackob's ladder",
+    "zh": "杰科布绳梯（木或铁制有梯级的绳梯）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "jamesonite",
+    "zh": "脆硫锑铅矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Jamin's interferometer",
+    "zh": "雅满干涉仪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Janak's method",
+    "zh": "耶纳克法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Janssen's equation",
+    "zh": "詹森方程（垂直圆筒内粉体粒子间的压力关系式）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Jolly's spring balance",
+    "zh": "弹簧秤",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Jordan's double focusing mass spectrograph",
+    "zh": "乔丹双聚焦质谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Joule's law",
+    "zh": "焦耳定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Junker's gas calorimeter",
+    "zh": "荣克气体量热计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Junker's calorimeter",
+    "zh": "荣克量热器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kalimeter(=alkalimeter; Shrolter's apparatus)",
+    "zh": "碳酸定量器；施罗特碳酸定量器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kaolin(e) (=china clay)",
+    "zh": "高岭土；瓷土；白陶土",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Karl-Fischer's method",
+    "zh": "卡尔·费歇尔水分测定法（溶剂中的水分定量分析法）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kayser's wavelength table",
+    "zh": "开氏波长表",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Keene's cement",
+    "zh": "基恩水泥；干固水泥",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kelvin's thermodynamic scale",
+    "zh": "开氏温标；绝对温标",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kessazulene S-",
+    "zh": "愈创木薁",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kienle's functionality theory",
+    "zh": "金勒氏官能度理论",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "kinetic Young's modulus",
+    "zh": "动态杨氏模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "King's desiccator",
+    "zh": "金氏干燥器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "King's manometer",
+    "zh": "金氏压力计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kipp's generator",
+    "zh": "基普(气体)发生器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kirchhoff's law",
+    "zh": "基尔霍夫定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kistiakowsky's equation",
+    "zh": "基斯梯可斯基公式（蒸发潜热计算式）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kitahara's water bottle",
+    "zh": "北原式采水器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kitson's ebulliometer",
+    "zh": "基特森沸点计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kjeldahl's autosystem for nitrogen determination",
+    "zh": "自动凯氏定氮仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Klason's lignin",
+    "zh": "硫酸木素；克拉松木素",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Klein's liquid",
+    "zh": "克莱因试液（硼钨酸镉的饱和溶液）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Knott's colour rules",
+    "zh": "诺特颜色规律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Konig's pyrometer",
+    "zh": "康尼高温计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kopp's law",
+    "zh": "科普定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kopp's law of additive volume",
+    "zh": "科普容积加和定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Köster's interferometer",
+    "zh": "科斯特干涉仪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Krames-Kroning's relation",
+    "zh": "克雷梅斯-克罗尼格关系(式)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kraut's reagent",
+    "zh": "克劳特微量化学试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Krebs unit(s)",
+    "zh": "克雷布斯黏度单位（测定高稠度的单位；特别用于颜料浆）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kronecker's delta",
+    "zh": "克朗内克符号（数）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kronstein's number",
+    "zh": "克隆斯坦值（植物油减压蒸馏馏出物量与原油之比，以%表示）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kuhlmann's microbalance",
+    "zh": "库尔曼微量天平",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kundt's constant",
+    "zh": "孔脱常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kundt's rule",
+    "zh": "孔脱法则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kundt's tube",
+    "zh": "孔脱管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Kurrol's salt",
+    "zh": "四聚偏磷酸钾",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "label(l)ed atom",
+    "zh": "标记原子；示踪原子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "label(l)er",
+    "zh": "贴标签机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "label(l)ing",
+    "zh": "加标记;贴商标",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "label(l)ing machine",
+    "zh": "贴标签机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "laburnine(=d-trachelanthamidine)",
+    "zh": "毒豆碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L acid L",
+    "zh": "酸；1-萘酚-5-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lacquer article(s)",
+    "zh": "漆器（大漆）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lactide(s)",
+    "zh": "丙交酯;交酯;减水乳酸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lady's slipper",
+    "zh": "枸兰根",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l(a)evulinic acid",
+    "zh": "乙酰丙酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l(a)evulose",
+    "zh": "果糖；左旋糖",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lambert's law of reflection",
+    "zh": "朗伯反射定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lamb-Recht's polymer",
+    "zh": "湿度温度联测计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Langmuir's vacuum gauge",
+    "zh": "朗缪尔真空表(计)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laplace's operation",
+    "zh": "拉普拉斯运算",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lathane 384",
+    "zh": "丁氧乙氧基乙硫腈；L-384；丁氧硫氰醚",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lauth's violet",
+    "zh": "劳氏紫",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L beam L",
+    "zh": "形梁",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L/D ratio(=length/diameter ratio)",
+    "zh": "长径比",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "leaf alcohol(=cis-3-hexenol)",
+    "zh": "叶醇；顺式己烯-3-醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Le Chatelier-Brown's principle",
+    "zh": "勒夏特列-布朗原理",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Le Chatelier's principle",
+    "zh": "勒夏特列原理*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Le Chatelier's thermoelement",
+    "zh": "热电元件；铂-铂铑合金热电偶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Leithner's blue",
+    "zh": "钴蓝; 铝酸钴",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L electrons L",
+    "zh": "层电子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "length/diameter ratio(=L/D ratio)",
+    "zh": "长/径比；L/D比",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lens maker's equation",
+    "zh": "透镜组方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Leuchs's rearrangement",
+    "zh": "刘琪氏重排作用 $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "level(l)ing",
+    "zh": "均化;均涂;调平；弄平;流平性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "levoglucos(a)e",
+    "zh": "左旋葡萄糖；果糖",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Levol's alloy",
+    "zh": "勒伏耳银铜合金",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lewis's atom",
+    "zh": "路易斯型原子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L glass L",
+    "zh": "玻璃；含铅玻璃；防辐射玻璃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ligroin(e)",
+    "zh": "挥发油；石油醚；粗汽油；溶剂轻油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "linalo(o)l oil",
+    "zh": "芳樟醇油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lindemann's mechanism",
+    "zh": "林德曼机理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "linear-trans-quinacridone",
+    "zh": "线型反式喹吖啶酮",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "liquid-vapo(u)r interface",
+    "zh": "液-汽界面",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Loeffler's methylene blue stain",
+    "zh": "吕氏美蓝染色液",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "loose paint flake(s)",
+    "zh": "疏松的脱落漆片",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L-orbit L",
+    "zh": "轨道",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Loschmidt's number",
+    "zh": "洛斯密德数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "loss Young's modulus",
+    "zh": "损耗杨氏模量；损耗弹性模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "loup(e)",
+    "zh": "搅炼铁块",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L-S coupling L-S",
+    "zh": "偶合",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Luck's indicator(=phenolphthalein)",
+    "zh": "酚酞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lunge's method",
+    "zh": "朗格方法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Lunge's test",
+    "zh": "朗格试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L-value L",
+    "zh": "值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L'vov furnace",
+    "zh": "里沃夫炉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "L'vov platform",
+    "zh": "里沃夫平台",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lyotropic mesomorphism",
+    "zh": "亲液性介晶现象；亲液性介晶态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Macquer's salt",
+    "zh": "砷酸二氢钾 KH₂AsO₄",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "MacReynold's constant",
+    "zh": "麦克雷诺常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "macrodroplet(s)",
+    "zh": "粗滴",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "magic-Z nucleus",
+    "zh": "幻质子核 $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "magnetic circular dichroism(MCD)",
+    "zh": "磁性圆二色散",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "magnetic optical rotation",
+    "zh": "磁致旋光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "magneto-optical rotation",
+    "zh": "磁致旋光；磁性光学旋转",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "l-magnocurarine l-",
+    "zh": "木兰箭毒碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-magnocurarine d-",
+    "zh": "木兰箭毒碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "maleic acid",
+    "zh": "马来酸;顺式丁烯二酸;(E)-丁烯二酸 (=CHCO₂H)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "maltonic acid D-",
+    "zh": "葡萄糖酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "manufacturer's mark",
+    "zh": "工厂商标",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "manufacturer's trials",
+    "zh": "工厂试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Margules's equation",
+    "zh": "马古利斯方程（气-液平衡关系）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "marine anti-fouling paint",
+    "zh": "海洋防污漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Markovnikov's rule",
+    "zh": "马尔科夫尼科夫规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Martin's centrifuge",
+    "zh": "马丁离心器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Martin's filter",
+    "zh": "马丁过滤器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Martin's test",
+    "zh": "马丁(热稳定性)试验",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mass-to-charge ratio",
+    "zh": "质荷比 (m/e)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mauvein(e) (",
+    "zh": "碱性)木槿紫；苯胺紫",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Maxwell's disk",
+    "zh": "麦克斯韦混色盘",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mayer's hemalum",
+    "zh": "迈尔染色剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "McCall's equation",
+    "zh": "麦考尔方程（介电常数与比重的线性关系式）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Meldola's blue",
+    "zh": "麦尔多拉蓝",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mellot's metal",
+    "zh": "梅洛特(铋铅锡)合金",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mendeleev's periodic system",
+    "zh": "门捷列夫周期系",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mercuriacetate",
+    "zh": "乙酸汞化物 CH₃COOHg·R",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mes-(=meso-) （",
+    "zh": "希腊字头）;内消旋;中(间)的;中(位);介;新",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesic atom chemistry(=mesoatom chemistry)",
+    "zh": "介原子化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-(=mes-)(",
+    "zh": "希腊字头) ;内消旋;中(间)的;中(位);介;新",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoatom chemistry(=mesic atom chemistry)",
+    "zh": "介原子化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoboric acid",
+    "zh": "中硼酸 H₄B₂O₇; HBO · H₃BO₃; B₂O₃ · 2H₂O",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesochemistry",
+    "zh": "介子化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesocolloid",
+    "zh": "介胶体；近胶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso compound",
+    "zh": "内消旋化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-cortex",
+    "zh": "间皮质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesodibromosuccinic acid",
+    "zh": "中(均)二溴丁二酸；中(均)二溴琥珀酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-dihydroguaiaretic acid",
+    "zh": "内消旋二氢愈创(木树脂)酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-form",
+    "zh": "内消旋型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesogen",
+    "zh": "介晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesogenic group",
+    "zh": "内消旋配合基",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Mesogen-Jacketed polymer",
+    "zh": "甲壳型液晶高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesohydric tautomerism",
+    "zh": "氢原子振动互变异构现象",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesohydro tautomerism",
+    "zh": "氢原子互变异构现象",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesohydry",
+    "zh": "氢原子振动异构(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-inositol",
+    "zh": "内消旋肌醇；内消旋环己六醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-ionic compound",
+    "zh": "介-离子化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoisomer",
+    "zh": "内消旋异构体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomer",
+    "zh": "内消旋体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeric",
+    "zh": "内消旋的;中介的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeric effect",
+    "zh": "中介效应*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeric ion",
+    "zh": "中介离子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeric polarization",
+    "zh": "中介极化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeric state",
+    "zh": "中介态;稳态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomeride",
+    "zh": "内消旋体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomerism",
+    "zh": "中介(现象);稳变异构(现象); 缓变异构(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso method",
+    "zh": "半微量法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomethylene carbon",
+    "zh": "亚甲基(桥型)碳（形成樟脑环内桥的碳原子）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic",
+    "zh": "介晶的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic liquid-crystalline",
+    "zh": "介晶液晶；变异液晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic phase",
+    "zh": "介晶相；液晶相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic solvent",
+    "zh": "介晶溶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic state",
+    "zh": "介晶态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic structure",
+    "zh": "介晶结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphism",
+    "zh": "介晶性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphous",
+    "zh": "平行原子层杂乱交错的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphous phase",
+    "zh": "介晶相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesomorphic region",
+    "zh": "介晶区；准晶区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meson(=heavy electron)",
+    "zh": "重电子；介子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-naphthadianthrene",
+    "zh": "中萘二蒽；萘并二蒽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-naphthadianthrone",
+    "zh": "中萘二蒽酮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesonic atom",
+    "zh": "介子原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesonium",
+    "zh": "介子素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesonium chemistry",
+    "zh": "介子素化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoparaffins",
+    "zh": "含两个次异丙基的烷烃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-periodic acid",
+    "zh": "中高碘酸；二缩原高碘酸 I₂O₇ · 3H₂O;H₃IO₅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoperrhenate",
+    "zh": "中高铼酸盐 M₃ReO₅",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesophase",
+    "zh": "中间相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesophasic structure",
+    "zh": "中间相结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesophilic",
+    "zh": "亲中介态的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesopore",
+    "zh": "中孔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoporous",
+    "zh": "中孔(性)的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoporphyrin",
+    "zh": "中卟啉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoporphyrinogen",
+    "zh": "中卟啉原",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-position",
+    "zh": "(杂环异原子)中位;(蒽的)9,10位；中位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesopyridine",
+    "zh": "消旋吡啶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesorcin",
+    "zh": "菜间二酚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesorcinol",
+    "zh": "菜间二酚；均三甲苯二酚 (CH₃)₃C₆H(OH)₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoscale",
+    "zh": "中等尺度；中等规模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesosilicic acid",
+    "zh": "中硅酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesosome",
+    "zh": "间体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesotartaric acid",
+    "zh": "中酒石酸；内消旋酒石酸 (CHOHCO₂H)₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesotartrate",
+    "zh": "中酒石酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meso-thorium",
+    "zh": "新钍",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesothorium I",
+    "zh": "新钍 I ²²⁸Ra",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesothorium II",
+    "zh": "新钍 II ²²⁸Ac",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesothorium mud",
+    "zh": "含碳酸新钍和碳酸镭的碳酸钡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesotomy",
+    "zh": "内消旋体离析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesotron(=meson)",
+    "zh": "介子；重电子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoxalate",
+    "zh": "二羟丙二酸盐(或酯)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoxalic acid",
+    "zh": "中草酸；丙酮二酸 COOHCOCOOH",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoxalic acid oxime (",
+    "zh": "中)肟基丙二酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoxalyl",
+    "zh": "中草酰；丙酮二酰 —COCOCO—",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mesoxalyl urea",
+    "zh": "中草酰脲；丙酮二酰脲 C₄H₂O₄N₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metamizol(e)",
+    "zh": "安乃近",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "a r - m e t h o x y a n i l i n o - (= a n i s i d i n o -) quad text {",
+    "zh": "甲氧苯氨基} $$",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methyl-carbithionic acid",
+    "zh": "二硫代乙酸 CH₃C(SH)=S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l-N-methylephedrine l-N-",
+    "zh": "甲基麻黄碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methyl isothiocyanate(=methyl-isothiocyanide)",
+    "zh": "异硫氰酸甲酯 CH₃N=C=S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methyl orange(=tropeolin-D)",
+    "zh": "甲基橙；金莲橙-D (CH₃)₂NC₆H₄N=NC₆H₄SO₃Na",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-N-methyl-pseudoephedrine d-N-",
+    "zh": "甲基假麻黄碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "methyl-sulfinyl-ethane",
+    "zh": "甲亚磺酰乙烷；甲基乙基亚砜 (CH₃C₃H₅)S = O",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Meyer's law",
+    "zh": "迈耶酯化定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Meyer's tube",
+    "zh": "迈耶二氧化碳吸收管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Michler's carbinol",
+    "zh": "米蚩醇 Michler's hydrol 双(二甲基氨基)苯甲醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Michler's ketone",
+    "zh": "米蚩酮；4,4'-双(二甲氨基)二苯酮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microcal(l)ipers",
+    "zh": "千分尺；测微计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microdroplet(s)",
+    "zh": "微滴",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micromolar concentrations",
+    "zh": "微摩尔级(的)浓度；10^-6 mol/L (数量)级浓度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Millikan's rays",
+    "zh": "宇宙射线",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Millon's base",
+    "zh": "米隆碱；氨合氧化汞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miner's inch",
+    "zh": "矿水标",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miner's lamp",
+    "zh": "矿灯；采矿灯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miner's oil",
+    "zh": "矿工油（坑道灯用灯油）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miner's sunshine(=miner's wax)",
+    "zh": "矿工蜡（矿工灯用软石蜡）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "miner's wax(=miner's sunshine)",
+    "zh": "矿工蜡（矿工灯用软石蜡）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "minute air space(s)",
+    "zh": "小气泡；小空隙",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "minute drop(s)",
+    "zh": "微小的液滴；极细的液滴(珠)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's circle(=circle of stress)",
+    "zh": "莫尔圆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's clamp",
+    "zh": "莫尔夹；弹簧夹",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's clip",
+    "zh": "莫尔夹；弹簧夹",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's figure",
+    "zh": "莫尔图",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's method",
+    "zh": "莫尔法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Mohr's salt",
+    "zh": "莫尔盐*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Molische's reaction",
+    "zh": "莫里斯克氏反应（碳水化合物检查）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "monk's-hood",
+    "zh": "乌头",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Morse's cone",
+    "zh": "莫氏圆锥",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Morse's taper",
+    "zh": "莫氏锥度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Müller's glass(=hyalite)",
+    "zh": "玻璃蛋白石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multimodel chiral liquid chromatographic column",
+    "zh": "多模式手性液相色谱柱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peri-naphthindane",
+    "zh": "苯并-2,3-二氢(1H)-萘 α-naphthindane 苯并[e]二氢茚 α-naphthindazole 苯并[g]吲唑 β-naphthindazole 苯并[e]吲唑",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "naphthinduline",
+    "zh": "萘对氮蒽兰 α-naphthiondanone 苯并[e]二氢-2-茚酮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Napier's equation",
+    "zh": "纳皮耳公式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "natural cis-polyisoprene",
+    "zh": "天然顺式-聚异戊二烯(橡胶)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "natural trans-polyisoprene",
+    "zh": "天然反式聚异戊二烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nearest neighbor(u)r energy",
+    "zh": "最近邻能",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nearest neighbor(u)r frequency",
+    "zh": "最近邻频率",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nearest neighbor(u)r sequence analysis",
+    "zh": "最近邻顺序分析",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neat's foot oil",
+    "zh": "牛蹄油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Nelson's method",
+    "zh": "砷钼酸法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Nelson-Somogyi's method",
+    "zh": "砷钼酸法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neoprontosil(=azosulfamide; prontosil S; streptozon S)",
+    "zh": "偶氮磺酰胺；新白浪多息（药）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Neuberg's scheme",
+    "zh": "诺勃氏发酵途径",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newman's rule of six",
+    "zh": "纽曼氏六位规则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's viscosity law",
+    "zh": "牛顿黏度定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's alloy",
+    "zh": "牛顿合金",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's concept",
+    "zh": "牛顿概念",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's equation",
+    "zh": "牛顿方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's hypothesis",
+    "zh": "牛顿假说",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's law",
+    "zh": "牛顿定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's law for resistance",
+    "zh": "牛顿阻力定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's law of cooling",
+    "zh": "牛顿冷却定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's law of viscosity",
+    "zh": "牛顿黏性定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Newton's rings",
+    "zh": "牛顿环",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Niemann's triangle",
+    "zh": "尼曼三角（液体在表面上保持平衡时，各有关界面张力间的关系）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Nier's mass spectrometer",
+    "zh": "尼尔质谱仪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitroazobenzene",
+    "zh": "硝基偶氮苯 4-nitro-trans-azobenzene 4-硝基反式偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitrolim(e)",
+    "zh": "氰氨(基)化钙 CaCN₂; CaN·CN",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitroorthanilic S",
+    "zh": "硝基邻氨基苯磺 S 4-nitro-5-oxymercuro-o-cresol (=metaphen) 4-硝基-5-亚汞氧基邻甲苯酚：袂塔酚 CH₃C₆H₂ONO₂Hg",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nitroso-R-salt",
+    "zh": "亚硝基R盐；亚硝基-2-羟基-3,6-萘二磺酸钠；试钴铁灵 ONC₁₀H₄(SO₃Na)₂OH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nonstereospecific polymer",
+    "zh": "非定向聚合物；无规立构聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "d text {-norpseudoephedrine(=cathine)} quad d text {-",
+    "zh": "降假麻黄碱} $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "novocain(e)(=procaine)",
+    "zh": "普鲁卡因；奴佛卡因",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "nucleonic(s)gage",
+    "zh": "测厚规",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Nutting's equation",
+    "zh": "纳丁方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Nutting's spectrophotometer",
+    "zh": "纳丁分光光度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Obermüller's test",
+    "zh": "奥伯米勒胆甾醇试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "O'connel's relation",
+    "zh": "奥康内尔关系（塔效率与液体黏度、挥发度的关系式）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "l-octyne(=n-hexyl acetylene)",
+    "zh": "正己基乙炔；1-辛炔 CH3(CH2)5C≡CH",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ohm's law",
+    "zh": "欧姆定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Oldroyd's convected derivative",
+    "zh": "奥尔德罗伊特对流导数；奥尔德罗伊特迁移导数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "olefin plastic(s)",
+    "zh": "烯烃塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Olsen's durometer",
+    "zh": "奥氏硬度计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Olsen's testing machine",
+    "zh": "水泥抗张强度测定器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "open-band twist Z",
+    "zh": "捻；反手捻",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "optically anisotropic mesophase pitch",
+    "zh": "光学各向异性中间相沥青",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical rotation",
+    "zh": "旋光性*；旋光度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orange III(=methyl orange) (",
+    "zh": "酸性)三号橙; 甲基橙; 金莲橙 D",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Orr's (zinc) white(=lithopone)",
+    "zh": "奥尔白；立德粉；锌钡白",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "orthanilic S",
+    "zh": "邻氨基苯磺 S",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Oseen's approximation",
+    "zh": "奥西恩近似式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "osotriazolazimide",
+    "zh": "接三唑并叠氮；1,5-二氢-1,2,3-三唑并[4,5-d]-1,2,3-三唑",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ost's method for cleaning the electrode",
+    "zh": "奥斯特电极清洁法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ostwald's colorimeter",
+    "zh": "奥氏比色计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ostwald's dilution law",
+    "zh": "奥斯特瓦尔德稀释定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ostwald's pycnometer",
+    "zh": "奥斯特瓦尔德比重计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ostwald's viscometer",
+    "zh": "奥斯特瓦尔德黏度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxoheptyl acetate",
+    "zh": "乙酸氧代庚酯；酮庚基乙酸酯 2-oxohexamethylen(e) imine(=caprolactam) 2-氧代六亚甲亚胺；己内酰胺",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxyalkylene unit(s)",
+    "zh": "氧化烯单位",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxyamide（",
+    "zh": "类名）羟基酰胺 R(OH)CONH₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxygen ag(e)ing",
+    "zh": "氧致老化",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxygen pressure ag(e)ing test",
+    "zh": "加压氧气热老化试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxypyroracemic acid",
+    "zh": "羟基丙酮酸 CH₂OHCOCOOH",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "packer's oil",
+    "zh": "包装喷射油（喷射水果或蛋类用的低黏度石油产品）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "painter's caulk",
+    "zh": "油漆填缝料；漆工填缝剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "painter's apron",
+    "zh": "油漆工围裙",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "painter's colic",
+    "zh": "铅中毒性绞痛",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "palatine chrome black S",
+    "zh": "宫殿铬黑 S；酸性茜素黑 SN",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Paneth's rule",
+    "zh": "潘纳思放射性元素吸附规律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paper-maker's alum",
+    "zh": "造纸明矾 paper-making machinery 造纸机(器)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "parent HC's chromatography",
+    "zh": "母体烃色谱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Parker's cement",
+    "zh": "罗马水泥",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "partially racemic compound",
+    "zh": "部分外消旋化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial racemic mixture",
+    "zh": "部分消旋混合物；局部消旋混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Pauly's reaction",
+    "zh": "泡利反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Payne's process",
+    "zh": "潘恩木材防火法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pentahydroxy dibasic acid",
+    "zh": "五羟二(碱)价酸 (OH)R(COOH)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Penzold's reagent",
+    "zh": "彭若德糖试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "people's gas mask",
+    "zh": "民用防毒面具",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "percentage of d-character d",
+    "zh": "特征百分率",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peristaltin(e)",
+    "zh": "药鼠李树皮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Perkin's mauve",
+    "zh": "佩金苯胺紫",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Perkin's reaction",
+    "zh": "佩金芳醛脂酸缩合反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Perkin's violet",
+    "zh": "佩金苯胺紫",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "peroxidase-anti-peroxidase technique",
+    "zh": "过氧化酶-抗过氧化酶技术",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "perthio-（",
+    "zh": "词头）过硫（仅用于取代O时）S=S=",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Peter's apparatus",
+    "zh": "彼得装置（测定真沸点的精馏装置）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Pfeufer's green",
+    "zh": "绿菌染料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pharaoh's serpents",
+    "zh": "硫氰酸汞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phenesterin(e)",
+    "zh": "胆甾醇对苯乙酸氮芥",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "philosopher's stone",
+    "zh": "哲人石；点金石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "philosopher's wool",
+    "zh": "氧化锌",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phosphinothioylidene",
+    "zh": "硫亚膦基 H(S)P=",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phosphomolybdic acid",
+    "zh": "磷钼酸 </div> $$ (HO)(HS)P(S)H",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phosphonothionic acid",
+    "zh": "硫代膦酸；膦硫羰酸 (HO) P(S)H",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phosphonotrithioic acid",
+    "zh": "三硫代膦酸；二硫代硫膦酸 (HS) P(S)H",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "photoag(e)ing",
+    "zh": "光老化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phthalexone S",
+    "zh": "酞腙 S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "physical blend(s)",
+    "zh": "物理掺和物；冷拼体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pigeon's manure bate",
+    "zh": "鸽粪软化",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pigment fast violet R",
+    "zh": "颜料坚牢紫 R；二噁嗪紫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pig's foot grease",
+    "zh": "猪脚脂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pipeliner's cradle",
+    "zh": "管道摇架",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "planar chirality",
+    "zh": "平面手性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Planck's potential",
+    "zh": "普朗克函数",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plant's operating loss",
+    "zh": "工厂的操作损失",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plastic foam(s)",
+    "zh": "泡沫塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pleonast(e)",
+    "zh": "镁铁尖晶石",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Plessy's green",
+    "zh": "磷酸铬",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Pohl's commutator",
+    "zh": "坡耳整流器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poirrier's blue",
+    "zh": "泡依蓝",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poiseuille's law",
+    "zh": "泊肃叶定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poisson's distribution",
+    "zh": "泊松分布*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poisson's equation",
+    "zh": "泊松公式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poisson's law",
+    "zh": "泊松定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poisson's number",
+    "zh": "泊松数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Poisson's ratio",
+    "zh": "泊松比",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyacetal(s)",
+    "zh": "聚缩醛(类)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyaminoester(s)",
+    "zh": "聚酰胺酯(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyanhydride(s)",
+    "zh": "聚酐(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "poly-β-benzyl-L-aspartate",
+    "zh": "聚-L-天冬氨酸-β苄酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polychlorinated dibenzo-p-dioxin(s)(PCDD(s))",
+    "zh": "氯代二苯并二噁英",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polymeric peroxide(s)",
+    "zh": "聚过氧化物(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polymethyl- $alpha$ -halogenoacrylate(s)",
+    "zh": "聚 -卤(代)丙烯酸甲酯(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polypropylen(e)imine",
+    "zh": "聚甲基吖丙啶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polyvinyl acetal(s)",
+    "zh": "聚乙烯醇缩乙醛；聚乙烯醇缩醛(类)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Pople's SCF method",
+    "zh": "玻扑尔自洽场法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "porphin(e)",
+    "zh": "叶吩",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "potter's earth",
+    "zh": "陶土",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "potter's lead",
+    "zh": "粗粒方铅矿",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "potter's ore",
+    "zh": "粗粒方铅矿",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "potter's wheel",
+    "zh": "陶轮；拉坯轮车",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Prandtl's universal law of friction",
+    "zh": "普兰托一般摩擦定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pre-column chiral derivatization",
+    "zh": "柱前手性衍生",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Prelog's rule",
+    "zh": "普雷洛格规则*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "premesophase pitch",
+    "zh": "预中间相沥青",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary subtractive colo(u)r",
+    "zh": "减原色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "primulin(e)",
+    "zh": "樱草灵",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "primulin(e) dye",
+    "zh": "樱草灵(类)染料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Prince's metal",
+    "zh": "黄铜",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "printer's ink",
+    "zh": "印刷墨；油墨",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "printer's liquor",
+    "zh": "乙酸亚铁溶液",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prochiral",
+    "zh": "前手性；原手性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "prochirality",
+    "zh": "前手性的；原手性的",
+    "role": "primary",
+    "confidence": 10.5
+  },
+  {
+    "en": "production run(s) equipment",
+    "zh": "生产流水线用设备",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pro-R group",
+    "zh": "前R基团*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pro-S group",
+    "zh": "前S基团*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prostigmin(e)",
+    "zh": "新斯的明",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prot(e)id(e)",
+    "zh": "蛋白质",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "provitamin D",
+    "zh": "前维生素D; 二氢麦角甾醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "prunasin",
+    "zh": "野黑樱苷；d-扁桃腈葡萄糖苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudoasymmetric",
+    "zh": "假不对称的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudoasymmetric carbon",
+    "zh": "假不对称碳",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudochirality",
+    "zh": "假手性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "s-pseudocumyl(=2,4,5-trimethylphenyl)",
+    "zh": "均枯基; 2,4,5-三甲苯基",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "d-pseudoephedrine(=isoephedrine) d-",
+    "zh": "假麻黄碱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudoracemic mixed crystal",
+    "zh": "假外消旋混(合结)晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudoracemic mixture",
+    "zh": "假外消旋混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyroracemic acid",
+    "zh": "丙酮酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyroracemic aldehyde",
+    "zh": "丙酮醛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyroxylin(e) cement",
+    "zh": "火棉胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyroxylin(e) finish",
+    "zh": "硝基漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pyrulic acid(=trans-10-heptadecen-8-ynoic acid)",
+    "zh": "十七 (碳)烯-10-炔-8-酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Q, e scheme Q,e",
+    "zh": "概念",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "queen's delight",
+    "zh": "大戟科植物草乌桕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "queen's yellow",
+    "zh": "皇后黄；碱式硫酸汞",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Quevenne's iron",
+    "zh": "还原铁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quinolinazo R",
+    "zh": "喹啉偶氮 R",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "racemic",
+    "zh": "外消旋的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dl-(DL)-racemic",
+    "zh": "外消旋体;外消旋的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic acid",
+    "zh": "外消旋酸;外消旋酒石酸 COOH(CHOH) COOH",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic body",
+    "zh": "外消旋体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic compound",
+    "zh": "外消旋化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic mixture",
+    "zh": "外消旋混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic modification",
+    "zh": "外消旋(变)体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic polylactide",
+    "zh": "外消旋聚丙交酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic solid solution",
+    "zh": "外消旋固体溶液*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic tartaric acid",
+    "zh": "外消旋酒石酸 COOH(CHOH) COOH",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "racemic tartarte",
+    "zh": "外消旋酒石酸盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "R-acid(=2-naphthol-3,6-disulfonic acid) R",
+    "zh": "酸；2-萘酚-3, 6-二磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radio active anti-fouling",
+    "zh": "放射性防污",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radium D",
+    "zh": "镭D Pb",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radium E",
+    "zh": "镭E Bi",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ram's horn test",
+    "zh": "落锤试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Raney's alloy",
+    "zh": "拉尼镍铝合金",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rapid process(=r-process)",
+    "zh": "快过程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Raschig's method",
+    "zh": "腊希(苯酚合成)法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ravelling(s)",
+    "zh": "(织物)拆散的纱；散开的纱;乱纱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Raybin's reaction",
+    "zh": "重氮尿嘧啶试验",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R-band R",
+    "zh": "带",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R-control chart",
+    "zh": "极差控制图*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "red lead anti-rust paint",
+    "zh": "红丹防锈漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reech's theorem",
+    "zh": "李奇氏(流体弹性)定理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "regular colo(u)r channel black",
+    "zh": "普通色素槽黑",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reimer's reaction",
+    "zh": "赖默酚-氯仿反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reinecke's acid",
+    "zh": "雷纳克酸；四硫氰基二氨合铬酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reinecke's salt",
+    "zh": "雷纳克盐；雷氏盐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reinforced plastic(s)",
+    "zh": "增强塑料",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reprocessed plastic(s)",
+    "zh": "再生塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "resinous spue(s)",
+    "zh": "树脂渗出物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "resistance to ag(e)ing",
+    "zh": "耐(抗)老化性;老化阻力",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "resistance to humid-ag(e)ing exposure",
+    "zh": "耐湿老化性；抗吸潮老化性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Retger's law",
+    "zh": "雷奇尔混合晶体物性定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "returnable container(s)",
+    "zh": "可回收使用的容器;可反复使用的集装箱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's analogy",
+    "zh": "雷诺模拟",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's criteria",
+    "zh": "雷诺准则；雷诺判据",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's equation",
+    "zh": "雷诺公式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's foil",
+    "zh": "雷诺箔（蜡牛皮纸和黏胶膜夹盖的铅箔）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's liquid",
+    "zh": "雷诺液体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's lubrication equation",
+    "zh": "雷诺润滑方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's plastic",
+    "zh": "雷诺塑性",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's stress",
+    "zh": "雷诺应力",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's transport theorem",
+    "zh": "雷诺输运定理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Reynold's turbulence",
+    "zh": "雷诺湍流 比移值 value 值*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ringbom's curve",
+    "zh": "林博曲线",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rinmann's green",
+    "zh": "林曼绿；锌酸钴 CoZnO₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R lattice R",
+    "zh": "心格子",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "roentgen(r)",
+    "zh": "伦琴（射线辐射量单位）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Roesler's process",
+    "zh": "罗斯勒法（从金分离铜、银）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rohrschneider's constant",
+    "zh": "罗尔施奈德常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Roothaan's equation",
+    "zh": "鲁桑方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rosensthiel's green",
+    "zh": "罗森斯蒂绿；锰酸钡",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Roussin's salt",
+    "zh": "鲁辛盐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "r-process(=rapid process)",
+    "zh": "快过程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R salt R",
+    "zh": "酸盐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R-S system of nomenclature R-S",
+    "zh": "命名体系*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R titration R",
+    "zh": "滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rudolfi's equation",
+    "zh": "鲁道尔菲电离程度方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rupert's drops",
+    "zh": "梨形玻璃滴",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Rydberg's formula",
+    "zh": "里德伯频率振动公式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "salicin(e)",
+    "zh": "水杨苷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "salicine bordeaux R",
+    "zh": "柳醇枣红R",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sample and hold amplifier (S/H)",
+    "zh": "采样保持放大器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Sandell's sensitivity",
+    "zh": "桑德尔灵敏度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sandwich chamber(=S-chamber) S(",
+    "zh": "展开)室；S(展开)槽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S and Z twist combination",
+    "zh": "顺反捻混合",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Sanger's method",
+    "zh": "二硝基苯基化法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sanguinarine(e)",
+    "zh": "血根碱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "saturated vapo(u)r",
+    "zh": "饱和蒸气",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-bend pipe S",
+    "zh": "型管",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schäffer's pressure gauge",
+    "zh": "薛佛氏压力计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schäffer's acid 2-",
+    "zh": "萘酚-6-磺酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schaal's indicator(=alizarin)",
+    "zh": "茜素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-chamber (=sandwich chamber) S(",
+    "zh": "展开)室；S(展开)槽；夹层槽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Scheele's green",
+    "zh": "亚砷酸氢铜 CuHAsO₃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "scheme of colo(u)r",
+    "zh": "配色方案(设计);着色法(绘画)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schiff's reagent",
+    "zh": "席夫试剂；品红试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schilling's U-tube",
+    "zh": "西林U字管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schmoluchowski's equation",
+    "zh": "席摩勒绰夫斯基方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schnitzer's green",
+    "zh": "磷酸铬绿;氧化铬绿（别名）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schöllkopf's acid",
+    "zh": "萧尔科夫酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schott-Gen's scrubbing bottle",
+    "zh": "肖特-根洗气瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schrotter's apparatus (=alkalimeter; kalimeter)",
+    "zh": "施罗特碳酸定量器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schulze's rule",
+    "zh": "舒尔策定则（随离子的化合价而变异的沉淀效应）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schwarzl's approximation formula",
+    "zh": "施瓦兹尔近似式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "s glass fibre s",
+    "zh": "玻璃纤维；强玻璃纤维",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shank's lixiviating system",
+    "zh": "香克沥滤法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shank's process",
+    "zh": "香克法（一种连续式固体抽提法）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shank's washing system",
+    "zh": "香克洗涤法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shank's lixiviating tank",
+    "zh": "香克沥滤桶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shannon's theorem",
+    "zh": "仙农定理",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sheep's foot oil",
+    "zh": "羊脚油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sheep's wool (",
+    "zh": "绵)羊毛",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "shepherd's purse",
+    "zh": "芥菜",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shewhart's control chart",
+    "zh": "休哈特控制图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "shikonin(=d-alkannin)",
+    "zh": "紫草宁",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ship bottom anti-fouling paint",
+    "zh": "船底防污漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ship's bottom paint",
+    "zh": "船底油漆",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Shohl's micro buret(te)",
+    "zh": "肖尔氏微量滴定管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Sidot's blende",
+    "zh": "人造硫化锌",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sigma mixer(=Z-blade mixer)",
+    "zh": "曲拐式搅拌机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "signal-noise ratio (S/N)",
+    "zh": "信噪比*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "simazine",
+    "zh": "西玛三嗪；2-氯-4,6-双(乙氨基)-S-三嗪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "similar asymmetric carbon atom",
+    "zh": "相似的不对称碳原子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Simon's test",
+    "zh": "西蒙氏检验（检验伯胺与仲胺）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Simpson's rule",
+    "zh": "辛普逊定则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "skin foam(s)",
+    "zh": "结皮泡沫塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Skraup's synthesis",
+    "zh": "斯克洛浦合成",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Slater's theory",
+    "zh": "斯莱特理论*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "small anti-gas apparatus",
+    "zh": "小型防毒器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "smectic mesophase",
+    "zh": "近晶中介相",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Smith's approximate formula",
+    "zh": "史密斯近似式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sodium nitrite",
+    "zh": "亚硝酸钠 NaNO₂ sodium p-nitrobenzene-azo-salicylate(=alizarin yellow R)茜素黄 R",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "somatochirality",
+    "zh": "体型手性",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "Sorel's method",
+    "zh": "索瑞耳法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Soxhlet's extractor",
+    "zh": "索格利特萃取器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Spanish hop's oil",
+    "zh": "西班牙酒花油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "specific rotation",
+    "zh": "比旋光*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spherical bead(s)",
+    "zh": "圆珠；圆球",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spherical pellet(s)",
+    "zh": "圆球；圆丸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spongin(e)",
+    "zh": "海绵硬蛋白",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "s-process(=slow process)",
+    "zh": "慢过程",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "St. Venant's flow condition",
+    "zh": "圣维南流动条件",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stannic mesotetrapyridylporphyrin",
+    "zh": "内消旋四吡啶基卟啉锡：四吡啶基中卟啉锡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Stefan's law of diffusion",
+    "zh": "斯蒂芬扩散定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Steffen's process",
+    "zh": "斯特芬法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stellar r-process",
+    "zh": "星体快速过程",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stellar s-process",
+    "zh": "星体慢过程",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "step joint Z",
+    "zh": "形接头（轴封）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stereoselective polymerization",
+    "zh": "立构有择聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereoselective ring A",
+    "zh": "留择环A",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereoselective total synthesis",
+    "zh": "立体有择全合成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific",
+    "zh": "立体有择的；立体定向的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific adsorbent",
+    "zh": "立体有择吸附剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific catalyst",
+    "zh": "立体有择催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific copolymerization",
+    "zh": "立构有规共聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecificity",
+    "zh": "立体专一性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific polymer",
+    "zh": "立体有择聚合物；立体定向聚合物；有规立构聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific polymerization",
+    "zh": "有规立构聚合(作用)；定向聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific reaction",
+    "zh": "立体有择反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific rubber",
+    "zh": "有规立构橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific step-growth condensation reaction",
+    "zh": "立体有择逐步增长缩合反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific structure",
+    "zh": "有规立构结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific synthesis",
+    "zh": "立体有择合成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific template",
+    "zh": "有规立构模板；定向模板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stereospecific Ziegler-Natta polymerization",
+    "zh": "立体有择齐格勒-纳塔型聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Stevenson's rule",
+    "zh": "史蒂文森规则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S titration S",
+    "zh": "滴定",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "stochastic Liouville's equation",
+    "zh": "随机刘维方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Stirling's approximation",
+    "zh": "斯特林近似(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Stoke's scattering",
+    "zh": "斯托克斯散射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Stoke's shift",
+    "zh": "斯托克斯位移",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Stone's tension clamp",
+    "zh": "斯通张力夹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Straubel's atomizer",
+    "zh": "静电喷雾器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Student's t distribution",
+    "zh": "学生氏 t 分布",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Stutzer's reagent",
+    "zh": "斯塔策尔试剂（氢氧化铜的甘油溶液）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfenyl",
+    "zh": "（词头）亚氧硫基 OS=;（词中）亚磺酰—S(O)—;（单用）氧硫基 =SO;(烃)硫基RS—",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfide anti-oxidant buffer (SAOB)",
+    "zh": "硫化物抗氧化缓冲液",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfochlorophenol S",
+    "zh": "磺氯酚 S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "S-sulfocysteine",
+    "zh": "犀氨酸: S-磺酸半胱氨酸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfonated neat's foot oil",
+    "zh": "磺化牛脚油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfoxylic acid",
+    "zh": "次硫酸 H₂SO₂; S(OH)₂ λ-sulfur λ硫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfur yellow S",
+    "zh": "硫化黄 S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "surface ag(e)ing",
+    "zh": "表面老化",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-(",
+    "zh": "希腊及拉丁字头) ;顺式;同；共；与",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-form",
+    "zh": "顺式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-isomerism",
+    "zh": "顺式(同分)异构",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-oxime",
+    "zh": "顺式肟",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-position",
+    "zh": "顺位",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "synthetic plastic(s)",
+    "zh": "合成塑料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "syn-type",
+    "zh": "顺式；顺(基)型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Tamele's apparatus",
+    "zh": "达姆勒装置",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Taylor's equation",
+    "zh": "泰勒方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "technicolo(u)r",
+    "zh": "天然色；彩色",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "test run(s)",
+    "zh": "试生产；小生产;试样的制备;运行试验；试运转；试车",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "test tube method ag(e)ing tester",
+    "zh": "试管式老化试验机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetrabromothiophene",
+    "zh": "四溴噻吩 BrC=BrCCBr=CBr s",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetradecylendioic acid (=tetradecylene diacid)",
+    "zh": "十四(碳)烯二酸 α-tetradecylene (=l-tetradecene) α-十四(碳)烯；1-十四(碳)烯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetrafluoro-trans-azobenzene",
+    "zh": "四氟代反式偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dl-tetrahydrocoptisine(=corydalis E)",
+    "zh": "延胡索素E",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "s-tetrazine",
+    "zh": "对称四嗪",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetrazone",
+    "zh": "四氮腙；偶二氮化合物 R NN=NNR tetrazotic acid 四氮酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Thenard's blue test",
+    "zh": "特纳德蓝试验; 铝酸亚钴试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thermotropic mesomorphism",
+    "zh": "热致性介晶；向热型介晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiamin S(=phenothiazine)",
+    "zh": "吩噻嗪；夹硫氮杂蒽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thio",
+    "zh": "硫代 S=",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thiocyanuric acid(=trithiocyanuric acid)",
+    "zh": "硫氰尿酸; 三聚硫氰酸 C H N S thiocyclohexanone 硫代环己酮",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thiodiglycol",
+    "zh": "硫二甘醇(俗); 2,2'-二羟基二乙硫 (HOCH CH ) S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thioformanilide N-",
+    "zh": "硫代甲酰苯胺 C₆H₅NHCH=S",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thionine(=Lauth's violet)",
+    "zh": "硫堇；劳氏紫 C₁₂H₉N₃S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Thomson's spectrograph",
+    "zh": "汤姆孙谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thiophosgene(=thiocarbonyl chloride)",
+    "zh": "硫光气;二氯硫化碳 Cl₂C=S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "thorium chloride",
+    "zh": "氯化钍 ThCl thorium D 钍 D; 钍铅 Pb",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "three-point chiral recognition model",
+    "zh": "三点手性识别模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Tillman's reagent",
+    "zh": "提尔曼试剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tinman's scissors",
+    "zh": "白铁工剪刀；铅皮剪刀",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tolit(e)(=TNT)",
+    "zh": "徒里特；三硝基甲苯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-〔",
+    "zh": "拉丁字头〕 ;反(式);超；跨；过；(以)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-acid",
+    "zh": "反式(脂肪)酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-aconitic acid",
+    "zh": "反乌头酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans addition",
+    "zh": "反式加成*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans and gauche",
+    "zh": "反式与旁式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-azobenzene",
+    "zh": "反(式)偶氮苯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-azomethane",
+    "zh": "反(式)偶氮甲烷",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-butadiene-piperylene rubber",
+    "zh": "反(式)丁二烯戊二烯橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-2-butene",
+    "zh": "反(式)-2-丁烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-communic acid",
+    "zh": "反式欧柏酸：反式璎柏酸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-compound",
+    "zh": "反式化合物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-configuration",
+    "zh": "反式构型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-cyanoethylation",
+    "zh": "氰乙基转移作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-derivative",
+    "zh": "反式衍生物 transfer of populations via double resonance 双共振布居转移",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-double bond",
+    "zh": "交叉双键",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "transducer(s) (",
+    "zh": "能量)转换器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans effect",
+    "zh": "反位效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans elimination",
+    "zh": "反式消除*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-erythro〔",
+    "zh": "词头〕 反-赤藓式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-hexen-2-al",
+    "zh": "反式己烯-2-醛",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-hexen-2-al-diethyl acetal",
+    "zh": "反式己烯-2-醛二乙缩醛",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-2-hexen-1-ol",
+    "zh": "反式-2-己烯-1-醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans influence",
+    "zh": "反位影响",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-interchange",
+    "zh": "反位转移作用",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-isomer",
+    "zh": "反式异构体*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-isomeric",
+    "zh": "反式异构的",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-isomeride",
+    "zh": "反式异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-isomerism",
+    "zh": "反式异构(现象)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-metallation",
+    "zh": "金属转移作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-migration",
+    "zh": "反式迁移(作用)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-nitroration",
+    "zh": "亚硝基转移作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-2-cis-6-nonadienal",
+    "zh": "反-2-顺-6-壬二烯醛",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-2-nonen-1-ol",
+    "zh": "反-2-壬烯-1-醇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-olefine",
+    "zh": "交叉结构烯烃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-passive region",
+    "zh": "过钝化区;超惰化区",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-1,4-polybutadiene",
+    "zh": "反(式)-1,4-聚丁二烯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-polybutadiene rubber",
+    "zh": "反式聚丁二烯橡胶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-1,4-polyisoprene",
+    "zh": "反(式)-1,4-聚异戊二烯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-1,4-polyisoprene rubber",
+    "zh": "反式-1,4-异戊二烯橡胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-1,5-polypentenamer rubber",
+    "zh": "反式-1,5-聚戊烯橡胶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-quantitative method",
+    "zh": "转化定量法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-stereoisomer",
+    "zh": "反式立体异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-tactic",
+    "zh": "有规反式构型",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-thioindigo",
+    "zh": "反式硫靛(蓝)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-2-trans-4-decadienal",
+    "zh": "反-2-反-4-癸二烯醛",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-trans isomer",
+    "zh": "反-反式(同分)异构体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-vinylation",
+    "zh": "乙烯基转移作用",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trans-vinylene diisocyanate",
+    "zh": "反式亚乙烯基二异氰酸酯（硫化剂）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Traube's rule",
+    "zh": "特劳勃规则 (在同系物的稀溶液中欲使表面张力降低得一样多所需的溶液浓度因分子中每增加一个 CH₂ 而减少 1/3)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Trauton's coefficient(=coefficient of viscous traction)",
+    "zh": "拉伸黏性系数; 黏性曳引系数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trialkyltin thio-S-triazine derivative",
+    "zh": "三烷基锡硫代三嗪衍生物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "triazide",
+    "zh": "三叠氮化合物 R(N₃)₃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "s text {-triazine phase} quad text {",
+    "zh": "均三嗪类固定相} $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "s-triazolo-",
+    "zh": "均三唑并",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tricarboxylic ester",
+    "zh": "三羧酸酯 R(COOR)₃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trihydroxy dibasic acid",
+    "zh": "三羟基二元酸 (OH)R(COOH)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trihydroxy tribasic acid",
+    "zh": "三羟基三元酸 (OH)R(COOH)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trilit(e)(=TNT)",
+    "zh": "三硝基甲苯",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trioxan(e)",
+    "zh": "三噁烷; 三氧杂环己烷 (CH₂O)₃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trisulfonate",
+    "zh": "三磺酸盐(酯) R(SO₃M)₃;R(SO₂OR)₃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trisulfonic acid",
+    "zh": "三磺酸 R(SO₃H)₃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Trommer's test",
+    "zh": "特罗麦尿糖试验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tropeolin D(=methyl orange)",
+    "zh": "金莲橙 D; 甲基橙",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trouser's tear piece",
+    "zh": "裤形撕裂试片",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trypaflavin(e)",
+    "zh": "盐酸3,6-二氨基-10-甲基吖啶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Tschugajew's reaction",
+    "zh": "秋加耶夫检镍反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "turbulence damping",
+    "zh": "湍流阻尼 turbulence damping and drag reduction(=Tom's effect)湍流降阻",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Turnbull's blue",
+    "zh": "特恩布尔兰",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Turner's yellow",
+    "zh": "特纳黄（碱式氯化铅的别名）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "turquois(e)(=agaphite)",
+    "zh": "绿松石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Tutton's salts",
+    "zh": "塔顿盐",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Twaddell's hydrometer",
+    "zh": "特瓦德尔比重计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tyvelose",
+    "zh": "泰威糖；3,6-二脱氧-D-甘露糖",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Underwood's equation",
+    "zh": "安德伍德方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uranide(s)",
+    "zh": "铀系元素*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uranium oxide-chalcogenide",
+    "zh": "氧硫(或硒; 碲)化铀 UOY (Y=S; Se; Te)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uranium Z",
+    "zh": "铀Z ²³⁴Pa",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vanadyl bromide(s)",
+    "zh": "溴化氧钒(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "van Deemter's equation",
+    "zh": "范第德姆特方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Vanier's tube",
+    "zh": "范尼尔钾碱球管",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Van't Hoff's equilibrium box",
+    "zh": "范特霍夫平衡箱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Van't Hoff's factor",
+    "zh": "范特霍夫因数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Van't Hoff's law",
+    "zh": "范特霍夫定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vapo(u)r blasting",
+    "zh": "蒸气(汽)喷射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vapo(u)r generator",
+    "zh": "蒸气(汽)发生器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "veratramin(e)",
+    "zh": "藜芦胺",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Verdet's equation",
+    "zh": "弗德特方程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vesuvine R",
+    "zh": "维苏文 R（染）：碱性棕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "viburnitol",
+    "zh": "荚蒾醇；L-栎醇；环己五醇",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Vielle's manometric bomb",
+    "zh": "维里测压弹",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vinyl sulfide",
+    "zh": "二乙烯基硫 ()S",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vinyl thioether",
+    "zh": "二乙烯基硫醚 ()S </div> $$",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamin D",
+    "zh": "维生素D",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamin D palmitate",
+    "zh": "维生素D棕榈酸酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamin D sulfate",
+    "zh": "维生素D硫酸酯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamin(e)",
+    "zh": "维生素",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vitamin L",
+    "zh": "维生素 L",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Volhard's volumetric method",
+    "zh": "福尔哈德容量测卤法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "von Muller's indicator(=tropeolin OOO)",
+    "zh": "金莲橙 OOO; 酸性橙",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Vortmann-Metzl's method",
+    "zh": "沃尔曼特-梅茨尔法（测锑）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "V-R relaxation",
+    "zh": "振动-转动弛豫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wade's balsam",
+    "zh": "复方安息香酊",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wagner's reagent",
+    "zh": "瓦格纳试剂；碘-碘化钾溶液",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Warner's kneader",
+    "zh": "瓦纳式捏合机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "watch maker's oil(=watch oil)",
+    "zh": "钟表油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "watch oil(=watch maker's oil)",
+    "zh": "钟表油",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Weber's law",
+    "zh": "韦伯定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Weimarn's formula",
+    "zh": "韦曼公式",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "welder's health",
+    "zh": "焊工保健",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Weller's method",
+    "zh": "韦勒法（钛比色分析）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Welter's rule",
+    "zh": "韦尔特燃烧热法则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wenzel's law",
+    "zh": "文泽尔中和定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Werner's theory",
+    "zh": "维尔纳理论",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Westphal's specific gravity balance",
+    "zh": "韦斯特法尔比重天平",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "White's spherical cathode lamp",
+    "zh": "怀特球形空心阴极灯",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Whitfield's ointment",
+    "zh": "苯甲酸、水杨酸、聚乙二醇膏",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wiedemann's additivity law",
+    "zh": "魏德曼加和定律",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wiese's reduced pressure desiccator",
+    "zh": "威斯减压干燥器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "William's gas apparatus",
+    "zh": "威廉气体分析器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Williamson's violet",
+    "zh": "威廉逊氏紫；铁氰化亚铁钾 KFe[Fe(CN) ]·2H O",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Winkler's method",
+    "zh": "温克勒(溶解氧)测定法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Winkler's oxygen sampling bottle",
+    "zh": "温克勒采氧瓶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Woehler's synthesis",
+    "zh": "沃勒合成法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wohl's reaction",
+    "zh": "伍耳水解乙酰基反应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wolffram's salt",
+    "zh": "二水合三氯化铂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wolpert's air tester",
+    "zh": "沃尔珀特空气试验器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wood's alloy",
+    "zh": "伍德合金",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wood's glass",
+    "zh": "伍德玻璃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wood's metal",
+    "zh": "伍德合金；铋铅锡镉合金",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Woodward-Hoffmann's rule",
+    "zh": "伍德沃德-霍夫曼定则",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Woulff's scrubbing bottle",
+    "zh": "沃尔夫洗气瓶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wullner's law",
+    "zh": "伍尔纳水汽压定律",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wurster's blue",
+    "zh": "沃斯特氏蓝",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wurster's red",
+    "zh": "沃斯特氏红",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Wyler's process(=urea method)",
+    "zh": "威勒法；尿素法（铜酞制法之一）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "xanthine(e) bases",
+    "zh": "黄嘌呤碱类",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "xylidene(s)",
+    "zh": "二甲苯胺",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "yellow vat pigment (s)",
+    "zh": "黄瓮颜料(类)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Young's equation",
+    "zh": "杨氏方程式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Young's modulus",
+    "zh": "杨氏模量；杨氏模数",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Young's modulus in flexure",
+    "zh": "杨氏挠曲模量；杨氏揉曲模量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-average chain length Z",
+    "zh": "均链长",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-average molecular weight Z",
+    "zh": "均分子量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-blade mixer",
+    "zh": "曲拐式搅拌机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Zellner's paper",
+    "zh": "赛尔纳试纸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Zettlemoyer's shortness (",
+    "zh": "油墨丝头)短度；蔡氏短度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-form pool Z",
+    "zh": "形池",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Ziehl's stain",
+    "zh": "齐耳染色剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Zimmer's discontinuous disc-ring system",
+    "zh": "齐默式间歇盘环缩聚装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "zinc alkyl(s)",
+    "zh": "烷基锌",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z isomer Z",
+    "zh": "异构体*",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-molar mass Z",
+    "zh": "均分子量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Zsigmondy's ultrafilter",
+    "zh": "基格蒙奇超过滤器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z twist Z",
+    "zh": "捻：反手捻",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-type catalyst",
+    "zh": "齐格勒催化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Z-type 4-roll calender Z",
+    "zh": "形四滚压延机",
+    "role": "primary",
+    "confidence": 1.5
+  }
+]

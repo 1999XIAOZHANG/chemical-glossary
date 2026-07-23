@@ -1,0 +1,3644 @@
+[
+  {
+    "en": "abrasion method of tow conversion",
+    "zh": "丝束磨断成条法；丝束磨断成纱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acadi zeolite",
+    "zh": "红斜方沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acetoeugenol(=acetyl eugenol)",
+    "zh": "乙酰丁子香酚 2-acetofuran 2-乙酰呋喃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "active site",
+    "zh": "活性部位；活性点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "active site of support",
+    "zh": "载体的活性部位(点)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkylacyl propyl betaine",
+    "zh": "烷基酰基丙基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl amido betaine",
+    "zh": "烷基酰胺甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl betaine",
+    "zh": "烷基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyne conversion",
+    "zh": "炔转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloxan diabetes",
+    "zh": "阿脲糖尿病；四氧嘧啶糖尿病",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alpha-beta double bond α,β-",
+    "zh": "双键",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alpha-beta unsaturation α,β-",
+    "zh": "不饱和",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alpha-nitroso-beta-naphthol α-",
+    "zh": "亚硝基-β-萘酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alpha-nitroso-bete (",
+    "zh": "苯)α-亚硝基-β(苯)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amalgamation yield",
+    "zh": "汞齐化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amentoflavone",
+    "zh": "穗花杉双黄酮；3',8\"-双-4',5,7-三羟基黄酮；阿曼托黄素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amido alkyl betaine",
+    "zh": "酰氨烷基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "N - beta (text {",
+    "zh": "氨乙基}) - gamma text {氨丙基甲基二甲氧基硅烷} $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amino hydroxy propionic acid",
+    "zh": "羟基丙氨酸；氨基羟基丙 $alphabetaalphabeta$ -酮己二酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "analogue to digital conversion",
+    "zh": "模拟-数字转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticoking additive",
+    "zh": "防焦添加剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anticoking treatment",
+    "zh": "防焦处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antidiabetic",
+    "zh": "抗糖尿药;抗糖尿的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anti-sintering number",
+    "zh": "抗烧结值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent conversion",
+    "zh": "表观转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparent ionization yield",
+    "zh": "表观电离率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "argon- $beta$ -ray detector",
+    "zh": "氩 射线检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arsenic black(=beta-arsenic)",
+    "zh": "砷黑; β-砷 (砷的同素异形体; 黑色无定形固体)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asbetumen",
+    "zh": "石棉沥青",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Auger yield",
+    "zh": "俄歇(电子)产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autoferritage cylinder(=self-shrinking cylinder)",
+    "zh": "自增强 (高压)圆筒；自紧(高压)圆筒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofining",
+    "zh": "自动精制",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofining process",
+    "zh": "自动精炼过程（一种催化加氢精炼石油产品过程）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofluorogram",
+    "zh": "自动荧光图",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofluorograph",
+    "zh": "自动荧光仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofluoroscope",
+    "zh": "自动荧光镜",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofocus",
+    "zh": "自(动)聚焦",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autofrettage",
+    "zh": "自紧法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "automatic selectivity control",
+    "zh": "自动选择性控制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic surface area analyzer",
+    "zh": "自动表面(面)积分析仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "back-scatter beta gage",
+    "zh": "反射型(β射线)测厚计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Barbet's process",
+    "zh": "巴别特(甘油蒸馏)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzestrol(=octofollin)",
+    "zh": "辛叶素; 异辛雌酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzo-benzidine conversion",
+    "zh": "联苯胺重排作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beta β（",
+    "zh": "希腊字母）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta activity β",
+    "zh": "放射性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-arsenic(=arsenic black)",
+    "zh": "砷黑；β-砷（砷的同素异形体；黑色无定形固体）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta backscattering β",
+    "zh": "射线照射法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betacaine(=betaeucaine) β-",
+    "zh": "优卡因",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta carbon β-",
+    "zh": "碳原子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta cellulose β",
+    "zh": "纤维素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-decay β",
+    "zh": "衰变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta emitter β(",
+    "zh": "射线)发射体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-emitting β",
+    "zh": "发射",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaeucaine(=betacaine) β-",
+    "zh": "优卡因",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta filter β",
+    "zh": "滤器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-form β",
+    "zh": "形",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta glass fibre β-",
+    "zh": "玻璃纤维；超细玻璃纤维",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betahistine",
+    "zh": "倍他司汀（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaine",
+    "zh": "甜菜碱*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaine amphoteric surfactant",
+    "zh": "内铵盐两性表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaine hydrazide chloride",
+    "zh": "氯化甜菜碱酰肼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaine hydrochloride",
+    "zh": "盐酸甜菜碱 C₅H₁₁O₂NHCl",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betaine type amphoteric surface active agent",
+    "zh": "内铵盐型两性表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-isorubber",
+    "zh": "乙种异构化橡胶（天然胶的低聚合度部分）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betalamic acid",
+    "zh": "甜菜醛氨酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betamethasone",
+    "zh": "倍他米松（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-naphthol β-",
+    "zh": "萘酚；2-萘酚 C₁₀H₇OH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betanidin",
+    "zh": "甜菜(苷)配基",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betanin",
+    "zh": "甜菜苷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-nitrostyrene β-",
+    "zh": "硝基苯乙烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-particle β",
+    "zh": "粒(子)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-pinene β-",
+    "zh": "蒎烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-plane β",
+    "zh": "平面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta portion β",
+    "zh": "部分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-position β",
+    "zh": "位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-ray β",
+    "zh": "射线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-ray back scattering β",
+    "zh": "射线反向散射法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-ray gauge β",
+    "zh": "射线测厚仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-rays β",
+    "zh": "射线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-ray spectrograph β",
+    "zh": "射线摄谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-ray spectrum β",
+    "zh": "射线谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "BET area BET",
+    "zh": "法测定的表面积（催化剂或吸附剂的）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-relaxation temperature β",
+    "zh": "松弛温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-rubber β",
+    "zh": "橡胶；凝橡胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-scission β",
+    "zh": "断裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-slit β",
+    "zh": "狭缝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta source β(",
+    "zh": "射线)源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta spectrometer β",
+    "zh": "谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta spectrum β(",
+    "zh": "能)谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta stability peninsula β",
+    "zh": "稳定半岛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-stability ridge β",
+    "zh": "稳定脊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta stable element β",
+    "zh": "稳定元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-structure β",
+    "zh": "结构",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-teletherapy source β",
+    "zh": "远距治疗源；β深部治疗源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betatopic",
+    "zh": "失电子的;差电子的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betatopic change",
+    "zh": "电子放射变化；失电子蜕变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-transition β",
+    "zh": "转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betatron",
+    "zh": "电子感应加速器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta uranium β",
+    "zh": "铀（铀的一种同素异形体）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beta-vibration β",
+    "zh": "振动",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betavoltaic conversion β",
+    "zh": "辐射电转换",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "betaxin",
+    "zh": "维生素 B₁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betel leaves oil",
+    "zh": "萎叶油（取自 Piper betel）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betel-nut(=buyo)",
+    "zh": "槟榔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betel oil",
+    "zh": "萎叶油：槟榔油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bethanechol(=urecholine chloride)",
+    "zh": "乌拉胆碱；氨甲酰甲胆碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "BET isotherm(=Brunauer-Emmett-Teller isotherm) BET (",
+    "zh": "吸附)等温式",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betitol",
+    "zh": "北蒂糖醇（1901年取自甜菜糖醇的一种丁糖醇）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betol(=salinaphthol)",
+    "zh": "水杨萘酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beton",
+    "zh": "混凝土",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betonicine",
+    "zh": "左旋水苏碱；左旋羟脯氨酸二甲内盐 beton paint 混凝土用涂料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "BET surface area BET",
+    "zh": "比表面积",
+    "role": "secondary",
+    "confidence": 4.0
+  },
+  {
+    "en": "Bettendorf test",
+    "zh": "贝滕多尔夫试验（一种砷与铋、锑化合物共存试验）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bettering method",
+    "zh": "一槽法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "better oil",
+    "zh": "优质油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Betti reaction",
+    "zh": "贝蒂反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betula oil",
+    "zh": "桦木油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulene",
+    "zh": "桦木烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulenene",
+    "zh": "脱氢桦木烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulenol(=betulol)",
+    "zh": "桦木醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulin(=betulinol)",
+    "zh": "桦木醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulinic acid",
+    "zh": "桦木酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulinol(=betulin)",
+    "zh": "桦木醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betulol(=betulenol)",
+    "zh": "桦木醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "between-procedure errors",
+    "zh": "操作间误差",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betyllium chlorate",
+    "zh": "氯酸铍 Beutell pump 波特耳泵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Bingham yield value",
+    "zh": "宾厄姆屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bioconversion",
+    "zh": "生物转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bis(beta-hydroxyethyl)-gammaaminopropyl-triethoxy silane",
+    "zh": "双(β-羟乙基)-γ-氨丙基三乙氧基甲硅烷（偶联剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bis- $beta$ -hydroxyethyl terephthalate",
+    "zh": "对苯二甲酸双- -羟乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black oil conversion",
+    "zh": "黑油转化(重油转化)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "boratofluoric acid",
+    "zh": "氟硼酸 H[BF4]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Brookfield yield value",
+    "zh": "布鲁克菲尔德致流值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Brunauer-Emmett-Teller equation(=BET equation)",
+    "zh": "布鲁厄-埃米特-特勒方程；BET 方程式（BET 吸附等温线方程）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Brunauer-Emmett-Teller method",
+    "zh": "布鲁厄-埃米特-特勒法；BET 法（用吸附法测定微孔粒子比表面积的方法）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bulk yielding",
+    "zh": "尺寸易变;容积压缩",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "butyrobetaine",
+    "zh": "丁内铵盐；三甲铵基丁内盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "buyo(=betel-nut)",
+    "zh": "槟榔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "by-product coking",
+    "zh": "有副产物的炼焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon black external surface area",
+    "zh": "炭黑外表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carboxybetaine",
+    "zh": "羧基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalyst deactivation",
+    "zh": "催化剂失活；催化剂钝化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic active site",
+    "zh": "催化活性位*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic coking",
+    "zh": "催化焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic selectivity",
+    "zh": "催化选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyzed conversion",
+    "zh": "催化转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain yield",
+    "zh": "链产额*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chavibetol",
+    "zh": "萎叶酚；5-烯丙基-2-甲氧苯酚 chavicic acid 佳味酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemiluminescence quantum yield",
+    "zh": "化学发光量子产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cibetone (=civetone)",
+    "zh": "灵猫酮",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "civetone (=cibetone)",
+    "zh": "灵猫酮：环十七烯-9-酮 $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clay yield",
+    "zh": "黏土处理收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clearance between roll",
+    "zh": "辊间间隙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clean yield",
+    "zh": "净毛率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal-coking process",
+    "zh": "炼焦法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coke yield",
+    "zh": "焦炭产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking",
+    "zh": "结焦;焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking behavior",
+    "zh": "结焦性能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking capacity",
+    "zh": "焦化本领",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking chamber",
+    "zh": "焦化室：炼焦室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking coal",
+    "zh": "炼焦煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking heater",
+    "zh": "焦化加热器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking of heavy residual oil",
+    "zh": "重残油的焦化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking of residues",
+    "zh": "渣油的焦化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking of tube",
+    "zh": "管子结焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking period",
+    "zh": "焦化期；炼焦期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking plant",
+    "zh": "炼焦厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking plant wastes",
+    "zh": "炼焦厂废料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking power",
+    "zh": "成焦性;成焦率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking property",
+    "zh": "成焦性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking residue",
+    "zh": "焦化残油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking retort",
+    "zh": "炼焦罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cokings",
+    "zh": "蒸馏罐中残渣（煤焦化后）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking space",
+    "zh": "炼焦室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking still",
+    "zh": "焦化釜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking stoker",
+    "zh": "炼焦加煤机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking tar",
+    "zh": "高温焦油；炼焦焦油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking test",
+    "zh": "焦化试验（确定结焦性能）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking tower",
+    "zh": "焦炭塔；焦化塔；炼焦塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking value",
+    "zh": "焦化值",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking wharf",
+    "zh": "炼焦台",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coking yield",
+    "zh": "焦化产率",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "collisional deactivation",
+    "zh": "碰撞失活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloidal zeolite",
+    "zh": "胶体沸石",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color temperature conversion filter",
+    "zh": "色温转换滤光片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "completely silylanization deactivation",
+    "zh": "全硅烷化去活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressive yield point",
+    "zh": "压缩屈服点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressive yield strength",
+    "zh": "压缩屈服强度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compressive yield stress",
+    "zh": "压缩屈服应力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "constant-level conversion",
+    "zh": "恒定深度转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact coking",
+    "zh": "接触焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous coking",
+    "zh": "连续焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous coking process",
+    "zh": "连续焦化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous contact coking",
+    "zh": "连续接触焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion",
+    "zh": "转化;换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion chart",
+    "zh": "换算图表",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coating",
+    "zh": "转化层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coating technology",
+    "zh": "转化型涂料工艺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion coefficient",
+    "zh": "换算系数；转化系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion constant (=conversion factor)",
+    "zh": "换算因数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion curve",
+    "zh": "转化曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion dynode",
+    "zh": "转换打拿极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion efficiency",
+    "zh": "转换效率；变换效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion electron",
+    "zh": "转换电子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion energy",
+    "zh": "转化能",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion factor (=calculation factor)",
+    "zh": "换算因子*；换算因数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion film",
+    "zh": "转化膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion level",
+    "zh": "转化深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion method",
+    "zh": "转化法（由一种烃转化为另一种烃的方法）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of flowmeter",
+    "zh": "消耗量读数的换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of hydrocarbons",
+    "zh": "烃类转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of monomer",
+    "zh": "单体转化(率)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion of viscosity units",
+    "zh": "黏度单位换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion per pass",
+    "zh": "单程转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion pig",
+    "zh": "炼钢生铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion process",
+    "zh": "转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion rate",
+    "zh": "转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion rate curve",
+    "zh": "转化率曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion scale",
+    "zh": "转换标尺；换算比例尺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion system",
+    "zh": "转化装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion table",
+    "zh": "换算表",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion temperature",
+    "zh": "转化温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion test",
+    "zh": "转化试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion unit",
+    "zh": "反应设备",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conversion zone",
+    "zh": "反应层；反应区域",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper zeolite Y",
+    "zh": "铜Y型沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Coulomb's yield criterion",
+    "zh": "库仑屈服判据",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "count conversion factor",
+    "zh": "支数换算系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "creep yield time",
+    "zh": "蠕变屈服时间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crossed molecular-ion beam tandem TOFMS",
+    "zh": "交叉分子-离子束串级飞行时间质谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cross linking yield",
+    "zh": "交联收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crotonbetaine",
+    "zh": "巴豆甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crushing yield load (",
+    "zh": "容器)压瘪屈服载荷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cryptoflavin",
+    "zh": "隐黄素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "current yield",
+    "zh": "日产量；现时产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Curtius conversion",
+    "zh": "克尔提斯转变（酰肼成酰叠氮的转变）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivated zeolite",
+    "zh": "去活化沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deactivation",
+    "zh": "失活作用*；钝化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation capacity",
+    "zh": "去活化能力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation column",
+    "zh": "减活柱；去活化柱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation effect",
+    "zh": "减活化效应；去活化效果",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation of support",
+    "zh": "载体的钝化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation period",
+    "zh": "惰化期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivation rate",
+    "zh": "去活率；钝化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decoking",
+    "zh": "除焦：清焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deformation at yield",
+    "zh": "屈服点形变",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of conversion",
+    "zh": "转化度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed coking",
+    "zh": "延迟焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed coking process",
+    "zh": "延迟焦化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "denitrated zeolite",
+    "zh": "脱硝沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depth of conversion",
+    "zh": "转化深度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "digital-analog conversion",
+    "zh": "数-模转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic deactivation",
+    "zh": "动态去活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elongation at yield",
+    "zh": "屈服伸长（达屈服点的伸长）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elongation at yield point",
+    "zh": "屈服点伸长;屈服点伸长率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enantioselectivity",
+    "zh": "对映选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endothermic conversion",
+    "zh": "吸热转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end point yield curve",
+    "zh": "终馏点收率曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy conversion device",
+    "zh": "换能器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy conversion polymer",
+    "zh": "能量转换高分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzymatic conversion",
+    "zh": "酶糖化;酶转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium conversion",
+    "zh": "平衡转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ergothioneine(=thiohistidine-betaine)",
+    "zh": "硫组氨酸甲基内盐；麦硫因",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "etabetacin",
+    "zh": "庚二菌素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated alkyl betaine",
+    "zh": "乙氧基化烷基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "external conversion of energy",
+    "zh": "能量外转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feed stock conversion",
+    "zh": "原料转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "femtosecond fluorescence up-conversion",
+    "zh": "飞秒荧光直接转化技术 -fen（词尾） 含硫的烃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film conversion",
+    "zh": "薄膜再加工",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "final yield",
+    "zh": "最后产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fission yield",
+    "zh": "裂变产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fission yield monitor",
+    "zh": "裂变产额监测体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash point yield curve",
+    "zh": "闪点产率曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash yield curve",
+    "zh": "闪蒸曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexible active site mechanism",
+    "zh": "易变活性中心机理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flexicoking",
+    "zh": "灵活焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexural offset yield strength",
+    "zh": "弯曲偏置屈服强度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexural yield strength",
+    "zh": "挠曲屈服强度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid coking",
+    "zh": "流化焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid coking-gasification",
+    "zh": "流化焦化气化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid coking process",
+    "zh": "流化床焦化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid coking-steam gasification",
+    "zh": "流化焦化-蒸气气化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescence quantum yield",
+    "zh": "荧光量子产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescence yield",
+    "zh": "荧光产额*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent yield",
+    "zh": "荧光产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "force-at-yield",
+    "zh": "屈服力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "four-pi beta counter $4pi beta$",
+    "zh": "计数器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fractional conversion",
+    "zh": "部分转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional cumulative yield",
+    "zh": "分级累积产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional independent yield",
+    "zh": "分级独立产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free sintering",
+    "zh": "自由熔结（即无模烧结）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel oil yield",
+    "zh": "燃料油产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gadolinium bromate",
+    "zh": "溴酸钆 gadolinium bromide 溴化钆 gadolinium carbonate 碳酸钆 gadolinium chloride 氯化钆 gadolinium fluoride 氟化钆 gadolinium hydroxide 氢氧化钆 gadolinium nitrate 硝酸钆 gadolinium oxalate 草酸钆 gadolinium oxide 氧化钆 gadolinium oxychloride 氯氧化钆 gadolinium sesquioxide 氧化钆；三氧化二钆 gadolinium sulfide 硫化钆 gadolinium zeolite 钆沸石",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gain in yield (",
+    "zh": "产品)产率增加",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "galactoflavin",
+    "zh": "半乳糖黄素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "galactofuranose",
+    "zh": "呋喃半乳糖",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas conversion process",
+    "zh": "气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline yield",
+    "zh": "汽油产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas yield",
+    "zh": "煤气产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-yielding polymer",
+    "zh": "析出气体聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "general yield fracture mechanics",
+    "zh": "全面屈服断裂力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "geometrical conversion",
+    "zh": "几何转变",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graft(ing) yield",
+    "zh": "接枝率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graft polymerization yield",
+    "zh": "接枝聚合率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Guerbet reaction",
+    "zh": "格尔伯特反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "halogen-metal interconversion",
+    "zh": "卤素-金属互换作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hardening yield value",
+    "zh": "硬化屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat conversion factor",
+    "zh": "热换算因子；热当量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of conversion",
+    "zh": "转化热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterobetulin",
+    "zh": "杂桦木脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heterogeneous catalysis",
+    "zh": "多相催化*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heterogeneous catalysis action",
+    "zh": "多相催化作用",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heterogeneous catalyst",
+    "zh": "多相催化剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hetoform",
+    "zh": "肉桂酸铋（别名）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high silica zeolites",
+    "zh": "高硅沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high surface area heat dissipation",
+    "zh": "高表面热散逸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-temperature conversion coating",
+    "zh": "高温转化涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature propane tank",
+    "zh": "高温丙烷储罐 high temperature pyrolysis deactivation with polysiloxane聚硅氧烷高温裂解去活",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature silanizing deactivation",
+    "zh": "高温硅烷化去活",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high yield",
+    "zh": "高产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydraulic decoking",
+    "zh": "水力法出焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon coking",
+    "zh": "烃焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon conversion",
+    "zh": "烃类转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon conversion process",
+    "zh": "烃类转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon decoking",
+    "zh": "烃脱焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrocarbon steam conversion",
+    "zh": "烃蒸气转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydro-conversion",
+    "zh": "加氢转化(作用)；加氢转换(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxybetaine",
+    "zh": "羟基内铵盐（抗静电剂） 2-hydroxy-1,3-bis (4-phenylaminophenyloxy) propane 2-羟基-1,3-双(4-苯氨基苯氧基)丙烷（防老剂） 3-hydroxy-2-butanone 3-羟基-2-丁酮",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydroxysulfobetaine",
+    "zh": "羟磺基内铵盐（抗静电剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "imidazolinium betaine",
+    "zh": "咪唑啉镝甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "in-between-type reinforcing material",
+    "zh": "中间型补强材料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incipient sintering",
+    "zh": "初期熔结作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "increased yield value",
+    "zh": "增加的屈服值；屈服值增量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "independent yield",
+    "zh": "独立产额*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initial yield value",
+    "zh": "起始屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interaction between light and substance",
+    "zh": "光与物质相互作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "interaction force between molecules",
+    "zh": "分子间相互作用力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "interconversion",
+    "zh": "互变",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial surface area",
+    "zh": "界面表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intermolecular selectivity",
+    "zh": "分子间选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion",
+    "zh": "内转换*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion coefficient",
+    "zh": "内转换系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal conversion electron",
+    "zh": "内转换电子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal surface area",
+    "zh": "内表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intramolecular selectivity",
+    "zh": "分子内选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionization yield",
+    "zh": "电离率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion pair yield",
+    "zh": "离子对产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion yield",
+    "zh": "离子产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobetanidin",
+    "zh": "异甜菜素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isochavibetol",
+    "zh": "异萎叶酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isomeric yield ratio",
+    "zh": "同质异能素产额比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Knoweles delayed coking process",
+    "zh": "奴尔斯(外热)延迟焦化过程",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Kourbatoff's reagents",
+    "zh": "考尔巴托夫蚀刻液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "labetalol",
+    "zh": "拉贝洛尔（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lactoflavine",
+    "zh": "乳黄素；核黄素；维生素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lanthanide-exchanged zeolite",
+    "zh": "镧系元素置换的沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid yield",
+    "zh": "液体产品产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lotoflavin",
+    "zh": "百脉根黄素；牛角花黄素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lower yield value",
+    "zh": "低屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "luminescence quantum yield",
+    "zh": "发光量子产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Macbeth color meter",
+    "zh": "麦克贝斯色彩仪（比色计）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Macbeth densitometer",
+    "zh": "麦克贝斯密度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Macbeth illuminometer",
+    "zh": "麦克贝斯照度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mass-yield distribution",
+    "zh": "质量-产额分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maximum selectivity",
+    "zh": "最大选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal oxide electrode",
+    "zh": "金属氧化物电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metal oxide induced polymerization",
+    "zh": "金属氧化物诱导聚合作用",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metal oxides",
+    "zh": "金属氧化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "method of conversion factor",
+    "zh": "换算因数法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microlite zeolite",
+    "zh": "微晶(泡)沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microyield",
+    "zh": "微屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modified zeolite",
+    "zh": "改性沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular sieve zeolite",
+    "zh": "分子筛沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular yield",
+    "zh": "分子产量；分子收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monomer conversion",
+    "zh": "单体转化(率)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moulded solid catalyst",
+    "zh": "模制固体催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "moving-bed contact coking apparatus",
+    "zh": "移动床接触焦化装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "musk tibetene",
+    "zh": "西藏麝香",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "needle zeolite",
+    "zh": "钠沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "net yield",
+    "zh": "实际得率；净得率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-coking thermal cracking",
+    "zh": "非结焦热裂化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-coking coal",
+    "zh": "不结焦煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonzeolite",
+    "zh": "非沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "octofollin(=benzestrol)",
+    "zh": "辛叶素; 异辛雌酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "offset yield strength",
+    "zh": "补偿屈服强度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil conversion process",
+    "zh": "石油转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "once-through conversion(=one-pass operation)",
+    "zh": "非循环过程; 单程转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-pass operation(=once-through conversion)",
+    "zh": "非循环过程；单程转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-stage conversion of gases",
+    "zh": "气体的一段转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-step conversion",
+    "zh": "一步转化(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic zeolite",
+    "zh": "有机沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "overall yield",
+    "zh": "总收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxoallobetulin",
+    "zh": "氧代别桦木脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "panel coking test",
+    "zh": "成漆板焦化试验（评价油的炭化情况）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "panipenem and betamipron",
+    "zh": "帕尼培南倍他米隆（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "para-ortho-hydrogen conversion",
+    "zh": "对-邻位氢转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peak rate of conversion",
+    "zh": "最高转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percentage conversion",
+    "zh": "转化百分数; 转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percent conversion",
+    "zh": "转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percolation yield",
+    "zh": "渗滤产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permeaselectivity",
+    "zh": "选择渗透性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "permselectivity",
+    "zh": "选择渗透性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "per pass conversion",
+    "zh": "单程转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perstoff",
+    "zh": "双光气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photoconversion",
+    "zh": "光转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photofission product",
+    "zh": "光(致)裂变产物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photoflavins 9-",
+    "zh": "烷基咯嗪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photofluorimeter",
+    "zh": "荧光计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photofluorometer",
+    "zh": "荧光计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photofragmentation",
+    "zh": "光碎片化*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physical deactivation",
+    "zh": "物理钝化法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinacol conversion(=pinacolic rearrangement)",
+    "zh": "邻二叔醇重排作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pinacolic rearrangement(=pinacol conversion)",
+    "zh": "邻二叔醇重排作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piper betel oil",
+    "zh": "萎叶油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pitch coking",
+    "zh": "沥青焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield(=yield value)",
+    "zh": "塑变值；塑流点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yielding",
+    "zh": "塑性屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield-point",
+    "zh": "塑(料)流点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield test",
+    "zh": "塑流试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic yield value",
+    "zh": "塑流值；塑性屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyfructofuranoside",
+    "zh": "聚呋喃果糖苷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymeric sulfobetaine",
+    "zh": "聚合型磺基三甲铵乙内酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymerisation conversion",
+    "zh": "聚合转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer yield",
+    "zh": "高聚物屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pore volume",
+    "zh": "孔体积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post yield",
+    "zh": "后屈服；继续屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precoking",
+    "zh": "预焦化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preferential selectivity(=preterential solubility)",
+    "zh": "有择溶解度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preferential solubility(=preferential selectivity)",
+    "zh": "有择溶解度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "premature sintering",
+    "zh": "早期烧结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure conversion factor",
+    "zh": "压力转换因子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure conversion table",
+    "zh": "压力转换表",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure loss conversion chart",
+    "zh": "压力损失换算表",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure sintering",
+    "zh": "加压烧结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "product yield",
+    "zh": "成品收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "progressive plastic yield",
+    "zh": "渐进塑性屈服",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudo-selectivity",
+    "zh": "准选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrobetulin",
+    "zh": "焦桦木脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrolytic conversion",
+    "zh": "高温转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantum yield",
+    "zh": "量子产率*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rabbet",
+    "zh": "槽口",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rabbeted end",
+    "zh": "槽口",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rabbet joint",
+    "zh": "槽口接合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiational deactivation",
+    "zh": "辐射减活化；辐射去活化；辐射失活",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiovoltaic conversion",
+    "zh": "辐射电转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ratio of surface to volume(=specific surface area)",
+    "zh": "表面与体积之比；比表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reaction yield",
+    "zh": "反应产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive site",
+    "zh": "反应活性部位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recovery yield of monomer",
+    "zh": "单体回收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refining yield",
+    "zh": "精炼得率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative selectivity",
+    "zh": "相对选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rerun yield",
+    "zh": "再蒸馏产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residuum coking",
+    "zh": "残油焦化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residuum hydroconversion",
+    "zh": "渣油加氢转化(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheological yield condition",
+    "zh": "流变屈服条件",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheological yield stress",
+    "zh": "流变屈服应力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring conversion",
+    "zh": "环转化作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "RIS-TOF mass spectrometer",
+    "zh": "激光共振电离飞行时间质谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotoflex (",
+    "zh": "帘子线的)耐疲劳试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotoforming",
+    "zh": "旋转成型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber yielding plant",
+    "zh": "产胶植物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust conversion primer",
+    "zh": "转化型带锈底漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "safe yield",
+    "zh": "安全产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salinaphthol (=betol)",
+    "zh": "水杨萘酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scaling between coated film",
+    "zh": "漆膜层间剥落",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selective catalytic conversion",
+    "zh": "选择催化转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity",
+    "zh": "选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity coefficient",
+    "zh": "选择系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity constant",
+    "zh": "选择性常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity control",
+    "zh": "选择性调节；取代调节",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity curve",
+    "zh": "选择性曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity factor",
+    "zh": "选择性因子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity index",
+    "zh": "选择性指数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectivity ratio",
+    "zh": "选择性比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selectoforming",
+    "zh": "选择重整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semi-coking",
+    "zh": "半焦化(作用)；低温炼焦",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "setoflavine",
+    "zh": "毛黄素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "short wavelength cutoff",
+    "zh": "短波限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silica-rich zeolite",
+    "zh": "高硅沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver-impregnated zeolite (",
+    "zh": "浸)银沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver zeolite",
+    "zh": "银沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single-pass conversion",
+    "zh": "单程转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single pass yield",
+    "zh": "单程产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering",
+    "zh": "烧结*；熔结；热压结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering coal",
+    "zh": "烧结煤；炼焦煤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering furnace",
+    "zh": "烧结炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering machine",
+    "zh": "矿石烧结机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering metal",
+    "zh": "烧结金属；金属陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering method",
+    "zh": "烧结法；熔结法；软化成形法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering oven",
+    "zh": "烧结炉;(粉末涂料)高温固化炉；高温烘炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering point",
+    "zh": "烧结点；烧结温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering powder",
+    "zh": "烧结粉料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering process",
+    "zh": "烧结法；烧结过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sintering temperature",
+    "zh": "烧结温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sludge coking plant",
+    "zh": "淤渣焦化厂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft beta emitter",
+    "zh": "软β发射体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space-time yield",
+    "zh": "时空产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific pore volume",
+    "zh": "比孔容",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific surface area",
+    "zh": "比表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific surface area analyzer",
+    "zh": "比表面积分析仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specific yield",
+    "zh": "个别产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectral selectivity",
+    "zh": "光谱选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spectrophotofluorometer",
+    "zh": "荧光分光光度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spun silk yielding",
+    "zh": "出棉率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sputtering yield",
+    "zh": "溅射产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "state selectivity",
+    "zh": "状态选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steam-air decoking method",
+    "zh": "蒸汽-空气除焦法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stearyl betaine",
+    "zh": "硬脂基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stereoselectivity",
+    "zh": "立体选择性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stickstofflost(=stickstoff lost)",
+    "zh": "氮芥毒气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stress yield",
+    "zh": "屈服应力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfobetaine",
+    "zh": "磺基三甲铵乙内酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfoniobetaine",
+    "zh": "磺基甜菜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulphobetaine",
+    "zh": "磺基甜菜碱；磺基三甲铵乙内酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supersiliceous zeolite",
+    "zh": "高硅沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supported catalyst",
+    "zh": "载体上的催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "surface area",
+    "zh": "表面积",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surface area analyzer",
+    "zh": "比表面(积)分析仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surface area apparatus",
+    "zh": "表面积仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synthetic zeolite",
+    "zh": "合成沸石",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tar-yielding",
+    "zh": "形成焦油的；产焦油的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tensile yield",
+    "zh": "扯断伸长率;张力屈服值；张力屈服点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretically total conversion",
+    "zh": "理论完全转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical yield",
+    "zh": "理论(上)产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal conversion of gases",
+    "zh": "气体的热转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal conversion process",
+    "zh": "热转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermo-electric conversion",
+    "zh": "热电转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermometer conversion",
+    "zh": "温度计换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thick target yield",
+    "zh": "厚靶产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin-target yield",
+    "zh": "薄靶产额",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiohistidine-betaine(=ergothioneine)",
+    "zh": "硫组氨酸甲基内盐；麦硫因",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "time of flight (TOF)",
+    "zh": "飞行时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "time-of-flight mass spectrometer (TOFMS)",
+    "zh": "飞行时间质谱仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tinctorial yield",
+    "zh": "着色率；给色量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Tofranil 10,11-",
+    "zh": "二氢-N,N-二甲基-5H-二苯并[b,f]氮草-5-丙胺；盐酸丙咪嗪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "torsional yield strength",
+    "zh": "抗扭强度极限",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total conversion",
+    "zh": "总转化率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transport selectivity",
+    "zh": "迁移选择性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Tresca yield criterion",
+    "zh": "屈雷斯卡屈服判据",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trioxalatoferriate",
+    "zh": "三草酸根合铁酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultimate yield",
+    "zh": "最终收率（加工后产物收率）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "UNH conversion process",
+    "zh": "由六水合硝酸铀酰制备三氧化铀的转换过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary gas conversion process(=unitary polymerization process; unitary process)",
+    "zh": "单元气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary polymerization process (=unitary gas conversion process)",
+    "zh": "单元气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unitary process (=unitary gas conversion process)",
+    "zh": "单元气体转化过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsupported catalyst",
+    "zh": "无载体催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "upconversion",
+    "zh": "上变频；向上转换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ursanic acid",
+    "zh": "乌散酸 12-ursen-3-beta-2,8-diol 熊果醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uvaol(=12-ursen-3-beta-2,8-diol)",
+    "zh": "山楂醇；熊果醇；乌苏醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vacuum sintering",
+    "zh": "真空垂熔；减压熔结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum sintering technique",
+    "zh": "真空熔结技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vagusstoff",
+    "zh": "迷走神经释放物; 乙酰胆碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscosity conversion",
+    "zh": "黏度换算",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "voltage to frequency conversion system",
+    "zh": "电压频率转换系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "voltate-to-frequency conversion system",
+    "zh": "电压频率转换系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume-time yield (",
+    "zh": "设备的)容积时间产量；空时产量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume yield",
+    "zh": "体积得率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wave-number-wavelength conversion table",
+    "zh": "波长-波数转换表",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weakly coking coal",
+    "zh": "弱焦性煤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weight conversion",
+    "zh": "重量转化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whirl sintering",
+    "zh": "旋流烧结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield",
+    "zh": "收率*;产量;产生",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield capacity",
+    "zh": "生产率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield characteristic",
+    "zh": "收获率指标",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding",
+    "zh": "屈服*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding material",
+    "zh": "流动物质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yielding point",
+    "zh": "屈服点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield limit",
+    "zh": "屈服极限;流动性范围",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield limit curve (",
+    "zh": "蠕变试验)屈服极限曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield locus",
+    "zh": "屈服轨迹",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield modulus",
+    "zh": "屈服模量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield-octane relationship",
+    "zh": "收率-辛烷值关系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield on charge",
+    "zh": "对原料收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield percentage",
+    "zh": "收率；收率百分数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield per pass",
+    "zh": "每次收率；循环一次的收率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield-point",
+    "zh": "屈服点;流动点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point behaviour",
+    "zh": "屈服点特性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point test",
+    "zh": "屈服点试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield point value",
+    "zh": "塑变值；流动值；屈服值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield polymer film",
+    "zh": "成膜率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield ratio",
+    "zh": "屈强比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield stimulant",
+    "zh": "刺激素；激长素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield strain",
+    "zh": "屈服应变*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield strength",
+    "zh": "屈服强度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield stress",
+    "zh": "屈服应力*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield temperature",
+    "zh": "屈服温度；流动温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield value",
+    "zh": "增益值*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield value of stress",
+    "zh": "屈服应力值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yield zone",
+    "zh": "流动区；塑变区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Y zeolite Y",
+    "zh": "沸石；Y型分子筛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite",
+    "zh": "分子筛；泡沸石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite catalysis",
+    "zh": "沸石催化",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite catalyst",
+    "zh": "沸石催化剂；分子筛催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite cavity",
+    "zh": "沸石空穴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite conversion process",
+    "zh": "沸石转化法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "zeolite ester",
+    "zh": "沸石酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite framework",
+    "zh": "沸石骨架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite-metal catalyst",
+    "zh": "沸石-金属催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite molecular sieve",
+    "zh": "沸石分子筛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite (molecular sieve) catalyst",
+    "zh": "沸石(分子筛)催化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite synthesis",
+    "zh": "沸石合成(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite water",
+    "zh": "沸石水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zeolite water softener",
+    "zh": "沸石水软化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zibet",
+    "zh": "香猫香；麝猫香",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zibetone(=civetone)",
+    "zh": "灵猫酮",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zone of semi-coking",
+    "zh": "半焦化层",
+    "role": "primary",
+    "confidence": 3.0
+  }
+]

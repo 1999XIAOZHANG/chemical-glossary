@@ -1,0 +1,2372 @@
+[
+  {
+    "en": "actinium emanation(=actinon)",
+    "zh": "钢射气 actinium family 铜系",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "actinohematin",
+    "zh": "海葵血红毒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "actinon(=actinium emanation)",
+    "zh": "钢射气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "active racemate",
+    "zh": "活性外消旋盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acyl sarcosinate",
+    "zh": "酰基肌氨酸盐；酰基甲替甘氨酸酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "N-acylsarcosine N-",
+    "zh": "酰基肌氨酸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adiabatic demagnetization",
+    "zh": "绝热退磁(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aerotherapeutics",
+    "zh": "空气疗法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alanine racemase",
+    "zh": "丙氨酸消旋酶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkaloidal drug",
+    "zh": "生物碱药物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alternative mathematical method",
+    "zh": "择一算法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum-hematoxylin test",
+    "zh": "铝-苏木精试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "angioedema",
+    "zh": "血管神经性水肿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anhydrous hematite",
+    "zh": "无水赤铁矿；天然氧化铁红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anomalous Zeeman effect",
+    "zh": "反常塞曼效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anthemane",
+    "zh": "春黄菊烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "antialcoholic drug",
+    "zh": "解酒药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiphlogistic drug",
+    "zh": "消炎药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "artemazulene",
+    "zh": "蒿薁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarabacca",
+    "zh": "欧细辛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asaresinotannol",
+    "zh": "阿魏树脂鞣醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarin",
+    "zh": "细辛脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarinin",
+    "zh": "细辛素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarite",
+    "zh": "粗细辛脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarol",
+    "zh": "细辛醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarone (=propenyl-2,4,5-trimethoxy benzene)",
+    "zh": "细辛脑； 2,4,5-三甲氧苯基丙烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asaronic acid(=asarylic acid)",
+    "zh": "细辛酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarum oil",
+    "zh": "细辛油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asaryl(=2,4,5-trimethoxyphenyl)",
+    "zh": "细辛基；2,4,5-三甲氧苯基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarylaldehyde",
+    "zh": "细辛醛；2,4,5-三甲氧基苯甲醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asarylic acid(=asaronic acid)",
+    "zh": "细辛酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Biemann's shift rule",
+    "zh": "比曼匀移规则",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Biemann-Watson separator(=fritted glass separator)",
+    "zh": "比曼-瓦特森分离器；多孔玻璃分离器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Biller-Biemann algorithm",
+    "zh": "比勒-比曼算法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bioavailability",
+    "zh": "生物可利用性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biochemical oxygen demand(BOD)",
+    "zh": "生化需氧量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biochemical oxygen demand sensor",
+    "zh": "生化需氧传感器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biological oxygen demand(BOD)",
+    "zh": "生化需氧量；生化耗氧量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bisymmetric Zeeman modulator",
+    "zh": "双对称型塞曼调制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black hematite",
+    "zh": "黑色赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brown hematite",
+    "zh": "褐赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calciospessartine",
+    "zh": "钙锰铝榴石",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium racemate",
+    "zh": "外消旋酒石酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "candesartan",
+    "zh": "坎地沙坦（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cardiac pacemaker",
+    "zh": "心脏起搏器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical oxygen demand(COD)",
+    "zh": "化学需氧量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemotherapeutics",
+    "zh": "化学疗法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorine demand",
+    "zh": "需氯量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysanthemane",
+    "zh": "菊烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysanthemate",
+    "zh": "菊酸盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysanthemaxanthin",
+    "zh": "菊黄质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysarobin",
+    "zh": "柯桠素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysarobin triacetate (=eurobin)",
+    "zh": "三乙酸柯桠素酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrysarobol",
+    "zh": "柯桠醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cinematic",
+    "zh": "自动络筒的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clear line of demarcation",
+    "zh": "清晰的分界线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clematidin",
+    "zh": "马兜铃素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clematitol",
+    "zh": "铁线莲苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coefficient of kinematic viscosity",
+    "zh": "运动黏度；运动黏性系数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "colemanite",
+    "zh": "硬硼酸钙石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Coleman method",
+    "zh": "科尔曼法（测吸油量）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "computational pharmaceutical analysis",
+    "zh": "计算机辅助药物分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "computer-aided pharmaceutical analysis",
+    "zh": "计算机辅助药物分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "connection foreman",
+    "zh": "领班",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cynnematin (=cephalosperin N)",
+    "zh": "头孢菌素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demagnetization",
+    "zh": "去磁作用；消磁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demand capacity lag(=demand lag)",
+    "zh": "需容滞后（石油加工中温度控制过程）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demand lag(=demand capacity lag)",
+    "zh": "需容滞后",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demand side",
+    "zh": "需要面",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demangenization",
+    "zh": "除锰作用；脱锰作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demargarination",
+    "zh": "脱奶油化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demasking",
+    "zh": "解蔽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "demasking agent",
+    "zh": "解蔽剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "determination of biochemical oxygen demand",
+    "zh": "生化需氧量测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diphemanil(=diphenmethanil)",
+    "zh": "二苯马尼",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diphenmethanil(=diphemanil)",
+    "zh": "二苯马尼",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diplonema",
+    "zh": "双线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "docking (",
+    "zh": "煤的)灰分评价",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "drug",
+    "zh": "药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug-fast",
+    "zh": "抗药的；耐药的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug-fast strain",
+    "zh": "抗药性菌株",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "druggist",
+    "zh": "药商;调剂员",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "druggist balance",
+    "zh": "调剂天平；毒物天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "druggist rubber sundries（",
+    "zh": "复） 医用橡胶制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drug-habit",
+    "zh": "药瘾",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug metabolism",
+    "zh": "药物代谢",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug mill",
+    "zh": "药磨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug room",
+    "zh": "药房;配料间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug screening assay",
+    "zh": "药物筛选试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug standard",
+    "zh": "药品标准",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drug sundries",
+    "zh": "卫生用品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "eddy kinematic viscosity",
+    "zh": "涡流运动黏度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocremage",
+    "zh": "电滗析；电倾析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron-microautoradiography(EMAR)",
+    "zh": "电子显微放射自显影法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron microscope autoradiography(EMAR)",
+    "zh": "电子显微(镜)放射自显影法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elema",
+    "zh": "硅碳棒",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elemane",
+    "zh": "橘香烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elemazulene",
+    "zh": "橘香薁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eman",
+    "zh": "埃曼*(大气放射性单位；等于 居里/升)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation",
+    "zh": "(略 Em)射气；氡的同位素;发射；放射",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation chamber",
+    "zh": "射气箱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation electrometer",
+    "zh": "放射性静电计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation electroscope",
+    "zh": "放射性验电器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation test",
+    "zh": "氢试验；射气试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanation thermal analysis",
+    "zh": "放射热分析；射气热分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanium(=emanon)",
+    "zh": "射气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emanon(=emanium)",
+    "zh": "射气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emphysema",
+    "zh": "气肿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enema",
+    "zh": "开塞露（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eremacausis",
+    "zh": "慢性氧化；缓慢氧化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "erythema",
+    "zh": "红斑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "estrogenic hormones(=female hormones)",
+    "zh": "雌(情)激素(类)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eurobin(=chrysarobin triacetate)",
+    "zh": "三乙酸柯桠素酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female",
+    "zh": "雌的；女性的;女性;雌性（动植物）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female die",
+    "zh": "阴模；下半模",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female flange",
+    "zh": "凹面法兰",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female hormone",
+    "zh": "雌性激素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female mold",
+    "zh": "阴模；下半模",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female rotor",
+    "zh": "阴转子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female screw",
+    "zh": "阴螺丝；内螺丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female section",
+    "zh": "阴模；下半模",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "female thread",
+    "zh": "阴螺纹；内螺纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flake hematite",
+    "zh": "片状赤铁矿；天然云母氧化铁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flow schematic diagram",
+    "zh": "流程示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Food and Drug Administration (",
+    "zh": "美国)食品与药物管理局",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "French rosemary oil",
+    "zh": "法国迷迭香油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fritted glass separator(=Biemann-Watson separator)",
+    "zh": "比曼-瓦特森分离器；多孔玻璃分离器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusaric acid(=fusarinic acid)",
+    "zh": "镰孢菌酸；萎蔫酸；5-丁基-2-吡啶甲酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusarin",
+    "zh": "镰菌素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusarine",
+    "zh": "镰孢素；镰刀菌素；萎蔫素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusarinic acid(=fusaric acid)",
+    "zh": "镰孢菌酸；萎蔫酸；5-丁基-2-吡啶甲酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusariocin",
+    "zh": "珠镰孢菌素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusariogenin",
+    "zh": "镰刀霉毒素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusarium species",
+    "zh": "镰酸盐(酯)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fusarubin",
+    "zh": "镰红菌素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Gardner-Coleman oil absorption point",
+    "zh": "加德纳-柯尔曼吸油点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Gardner-Coleman rub-out oil absorption method",
+    "zh": "加德纳-柯尔曼刮刀混合吸油量测定法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemacytometer (=hemacytometer)",
+    "zh": "血球计；血细胞计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "h(a)emagglutination",
+    "zh": "血凝集(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemaglobinometer (=hemoglobinometer)",
+    "zh": "血红蛋白计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemanthamine",
+    "zh": "网球花胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemanthidine (=pancreatine)",
+    "zh": "网球花定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemanthine",
+    "zh": "血安生",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haematimeter",
+    "zh": "血球计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haematine (=hematine;hematoxylin)",
+    "zh": "苏木精；苏木紫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haematinometer",
+    "zh": "血红素计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haematocrit value",
+    "zh": "血细胞比率值；血球比率值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "h(a)ematoglobin",
+    "zh": "血红蛋白",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "h(a)ematological pipet(te)",
+    "zh": "血液吸量管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "h(a)ematoporphyrin",
+    "zh": "血卟啉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haematoxylin (=hematoxylin)",
+    "zh": "苏木精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemachate",
+    "zh": "血点玛瑙",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemacytometer (=haemacytometer)",
+    "zh": "血球计；血细胞计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemafibrite",
+    "zh": "红纤维石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemagglutination inhibition",
+    "zh": "血凝抑制",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemanthine",
+    "zh": "网球花碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemartine extract",
+    "zh": "苏木浸膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematein",
+    "zh": "苏木因；氧化苏木精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematic acid",
+    "zh": "血酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematine (=haematine; hematoxylin)",
+    "zh": "苏木精；苏木紫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematinic",
+    "zh": "补血药",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematinic acid",
+    "zh": "血色酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematite",
+    "zh": "赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematite pig",
+    "zh": "由赤铁矿炼成的生铁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematolithite",
+    "zh": "红砷锰矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematomancy",
+    "zh": "验血诊断法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematoporphyrin",
+    "zh": "血卟啉 hematoxylin (=haematine; hematine) 苏木精；苏木紫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematoxylineosin staining",
+    "zh": "苏木素-伊红染色法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematoxylon",
+    "zh": "洋苏木",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hematoxylone",
+    "zh": "苏木酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hollemann's rules",
+    "zh": "霍莱曼氏规则",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "houseman",
+    "zh": "石油加工工厂控制室操作者",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hybrid oriented nematic",
+    "zh": "混合取向向列",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrohematite",
+    "zh": "水赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "immediate oxygen demand",
+    "zh": "瞬间需氧量; 直接需氧量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "indirect hemagglutination",
+    "zh": "间接凝集反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "irbesartan",
+    "zh": "厄贝沙坦（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "irbesartan and hydrochlorothiazide",
+    "zh": "厄贝沙坦氢氯噻嗪（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isarol(=ichthammol)",
+    "zh": "鱼石脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Japanese sardine oil",
+    "zh": "日本沙丁鱼油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Japan sardine oil",
+    "zh": "日本沙丁鱼油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Japp-Klingemann reaction",
+    "zh": "杰甫-克林曼反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "judgement schematics",
+    "zh": "判断图式；评价图表；评价公式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic",
+    "zh": "运动学的；动力学的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematical boundary condition",
+    "zh": "运动边界条件",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic coefficient",
+    "zh": "运动系数；动力系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic coefficient of viscosity",
+    "zh": "动态黏度系数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic energy correction",
+    "zh": "运动能修正；运动能校正",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic matrix",
+    "zh": "运动矩阵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic pair",
+    "zh": "运动副",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematics",
+    "zh": "运动学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic similarity",
+    "zh": "运动相似",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic tensor (",
+    "zh": "运)动张量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic type of capillary viscometer",
+    "zh": "运动型毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic viscosimeter",
+    "zh": "运动黏度计；测定运动黏度用黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinematic wave",
+    "zh": "运动波",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Kraemer-Sarnow method",
+    "zh": "克雷默-萨诺法（测熔点）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lallemantia oil",
+    "zh": "拉曼油（取自 Latlemantia iberica 的籽）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "N-lauroyl sarcosinate N-",
+    "zh": "月桂酰基肌氨酸盐(或酯)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lenirobin(=chrysarobin tetra-acetate)",
+    "zh": "四乙酸柯桠素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lindemann's mechanism",
+    "zh": "林德曼机理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "losartan potassium",
+    "zh": "氯沙坦钾（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "macassar oil",
+    "zh": "马卡发油；望加锡头(发)油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "male and female",
+    "zh": "阴阳面;凸凹面",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "male and female face",
+    "zh": "阴阳面;凸凹面",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "male-and-female flange",
+    "zh": "凸凹面法兰;阴阳面法兰;榫槽法兰",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "masking and demasking",
+    "zh": "隐蔽和解蔽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical correction method",
+    "zh": "数学校正法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical expectation",
+    "zh": "数学期望值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical idealization",
+    "zh": "数学理想化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical modeling technique",
+    "zh": "数学模型技术",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical model of water quality",
+    "zh": "水质数学模型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematical treatment",
+    "zh": "数学处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mathematic model",
+    "zh": "数学模型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Mayer's hemalum",
+    "zh": "迈尔染色剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "medicinal",
+    "zh": "医学的；医药的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal carbon",
+    "zh": "药用(活性)炭",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal cosmetic",
+    "zh": "医用化妆品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal flavour",
+    "zh": "药用香料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal oil",
+    "zh": "药用油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal paraffin",
+    "zh": "药用石蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal paraffin oil",
+    "zh": "药用石蜡油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal perfume",
+    "zh": "药用香料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal soap",
+    "zh": "药皂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "medicinal wax(=medicinal paraffin)",
+    "zh": "药用石蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micaceous hematite",
+    "zh": "云母赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcinematography",
+    "zh": "显微电影术；显微镜活动摄影术",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "naematolin",
+    "zh": "沿丝伞菌素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "necessary element",
+    "zh": "必需元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nemacides",
+    "zh": "杀线虫剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nemalite(=nemaline)",
+    "zh": "纤维水镁石; 纤水滑石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematic compound",
+    "zh": "向列化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematic copolymer",
+    "zh": "向列共聚物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematic liquid crystal",
+    "zh": "向列型液晶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematic phase",
+    "zh": "向列相",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematic state",
+    "zh": "向列(状)态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nematocides",
+    "zh": "杀线虫剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Niemann's triangle",
+    "zh": "尼曼三角（液体在表面上保持平衡时，各有关界面张力间的关系）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-systematic error",
+    "zh": "偶然误差；非系统误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "normal Zeeman effect",
+    "zh": "正常塞曼效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nuclear pharmaceuticals",
+    "zh": "核药物*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear Zeemann correlated electron-nuclear double resonance",
+    "zh": "核塞曼相关电子-核双共振",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil demand",
+    "zh": "石油需要量；油品需要量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "organo-lead compound",
+    "zh": "有机铅化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxygen demand",
+    "zh": "需氧量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pancratine(=haemanthidine)",
+    "zh": "血安生",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "periodic systematic sampling",
+    "zh": "周期性系统取样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pharmaceutical",
+    "zh": "药物的;药物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical chemistry",
+    "zh": "药物化学；制药化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical emulsion",
+    "zh": "药用乳液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical material",
+    "zh": "药物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical ointment",
+    "zh": "药用软膏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical preparations",
+    "zh": "药物制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical purity",
+    "zh": "药物纯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceuticals",
+    "zh": "药物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmaceutical soap",
+    "zh": "药皂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pharmacophore",
+    "zh": "药效团",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenodin(=hematine)",
+    "zh": "苏木精",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phytotoxic metabolite",
+    "zh": "植物毒性代谢物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plasma drug concentration",
+    "zh": "血药浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "policeman",
+    "zh": "淀帚*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymer drug",
+    "zh": "高分子药物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymer-drug conjugate",
+    "zh": "高分子-药物结合体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric drug",
+    "zh": "高分子药物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premary amyl alcohol",
+    "zh": "伯戊醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premasticated rubber",
+    "zh": "塑炼胶；预塑炼胶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premastication",
+    "zh": "预先捏和作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature ageing",
+    "zh": "前期老化；早期老化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature brittle fracture",
+    "zh": "早期脆化破坏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature catalysis",
+    "zh": "早期催化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature coagulation",
+    "zh": "早期凝固",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature condensation",
+    "zh": "早期缩合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature cure",
+    "zh": "早期固化；早期硬化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature curing",
+    "zh": "早期固化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature expansion",
+    "zh": "早期发泡",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature failure of paint",
+    "zh": "漆膜的过早破损(失效)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature failure of the coating",
+    "zh": "涂层的早期破坏(失效)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature firing",
+    "zh": "过早点火",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature gelation",
+    "zh": "早期胶凝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature oxidation",
+    "zh": "过早氧化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature polymerization",
+    "zh": "早期聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature setting",
+    "zh": "过早固化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature sintering",
+    "zh": "早期烧结",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature vulcanization(=bin cure) (",
+    "zh": "橡胶)早期硫化；仓储硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "propenyl-2,4,5-trimethoxy benzene(=asarone)",
+    "zh": "丙烯基-2,4,5-三甲氧苯；细辛脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "psychotropic drug",
+    "zh": "精神治疗药物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyroracemamide",
+    "zh": "丙酮酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quantitative structure-activity relation",
+    "zh": "定量构效关系",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quasar",
+    "zh": "发强射线的远天体；类星射电源",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "quasi recemate",
+    "zh": "准外消旋体*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "racemate",
+    "zh": "外消旋物;外消旋酒石酸盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "racemation",
+    "zh": "外消旋(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiochemotherapeutic",
+    "zh": "放射化疗的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radio-emanation",
+    "zh": "镭射气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiomimetic drug",
+    "zh": "放射模拟药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radion(=radium emanation)",
+    "zh": "镭射气（即氡）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiopharmaceutical chemistry",
+    "zh": "放射药物化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiopharmaceuticals",
+    "zh": "放射性药物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiopharmaceutical therapy",
+    "zh": "放射药物治疗*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotherapeutic",
+    "zh": "放射治疗的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiotherapeutics",
+    "zh": "放射治疗学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radium emanation(=radion)",
+    "zh": "镭射气（即氡）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "randomization of systematic error",
+    "zh": "系统误差随机化random model 随机模型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "raupine(=sarpagine)",
+    "zh": "蛇根精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "red hematite",
+    "zh": "红赤铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Reimer-Tiemann reaction",
+    "zh": "赖默-梯曼反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "relative systematic error",
+    "zh": "相对系统误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "remanence",
+    "zh": "顽磁(感应强度)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "remark",
+    "zh": "备注",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reversed passive hemagglutination",
+    "zh": "反向被动血凝试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rheology remains",
+    "zh": "流变残余",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber policeman",
+    "zh": "橡胶淀帚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarafloxacin monohydrochloride monohydrate",
+    "zh": "盐酸沙氟沙星",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saran",
+    "zh": "偏氯纶；莎纶（偏二氯乙烯与氯乙烯共聚物）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saran latex",
+    "zh": "聚偏氯乙烯胶乳",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarcodactylis oil",
+    "zh": "佛手油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarcolactate",
+    "zh": "肌乳酸盐（即：右旋乳酸盐）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarcolactic acid (=p-lactic acid)",
+    "zh": "肌乳酸 CH₃CHOHCOOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarcolite",
+    "zh": "肉色柱石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarcosine (=N-methylglycine)",
+    "zh": "肌氨酸；N-甲基甘氨酸 CH₃NHCH₂COOH",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sard",
+    "zh": "肉红玉髓",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sardinianite",
+    "zh": "单斜铅矾",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sardonyx",
+    "zh": "缠丝玛瑙",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sargasso",
+    "zh": "马尾藻",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarpagine(=raupine)",
+    "zh": "蛇根精",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarracenine",
+    "zh": "瓶子草碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarracine",
+    "zh": "瓶千里光碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarracine-N-oxide N-",
+    "zh": "氧化瓶千里光碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarsaponin(=sarsasapogenin glycoside)",
+    "zh": "丝兰皂苷：萨洒皂苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarsasapogenin",
+    "zh": "萨洒皂草配基；菝葜皂苷元",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarsasapogenin glycoside",
+    "zh": "萨洒皂草配基配糖体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sarsasaponin",
+    "zh": "拔葜苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schema",
+    "zh": "草图；流程图；设计图;方案；计划；设计;电路",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic",
+    "zh": "图解的；示意的；概略的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic sideview",
+    "zh": "侧视示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic arrangement (",
+    "zh": "分子结构的)示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic cutaway",
+    "zh": "剖视图；剖开(内视)图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic diagram",
+    "zh": "示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic drawing",
+    "zh": "简(略)图；示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic flow sheet",
+    "zh": "流程示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic illustration",
+    "zh": "示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic layout",
+    "zh": "示意图",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schematic representation",
+    "zh": "略图；简图；示意图",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schoenemann reaction",
+    "zh": "熊曼反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-demagnetization",
+    "zh": "自去磁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semi-systematic name",
+    "zh": "半系统名称",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shoemaker",
+    "zh": "制鞋工人",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "similar drug",
+    "zh": "类药品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium lauroyl sarcosine",
+    "zh": "月桂酰肌氨酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specular hematite(=specularite)",
+    "zh": "镜铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spessartite",
+    "zh": "锰铝榴石; 斜煌岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "state of disarray",
+    "zh": "混乱状态；无序状态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfa drug",
+    "zh": "磺胺(制)剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic hematite",
+    "zh": "合成氧化铁红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic absences",
+    "zh": "系统消光",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematical error",
+    "zh": "系统误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic analysis",
+    "zh": "系统分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic error",
+    "zh": "系统误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic name",
+    "zh": "系统名(称)；学名",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic nomenclature",
+    "zh": "系统命名法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic samples",
+    "zh": "系统样品",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic sampling",
+    "zh": "系统抽样*；系统取样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systematic testing",
+    "zh": "系统试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Tadema structural group analysis",
+    "zh": "塔德玛结构族分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "telmisartan",
+    "zh": "替米沙坦（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "therapeutical",
+    "zh": "治疗的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "therapeutical agent",
+    "zh": "治疗剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "therapeutical chemistry",
+    "zh": "治疗化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "therapeutic index",
+    "zh": "治疗指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "therapeutics",
+    "zh": "治疗学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thorium dioxide",
+    "zh": "二氧化钍 ThO thorium emanation(=thoron) 钍射气（符号 Tn）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thoron",
+    "zh": "(=thorium emanation)针射气;(=thorin)针试剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tiemannite",
+    "zh": "硒汞矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total oxygen demand",
+    "zh": "总需氧量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total systematization",
+    "zh": "总体配套系统化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tracer test of labelled drug",
+    "zh": "标记药物示踪实验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "trademark",
+    "zh": "商标",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two acid-two base systematic analysis",
+    "zh": "两酸两碱系统分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultimate oxygen demand",
+    "zh": "总需氧量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uncertain systematic error",
+    "zh": "未定系统误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Unisar",
+    "zh": "联合(石油公司)芳烃饱和(法)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "valsartan",
+    "zh": "缬沙坦（药） γ-value γ值；酯化度 δ -value δ 值*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Watson-Biemann interface",
+    "zh": "沃森-比曼接口",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Watson-Biemann separator",
+    "zh": "沃森-比曼分离器;沃森-比曼连接器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Wiedemann's additivity law",
+    "zh": "魏德曼加和定律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wild rosemary oil",
+    "zh": "喇叭茶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman background correction",
+    "zh": "塞曼背景校正",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman background corrector",
+    "zh": "塞曼背景校正器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman broadening",
+    "zh": "塞曼(谱线)增宽；塞曼展宽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman effect",
+    "zh": "塞曼效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman effect background correction",
+    "zh": "塞曼效应校正背景(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman energy levels",
+    "zh": "塞曼能级",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman split",
+    "zh": "塞曼分裂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman splitting",
+    "zh": "塞曼分裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zeeman-tuned laser",
+    "zh": "塞曼调谐激光器",
+    "role": "primary",
+    "confidence": 2.0
+  }
+]

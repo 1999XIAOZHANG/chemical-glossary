@@ -1,0 +1,7394 @@
+[
+  {
+    "en": "abrasive binder",
+    "zh": "磨料黏结剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "abrasive filler",
+    "zh": "磨料；研磨剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absorbent solution",
+    "zh": "吸收剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "absorb filler",
+    "zh": "添加填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "accelerator dosage",
+    "zh": "促进剂用量；促进剂含量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acid solution",
+    "zh": "酸性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actified solution",
+    "zh": "再生溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "active filler",
+    "zh": "活性填料；补强剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "actual solution",
+    "zh": "实际溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerated filler",
+    "zh": "疏松填料（如软木屑、锯木屑）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-shaping",
+    "zh": "后成型",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after-soaping",
+    "zh": "后皂煮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "agricultural formulation",
+    "zh": "农业用品配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air suspension",
+    "zh": "空气悬挂；空气弹簧",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline aqueous suspension",
+    "zh": "碱性水悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline filler",
+    "zh": "碱性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline solution",
+    "zh": "碱性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkazid solution",
+    "zh": "碱性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "all-binder composition",
+    "zh": "全基料组成",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "all-binder vehicle",
+    "zh": "全基料的漆料（无溶剂漆料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "all-purpose capillary viscosimeter",
+    "zh": "通用毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Alniflex solution",
+    "zh": "阿尔尼夫莱克斯溶液（一种用在核燃料后处理首端过程的浸取液，组成为 )",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia-ammonium ion solution",
+    "zh": "氨水-铵盐缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammoniacal solution of cupric oxide",
+    "zh": "氧化铜氨溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonium sulfite solution",
+    "zh": "液体亚硫酸铵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ampoule filler",
+    "zh": "安瓿装药机；针药封装机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "animal filler",
+    "zh": "动物性填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anisotropic filler",
+    "zh": "各向异性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anisotropic solution",
+    "zh": "各向异性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anodic dissolution current",
+    "zh": "阳极溶解电流",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anodic dissolution wave",
+    "zh": "阳极溶解波",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antifreeze solution",
+    "zh": "防冻溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apiezon（",
+    "zh": "商） 阿匹松（真空润滑脂；真空油膏；一种高真空用的黏合剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiezon grease（",
+    "zh": "商） 阿匹松脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiezon oil（",
+    "zh": "商） 阿匹松油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiezon wax（",
+    "zh": "商） 阿匹松蜡",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apigenidin chloride",
+    "zh": "氯化芹菜定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apigenin",
+    "zh": "芹菜素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "API gravity API",
+    "zh": "比重（美国石油学会 API 比重指数）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "API hydrometer API",
+    "zh": "比重计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "apiin",
+    "zh": "芹菜苷；芹黄苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "API Lubrication Committee",
+    "zh": "美国石油学会润滑委员会",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "apinclum(=apinol)",
+    "zh": "臭松油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apinol(=apinol)",
+    "zh": "臭松油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiol",
+    "zh": "芹菜脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiol aldehyde",
+    "zh": "芹菜脑醛 apiole(=apopinol) 芹菜脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiolic acid",
+    "zh": "芹菜脑酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiolole",
+    "zh": "芹菜脑醚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apione",
+    "zh": "芹菜酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apionic acid",
+    "zh": "芹菜酮酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apionol",
+    "zh": "芹菜脑酚",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apiose",
+    "zh": "芹菜糖",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "API service oil classification API",
+    "zh": "润滑油使用分类",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "API specifications API",
+    "zh": "技术规范",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "apopinol(=apiole)",
+    "zh": "芹菜脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aqueous cooling solution",
+    "zh": "冷却水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous hydrogen peroxide solution",
+    "zh": "过氧化氢水溶液;双氧水水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous solution",
+    "zh": "水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous solution growth",
+    "zh": "水溶液生长",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous solution polymerization",
+    "zh": "水溶液聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous suspension polymerization",
+    "zh": "水相悬浮聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ashe chinkapin",
+    "zh": "灰栗",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asphalt filler",
+    "zh": "沥青填充物；沥青填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "assembling solution",
+    "zh": "贴合用胶浆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "athermal solution",
+    "zh": "无热溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomic resolution microanalysis",
+    "zh": "原子分辨微区分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomized suspension technique",
+    "zh": "悬浮液雾化法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "attendant dissolution phenomena",
+    "zh": "伴溶现象",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auto-injection",
+    "zh": "自动注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auto-injection control",
+    "zh": "自动注射控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auto-injection control panel",
+    "zh": "自动注射控制板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auto-injection panel",
+    "zh": "自动注射板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automated injection device",
+    "zh": "自动注射装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automated unloading injection press",
+    "zh": "自动脱模注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic gas sample injection",
+    "zh": "气样自动注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic gas sample injection module",
+    "zh": "气样自动注射组件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic paste filler",
+    "zh": "自动装膏机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automobile antifreeze solution",
+    "zh": "汽车防冻液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ayapin",
+    "zh": "三脉泽兰素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azeotropic solution",
+    "zh": "共沸溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "backfiller",
+    "zh": "反填充(物);反进料器；反加料器;回填机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "balanced-suspension procedure",
+    "zh": "平衡悬浮法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "barrel filler",
+    "zh": "自动装桶器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "base-catalyzed solution polymerization",
+    "zh": "碱催化溶液聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "baseline resolution",
+    "zh": "基线分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "base solution",
+    "zh": "基液；底液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic filler",
+    "zh": "碱性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batch dissolution",
+    "zh": "分批溶解：间歇溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batch pot dissolution",
+    "zh": "间歇罐式溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bath solution (",
+    "zh": "电镀)槽液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "belt filler(=belt lubricant)",
+    "zh": "皮带油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "belt lubricant(=belt filler)",
+    "zh": "皮带油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bentonite suspension",
+    "zh": "膨润土悬浮液；皂土悬浮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bichromate solution",
+    "zh": "重铬酸溶液（测定石油产品色度用的标准溶液）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder extraction",
+    "zh": "基料抽出（油漆调稀故障）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder fibre",
+    "zh": "黏合(用)纤维；纤维状黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder granules",
+    "zh": "粒状黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder index",
+    "zh": "基料指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder precipitation",
+    "zh": "基料沉淀（油漆调稀故障）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder ratio",
+    "zh": "颜料/基料比；颜基比 -bin〔词尾〕 宾〔生物碱〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder resin",
+    "zh": "黏结剂用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binaphthalene",
+    "zh": "联二萘 binder-rich (letdown) vehicle 富基料的(调)漆料；高树脂分(调)漆料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "binder's board",
+    "zh": "书皮纸板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder yarn",
+    "zh": "固纱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binary solution",
+    "zh": "二元溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder",
+    "zh": "黏合剂；黏料;夹子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder course",
+    "zh": "沥青路面的中间层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binder efficiency",
+    "zh": "基料效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bischler-Napieralsky synthesis",
+    "zh": "毕世勒-纳匹拉尔斯基合成法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bitumastic solution",
+    "zh": "水柏油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blank solution",
+    "zh": "空白溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blast-furnace filler",
+    "zh": "高炉填料器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bookbinders'varnish",
+    "zh": "书脊清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borate buffer solution",
+    "zh": "硼砂缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "borax-phosphate solution",
+    "zh": "硼砂-磷酸盐缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bosch's fuel injection pump",
+    "zh": "勃赤燃料喷注泵（柴油机）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bottle filler(=bottle filling machine)",
+    "zh": "装瓶机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bottle filling machine(=bottle filler)",
+    "zh": "装瓶机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bottom suspension",
+    "zh": "下支",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "branched capillary",
+    "zh": "分支毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brazing filler metal",
+    "zh": "钎料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brush binder",
+    "zh": "刷毛黏合剂（黏合刷上的毛）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brush filler",
+    "zh": "刷涂填孔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brush plating solution",
+    "zh": "刷镀溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buffer solution",
+    "zh": "缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buffer tablet",
+    "zh": "缓冲片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk filler",
+    "zh": "增容剂（为使产品增加容积和降低成本而添加的粉末状填料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulking filler",
+    "zh": "疏松填料；填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk solution",
+    "zh": "本体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "by-pass injection",
+    "zh": "旁通注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcareous hydraulic binder",
+    "zh": "水凝灰浆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calibrated normalized resolution product",
+    "zh": "校正分离度积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Campden tablets",
+    "zh": "坎普登片剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "can filler",
+    "zh": "装罐机；罐头装填机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Cannon-Fenske capillary viscosimeter",
+    "zh": "坎农-芬斯克型毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Cannon-Ubbelohde glass capillary viscometer",
+    "zh": "坎农-乌贝洛德玻璃毛细管黏度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capacity ratio",
+    "zh": "容量比 caparrapidiol (= 3,7,11-trimethyl-1,10-dodecadiene-3,7-diol)卡帕木二醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capilin",
+    "zh": "茵陈素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillarin",
+    "zh": "茵陈素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillarity",
+    "zh": "毛细(现象);表面活性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillarity attraction",
+    "zh": "毛细(管)吸力 capillarity constant 毛细常数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillarity of fiber",
+    "zh": "纤维毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary (=kapillary)",
+    "zh": "毛细管;毛细的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary absorption",
+    "zh": "毛细吸收(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary across section effect",
+    "zh": "毛细管横截面效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary action",
+    "zh": "毛细管作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary action shaping technique (CAST)",
+    "zh": "毛细管定形生长",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary active",
+    "zh": "毛细活性的;表面活性的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary active compound",
+    "zh": "毛细活性化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary active indicator",
+    "zh": "毛细活性指示剂;表面活性指示剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary activity",
+    "zh": "毛细活性;表面活性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary adhesion force",
+    "zh": "毛细附着力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary adsorbed water",
+    "zh": "毛细吸附水",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary alum",
+    "zh": "发矾；发盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary analysis (=kapillaranalyse)",
+    "zh": "毛细(管)分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary-arc discharge source",
+    "zh": "毛细管电弧放电离子源",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary array electrophoresis",
+    "zh": "阵列毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary ascent",
+    "zh": "毛细上升",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary attraction",
+    "zh": "毛细管引力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary bore",
+    "zh": "毛细管孔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary break (-up)",
+    "zh": "毛细管破裂;(喷丝头)细孔断丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary buffer",
+    "zh": "毛细管缓冲器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary bulb",
+    "zh": "毛细球",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary buret",
+    "zh": "毛细滴定管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary capacity",
+    "zh": "毛细管容量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary channel",
+    "zh": "毛细管道（漆料渗透到颜料层粒子中的细间隙）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary characteristic",
+    "zh": "毛细管特性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary chemistry",
+    "zh": "毛细化学；表面化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary column",
+    "zh": "毛细管柱*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary condensation",
+    "zh": "毛细管凝结*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary constant",
+    "zh": "毛细管常数*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary correction",
+    "zh": "毛细校正",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary depression",
+    "zh": "毛细下降",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary dimension",
+    "zh": "毛细管大小",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary drop analysis",
+    "zh": "毛细管点滴分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electrochromatography",
+    "zh": "毛细管电色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electrode",
+    "zh": "毛细管电极*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electrokinetic chromatography",
+    "zh": "毛细管电动色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electrometer",
+    "zh": "毛细管静电计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electroosmotic chromatography",
+    "zh": "毛细管电渗色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary electrophoresis",
+    "zh": "毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary elevation",
+    "zh": "毛细上升",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary extrusion",
+    "zh": "毛细管挤出",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary extrusion rheometer",
+    "zh": "毛细管挤出流变仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary feed",
+    "zh": "毛细管给油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary filtering",
+    "zh": "毛细管过滤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flask",
+    "zh": "毛细瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flow",
+    "zh": "毛细流动；毛细管流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flow data",
+    "zh": "毛细流数据",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flow measuring method",
+    "zh": "毛细流动测定法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flowmeter",
+    "zh": "毛细流量计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary flow method",
+    "zh": "毛细流动法（阴离子聚合时；求取生成速率常数的方法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary force",
+    "zh": "毛细力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary gas chromatograph",
+    "zh": "毛细管气相色谱仪*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary gas chromatograph/mass spectrometer/Fourier transform infrared spectrometer",
+    "zh": "毛细管气相色谱-质谱-傅里叶变换红外光谱联用装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary gas chromatography",
+    "zh": "毛细管气相色谱法*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary gel electrophoresis",
+    "zh": "毛细管凝胶电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary glass tube",
+    "zh": "玻璃毛细管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary height method",
+    "zh": "毛细管高度法（测表面张力）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary hydrodynamics",
+    "zh": "毛细管流体动力学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary inactive",
+    "zh": "非毛细活性的；非表面活性的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary inlet",
+    "zh": "毛细管入口",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary ion analysis",
+    "zh": "毛细管离子分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary isoelectric focusing",
+    "zh": "毛细管等电聚焦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary isotachophoresis",
+    "zh": "毛细管等速电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary jet",
+    "zh": "毛细管射流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary jet viscometer",
+    "zh": "毛细管射流黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary leak",
+    "zh": "毛细管漏孔",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary lubricant",
+    "zh": "毛细管作用润滑剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary luminescence analysis",
+    "zh": "毛细发光分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary manometric method",
+    "zh": "毛细管压力法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary melting point determination",
+    "zh": "毛细管熔点测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary meniscus",
+    "zh": "毛细管弯月面",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary micellar electrokinetic chromatography",
+    "zh": "毛细管胶束电动色谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary moisture capacity",
+    "zh": "毛细管水分容量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary non-gel sieving electrophoresis",
+    "zh": "毛细管无胶筛分电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary number",
+    "zh": "毛细管数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary oiler",
+    "zh": "毛细管给油器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary opening",
+    "zh": "毛细管孔口",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary orifice viscometer",
+    "zh": "毛细孔黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary outlet",
+    "zh": "毛细管出口",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary packed column",
+    "zh": "毛细管填料(色谱)柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary penetration",
+    "zh": "毛细管穿透作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary phenomenon",
+    "zh": "毛细现象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary pipet",
+    "zh": "毛细吸管；毛细移液管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary plastometer",
+    "zh": "毛细管塑性仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary pressure",
+    "zh": "毛细压力；毛细张力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary pyrite",
+    "zh": "针镍矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary rheometer",
+    "zh": "毛细管流变仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary rise",
+    "zh": "毛细上升",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary rise method",
+    "zh": "毛细管上升法（测表面张力）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary sample inlet",
+    "zh": "毛细管进样口",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary shield screen effect",
+    "zh": "毛细管的屏蔽效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary spinneret",
+    "zh": "毛细孔纺丝板",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary splitter",
+    "zh": "毛细管分流器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary stopcock",
+    "zh": "毛细活栓",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary suction time",
+    "zh": "毛细管吸升时间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary supercritical fluid chromatography",
+    "zh": "毛细管超临界流体色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary support",
+    "zh": "毛细管载体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary surface",
+    "zh": "毛细(表)面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary tension",
+    "zh": "毛细张力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary thickening",
+    "zh": "初生丝粗节",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary tube",
+    "zh": "毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary tube method",
+    "zh": "毛细管法（测表面张力）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary (tube) viscometer",
+    "zh": "毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary tubing",
+    "zh": "毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary type electron multiplier",
+    "zh": "毛细管型电子倍增器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary type isotachophoresis",
+    "zh": "毛细管等速电泳(分析)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary viscometry",
+    "zh": "毛细管测黏法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary visco(si)meter",
+    "zh": "毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary wave",
+    "zh": "毛细波；界面波；表面张力波",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary yawp current",
+    "zh": "毛细管噪声电流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillary zone electrophoresis",
+    "zh": "毛细管区带电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillator",
+    "zh": "毛细管比色计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillene",
+    "zh": "茵陈烯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillin",
+    "zh": "毛蒿素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillometer",
+    "zh": "毛细试验仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillon",
+    "zh": "茵陈酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillone",
+    "zh": "茵陈酮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capillose",
+    "zh": "针镍矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capsule",
+    "zh": "荚膜;胶囊;小皿;囊；被膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capsule body",
+    "zh": "胶囊体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capsule sampling",
+    "zh": "封囊进样",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbonaceous filler",
+    "zh": "碳质填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon binders",
+    "zh": "炭结合料〔胶质、漆皮〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon black filler",
+    "zh": "炭黑填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbon filler",
+    "zh": "碳质填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "casein binder",
+    "zh": "酪蛋白黏结剂；(干)酪素黏结剂(料)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cationic binder",
+    "zh": "阳离子黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caustic methanol solution",
+    "zh": "苛性钠甲醇溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caustic solution",
+    "zh": "苛性碱溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulose type filler in stiff paste",
+    "zh": "纤维素型稠浆填孔料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cement-vinyl based filler",
+    "zh": "水泥-乙烯填缝料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chalk suspension",
+    "zh": "白垩悬浮液;白垩悬浊液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charge escaping",
+    "zh": "电荷漏失",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charge-injection detector",
+    "zh": "电荷注入检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical binder",
+    "zh": "化学黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical formulation",
+    "zh": "化学(式)表示",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chloroformic solution",
+    "zh": "氯仿溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chromatographic solution",
+    "zh": "色谱溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "circular filler rod",
+    "zh": "圆焊条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "citrate buffer solution",
+    "zh": "柠檬酸盐缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clark's pH standard solution",
+    "zh": "克拉克 pH 标准溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clark-Lubs' buffer solution",
+    "zh": "克拉克-拉布斯缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clay suspension",
+    "zh": "黏土悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cleaning formulation",
+    "zh": "清洁剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cleaning solution",
+    "zh": "洗涤液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cleansing solution",
+    "zh": "洗液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Clerici solution",
+    "zh": "克累西溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cloth filler",
+    "zh": "布填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clozapine",
+    "zh": "氯氮平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coarse suspension",
+    "zh": "粗粒悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coated capillary",
+    "zh": "涂层毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coating solution",
+    "zh": "涂渍溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cochineal solution",
+    "zh": "胭脂红溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coinjection",
+    "zh": "共注射成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coinjection molding",
+    "zh": "共注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colligative properties of solution",
+    "zh": "溶液的依数性*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collision free suspension",
+    "zh": "无碰撞悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloidal solution",
+    "zh": "胶体溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloidal suspension",
+    "zh": "胶(态)悬(浮);胶(态)悬(浮)体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloidal suspension method",
+    "zh": "胶态悬浮法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colloid solution",
+    "zh": "胶体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colorimetric standard solution",
+    "zh": "比色标准溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colorimetric standard stock solution",
+    "zh": "比色标准储备液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coloring tablet",
+    "zh": "色素片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "commercial formulation",
+    "zh": "实用配方；生产配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "commercial inorganic filler",
+    "zh": "工业无机填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "comparison solution",
+    "zh": "比较溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concentrated polymer solution",
+    "zh": "聚合物浓溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concentrated solution",
+    "zh": "浓溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformal ionic solution theory",
+    "zh": "共形离子溶液(理)论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conformal solution",
+    "zh": "共形溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conjugate solutions",
+    "zh": "共轭溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "consolute solution",
+    "zh": "会溶质溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "constant resolution",
+    "zh": "恒定分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copiapite",
+    "zh": "叶绿矾；铁矾石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "core binder (=core oil)",
+    "zh": "型心黏结剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core binder pitch",
+    "zh": "型心黏结沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core oil (=core binder)",
+    "zh": "型心黏结剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corresponding solution",
+    "zh": "对应溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion by non-freezing solution",
+    "zh": "不冻液腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cosolvent-rich solution",
+    "zh": "富(含)助溶剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crack filler",
+    "zh": "填缝料；裂缝填充物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "craping defect",
+    "zh": "绫疵；绉纹不匀",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "craping machine",
+    "zh": "起绉机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "creatinine standard solution",
+    "zh": "肌酸酐标准液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical dissolution temperature",
+    "zh": "临界溶解温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical solution point",
+    "zh": "临界溶点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical solution temperature",
+    "zh": "临界共溶温度*；临界溶解温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical solution temperature method",
+    "zh": "临界溶解温度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross-linked capillary",
+    "zh": "交联毛细管柱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crown filler",
+    "zh": "上等填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystalloid solution",
+    "zh": "晶体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cuprammonium solution",
+    "zh": "铜铵溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cupriethylenediamine solution",
+    "zh": "铜乙二胺溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cuprocopiapite",
+    "zh": "铜叶绿矾",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylinder stock solution",
+    "zh": "气缸油溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cylindrical capillary tube",
+    "zh": "圆筒形毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Dakin's solution",
+    "zh": "达金溶液（次氯酸盐与过硼酸钠的混合物)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dampening solution(=fountain solution)",
+    "zh": "湿润液;润版液；润版药水",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degassed solution",
+    "zh": "除气溶液；脱气溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "de-inking solution",
+    "zh": "脱色溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dejacketing solution",
+    "zh": "脱壳(用)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dense phase suspension",
+    "zh": "密相悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "depth resolution",
+    "zh": "深度分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detergent solution",
+    "zh": "去污液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detergent tablet",
+    "zh": "片状洗涤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of filler (",
+    "zh": "润滑脂内)填料含量的测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "developer solution",
+    "zh": "显影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "developing solution",
+    "zh": "展开液;显影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diazotol rapid fast colours",
+    "zh": "重氮酚快速坚牢染料；偶氮酚类",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "differential heat of solution",
+    "zh": "微分溶解热*；定浓溶解热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dillapiole",
+    "zh": "莳萝脑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dilute phase suspension",
+    "zh": "稀相悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dilute solution",
+    "zh": "稀溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dilute solution theory",
+    "zh": "稀溶液理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dilute solution viscosity(DSV)",
+    "zh": "稀薄溶液黏度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dipping solution",
+    "zh": "浸渍溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dip solution",
+    "zh": "浸渍溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct injection",
+    "zh": "直接注射烧器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct injection enthalpimetry",
+    "zh": "直接注射焓测定(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct metal solution theory",
+    "zh": "金属直接溶解学说",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "displacing solution",
+    "zh": "顶替溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolution",
+    "zh": "溶解(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolution boiler",
+    "zh": "溶化锅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolution heat",
+    "zh": "溶解热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolution method",
+    "zh": "溶样方法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dissolution wave",
+    "zh": "溶解波",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "doctor solution",
+    "zh": "博士溶液；亚铅酸钠溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dosage",
+    "zh": "用量;配料;剂量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dosage bunker",
+    "zh": "配料槽；剂量槽",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dosage effect",
+    "zh": "剂量效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dosage mortality curve",
+    "zh": "剂量死亡曲线",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dosage pump",
+    "zh": "剂量泵",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dosage rate",
+    "zh": "剂量率",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dot resolution",
+    "zh": "点分辨能力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double filler lap joint",
+    "zh": "对面塔焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double injection",
+    "zh": "双注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drainage error in capillary viscometer",
+    "zh": "毛细管黏度计的流出体积误差",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drum filler",
+    "zh": "装桶机（将产品装入桶内的设备）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry filler",
+    "zh": "干填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry-suspension process",
+    "zh": "干态悬浮法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duplicate injection",
+    "zh": "重复注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dyeing solution",
+    "zh": "染色溶液；染料溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye solution",
+    "zh": "染料溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "edge to edge resolution",
+    "zh": "边边分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective fractional binder volume",
+    "zh": "有效基料体积分数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effect of rapid deformation",
+    "zh": "快速变形作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effect of rapid impact",
+    "zh": "快速冲击作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elastic energy correction in capillary",
+    "zh": "毛细管弹性能改正",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elastic filler",
+    "zh": "弹性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrical field magnified injection",
+    "zh": "场放大进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrical neutrality of solution",
+    "zh": "溶液的电中性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro capillarity",
+    "zh": "电毛细(管)现象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electro-capillary adsorption",
+    "zh": "电毛细(管)吸附",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary curve",
+    "zh": "电毛细管曲线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary effect",
+    "zh": "电毛细效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary maximum",
+    "zh": "电毛细管极大*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary phenomenon",
+    "zh": "电毛细现象*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary phoresis",
+    "zh": "电毛细泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary zero",
+    "zh": "电毛细零点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocapillary zero potential",
+    "zh": "电毛细零点电位",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrochemical buffer solution",
+    "zh": "电化学缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolyte solution",
+    "zh": "电解质溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic dissolution",
+    "zh": "电解溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic solution",
+    "zh": "电解溶液 electrolytic solution pressure(=electrolytic solution tension)电解(溶液)压(力) electrolytic solution tension(=electrolytic solution pressure)电解(溶液)压(力)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic solution tension theory",
+    "zh": "电解压理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromigration injection",
+    "zh": "电迁移进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrophoretic injection",
+    "zh": "电迁移进样",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrophoretic resolution",
+    "zh": "电泳分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsifiable solution",
+    "zh": "乳油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion-based filler",
+    "zh": "乳液型填孔剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion binder",
+    "zh": "乳液基料;乳液黏结剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "energy resolution",
+    "zh": "能量分辨*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "entrance effect in capillary flow",
+    "zh": "毛细管流动入口效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "entropy of dissolution",
+    "zh": "溶解熵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzymic resolution",
+    "zh": "酶法离析;酶法拆分",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equitransferent filling solution",
+    "zh": "等传输充填液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "escaping coefficient",
+    "zh": "逃逸系数；逸出系数",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "escaping tendency",
+    "zh": "逃逸趋势",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "escaping vapor",
+    "zh": "逃逸蒸汽；逸出蒸汽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "etching solution",
+    "zh": "磷化处理液；洗涤液;浸蚀液；蚀刻液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etch solution test",
+    "zh": "颜料耐蚀试验（油墨）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethereal solution",
+    "zh": "醚溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etherol solution",
+    "zh": "醚化溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "excipient",
+    "zh": "赋形剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excipient vehicle",
+    "zh": "赋形剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exhausted solution",
+    "zh": "废溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exsolution",
+    "zh": "脱溶；出溶；出溶作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extrusion type injection machine",
+    "zh": "压出式注压机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fabric filler",
+    "zh": "织物填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "falling solution",
+    "zh": "再浸液（皮革）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fat solution",
+    "zh": "油脂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feed solution",
+    "zh": "萃取进料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Fehling solution",
+    "zh": "费林溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrous filler",
+    "zh": "纤维填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "field amplified injection",
+    "zh": "场放大进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler",
+    "zh": "填料：填充物;体质颜料;装罐机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler/fiber conductive",
+    "zh": "导电填充剂/导电纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler absorption",
+    "zh": "填料混入",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler acceptance",
+    "zh": "填料混入",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler bars",
+    "zh": "花纹沟槽护胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler block",
+    "zh": "衬块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler bowl",
+    "zh": "滤杯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler coat (",
+    "zh": "底漆)涂层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler content",
+    "zh": "填料含量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler-free vulcanizate",
+    "zh": "无填料硫化胶；纯硫化胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler gum",
+    "zh": "填充胶料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler-inset",
+    "zh": "过滤(器)芯子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fillerless process",
+    "zh": "无纬组织",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler loaded compound",
+    "zh": "填料(填充)胶料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler loading",
+    "zh": "填充(剂用)量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler metal",
+    "zh": "填焊金属；填充金属",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler-neck hose",
+    "zh": "进燃料胶管（汽车）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler opening(=filling hole)",
+    "zh": "填充孔；注入孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler orientation",
+    "zh": "填料取向",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler plate",
+    "zh": "填料板（塑料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler reinforcement",
+    "zh": "填充补强",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler reinforcement effect",
+    "zh": "填料加强效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler reservoir",
+    "zh": "填料储器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler retention",
+    "zh": "填料保持",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler ring",
+    "zh": "衬环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler rod",
+    "zh": "焊条;嵌条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler seam",
+    "zh": "填密缝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler sheet",
+    "zh": "垫片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler speck",
+    "zh": "填料斑瑕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler test of grease",
+    "zh": "润滑脂内填料量的测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filler yarn",
+    "zh": "纬纱；纬线（纺）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filling gun",
+    "zh": "注油枪 filling hole(=filler opening; filling opening; filling orifice)填充孔；注入孔",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "filling solution",
+    "zh": "充填液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "finely divided suspension",
+    "zh": "微细悬浮液(体)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fine suspension",
+    "zh": "微悬浮体;微悬浮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "first patent flour",
+    "zh": "一级专利粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixative solution",
+    "zh": "固定液；定影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixed capital",
+    "zh": "固定资本；固定资产",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fixed dosage",
+    "zh": "固定的剂量(用量); 规定的用量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fixed solution with hardener",
+    "zh": "坚膜定影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixer solution",
+    "zh": "定影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixing solution",
+    "zh": "固定液；定影液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash evaporating injection",
+    "zh": "闪蒸进样法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring tablet",
+    "zh": "食用片剂香料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flock filler",
+    "zh": "绒屑填充剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flooding solution plating",
+    "zh": "流动镀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection analysis(FIA)",
+    "zh": "流动注射分析(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection analysis gradient technique",
+    "zh": "流动注射分析梯度技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection analyzer",
+    "zh": "流动注射分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection chemiluminescence measurement",
+    "zh": "流动注射化学发光测量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection immunoassay",
+    "zh": "流动注射免疫分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection-renewable surface technique",
+    "zh": "流动注射-可更新表面技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection-spectrophotometry",
+    "zh": "流动注射分光光度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow injection system",
+    "zh": "流动注射系统 flow programming high performance liquid chromatography程序变流高效液相色谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam solution",
+    "zh": "泡沫塑料溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "formulation",
+    "zh": "列出公式;公式化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "formulation of cleaner",
+    "zh": "清洗剂(去污剂)配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "formulation parameter",
+    "zh": "配方参数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foul solution",
+    "zh": "秘臭溶液；污液；废液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fountain solution(=dampening solution)",
+    "zh": "湿润液;润版液；润版药水",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional dissolution",
+    "zh": "分级溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional solution",
+    "zh": "分级溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation due to capillary leak",
+    "zh": "毛细管漏孔的分馏 fractionation efficiency of tower 塔的分馏效率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free solution capillary electrophoresis",
+    "zh": "自由溶液毛细管电泳",
+    "role": "secondary",
+    "confidence": 5.0
+  },
+  {
+    "en": "fuel injection",
+    "zh": "燃料喷射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel injection nozzle",
+    "zh": "燃料喷嘴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel injection pump",
+    "zh": "燃料油喷射泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fugitive binder",
+    "zh": "短效黏结剂;短效成膜物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fumeless dissolution",
+    "zh": "无烟溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "functional filler",
+    "zh": "功能性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gap filler",
+    "zh": "裂缝填充物；缝隙填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas aided injection molding",
+    "zh": "气辅注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-assist injection molding",
+    "zh": "气体辅助注射成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gaseous solution",
+    "zh": "气溶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-filler incandescent lamp",
+    "zh": "充气白炽灯泡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas in solution",
+    "zh": "溶解气",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline-water solution",
+    "zh": "汽油-水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-phase suspension process",
+    "zh": "气相悬浮过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gated injection",
+    "zh": "门式进样法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gelatin(e) capsule",
+    "zh": "胶囊",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gene dosage",
+    "zh": "基因数量; 基因剂量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glass capillary",
+    "zh": "玻璃毛细管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass capillary gas chromatography",
+    "zh": "玻璃毛细管气相色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass capillary viscometer",
+    "zh": "玻璃毛细管黏度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycolic suspension",
+    "zh": "乙二醇悬浮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gram molecular solution",
+    "zh": "克分子溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gram's iodine solution",
+    "zh": "革兰氏碘液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "granular tapioca",
+    "zh": "木薯粉片",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grease filler",
+    "zh": "润滑脂填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grease organic filler",
+    "zh": "润滑脂有机填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grout filler",
+    "zh": "灌浆填料;灌缝砂浆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gum filler",
+    "zh": "填充胶条",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gypsum filler",
+    "zh": "石膏填孔料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hallikainen capillary viscometer",
+    "zh": "哈利凯南毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hayem solution",
+    "zh": "海姆试液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "head variation in glass capillary viscometer",
+    "zh": "玻璃毛细管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heated capillary spinneret",
+    "zh": "喷孔加热式纺丝板",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat of solution",
+    "zh": "溶解热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy solution",
+    "zh": "重液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Henneberg's solution",
+    "zh": "亨内伯格氏溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "HEPES-buffered salt solution HEPES",
+    "zh": "缓冲盐溶液 </div>",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high filler loading capacity",
+    "zh": "高填充量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-gravity filler",
+    "zh": "重质填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high performance capillary electrophoresis",
+    "zh": "高效毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high pressure capillary",
+    "zh": "高压毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high pressure capillary rheometer",
+    "zh": "高压毛细管流变仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high resolution",
+    "zh": "高分辨;高分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution column",
+    "zh": "高分辨柱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution data processing",
+    "zh": "高分辨数据处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution electron microscope",
+    "zh": "高分辨电子显微镜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution electron microscopy (HREM)",
+    "zh": "高分辨电镜*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution gas chromatography",
+    "zh": "高分辨气相色谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution grating",
+    "zh": "高分辨光栅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution image",
+    "zh": "高分辨像",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution interferometer",
+    "zh": "高分辨干涉仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution liquid chromatography",
+    "zh": "高分辨液相色谱(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution mass spectrometer",
+    "zh": "高分辨质谱仪(计)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution matrix",
+    "zh": "高分辨矩阵(点阵)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high resolution spectroscopy",
+    "zh": "高分辨光谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high temperature solution polycondensation",
+    "zh": "高温溶液缩聚(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high voltage capillary electrophoresis",
+    "zh": "高压毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high voltage capillary zone electrophoresis",
+    "zh": "高压毛细管区带电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homogeneous solution polymerization",
+    "zh": "均相溶液聚合 (作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homo-ionic solution",
+    "zh": "同离子溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "horizontal injection",
+    "zh": "水平注塑;水平注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hoyer's solution",
+    "zh": "霍耶氏(氮源需求测定)溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hübl solution",
+    "zh": "胡伯溶液（测定碘值的试剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydraulic binder",
+    "zh": "水力结合器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydraulic rabbit capsule",
+    "zh": "液动跑兔盒；液动传递(靶)盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrocarbon-based solution",
+    "zh": "烃基溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen peroxide solution",
+    "zh": "过氧化氢溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrophilic filler",
+    "zh": "亲水(性)填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrophobic microcapillary vent",
+    "zh": "憎水性微毛细管通气口",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrostatic capillary viscometer",
+    "zh": "流体静压毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrostatic injection",
+    "zh": "静力进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrostatic pressure injection",
+    "zh": "流体静压进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrotropic solution",
+    "zh": "水溶溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ideal solution",
+    "zh": "理想溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immiscible solution",
+    "zh": "不溶混溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immunity analysis of capillary electrophoresis",
+    "zh": "毛细管电泳免疫分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inactive filler",
+    "zh": "钝性填料；非活性填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in-depth resolution",
+    "zh": "深度分辨",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial rapid balance",
+    "zh": "工业快速秤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inert filler",
+    "zh": "惰性填料*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "infrared rapid-scan monochromator",
+    "zh": "红外快扫描单色仪；快扫描红外单色仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inhibiting solution",
+    "zh": "缓蚀液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection",
+    "zh": "注射；注入；喷射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection band spreading",
+    "zh": "注射谱带扩展",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection block",
+    "zh": "注射块",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection blow moulding",
+    "zh": "注射吹塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection channel",
+    "zh": "注样通道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection compression molding",
+    "zh": "注塑压缩成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection condenser",
+    "zh": "喷射冷凝器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection cooling",
+    "zh": "注入冷却",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection depth",
+    "zh": "注射深度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection efficiency",
+    "zh": "注射效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection error",
+    "zh": "注射误差",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection heater",
+    "zh": "注射加热器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection hotspot",
+    "zh": "注射加热部位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection laser",
+    "zh": "注入型激光器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection life",
+    "zh": "注射寿命",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection mold",
+    "zh": "射模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection-molded item",
+    "zh": "注压制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molder",
+    "zh": "注射模型成形机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molding",
+    "zh": "注射成型*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molding machine",
+    "zh": "注压(硫化)机;注(射)模(塑)机（塑料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection mould",
+    "zh": "注(射塑)模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection-moulded parison",
+    "zh": "注塑型坯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection moulding",
+    "zh": "注(射)模(塑)法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection nozzle",
+    "zh": "注射管嘴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection orifice",
+    "zh": "注射孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection piston",
+    "zh": "注射柱塞",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection plunger",
+    "zh": "注射柱塞",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection port",
+    "zh": "注射口；进样口",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection pressure",
+    "zh": "注射压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection pump",
+    "zh": "注射泵；喷射泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection splicer",
+    "zh": "注压(制品)接头机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection syringe",
+    "zh": "注射管；注射器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection technique",
+    "zh": "注射技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection temperature",
+    "zh": "注射温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection torpedo",
+    "zh": "注射分流梭",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection valve",
+    "zh": "进样阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection volume",
+    "zh": "注入体积",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection water",
+    "zh": "注射水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection welding",
+    "zh": "注塑焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ink tablet",
+    "zh": "墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in-line sampling by flow injection",
+    "zh": "流动注射在线进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inorganic active filler",
+    "zh": "活性无机填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inorganic binder",
+    "zh": "无机漆基;无机黏结剂；无机黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inorganic filler",
+    "zh": "无机填料；矿质填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insecticidal solution",
+    "zh": "杀虫液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral heat of solution",
+    "zh": "积分溶解热*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interconnected capillary",
+    "zh": "互连毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intergranular corrosion test solution",
+    "zh": "晶间腐蚀试验液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal filling solution",
+    "zh": "内充溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal filling solution of sensing electrode",
+    "zh": "敏感电极的内充溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interstitial solution",
+    "zh": "填隙液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intra-column injection system",
+    "zh": "柱内注射系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inverse suspension polymerization",
+    "zh": "反相悬浮聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange capillary electrokinetic chromatography",
+    "zh": "离子交换毛细管电动色谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion injection technique",
+    "zh": "离子注入技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Irany glass capillary viscometer",
+    "zh": "艾拉奈玻璃毛细管黏度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "iron filler",
+    "zh": "硬质腻子；铁腻子（硬质油性腻子的别名）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irradiation capsule",
+    "zh": "照射盒；照射罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isoapiole",
+    "zh": "异芹菜脑 C₁₂H₁₄O₄",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isohydric indicator solution",
+    "zh": "等氢(离子)指示(剂溶)液 </div>",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isohydric solution",
+    "zh": "等氢离子溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoosmotic solution",
+    "zh": "等渗(压)溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotachophoresis",
+    "zh": "等速电泳 isotachophoresis injection-coupled with capillary zone",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "isotonic saline solution",
+    "zh": "等渗压盐溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotonic solution",
+    "zh": "等渗溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope capsule",
+    "zh": "同位素源盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "jalapic acid",
+    "zh": "球根牵牛酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "jalapin",
+    "zh": "球根牵牛苷；紫茉莉苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "jalapinolic acid 11-",
+    "zh": "羟(基)十六(烷)酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "joint filler",
+    "zh": "接缝填充料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Kahle's solution",
+    "zh": "卡耳溶液（一种固定剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kapillar analyse(=capillary analysis)",
+    "zh": "毛细(管)分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kapillar-analysis",
+    "zh": "毛细分析(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kapillary(=capillary)",
+    "zh": "毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kauri gum solution",
+    "zh": "贝壳杉树胶溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinematic type of capillary viscometer",
+    "zh": "运动型毛细管黏度计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kinetic theory of solution",
+    "zh": "溶液的分子运动(理)论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "knifing filler",
+    "zh": "刮涂(用)填孔剂；刮涂腻子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Kolthoff's buffer solution",
+    "zh": "柯耳蜀夫缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Koppeschaar solution",
+    "zh": "科别沙尔试液（即 0.1mol/L 溴液）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Labarraque solution",
+    "zh": "拉巴腊克液（次氯酸钠的水溶液）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminal filler",
+    "zh": "片状填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Lange solution",
+    "zh": "兰格溶液（一种胶态金溶液）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lapidolite",
+    "zh": "锂云母",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis albus",
+    "zh": "天然硅氟化钙",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis amiridis",
+    "zh": "刚玉粉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis cal aminaris",
+    "zh": "异极矿",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis causticus",
+    "zh": "熔融氢氧化钠(钾)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis crucifer",
+    "zh": "十字石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis divinus",
+    "zh": "铜矾",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis fluoris",
+    "zh": "紫石英",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis lazuli",
+    "zh": "天青石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis lunaris",
+    "zh": "熔融硝酸银",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapis-ollaris",
+    "zh": "壶石；皂石（滑石的变种）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laser induced capillary vibration",
+    "zh": "激光诱导毛细管振动",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laser-reduced capillary vibration detection",
+    "zh": "激光诱导毛细管振动测量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "latex binder",
+    "zh": "胶乳黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "latex binder index",
+    "zh": "乳胶基料指数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lateral resolution",
+    "zh": "横向分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leaching liquor(=leaching solution)",
+    "zh": "沥滤液；浸提液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leaching solution(=leaching liquor)",
+    "zh": "沥滤液；浸提液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lean solution",
+    "zh": "废溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "letters patent",
+    "zh": "专利权证书；专利证；特许证书 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "level filler (",
+    "zh": "油)液面控制孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Lieben solution",
+    "zh": "碘的碘化钾溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light filler",
+    "zh": "轻质填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid colloidal suspension",
+    "zh": "液态胶体悬浮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-based formulation",
+    "zh": "(颜、填料表面处理的)浆液配方;(以)液量计配方",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid-crystalline solution",
+    "zh": "液-晶态溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid filler",
+    "zh": "液态腻子;液态填料;加液器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid injection molding(LIM)",
+    "zh": "液体注射模压成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-phase suspension process",
+    "zh": "液相悬浮法（催化剂上",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid solution",
+    "zh": "液体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "living solution",
+    "zh": "活性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Locke's solution",
+    "zh": "无蛋白质人工血清；乐氏液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loop injection system",
+    "zh": "环式注射系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loose filler",
+    "zh": "疏松填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low density filler",
+    "zh": "低密度填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lower critical solution temperature(LCST)",
+    "zh": "最低临界共溶(溶解)温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low resolution accurate mass measurement",
+    "zh": "低分辨准确质量测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low resolution mass spectrometer",
+    "zh": "低分辨质谱仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low temperature solution polycondensation",
+    "zh": "低温溶液缩聚(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lubricant capillarity",
+    "zh": "润滑剂毛细管现象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Luggin capillary",
+    "zh": "卢金毛细管*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Lugol's solution",
+    "zh": "路戈尔碘液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lyophobic colloidal solution",
+    "zh": "疏液胶体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lysidine",
+    "zh": "赖西丁；2-甲基-4,5-二氢咪唑 lysidine solution 甲基二氢咪唑溶液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mass dyeing by injection",
+    "zh": "注射法整体染色：注射法纺前染色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass resolution",
+    "zh": "质量分辨",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mat binder (",
+    "zh": "玻璃纤维)毡片黏结剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium accelerator dosage",
+    "zh": "中等量促进剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "medium phase suspension",
+    "zh": "中间相悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capillary viscometer)",
+    "zh": "熔体(流动)指数测定仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt-shaping",
+    "zh": "熔融成形",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "metal filler",
+    "zh": "金属填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal ion buffer solution",
+    "zh": "金属离子缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal plating solution",
+    "zh": "金属镀液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metanolic KOH solution",
+    "zh": "苛性钾甲醇溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metastable solid solution",
+    "zh": "亚稳态固溶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methanolic PVA solution",
+    "zh": "聚乙烯醇甲醇溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methocel solution",
+    "zh": "甲基纤维素溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micellar electrokinetic capillary chromatography(MECC; MEKC)",
+    "zh": "胶束电动毛细管色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "micellar solution",
+    "zh": "胶束溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Michaelis' buffer solution",
+    "zh": "米氏缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcapillary",
+    "zh": "微毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcapillary system",
+    "zh": "微毛细管体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcapsule",
+    "zh": "微胶囊",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcapsule type adhesive",
+    "zh": "微胶囊型黏合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "microcellular filler",
+    "zh": "微孔填料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-dispersed filler",
+    "zh": "微粒分散填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-injection technique",
+    "zh": "微注射法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micromolding in capillary",
+    "zh": "毛细管内",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "micro rapid mill",
+    "zh": "微型快速磨碎机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microsample-injection",
+    "zh": "微量进样(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microscopic dissolution time",
+    "zh": "微观溶解时间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microsuspension polymerization",
+    "zh": "微悬浮聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mineral filler",
+    "zh": "矿物填料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed solution",
+    "zh": "混合溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed solution method",
+    "zh": "混合溶液法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modulus at rapid deformation",
+    "zh": "速形变模量；动模量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molal solution",
+    "zh": "摩尔溶液；重模溶液；质量摩尔浓度溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molar heat of solution",
+    "zh": "摩尔溶解热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molar solution",
+    "zh": "摩尔溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular capsule",
+    "zh": "分子胶囊",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular solution",
+    "zh": "分子溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular solution volume",
+    "zh": "摩尔溶液体积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monodisperse suspension",
+    "zh": "单分散悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mother solution",
+    "zh": "母液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mucilaginous solution",
+    "zh": "黏液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi capillary column",
+    "zh": "多毛细管柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multiple-binder system",
+    "zh": "多元基料体系;多组分基料体系;多组分成膜物体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple solution method",
+    "zh": "多重解法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiport injection reactor",
+    "zh": "多孔喷射反应器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiresolution analysis(MRA)",
+    "zh": "多分辨率分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nanofiller",
+    "zh": "纳米填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nano-second time resolution ultrasonic microscope",
+    "zh": "纳秒时间分辨超声显微镜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Napierian logarithms",
+    "zh": "纳皮耳对数（自然对数）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Napier's equation",
+    "zh": "纳皮耳公式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "napiform",
+    "zh": "茺菁状(的)孔",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "natural wood filler",
+    "zh": "木材本色填孔料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negapillin",
+    "zh": "负青霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neutral solution",
+    "zh": "中性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nevirapine",
+    "zh": "奈韦拉平（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nitrite solution",
+    "zh": "亚硝碱液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-aqueous solution",
+    "zh": "非水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-carbon black filler",
+    "zh": "非炭黑填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonelectrolyte solution",
+    "zh": "非电解质溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonfibrous filler",
+    "zh": "非纤维填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-freezing solution",
+    "zh": "不冻液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-gel capillary electrophoresis",
+    "zh": "无胶筛分毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonideal solution",
+    "zh": "非理想溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonmicellar solution",
+    "zh": "非胶束溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-Newtonian suspension",
+    "zh": "非牛顿悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-trivial solution",
+    "zh": "非平凡解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic formulation",
+    "zh": "无毒配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal gas solution",
+    "zh": "标准气体吸收液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal solution",
+    "zh": "规度溶液；当量溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "off-line analysis",
+    "zh": "离线分析 off-line capillary electrophoresis-matrix-assisted laser",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil binder",
+    "zh": "油性基料;油性黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil filler hole",
+    "zh": "油料加入器孔；加油口",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil filler pipe",
+    "zh": "油料加入器管；加油管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil filler",
+    "zh": "油料加入器：加油口",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil filler cap",
+    "zh": "油料加入器盖；加油口盖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil injection",
+    "zh": "油喷射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-naphtha solution",
+    "zh": "油的石脑油溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-solvent blend(=oil-solvent solution)",
+    "zh": "油与溶剂的混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-solvent solution(=oil-solvent blend)",
+    "zh": "油与溶剂的混合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "olanzapine",
+    "zh": "奥氮平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "on-column injection",
+    "zh": "柱上注射; 柱头注射; 柱头进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "on-column injection system",
+    "zh": "柱头注射系统; 柱头进样系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open coated capillary",
+    "zh": "空心涂渍毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open hole capillary column",
+    "zh": "空心毛细管柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open tubular capillary packed column",
+    "zh": "空心毛细管填充柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "optical resolution",
+    "zh": "旋光拆开；光学离析；光学分辨",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optimum resolution",
+    "zh": "最佳分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ordered solid solution",
+    "zh": "有序固溶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic binder",
+    "zh": "有机漆基；有机成膜物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic filler",
+    "zh": "有机填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oriental lapis",
+    "zh": "青金石（天然群青）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orthogonal injection",
+    "zh": "正交注入",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "osmotic pressure of polymer solution",
+    "zh": "高聚物溶液的渗透压",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overall resolution efficiency",
+    "zh": "总分离效能指标；总分离效率；总分辨效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overdosage",
+    "zh": "过量；剂量过度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "overlapping resolution mapping(ORM)",
+    "zh": "重叠分辨图形法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxapicene",
+    "zh": "蔷并吡喃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxidizing solution",
+    "zh": "氧化性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "packaging-shaping defect",
+    "zh": "筒子成形疵点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "packed capillary column",
+    "zh": "填充毛细管柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paint filler",
+    "zh": "油漆填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paint formulation",
+    "zh": "油漆配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "papilla",
+    "zh": "乳头状突起",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "particulate filler",
+    "zh": "粒状填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pass into solution",
+    "zh": "溶入溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paste driers(=patent driers)",
+    "zh": "糊状催干剂；膏状催干剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paste filler",
+    "zh": "膏状填孔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent",
+    "zh": "专利(特许证)；专利权;明显的;专利件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patentability",
+    "zh": "可专利(性)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent blue",
+    "zh": "专利蓝（属于三苯甲烷类染料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent coated paper",
+    "zh": "特制涂布纸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent damp-resisting lining",
+    "zh": "特制防潮(糊墙纸)夹衬(层)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent driers(=paste driers)",
+    "zh": "糊状催干剂；膏状催干剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent finish",
+    "zh": "漆革涂饰剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent flour",
+    "zh": "特级面粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent fuel",
+    "zh": "专利燃料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent knotting primer",
+    "zh": "专用木节封闭底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent leather",
+    "zh": "漆皮；人造革",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent vermilion(=mercuric sulfide)",
+    "zh": "硫化汞",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patent white board",
+    "zh": "特别涂布白纸板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Pavy's solution",
+    "zh": "佩维测糖溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peak resolution",
+    "zh": "峰分辨度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pearl filler",
+    "zh": "碳酸钙填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perfect solution",
+    "zh": "完美溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perfume formulation",
+    "zh": "香精配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permanent artificial standard solution",
+    "zh": "代用标准液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pH buffer solution pH",
+    "zh": "缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phosphate-buffer solution(PBS)",
+    "zh": "磷酸盐缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo rapid dyestuff",
+    "zh": "感光显色染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physical solution",
+    "zh": "物理溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physiological salt solution",
+    "zh": "生理食盐溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physiological solution",
+    "zh": "生理溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment binder ratio",
+    "zh": "颜料漆料比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented filler",
+    "zh": "着色填孔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment-to-binder ratio",
+    "zh": "颜(料)基(料)比",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment wiping filler stain (",
+    "zh": "木器用)颜料填孔着色剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piston-in-cylinder capillary viscometer",
+    "zh": "筒内活塞式毛细管黏度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pitch binder",
+    "zh": "沥青黏结剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitch filler",
+    "zh": "沥青填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "planar solution",
+    "zh": "平面解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plaster-cellulose type filler",
+    "zh": "石膏灰泥-纤维素型填孔料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic binder",
+    "zh": "塑性黏合剂；混合增塑剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic fuel-binder",
+    "zh": "燃料黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastic suspension",
+    "zh": "塑性悬浮体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pL buffer solution pL",
+    "zh": "缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plunger preplasticating injection mo(u)lding machine",
+    "zh": "柱塞预塑化式注塑机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pM buffer solution pM",
+    "zh": "缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyacrylate binder",
+    "zh": "聚丙烯酸酯黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyamide binder",
+    "zh": "聚酰胺黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyester capillaries",
+    "zh": "聚酯丝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymer binder",
+    "zh": "聚合物黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerisation in solution",
+    "zh": "溶液聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer solution",
+    "zh": "高分子溶液；聚合物溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyurethane reaction-injection molding",
+    "zh": "聚氨酯反应性-注射成形法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "porous binder",
+    "zh": "多孔基料；多孔性黏结剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "positive capillary electrokinetic chromatography",
+    "zh": "正相毛细管电色谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-shaping treatment",
+    "zh": "后成形处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium bromide tablet method",
+    "zh": "溴化钾(压)片法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potential buffer solution(=potential mediator)",
+    "zh": "电位介体: 电位缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potential mediator(=potential buffer solution)",
+    "zh": "电位介体；电位缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potentiometric determination of pH of solution",
+    "zh": "溶液 pH 的电位测定(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder binder",
+    "zh": "粉末基料;粉末连接料(油墨);粉末黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder filler",
+    "zh": "填充粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "practical formulation",
+    "zh": "实用配方；生产配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precipitation from homogeneous solution",
+    "zh": "均匀沉淀*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precision injection machine",
+    "zh": "精密注塑机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preparation of indicator solution",
+    "zh": "指示剂溶液配制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure-feed filler",
+    "zh": "压力送料设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pretreated filler",
+    "zh": "预处理填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preventive solution",
+    "zh": "预防溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proportioning pigment-binder ratio",
+    "zh": "按颜-基比配料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proprietary phosphating solution",
+    "zh": "专卖(利)磷酸盐处理液；专卖(利)磷化处理液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudosolution",
+    "zh": "假溶液；胶体溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse injection",
+    "zh": "脉动注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quetiapine",
+    "zh": "喹硫平（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quick-frozen solution",
+    "zh": "速冻溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quick-mo(u)ld-changing injection mo(u)lding machine",
+    "zh": "快速换模注塑机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "racemic solid solution",
+    "zh": "外消旋固体溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiator filler",
+    "zh": "散热器进料孔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotherapist",
+    "zh": "放射性治疗工作者",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ram injection machine",
+    "zh": "柱塞式注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapic acid",
+    "zh": "菜子酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid accelerator",
+    "zh": "快速催速剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid aging",
+    "zh": "快速老化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid aging method",
+    "zh": "快速老化法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid analysis",
+    "zh": "快速分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid analysis method",
+    "zh": "快速分析方法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapidazol",
+    "zh": "快磺素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid-breaking emulsified asphalt",
+    "zh": "快裂乳化沥青",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid cure adhesive",
+    "zh": "速(变)定胶黏剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid-curing",
+    "zh": "快固的；快凝的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid-curing cutback(=rapid-curing asphalt; rapid-curing paving binder)",
+    "zh": "快干(铺路)沥青",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "rapid-curing paving binder(=rapid-curing cutback)",
+    "zh": "快干(铺路)沥青",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "rapid degradation",
+    "zh": "迅速降解",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid determine of red fuel",
+    "zh": "红油的快速鉴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid developer",
+    "zh": "快速显影液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid-drying varnish",
+    "zh": "快干清漆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid dry process",
+    "zh": "快速干燥法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fast blue",
+    "zh": "快速坚牢蓝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fast colors",
+    "zh": "快速坚牢颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fast orange",
+    "zh": "快速坚牢橙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fast pulver process",
+    "zh": "粉状鞣剂转鼓速鞣法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fast scarlet",
+    "zh": "快速坚牢猩红",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid filter",
+    "zh": "快速过滤器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid fixer with hardener",
+    "zh": "快速坚膜定影液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid floculation",
+    "zh": "快速絮凝(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid flow (mixing) method",
+    "zh": "快速流动(混合)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid freezing technique",
+    "zh": "快速冷冻技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid hardening cement",
+    "zh": "快硬水泥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid heater",
+    "zh": "快速加热器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid liming",
+    "zh": "快速浸灰(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid paper",
+    "zh": "快(性印像)纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid polymerization",
+    "zh": "快速聚合",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid preoxidation",
+    "zh": "快速预氧化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid process(=r-process)",
+    "zh": "快过程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid radioimmunoassay",
+    "zh": "快速放射免疫测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid scan monochromator",
+    "zh": "快速扫描单色仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid scanning interferometer",
+    "zh": "快速扫描干涉仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid solidification",
+    "zh": "快速凝固法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid specific surface area analyzer",
+    "zh": "快速比表面分析仪",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid steel",
+    "zh": "高速钢",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid steel tool",
+    "zh": "高速钢工具",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid stock-removal",
+    "zh": "快速切削；快速磨削",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid tannage",
+    "zh": "速鞣法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid tanning of sole leather",
+    "zh": "底革速鞣",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid test of spirit",
+    "zh": "白酒快速检验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid tool steel",
+    "zh": "高速工具钢",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapin",
+    "zh": "芸苔素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapinic acid",
+    "zh": "菜子油中异油酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reaction injection molding(RIM)",
+    "zh": "反应注射模塑；反应注射成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reagent solution",
+    "zh": "试剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "real solution",
+    "zh": "实际溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reciprocating screw injection machine",
+    "zh": "往复式螺杆注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "redox buffer solution",
+    "zh": "氧化还原缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "red-rapid photographic plate",
+    "zh": "红快型感光板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "red tan solution",
+    "zh": "红棕色溶液：红褐色溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reducing solution",
+    "zh": "还原性溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reference solution",
+    "zh": "参比溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reference capillary",
+    "zh": "参比毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reference electrode filling solution",
+    "zh": "参比电极充填液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regeneration of doctor solution",
+    "zh": "铅酸钠溶液的再生",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regular solution",
+    "zh": "正规溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regular solution theory",
+    "zh": "正规溶液理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "regulator solution",
+    "zh": "调节(溶)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reinforced reaction injection molding",
+    "zh": "增强反应注塑法：增强反应性注射成形法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reinforcing filler",
+    "zh": "补强填充剂；活性填充剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "relative resolution product",
+    "zh": "相对分离度积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replenishing solution",
+    "zh": "补充液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-bound exterior paste filler",
+    "zh": "外用树脂基浆状填孔剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin injection molding",
+    "zh": "树脂注塑成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-pigment ratio(=pigment-binder ratio)",
+    "zh": "树脂颜料比;",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resistance to scraping",
+    "zh": "抗刮性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "resistant to saline solution",
+    "zh": "耐盐水的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution",
+    "zh": "拆分*;分离度*;分辨力;分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution capacity",
+    "zh": "分辨能力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution distance",
+    "zh": "分辨距离；解析距离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution loss",
+    "zh": "分辨损失",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution of precipitate",
+    "zh": "沉淀的溶解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution power",
+    "zh": "分辨本领",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resolution product",
+    "zh": "分离度积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resuspension",
+    "zh": "再悬浮(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reverse capillary electrokinetic chromatography",
+    "zh": "反向毛细管电色谱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reversed direct injection burner",
+    "zh": "逆式直接喷入燃烧器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "revivification of solution",
+    "zh": "溶剂的复活；溶剂活性的复原",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rework solution",
+    "zh": "返回(溶)液；返工(溶)液；再加工(溶)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheology of suspension",
+    "zh": "悬浮体流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rich solution",
+    "zh": "浓溶液；富溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Ringer's solution",
+    "zh": "林格氏溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rinse solution",
+    "zh": "冲洗(溶)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rising solution",
+    "zh": "提浸溶液（革）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "road binders",
+    "zh": "路油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Rohrbach's solution",
+    "zh": "氯化钡和氯化汞的溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotary injection machine",
+    "zh": "回转式注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "r-process(=rapid process)",
+    "zh": "快过程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber-reinforcing filler",
+    "zh": "橡胶补强填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber solution",
+    "zh": "橡胶胶水",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubber solution strainer",
+    "zh": "橡胶胶水滤液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "runnerless injection molding",
+    "zh": "无流道冷料注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saline solution 0.6%",
+    "zh": "食盐水",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Salkowski's solution",
+    "zh": "磷钨酸溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sal sapientiae",
+    "zh": "氯化汞铵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "salt patenting",
+    "zh": "盐浴淬火；盐浴等温处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "salt solution reservoir",
+    "zh": "盐溶液储槽；盐水储槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sample enrichment injection of chromatography",
+    "zh": "色谱富集进样",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sample injection",
+    "zh": "注射试样；进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sample injection port",
+    "zh": "试样注射口；注样口",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sample solution",
+    "zh": "样品溶液；试液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sandwich injection",
+    "zh": "夹层注射",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sapietic acid",
+    "zh": "杉皮酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sapinine",
+    "zh": "乌柏碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sapo jalapinus",
+    "zh": "药喇叭皂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saturated solution",
+    "zh": "饱和溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Schiff solution",
+    "zh": "席夫醛试液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Schweitzeros reagent (=cupriammonium solution)",
+    "zh": "铜铵溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillating solution",
+    "zh": "闪烁溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scintillation solution",
+    "zh": "闪烁液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scraping",
+    "zh": "刮削；刮面;刮工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scraping knife",
+    "zh": "刮刀",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scraping method",
+    "zh": "铲刮除锈法；铲刮清洗(清理)法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scraping ring",
+    "zh": "刮环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scraping tool",
+    "zh": "刮刀",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "screening formulation",
+    "zh": "优选配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screw injection machine",
+    "zh": "螺杆柱塞并用式注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw injection molding machine",
+    "zh": "螺杆式注塑机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw-ram injection machine",
+    "zh": "螺杆柱塞并用式注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scrub solution",
+    "zh": "洗涤液；萃洗剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sealing filler",
+    "zh": "封闭填孔剂；封闭填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second patent flour",
+    "zh": "二级专利粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation of suspension",
+    "zh": "乳胶体沉积；悬浮物的沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-stratifying formulation",
+    "zh": "自动分(成)层配方;自动分(成)层涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semidissolution(=acid swelling)",
+    "zh": "酸溶胀法；半溶解法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sequent injection analysis",
+    "zh": "顺序注射分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "settled solution",
+    "zh": "澄清溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shaping",
+    "zh": "成形；成型;修刨；刨",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping cycle",
+    "zh": "成型周期",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping jig",
+    "zh": "成型工具；成型夹具",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping machine",
+    "zh": "牛头刨床",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping of catalyst",
+    "zh": "催化剂成型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping operation",
+    "zh": "刨削操作；成形操作",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping plate",
+    "zh": "样板；规;轨距规",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shaping without stock removal",
+    "zh": "无屑成形",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shipping capsule",
+    "zh": "运输小盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "side injection molding",
+    "zh": "侧面注压法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silica solution",
+    "zh": "硅溶胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silica-gel filler",
+    "zh": "硅补强剂：白炭黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silica type filler",
+    "zh": "硅补强剂；白炭黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliceous filler",
+    "zh": "硅质填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sinapic acid",
+    "zh": "芥子酸 sinapine 芥子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sinapinic acid",
+    "zh": "芥子酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sinapis",
+    "zh": "芥子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single-channel injection valve",
+    "zh": "单道注入阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "singular solution",
+    "zh": "奇(异)解;特殊溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow-curing paving binder",
+    "zh": "慢干的液体道路沥青",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soapiness",
+    "zh": "皂滑性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soaping",
+    "zh": "皂洗；皂煮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap solution",
+    "zh": "皂碱液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap tablet",
+    "zh": "皂丸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soda solution",
+    "zh": "苏打溶液；碱液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soda-wash solution",
+    "zh": "碱洗溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sodium fatty-acylate solution",
+    "zh": "脂肪酰化钠溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sodium hypochlorite solution",
+    "zh": "次氯酸钠液；漂白液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soil capillary water holding capacity",
+    "zh": "土壤毛细管持水量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soiling solution",
+    "zh": "污液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sole binder",
+    "zh": "单独基料；单一基料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid binder (",
+    "zh": "催化剂的)固体黏合剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid-gas solution",
+    "zh": "固气溶体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid pulverulent filler",
+    "zh": "微粉状填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid solution",
+    "zh": "固溶体*；固(态)溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid solution alloy",
+    "zh": "固溶体合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid solution cermet(SSC)",
+    "zh": "固溶体金属陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid suspension opals (",
+    "zh": "固体)粒子悬浮乳白玻璃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sol solution",
+    "zh": "溶胶溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution spraying friction plating",
+    "zh": "摩擦电喷镀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution strainer",
+    "zh": "溶液过滤器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution strength",
+    "zh": "溶液浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution tank",
+    "zh": "溶液槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution technique",
+    "zh": "溶液技术；溶解技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution tension",
+    "zh": "溶解压",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solution theory",
+    "zh": "溶解理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Solvay solution",
+    "zh": "苏尔维液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-binder ratio",
+    "zh": "溶剂基料比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent-free injection",
+    "zh": "无溶剂注射",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent solution",
+    "zh": "溶剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soot-water suspension",
+    "zh": "烟灰-水悬浮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "source capsule",
+    "zh": "源盒；源管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Soxhlet solution",
+    "zh": "索格利特溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "space resolution",
+    "zh": "空间分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spatchel type knifing filler (",
+    "zh": "木料粗纹理用)快干型刮涂填孔料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spatial resolution",
+    "zh": "空间分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spiked solution",
+    "zh": "掺料溶液；增敏溶液；示踪溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spinning solution",
+    "zh": "纺丝溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "splitless capillary column",
+    "zh": "无分流毛细管柱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "split-loop injection",
+    "zh": "分支环注入技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spray-bonderizing solution",
+    "zh": "喷雾磷化溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spread suspension method",
+    "zh": "悬浮液涂布观察法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard acid solution",
+    "zh": "标准酸溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard alkali solution",
+    "zh": "标准碱溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard buffer solution",
+    "zh": "标准缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard color solution",
+    "zh": "标准比色液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standardized solution",
+    "zh": "标准溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard solution",
+    "zh": "标准溶液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "starch solution",
+    "zh": "淀粉溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stock solution",
+    "zh": "储(备溶)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stop-flow injection",
+    "zh": "停流进样*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight capillary",
+    "zh": "直毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped solution",
+    "zh": "贫化液；反萃过的溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stripper solution",
+    "zh": "剥膜液;汽提溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stripping solution",
+    "zh": "反提(取)剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strong solution",
+    "zh": "浓溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "submicellar solution",
+    "zh": "逊胶束溶液〔浓度低于临界胶束浓度的表面活性剂溶液〕",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "submicro capillary",
+    "zh": "亚微毛细管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subsolution",
+    "zh": "面下溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sun patent leather out of doors",
+    "zh": "室外用耐晒专利皮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superacid solution",
+    "zh": "过量乙酸溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supersaturated solution",
+    "zh": "过饱(和)溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supersaturation solution",
+    "zh": "过饱和溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface coating formulations",
+    "zh": "表面涂料配方",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "surplus solution",
+    "zh": "剩余溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspended pipe line(=suspension pipe line)",
+    "zh": "架空管道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension",
+    "zh": "悬浮液；悬浊液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension agent (=suspending agent)",
+    "zh": "悬浮剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension bed",
+    "zh": "悬浮床",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension bunker",
+    "zh": "悬吊进漏斗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension colloid",
+    "zh": "悬(浮)胶(体)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension dispersing agent",
+    "zh": "悬浮分散剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension dyeing",
+    "zh": "悬浮染色",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension effect",
+    "zh": "悬浮效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension line",
+    "zh": "悬挂索（吊管道用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension medium",
+    "zh": "悬浮介质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension method",
+    "zh": "悬浮法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension packing",
+    "zh": "悬浮填充",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension pipe line(=suspended pipe line)",
+    "zh": "架空管道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension polymer",
+    "zh": "悬浮聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension polymerization",
+    "zh": "悬浮聚合*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension rheology",
+    "zh": "悬浮体流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension stability",
+    "zh": "悬浮稳定性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension stabilizer",
+    "zh": "悬浮稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension system",
+    "zh": "悬浮(体)系;摇动法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suspension time",
+    "zh": "悬浮时间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sustained release dosage",
+    "zh": "缓释剂",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "swirling fuel injection",
+    "zh": "涡流燃烧喷射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "switch capsule",
+    "zh": "开关盒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synchronized cyclic capillary electrophoresis",
+    "zh": "同步循环毛细管电泳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "synthetic reference solution",
+    "zh": "合成参比溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "syringe injection",
+    "zh": "注射器进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tablet (",
+    "zh": "药)片：片剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet agent",
+    "zh": "压片剂 tablet compressing machine(=tablet compression machine)压片机 tablet compression machine(=tablet compressing machine;",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet machine)",
+    "zh": "压片机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet(ing) machine",
+    "zh": "造粒机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet machine(=tablet compression machine)",
+    "zh": "压片机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet method",
+    "zh": "片剂法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablet press",
+    "zh": "压片机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tabletting",
+    "zh": "压片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tabletting machine",
+    "zh": "压片机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tabletting press",
+    "zh": "压片机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tablettized",
+    "zh": "压成片的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tank filler",
+    "zh": "油罐加油口",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank filler cap",
+    "zh": "油罐加油口盖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tapioca",
+    "zh": "木薯淀粉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tapioca flour",
+    "zh": "木薯(淀)粉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "temporal resolution",
+    "zh": "时间分辨",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tenth-normal solution",
+    "zh": "分规溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ternary solution",
+    "zh": "三元溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "test formulation",
+    "zh": "试验配方",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "test solution",
+    "zh": "试液*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "theoretical resolution",
+    "zh": "理论分辨率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "therapic acid",
+    "zh": "治疗酸；十八碳四烯酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal capillary pumping",
+    "zh": "热毛细作用微泵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Thiel-Stoll solution",
+    "zh": "梯耳-斯图耳溶液；饱和高氯酸铅溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thixotropic binder",
+    "zh": "触变性漆基;触变性黏结剂;触变性连接料（油墨）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thixotropic filler",
+    "zh": "触变性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Thoulet's solution",
+    "zh": "杜氏碘化汞钾浓溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thrapic acid",
+    "zh": "十七碳四烯酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thyroid tablets",
+    "zh": "甲状腺片（药）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tinted rubbing filler",
+    "zh": "可着色和打磨的腻子（填孔剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titrated solution",
+    "zh": "滴定过的溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toggle type injection mo(u)lding machine",
+    "zh": "肘节式注塑机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "top filler",
+    "zh": "炉顶加料器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "top suspension",
+    "zh": "上悬式",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "top suspension centrifuge",
+    "zh": "上悬式离心机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "torsional suspension",
+    "zh": "扭力式橡胶弹簧",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "torsion suspension",
+    "zh": "防扭振橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total heat of solution",
+    "zh": "总溶解热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total resolution efficiency",
+    "zh": "总分辨效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Toulet's solution",
+    "zh": "碘化汞钾的浓溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "treating solution",
+    "zh": "精制用溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trichloroethylene phosphating solution",
+    "zh": "三氯乙烯磷化处理液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tris buffer solution",
+    "zh": "三(羟甲基)氨基甲烷缓冲液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true solution",
+    "zh": "真溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "twin-rapier loom",
+    "zh": "双层剑杆织机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultra-rapid vulcanization",
+    "zh": "超速硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unformulated surfactant solution",
+    "zh": "单纯表面活性剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unicoil injection process",
+    "zh": "单旋管注入(裂化)法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unique solution",
+    "zh": "唯一解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unit mass resolution",
+    "zh": "单位质量分辨(率)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unknown solution",
+    "zh": "未知(溶)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsaturated solution",
+    "zh": "不饱和溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "untrivial solution",
+    "zh": "非零解",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "upper critical solution temperature(UCST)",
+    "zh": "最高临界共溶(溶解)温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum filler(=vacuum filling machine)",
+    "zh": "真空填充器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum filling machine(=vacuum filler)",
+    "zh": "真空填充器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum injection",
+    "zh": "抽空进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum-injection process",
+    "zh": "真空注射法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "valve injection",
+    "zh": "阀注射；阀进样",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "valveless injection system",
+    "zh": "无阀注射系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Van't Hoff solution",
+    "zh": "范特霍夫溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "variable reference solution method",
+    "zh": "参比溶液变化法；对照溶液变化法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vasopressin injection",
+    "zh": "加(血)压素注射",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vegetable filler",
+    "zh": "植物性填料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vegetables pesticide residues rapid analysis",
+    "zh": "蔬菜农药残留物快速测定法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vented-barrel injection machine",
+    "zh": "排气料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "veronal buffered salt solution",
+    "zh": "佛罗那缓冲盐溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "viscose solution",
+    "zh": "黏胶溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Volhard's solution",
+    "zh": "福尔哈德溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume flow injection analysis",
+    "zh": "容量流动注射分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volumetric-actuated filler",
+    "zh": "容量定量式加料器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volumetric filler(=volumetric filling machine)",
+    "zh": "容量装填机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volumetric filling machine(=volumetric filler)",
+    "zh": "容量装填机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volumetric solution",
+    "zh": "滴定液; 滴定(用)液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Walpole's buffer solution",
+    "zh": "沃波尔缓冲溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "warm-solution tank",
+    "zh": "热溶液罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-based rubbing filler",
+    "zh": "水性打磨填孔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water filler (",
+    "zh": "木器)水性填孔剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-mix filler",
+    "zh": "水调(干粉)填孔料；水调和填孔料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water solution",
+    "zh": "水溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water solution of oil",
+    "zh": "油水乳化液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wavelength resolution",
+    "zh": "波长分辨*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weak caustic solution",
+    "zh": "弱苛性碱溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weak solution",
+    "zh": "稀溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wear resistant filler",
+    "zh": "耐磨填料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weighing capillary for liquid sample",
+    "zh": "液体试样称量管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "weight-actuated filler",
+    "zh": "重量定量式加料器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Wijs solution",
+    "zh": "威杰斯一氯化碘溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Wilk-Shapiro test for normality",
+    "zh": "正态性的威尔克-夏皮罗检验法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wood filler",
+    "zh": "木材填孔料；胶缝剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "xanthogenate solution",
+    "zh": "黄原酸酯溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Zenker's solution",
+    "zh": "重铬酸钾、硫酸钠、氯化汞和乙酸溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Zimmermann-Reinhardt solution",
+    "zh": "齐默尔曼-莱因哈特溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc chloroiodide solution",
+    "zh": "氯化锌碘化锌混合溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc iodide-starch solution",
+    "zh": "碘化锌淀粉溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  }
+]

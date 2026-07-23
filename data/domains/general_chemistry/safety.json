@@ -1,0 +1,5042 @@
+[
+  {
+    "en": "above-ground storage tank",
+    "zh": "地面储藏槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acceptable explosives",
+    "zh": "合格炸药",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid storage battery",
+    "zh": "酸性蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "active storage",
+    "zh": "有效存储器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acute dermal toxicity",
+    "zh": "急性皮肤毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acute dermal toxicity test",
+    "zh": "急性经皮毒性试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acute oral toxicity",
+    "zh": "急性口服毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acute oral toxicity test",
+    "zh": "急性经口毒性试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acute toxicity",
+    "zh": "急性毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline storage cell",
+    "zh": "碱性蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aluminum explosive",
+    "zh": "铝粉炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "annular-type stripper",
+    "zh": "环型汽提器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anti-clogging safety stop motion",
+    "zh": "防轧装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticorrosive",
+    "zh": "防腐的；防蚀的;防锈的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-corrosive additive",
+    "zh": "防腐蚀添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-corrosive oil",
+    "zh": "防锈油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-corrosive paint",
+    "zh": "防锈漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticorrosive property",
+    "zh": "防腐蚀性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticorrosive rating",
+    "zh": "防腐蚀等级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-hazard classification",
+    "zh": "防爆等级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antioxidizer",
+    "zh": "防氧化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antitoxic",
+    "zh": "解毒剂;抗毒素的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-toxicity",
+    "zh": "防毒",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apotoxicarol",
+    "zh": "阿朴毒灰叶酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "appearance defect",
+    "zh": "外表缺陷；外观疵点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance failure",
+    "zh": "严重外表损伤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance of fracture",
+    "zh": "断口外观",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance of persistent cloud",
+    "zh": "持久浑浊现象（汽油及煤油的）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance of the spectrum",
+    "zh": "谱图概貌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance potential",
+    "zh": "出峰电位；始现电位",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance rating",
+    "zh": "外观质量评级",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance standard",
+    "zh": "外观标准",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance temperature",
+    "zh": "出现温度；出峰温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appearance time",
+    "zh": "出峰时间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appendage",
+    "zh": "附属物；附件；备件",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appetite",
+    "zh": "食欲",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aqua storage tank",
+    "zh": "储水槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atmospheric corrosive agent",
+    "zh": "大气腐蚀剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atmospheric pressure storage tank",
+    "zh": "常压油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atmospheric storage tank",
+    "zh": "常压储槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic sample handling system",
+    "zh": "自动进样系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aviation safety fuel",
+    "zh": "安全航空燃料；高闪点航空燃料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "back stopper",
+    "zh": "反流塞(子)；止回阀；止逆阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bag in-take hopper",
+    "zh": "拆袋投料斗；拆包投料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bag unloading hopper",
+    "zh": "拆袋投料斗；拆包投料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ball tipped pipette",
+    "zh": "安全吸移管；带球吸移管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barrel handling",
+    "zh": "装运油桶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basket tipper",
+    "zh": "篮式倾卸器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bead flippering",
+    "zh": "带式固定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bead rimming machine (for dipped goods) (",
+    "zh": "作)凸缘机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bell and hopper",
+    "zh": "进料器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "belt stripper",
+    "zh": "卸运带机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "betel pepper",
+    "zh": "萎叶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bi-apron cross lapper",
+    "zh": "双帘夹持铺网机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bin storage",
+    "zh": "储存罐储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "black pepper",
+    "zh": "黑胡椒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black peppermint(=narrow leaved peppermint)",
+    "zh": "澳洲桉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black-pepper oil",
+    "zh": "黑胡椒油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blasting explosive",
+    "zh": "轰炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blender loader",
+    "zh": "配料器；加料斗;(=cyclone hopper)旋风分离器式加料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blending hopper",
+    "zh": "掺和(漏)斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bone oil(=jeppel oil)",
+    "zh": "骨油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "book storage",
+    "zh": "百页车中存放",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Born-Oppenheimer approximation",
+    "zh": "玻恩-奥本海默近似*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bread wrapper",
+    "zh": "面包纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bread wrapper adhesive",
+    "zh": "面包包装纸黏合剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "broad leaved peppermint",
+    "zh": "阔叶桉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brown tipped",
+    "zh": "顶端褐变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "buffer storage",
+    "zh": "缓冲存储;缓冲存储器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buff-patched appearance",
+    "zh": "打磨不匀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bulb stopper",
+    "zh": "球塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bulk liquid storage",
+    "zh": "散装液体储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk oil storage",
+    "zh": "散装储油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk storage",
+    "zh": "散装储油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk storage area",
+    "zh": "主储存区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk storage compliance",
+    "zh": "储能体积柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk storage modulus",
+    "zh": "储能体积模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "buried storage",
+    "zh": "地下油池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "calcium sulfide",
+    "zh": "硫化钙 CaS",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "capped edge",
+    "zh": "挡边",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capped nonionics",
+    "zh": "封端的非离子表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capped pipe",
+    "zh": "加盖的管子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capped polystyrene",
+    "zh": "封闭聚苯乙烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capper",
+    "zh": "封口机；压盖机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cap stopper",
+    "zh": "帽塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbide tipped cutting tool",
+    "zh": "硬质合金刀具",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cassia scrapped",
+    "zh": "桂芯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalyst storage bin",
+    "zh": "催化剂储仓",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain stopped alkyd",
+    "zh": "链终止型醇酸树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain stopper",
+    "zh": "链终止剂；止链剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chappe silk yarn",
+    "zh": "绢丝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charging hopper",
+    "zh": "装料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical explosive",
+    "zh": "化学炸药",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Chinese wild pepper",
+    "zh": "竹叶椒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chipped area",
+    "zh": "破缺面；碎裂面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chipper",
+    "zh": "削片机；切片机;切割；削片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorate explosive",
+    "zh": "氯酸盐炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chopped fiber pellets",
+    "zh": "短纤维粒料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopped glass strand",
+    "zh": "短切玻璃丝束",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopped strand",
+    "zh": "短切原丝；短切纤维（玻璃纤维）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopped strand mat",
+    "zh": "短切原丝毡；短切原丝片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopper",
+    "zh": "切碎机;断裂剂（热原子化学）;切光器；断续器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopper amplifier",
+    "zh": "断续放大器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chopper bar",
+    "zh": "压纱板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chronic toxicity",
+    "zh": "慢性毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chute hopper",
+    "zh": "斜沟漏斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clappet (=clappet valve)",
+    "zh": "止回阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clappet valve (=clappet)",
+    "zh": "止回阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clipper",
+    "zh": "裁切机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clipper service",
+    "zh": "快捷服务（直接由油库向分配点发货）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clipper transport",
+    "zh": "快捷运输",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "closed storage battery",
+    "zh": "密闭式蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of safety",
+    "zh": "安全系数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold storage",
+    "zh": "冷藏;冷藏库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold storage room",
+    "zh": "冷藏室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collapsed storage tank",
+    "zh": "可收缩油罐；可折叠油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collapsible fuel tank (=collapsible storage tank)",
+    "zh": "可收缩油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collapsible storage tank (=collapsible fuel tank)",
+    "zh": "可收缩油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coloured paste stopper",
+    "zh": "浆状着色填孔剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "colo(u)r stripper",
+    "zh": "脱色剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combined storage",
+    "zh": "混合储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "condensate stripper",
+    "zh": "凝液汽提塔（石油）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "control storage",
+    "zh": "控制储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper storage battery",
+    "zh": "铜蓄电池",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "Coppet's law",
+    "zh": "科佩特定律",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cork stopper (",
+    "zh": "软)木塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "corrosive",
+    "zh": "腐蚀剂;腐蚀(性)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive atmosphere",
+    "zh": "腐蚀性空气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive chemical fume",
+    "zh": "腐蚀性化学烟雾",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive enamel",
+    "zh": "防腐磁漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive film",
+    "zh": "腐蚀(性)膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive mercuric chloride",
+    "zh": "氯化汞；升汞 HgCl₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive nature",
+    "zh": "腐蚀性能；腐蚀作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosiveness",
+    "zh": "腐蚀性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosive poison",
+    "zh": "腐蚀毒物；腐蚀抑制",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive sample",
+    "zh": "腐蚀性试样",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive sublimate",
+    "zh": "升汞；氯化汞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive sulfur",
+    "zh": "腐蚀性硫黄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosive wear",
+    "zh": "腐蚀损耗；蚀耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cotton stopper",
+    "zh": "棉絮塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "counter-current stripper",
+    "zh": "逆流气提塔；逆流解吸塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crack appearance",
+    "zh": "龟裂显现",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crude oil storage tank",
+    "zh": "原油储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude peppermint oil",
+    "zh": "薄荷原油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crude storage",
+    "zh": "原油库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude topper",
+    "zh": "原油拔顶装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cubeb pepper",
+    "zh": "荜澄茄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cumulative toxic action",
+    "zh": "累积中毒作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cumulative toxicant",
+    "zh": "累积性毒物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cupped gasket",
+    "zh": "杯形衬垫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "curcas oil",
+    "zh": "麻风(树)油（取自 Jatropha curcas 的种子）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cyclone hopper",
+    "zh": "旋风式加料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cylindrical gauze oxidizer",
+    "zh": "网筒氧化器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dangerously explosive",
+    "zh": "极易爆炸的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "data handling",
+    "zh": "数据处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead-storage oxidation",
+    "zh": "久存老化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decomposition hazard index",
+    "zh": "分解危险指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "degree (s) Schopper-Riegler (SR)",
+    "zh": "打浆度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "delanium graphite safety disc",
+    "zh": "高纯度压缩石墨安全盘",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dementholized peppermint oil",
+    "zh": "薄荷素油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deoxidiser(=deoxidizer)",
+    "zh": "脱氧剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deoxidizer",
+    "zh": "脱氧剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detonating explosive",
+    "zh": "爆轰炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "detoxicant",
+    "zh": "去毒剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detoxicated gas",
+    "zh": "解毒的气体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detoxication",
+    "zh": "解毒(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dewaxed oil stripper",
+    "zh": "脱蜡油汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dinitro glycerine explosive",
+    "zh": "二硝基甘油炸药；甘油二硝酸酯炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dipped article",
+    "zh": "浸渍制品;无缝制品（橡）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipped beam(=low beam)",
+    "zh": "弱光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipped electrode method",
+    "zh": "浸渍电极法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Dippel's oil",
+    "zh": "骨焦油；地柏油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipper",
+    "zh": "收脂工；刮脂工;浸渍机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipper sampling",
+    "zh": "勺取样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipperstick",
+    "zh": "水位指示器；测量尺；量油尺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disappearance",
+    "zh": "消失",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disappearing fibre",
+    "zh": "溶解性纤维",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "discharge hopper",
+    "zh": "卸料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "disintoxicating",
+    "zh": "解毒",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disk storage",
+    "zh": "磁盘储存器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal",
+    "zh": "排列；配置；处理；整理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal by land",
+    "zh": "陆地处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal by sea",
+    "zh": "海洋处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal facilities〔",
+    "zh": "复〕 排放设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal of sewage",
+    "zh": "污水处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal site",
+    "zh": "垃圾处理场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dosing hopper",
+    "zh": "计量漏斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drainage hopper(=drain cup)",
+    "zh": "排液漏斗；排水漏斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drain cup(=drainage hopper)",
+    "zh": "排液漏斗；排水漏斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dropper",
+    "zh": "滴管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drum handling truck",
+    "zh": "运桶用的小车",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drying hopper",
+    "zh": "干燥箱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dull-appearing",
+    "zh": "外观发暗的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "duplicate stripper-plate",
+    "zh": "双联脱模板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dust disposal",
+    "zh": "粉尘处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dust hazard (",
+    "zh": "粉)尘害",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic storage shear compliance",
+    "zh": "动态剪切储能柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic storage shear modulus",
+    "zh": "动态剪切储能模量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic storage tensile modulus",
+    "zh": "动态拉伸储能模量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "earthen storage tank",
+    "zh": "陶制油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Edison storage battery(=iron nickel accumulator)",
+    "zh": "爱迪生 effect ;效应；效；效果;结果;影响",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effluent disposal",
+    "zh": "废水处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrode storage",
+    "zh": "电极保存",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end capped",
+    "zh": "封端的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "end stopper (of chain) (",
+    "zh": "链的)终止剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy storage capacity",
+    "zh": "能(的)储量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "engineered safety system",
+    "zh": "工程安全系统",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "engineered storage",
+    "zh": "工程加固储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "entrapped air",
+    "zh": "残存空气；存气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "entrapped bubble",
+    "zh": "残存空气；存气；内部气泡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "entrapped moisture",
+    "zh": "夹带水分；残留水分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "entrapped slag",
+    "zh": "夹渣",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "eppendorf micropipette",
+    "zh": "微量取液器；微量进样器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "excessive handling",
+    "zh": "处理过度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosive",
+    "zh": "炸药;爆炸(性)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive agent",
+    "zh": "爆炸剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive atmosphere",
+    "zh": "爆燃性空气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive bonding (welding)",
+    "zh": "爆炸焊接",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive brisance",
+    "zh": "猛度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive bulge test",
+    "zh": "爆破试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive bullet",
+    "zh": "爆炸子弹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive charge",
+    "zh": "爆炸装填物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive compound",
+    "zh": "爆炸化合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive force",
+    "zh": "爆炸力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive forming",
+    "zh": "爆炸成形",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive fuel",
+    "zh": "爆炸烧料；易燃燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive gas",
+    "zh": "爆炸气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive limit",
+    "zh": "爆炸极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive limits of hydrocarbons",
+    "zh": "烃类的爆炸极限（与空气混合物）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive limits of mixture",
+    "zh": "混合物爆炸极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive mixture of gases",
+    "zh": "气体的爆炸混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosiveness",
+    "zh": "爆炸性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosive oil",
+    "zh": "爆炸油；硝化甘油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive pyrite",
+    "zh": "爆性黄铁矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive range",
+    "zh": "爆炸范围；爆炸极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive reaction",
+    "zh": "爆炸反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive train",
+    "zh": "爆炸串列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive view",
+    "zh": "爆炸图",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "explosive welding",
+    "zh": "爆炸焊",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extract storage",
+    "zh": "提出物储器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extract stripper",
+    "zh": "抽出液汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extraterrestrial disposal",
+    "zh": "地(球)外(放射性废物)处置(法);外层空间(放射性废物)处置(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "eye dropper",
+    "zh": "滴管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fabric enter-storage standard-piece rate",
+    "zh": "织物入库正品率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "factor of safety",
+    "zh": "安全因素;安全系数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Favier explosive",
+    "zh": "法维尔(炸)药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feed hopper",
+    "zh": "进料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "feeding hopper",
+    "zh": "进料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "felt whipper",
+    "zh": "净毡器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "felt wrapped roll",
+    "zh": "压光辊；绒辊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "field storage",
+    "zh": "野外储存;现场储存油库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "finished stock storage",
+    "zh": "成品储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fire-hazardous",
+    "zh": "易着火的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flammable",
+    "zh": "可燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable gas",
+    "zh": "可燃气体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable inhibitor",
+    "zh": "发火抑止剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable limit",
+    "zh": "可燃极限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable liquid",
+    "zh": "可燃液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable range",
+    "zh": "易燃范围",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable solvent",
+    "zh": "易燃溶剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flammable vapor",
+    "zh": "易燃性蒸气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flapper",
+    "zh": "活瓣：挡板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flat gauze oxidizer",
+    "zh": "平网氧化器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flat-tipped spatula",
+    "zh": "平头调刀；平头刮刀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flipper",
+    "zh": "挡泥板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flour (storage) room",
+    "zh": "面粉仓库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid handling",
+    "zh": "流体的处理；液体的运送",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "food wrapper",
+    "zh": "食品包装纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "forbidden explosives",
+    "zh": "禁运爆炸物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free from corrosive substances",
+    "zh": "无腐蚀物的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "freshness storage life",
+    "zh": "鲜度保藏期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel handling",
+    "zh": "燃料储运",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel hopper",
+    "zh": "燃料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuel storage",
+    "zh": "燃料储藏；燃料库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel storage hopper",
+    "zh": "燃料仓斗",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "fuel storage pool",
+    "zh": "燃料储存池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fume disposal",
+    "zh": "排烟;废气处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "furfural storage",
+    "zh": "糠醛储器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gapped cuts",
+    "zh": "跨切馏分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas handling system",
+    "zh": "进气系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline storage",
+    "zh": "汽油库",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas storage holder",
+    "zh": "储气器；储气罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gate feed hopper",
+    "zh": "框式加料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gear stopper",
+    "zh": "齿轮制动器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass stopper",
+    "zh": "玻璃塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass-stoppered bottle",
+    "zh": "玻璃塞瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "granule dry hopper",
+    "zh": "粒料烘干储槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grass hopper",
+    "zh": "准备焊接管子用的修正和联接工具;输送设备",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grass hopper conveyor",
+    "zh": "跳动运输器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "green-for-safety mining product",
+    "zh": "安全矿用品（如防火运输带）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gripper bar",
+    "zh": "叼纸牙排",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground glass stopper",
+    "zh": "磨口玻璃塞；毛玻璃塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground glass stoppered flask",
+    "zh": "磨口玻璃瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground stopper",
+    "zh": "毛玻璃塞；玻璃磨塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground stopper bottle",
+    "zh": "磨口玻璃塞瓶；毛玻璃塞瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground storage",
+    "zh": "地上仓库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling",
+    "zh": "处理；装卸；输送",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling ease",
+    "zh": "加工容易；便于加工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling equipment",
+    "zh": "装卸设备；输送设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling facilities",
+    "zh": "装卸设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling machinery",
+    "zh": "装卸机；输送器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling operation",
+    "zh": "装卸工作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling property",
+    "zh": "处理性能;手感性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "handling speed",
+    "zh": "周转速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hand-propelled tripper",
+    "zh": "手摇推进式倾料器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haphazard arrange",
+    "zh": "随机排列;杂乱排列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hazard index",
+    "zh": "危害指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hazardous area",
+    "zh": "危险区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hazardous chemicals",
+    "zh": "危险药品",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hazardous material",
+    "zh": "有害物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hazardous solvent",
+    "zh": "有害溶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hazardous substance",
+    "zh": "危险品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hazardous wastes",
+    "zh": "危险废物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heated storage",
+    "zh": "加热的储藏器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat storage capacity",
+    "zh": "热容量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat storage well",
+    "zh": "储热井",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "higher acetylenes stripper",
+    "zh": "高炔属汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high explosive",
+    "zh": "高级炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "highly inflammable",
+    "zh": "高易燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "highly stripped heavy ion",
+    "zh": "高度剥离的重离子；深剥重离子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high pressure polyethylene (HPPE)",
+    "zh": "高压聚乙烯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high pressure safety cut-out",
+    "zh": "高压安全切断器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pressure storage",
+    "zh": "高压储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hippeastrine",
+    "zh": "小星蒜碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homogeneous explosive mixture",
+    "zh": "均匀爆炸混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hopper",
+    "zh": "进料斗；加料(漏)斗;储料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hopper door",
+    "zh": "进料斗盖",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hopper dryer",
+    "zh": "斗式干燥器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hoppered bottom",
+    "zh": "锥形底",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hopper klep",
+    "zh": "计量漏斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hopper lining",
+    "zh": "装料斗衬里",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hopper scale",
+    "zh": "库秤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horizontal storage",
+    "zh": "平放储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot-air paint stripper",
+    "zh": "热空气喷射除漆机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-air stripper",
+    "zh": "热空气喷射除漆机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot dipped tinning",
+    "zh": "热浸镀锡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrate of aluminium",
+    "zh": "氢氧化铝 Al(OH) hydrate of barium 氢氧化钡 Ba(OH) hydrate storage 水化法储存",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrocarbon stripper",
+    "zh": "烃汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ice chopper",
+    "zh": "碎冰机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "imflammable gas",
+    "zh": "易燃气体；可燃性气体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "imflammable solvent",
+    "zh": "可燃性溶剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "industrial explosive",
+    "zh": "工业炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "industrial safety",
+    "zh": "工业安全",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inexplosive",
+    "zh": "不爆炸的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable",
+    "zh": "易燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable air",
+    "zh": "可燃空气（历史上名称）；氢气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable gas",
+    "zh": "易燃气体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable liquid",
+    "zh": "易燃液(体)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable minerals〔",
+    "zh": "复〕 可燃性矿物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammableness",
+    "zh": "易燃性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inflammable store",
+    "zh": "易燃物储藏库",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable substance",
+    "zh": "易燃物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable vapour",
+    "zh": "易燃蒸气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "information storage",
+    "zh": "信息存储器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initiating explosive",
+    "zh": "起爆药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in-plant handling",
+    "zh": "厂内搬运",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in-plant stock handling",
+    "zh": "半成品搬运",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interim storage",
+    "zh": "暂时储藏；临时储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediate storage",
+    "zh": "中间储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intermediate storage tank",
+    "zh": "中间储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inter-plant handling",
+    "zh": "厂间运输",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intoxican",
+    "zh": "毒剂;麻醉剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intoxicant",
+    "zh": "毒物;致醉物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intoxicating",
+    "zh": "致毒;致醉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intoxication",
+    "zh": "中毒;喝醉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intrinsic safety",
+    "zh": "本征安全",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion beam chopper",
+    "zh": "离子束调制器；离子束切割器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "iron-nickel accumulator(=Edison storage battery; iron-nickel storage battery)",
+    "zh": "铁镍蓄电池；爱迪生蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron-nickel storage battery(=iron-nickel accumulator)",
+    "zh": "铁镍蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron storage battery",
+    "zh": "铁极蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotope handling calculator",
+    "zh": "同位素操作计算尺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Jamaica pepper oil",
+    "zh": "牙买加胡椒油（取自Pimenta officinalis）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "japan stopper(=japan gold size)",
+    "zh": "短油钙脂清漆;调钙脂铅油填孔料用漆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "jeppel oil(=bone oil)",
+    "zh": "骨油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kerosene stripper",
+    "zh": "煤油用汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "knopper",
+    "zh": "鞣伤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "knoppern",
+    "zh": "栎鞣汁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "knoppers",
+    "zh": "鞣伤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Koppeschaar's titration",
+    "zh": "科别沙尔滴定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lady's slipper",
+    "zh": "枸兰根",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "land disposal",
+    "zh": "埋于地下",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "land storage tank",
+    "zh": "地上储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lapped barrel syringe",
+    "zh": "磨砂吸管注射器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapped pulp",
+    "zh": "稀薄纸浆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lapper",
+    "zh": "成卷机；成网机；研磨机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lappet",
+    "zh": "浮纹组织",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lead storage battery",
+    "zh": "铅蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead suboxide anti-corrosive paint",
+    "zh": "一氧化二铅防锈漆；黑铅粉防锈漆",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "line pack storage",
+    "zh": "输送管中储存产品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid disposal",
+    "zh": "废液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid limit(=sticky point; upper plastic limit)",
+    "zh": "液态极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "liquid waste disposal",
+    "zh": "废液处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loading hopper",
+    "zh": "加料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long-term nontoxicity test",
+    "zh": "长期无毒试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "long-term storage",
+    "zh": "长期储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low beam(=dipped beam)",
+    "zh": "弱光",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lower toxic limit",
+    "zh": "毒性下限",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low explosive",
+    "zh": "低级炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low explosive limit",
+    "zh": "爆炸下限",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-pressure safety cut-out",
+    "zh": "低压安全切断器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Lucas method",
+    "zh": "卢卡斯法",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mail handling pigment",
+    "zh": "邮件分捡颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "margin of safety",
+    "zh": "安全限度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "material handling equipment",
+    "zh": "材料装运设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanical handling",
+    "zh": "机械操作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanism of toxication",
+    "zh": "致死机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medicine dropper",
+    "zh": "医药用滴管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt hopper",
+    "zh": "溶体料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "micas",
+    "zh": "云母类",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro-safety burner",
+    "zh": "安全微灯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mining explosive",
+    "zh": "矿用炸药；矿山炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mode of appearance",
+    "zh": "外观(表观)形态",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moderately toxic",
+    "zh": "中等毒性的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple-tank storage",
+    "zh": "多储罐储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mustard gas safety clothing",
+    "zh": "芥子气保安衣",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nappe",
+    "zh": "外层;表面",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "napped fabric",
+    "zh": "起绒织物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "napped jersey",
+    "zh": "起绒针织物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "napper",
+    "zh": "拉毛机：拉绒机：起绒机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "narrow-mouthed bottle with ground stopper",
+    "zh": "细口磨塞瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "natural appearance",
+    "zh": "天然外观",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neoprene stopper",
+    "zh": "氯丁橡胶塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nickel iron storage battery",
+    "zh": "镍铁蓄电池；镍极蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitroglycerine explosive",
+    "zh": "硝化甘油炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-flammable",
+    "zh": "不易燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonflammable coating",
+    "zh": "不燃性涂料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-flammable gas",
+    "zh": "不燃性气体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonflammable plasticizer",
+    "zh": "不燃性增塑剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-hazardous",
+    "zh": "安全的；无危险的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-hazardous area",
+    "zh": "安全区；无事故区",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-inflammable hydraulic fluid",
+    "zh": "不可燃传动液体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-recoverable storage",
+    "zh": "不能再回收的储存；永久储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nontoxic fungistat",
+    "zh": "无毒制霉剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nontoxicity",
+    "zh": "无毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic paint",
+    "zh": "无毒漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic pigment",
+    "zh": "无毒颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic plasticizer",
+    "zh": "无毒增塑剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic smoke candle",
+    "zh": "无毒烟幕罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic stabilizer",
+    "zh": "无毒稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic coatings",
+    "zh": "无毒涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic formulation",
+    "zh": "无毒配方",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic",
+    "zh": "无毒的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic fungicide",
+    "zh": "无毒防霉剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "object mode of appearance",
+    "zh": "物体外观(表观)形态",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "off-line data handling",
+    "zh": "断机数据处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil dipper",
+    "zh": "油杓",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil handling",
+    "zh": "油处理（油的净化、加工、制取、注入、提出或运送）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil hazard",
+    "zh": "油料事故；油料火险",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil in storage",
+    "zh": "管道储油；储存油料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil scupper",
+    "zh": "油槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil stopper",
+    "zh": "油性填孔料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil storage",
+    "zh": "油储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil storage barge",
+    "zh": "石油驳船",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil storage tank (",
+    "zh": "储)油槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil storage vessel (",
+    "zh": "储)油罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil stripper",
+    "zh": "刮油器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil tank hopper",
+    "zh": "油槽入口接受过滤器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "on-line data handling",
+    "zh": "联机数据处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "on-the-spot disposal",
+    "zh": "就地处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Opperman source",
+    "zh": "奥泼曼光源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "optical chopper",
+    "zh": "斩光器；光调制器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oral toxicity",
+    "zh": "口服毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "outdoor storage",
+    "zh": "室外储存；露天储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "outside storage tank",
+    "zh": "外部储料槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizer",
+    "zh": "氧化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizer discharge",
+    "zh": "氧化剂输出(释放)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pappe",
+    "zh": "纸板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pepper box",
+    "zh": "有虻眼的皮革",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pepper cress oil",
+    "zh": "独行菜油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pepper leaf oil",
+    "zh": "胡椒叶油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peppermint",
+    "zh": "薄荷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peppermint oil",
+    "zh": "薄荷油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peppermint water",
+    "zh": "薄荷水",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pepper oil",
+    "zh": "胡椒油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pepper-poison gas",
+    "zh": "胡椒毒气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peppery(=bitty)",
+    "zh": "涂膜上凸起的小块或颗粒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "perchlorate explosive",
+    "zh": "高氯酸盐炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permissible explosive",
+    "zh": "安全炸药；合格炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "persistent toxic substances",
+    "zh": "持久性有毒污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pesticide hazard",
+    "zh": "农药公害",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "petroleum storage depot",
+    "zh": "油库",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol storage",
+    "zh": "苯酚罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol tricarboxylic acid",
+    "zh": "苯酚三羧酸 phenol water disposal 酚水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physical appearance",
+    "zh": "物理性质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physic-nut oil",
+    "zh": "麻风子油（取自 Jatropha curcas 的种子）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "phytotoxicant",
+    "zh": "植物毒素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phytotoxicity",
+    "zh": "植物毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phyto-toxicity test of pesticide",
+    "zh": "农药药害试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phytotoxic metabolite",
+    "zh": "植物毒性代谢物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pipe-line storage",
+    "zh": "管道储存量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pipet safety filling attachment",
+    "zh": "安全移液管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plant safety rules",
+    "zh": "工厂安全条例",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate storage rack",
+    "zh": "薄层板储箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pontoon storage tank",
+    "zh": "浮式储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poppet valve",
+    "zh": "盘阀；提升阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pop safety valve",
+    "zh": "快泄安全阀",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "portable storage tank",
+    "zh": "可移动储存器；油桶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-handling",
+    "zh": "后处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-stripper linac",
+    "zh": "剥离器后级直线加速器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium perchlorate explosive",
+    "zh": "高氯酸钾炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure storage tank",
+    "zh": "高压储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-stripper linac",
+    "zh": "剥离器前级直线加速器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "processing safety",
+    "zh": "操作安全性",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proportioning hopper",
+    "zh": "配比加料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "protective storage",
+    "zh": "防护储存（按照消防范围的储存）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "public hazard",
+    "zh": "公害",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quadrupole ion storage",
+    "zh": "四极离子存储器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quarry storage for heating oils",
+    "zh": "燃料油的石矿储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radappertization",
+    "zh": "辐射灭菌；彻底的杀菌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation safety",
+    "zh": "放射性安全",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiotoxicity",
+    "zh": "放射毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotoxicology",
+    "zh": "放射毒理学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radwaste final disposal",
+    "zh": "放射性废物最终处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reagent bottle with ground stopper",
+    "zh": "带玻璃磨塞的试剂瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rechipper",
+    "zh": "复切(木片)机；精削机；复研机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recapped tyre",
+    "zh": "胎面翻新轮胎",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recapper",
+    "zh": "轮胎翻新器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "recovery of storage-battery",
+    "zh": "蓄电池恢复作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refined oil stripper",
+    "zh": "精制油的汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "regrind supply hopper (",
+    "zh": "表面)抛光喂料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rehandling",
+    "zh": "重复劳动；返工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reinforced concrete storage",
+    "zh": "钢筋混凝土油罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "remote handling system",
+    "zh": "遥动系统；遥控操作系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Reppe chemistry",
+    "zh": "雷帕化学（用高压乙炔合成各种烯烃衍生物的化学）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Reppe reaction",
+    "zh": "雷帕(合成)反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "resistance to corrosive chemicals",
+    "zh": "耐化学药品腐蚀性",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "retrievable storage",
+    "zh": "可回收储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "retrievable surface storage facility (RSSF) （",
+    "zh": "放射性废物）可回收地面储存设施",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotary chopper",
+    "zh": "转刀切碎机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber stopper",
+    "zh": "橡皮塞(子)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "run-down storage(=run-down tank)",
+    "zh": "馏出油接受罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "run-down tank(=run-down storage)",
+    "zh": "馏出油接受罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "safety fuse",
+    "zh": "安全导火线;安全引信；定时引信",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety gate",
+    "zh": "安全门",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety glass",
+    "zh": "安全玻璃；不碎玻璃",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety goggles",
+    "zh": "防护眼镜；护目镜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety guard",
+    "zh": "防护装置（如防护罩、防护栏）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety hardener",
+    "zh": "安全固化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety head",
+    "zh": "安全盖",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety ink",
+    "zh": "安全墨",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety lamp",
+    "zh": "安全灯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety lighting fitting",
+    "zh": "安全照明装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety margin",
+    "zh": "安全限度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety match",
+    "zh": "安全火柴",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety measure",
+    "zh": "安全测试",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety nitrogen storage tank",
+    "zh": "安全(用)氮储槽",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "safety paper",
+    "zh": "保险纸",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety pin",
+    "zh": "安全销机;(安全)扣针",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety plug",
+    "zh": "安全插头",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety powder",
+    "zh": "保险粉；连二亚硫酸钠",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety precaution",
+    "zh": "安全防护",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety regulation",
+    "zh": "安全规程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety solvent",
+    "zh": "安全溶剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety stop",
+    "zh": "安全装置；紧急停车装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety stud",
+    "zh": "防滑钉（轮胎）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety switch",
+    "zh": "安全开关；紧急开关",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety",
+    "zh": "安全",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety syphon",
+    "zh": "安全虹吸管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety alarm device",
+    "zh": "安全报警装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety throw-out bar",
+    "zh": "安全关闭器连杆",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety belt",
+    "zh": "安全带",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety tread",
+    "zh": "安全轮胎",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety bulb",
+    "zh": "安全球",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety tube",
+    "zh": "安全管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cage (",
+    "zh": "油罐操作用的)安全室",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety valve",
+    "zh": "安全阀",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety can",
+    "zh": "安全罐",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety vent",
+    "zh": "安全(气)孔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety catch",
+    "zh": "安全制动装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety wire",
+    "zh": "紧急开关拉绳",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cock",
+    "zh": "安全栓",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety code",
+    "zh": "安全规程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety coefficient",
+    "zh": "安全系数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety color",
+    "zh": "安全色（安全标志颜色）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cut-off",
+    "zh": "安全开关;安全切断",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cutout",
+    "zh": "安全切断器；安全切断",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety device",
+    "zh": "安全防护装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety drilling method",
+    "zh": "安全钻孔法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety equipment",
+    "zh": "安全装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety explosive",
+    "zh": "安全炸药",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "safety factor",
+    "zh": "安全率;安全因素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety flask",
+    "zh": "安全烧瓶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety fuel",
+    "zh": "安全燃料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety funnel",
+    "zh": "安全漏斗",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety funnel tube",
+    "zh": "安全漏斗管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sample disposal system",
+    "zh": "样品处理系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sample-handling system",
+    "zh": "处理样品系统；进样系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Schlippe's salt",
+    "zh": "全硫锑酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schopper folding machine",
+    "zh": "肖伯尔折叠(验纸)机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schopper folding tester",
+    "zh": "肖伯尔折叠试验机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schopper freeness",
+    "zh": "肖氏打浆度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schopper rebound",
+    "zh": "肖伯尔回弹性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Schopper testing machine",
+    "zh": "肖伯尔试验机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scorch safety",
+    "zh": "焦烧安全性; 防焦性",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "scrap handling",
+    "zh": "废品处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw capper",
+    "zh": "螺丝帽机床",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sea-bed disposal",
+    "zh": "海床处置(法); (投入)海底处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sea disposal",
+    "zh": "海洋处置*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seepage trench disposal",
+    "zh": "渗出沟处置(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-inflammable",
+    "zh": "自燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-inflammable mixture",
+    "zh": "自燃混合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-propelling tripper",
+    "zh": "自动推进(式)倾斜器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semiremote handling",
+    "zh": "半远距离操作",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "settlement on storage",
+    "zh": "储存沉淀；库存沉淀（漆病）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sewage disposal",
+    "zh": "污水处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sewage disposal system",
+    "zh": "污水处理系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sewage disposal work",
+    "zh": "污水处理厂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sewage irrigation disposal",
+    "zh": "污水灌溉处置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sewage sludge disposal",
+    "zh": "污泥处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shipper/receiver difference(SRD)",
+    "zh": "运输容器/接收容器计量差",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shipper enrichment",
+    "zh": "发方(测得的或标识的)浓缩度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shipper pole",
+    "zh": "移带",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shipper rod",
+    "zh": "运转杆（机工）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "short stopped chain",
+    "zh": "断链",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "short stopped reaction",
+    "zh": "速止反应；中止反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shut-in storage",
+    "zh": "封井储油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "side-stream stripper(=side stripper)",
+    "zh": "侧线(馏分)汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "side stripper(=side-stream stripper)",
+    "zh": "侧线(馏分)汽提塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Silesia explosive",
+    "zh": "氯酸钾、硝化树脂强炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver-zinc storage cell",
+    "zh": "银锌蓄电池*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simplified topper",
+    "zh": "简易拔顶装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single-tank storage",
+    "zh": "单一油罐储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "size of upper limit",
+    "zh": "上限线密度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "slipper",
+    "zh": "闸瓦；滑块；制动器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "slipper dipping(=underbody dipping) (",
+    "zh": "车身)移动浸涂；(车身)下(身)浸涂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "slipperiness",
+    "zh": "光滑性；平滑性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "slippery feel",
+    "zh": "手感滑润",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sludge disposal",
+    "zh": "污泥处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "snapper(=grab-bucket sampler)",
+    "zh": "抓斗式采泥器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "snippet",
+    "zh": "小片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap chipper",
+    "zh": "刨皂机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap wrapper",
+    "zh": "肥皂纸；包皂纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soft X-ray appearance potential spectroscopy",
+    "zh": "软 X 射线表观位能能谱(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid explosive",
+    "zh": "固体炸药；固体喷气燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solids handling technique",
+    "zh": "固体物质输送技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid storage engineering test facility (SSETF)",
+    "zh": "固体放射性废物储存工程试验设备",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid waste disposal",
+    "zh": "固体废物处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent waste disposal",
+    "zh": "废溶剂排放",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specimen handling",
+    "zh": "进样",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "speckled appearance",
+    "zh": "图像的斑点性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spontaneously inflammable",
+    "zh": "可自燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Sprengel explosive",
+    "zh": "斯普伦炸药",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spring safety valve",
+    "zh": "弹簧安全阀",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stability in hard water",
+    "zh": "耐硬水性 stability in storage 储存稳定性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard storage tank",
+    "zh": "标准储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standing storage",
+    "zh": "长期储藏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stationary tripper",
+    "zh": "固定式倾料器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steam stripped (",
+    "zh": "蒸)汽提(馏)的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steam stripper",
+    "zh": "汽提机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stepped godet",
+    "zh": "多级导辊；多级导丝盘",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stepped temperature program",
+    "zh": "阶梯升温程序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steppe salt",
+    "zh": "原草盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage bin",
+    "zh": "储料斗",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage bunker",
+    "zh": "储煤仓",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage capability",
+    "zh": "储存能力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage capacity",
+    "zh": "储存容量；油罐容量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage cell",
+    "zh": "蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage compliance",
+    "zh": "储能柔量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage effect",
+    "zh": "储能效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage efficiency",
+    "zh": "储存效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage elastic(ity) modulus",
+    "zh": "储存弹性模量(系数)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage hopper",
+    "zh": "储料斗",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "storage life",
+    "zh": "储存期限；搁置寿命；适用期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage losses",
+    "zh": "储存时的损失",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage meter",
+    "zh": "仓库计量器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage modulus",
+    "zh": "储能模量*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage period",
+    "zh": "停放时间；放置时间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage pipe line",
+    "zh": "仓库管线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage piping installation",
+    "zh": "油库管线装设",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage plant",
+    "zh": "储油场；油罐场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopped-belt sampling",
+    "zh": "停车取样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage polymer",
+    "zh": "耐储存聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopped flow analyzer",
+    "zh": "停流分析器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stopped flow cell",
+    "zh": "停流流通池",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage pool",
+    "zh": "储存池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage property",
+    "zh": "耐储存性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopped flow method",
+    "zh": "停止流动法*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stopped-flow technique",
+    "zh": "停流技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage reservoir",
+    "zh": "储藏仓库",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopped flow voltammetry",
+    "zh": "停流伏安法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage stability",
+    "zh": "储藏稳定性：耐储存性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopped polymer",
+    "zh": "断链聚合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stopper",
+    "zh": "塞子;阻聚剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage stability of greases",
+    "zh": "润滑脂的储存安定性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stopper cock",
+    "zh": "活栓：活塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage stability test",
+    "zh": "存储稳定性试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stoppered bottle",
+    "zh": "塞好的瓶子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "storage tank",
+    "zh": "储槽；储桶；储罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage terminal",
+    "zh": "码头(港口)仓库；转运基地",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage test",
+    "zh": "储存试验(储存90天测定汽油胶质生成速度)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage time",
+    "zh": "储存期限；储存寿命",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage water heater",
+    "zh": "蓄热器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage vault",
+    "zh": "储存库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage battery",
+    "zh": "蓄电池(组)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage barge",
+    "zh": "储油驳船（暂时储放油品用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage",
+    "zh": "储藏;(储藏)库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "storage battery plate",
+    "zh": "蓄电池板傅里叶变换",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "strapped joint",
+    "zh": "盖板接头",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stream handling",
+    "zh": "流动式处理；连续进料；连续输送",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stripped",
+    "zh": "汽提过的；已去轻油部分的;已洗涤过的；已解吸了的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped atom",
+    "zh": "剥电子层原子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped charcoal",
+    "zh": "已解吸的活性炭",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped gas",
+    "zh": "已除去汽油烃的干气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped oil",
+    "zh": "汽提油；无轻油的石油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripped soap",
+    "zh": "皂片；皂屑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper",
+    "zh": "反萃取器;汽提塔;剥离器;贫化段(区)；剥淡段(区);剥离剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper apparatus",
+    "zh": "脱模装置；揭模",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper bolt",
+    "zh": "脱模螺栓",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper efficiency",
+    "zh": "汽提塔效率；解吸塔效率",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper operator",
+    "zh": "汽提设备操作工；气体汽油车间操作工",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper plant",
+    "zh": "汽提车间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper plate",
+    "zh": "分馏柱塔板;挤压板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper-plate mold",
+    "zh": "脱(膜)板塑模；丁字塑模",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper trap",
+    "zh": "汽提塔阱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stripper zone",
+    "zh": "汽提段",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "submerged storage tank",
+    "zh": "沉没式油罐；水下油罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subsequent handling",
+    "zh": "后续工序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subsurface disposal",
+    "zh": "地下排放",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subsurface storage",
+    "zh": "地下储藏",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subterranean disposal",
+    "zh": "地下处置*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subterranean storage",
+    "zh": "地下油罐；地下油库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfurated lime",
+    "zh": "硫化钙 CaS",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sulfur-cake hopper",
+    "zh": "硫块储斗；硫块进料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sunken oil storage",
+    "zh": "地下油库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superhighspeed",
+    "zh": "超高速的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supper fine grinding",
+    "zh": "超细粉碎",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supper micron mill",
+    "zh": "超微粉碎机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surge hopper",
+    "zh": "浪涌(自动)加料戽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "systemic toxic",
+    "zh": "神经系毒剂;毒害神经系的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "systemic toxic agent",
+    "zh": "神经系毒剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank strapper",
+    "zh": "箍桶工",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tar stripper",
+    "zh": "焦油汽提器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "temperature upper limit",
+    "zh": "温度上限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "temporary storage",
+    "zh": "暂时储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terminal disposal of radwaste",
+    "zh": "放射性废物最终处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "terminal storage",
+    "zh": "最终储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "test tube with ground stopper",
+    "zh": "带塞试管;玻璃磨塞试管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal storage",
+    "zh": "蓄热",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "throat stopper",
+    "zh": "炉喉栓",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tinted stopper",
+    "zh": "着色填孔剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tipped staple",
+    "zh": "尖状毛束",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tipped tool",
+    "zh": "镶片刀具；镶刃刀具；焊接车刀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topped",
+    "zh": "拔顶的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topped crude(=topped oil)",
+    "zh": "拔顶原油（蒸去了轻油后所剩的原油）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topped crude petroleum",
+    "zh": "拔顶原油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topped oil(=topped crude)",
+    "zh": "拔顶原油(蒸去了轻油后所剩的原油)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topped residuum",
+    "zh": "拔顶残油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "toxic",
+    "zh": "(有)毒的；毒性的;毒剂；毒物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicant",
+    "zh": "毒(素); 毒物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicarol",
+    "zh": "毒灰叶酚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic dose",
+    "zh": "中毒(剂)量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic equivalent",
+    "zh": "毒当量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic fume",
+    "zh": "毒烟：毒气",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicity test",
+    "zh": "毒性试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicodendron",
+    "zh": "干毒漆树叶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicological analysis",
+    "zh": "毒物分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxicological detection",
+    "zh": "毒性检测",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic pollutants",
+    "zh": "有毒污染物；毒性污染物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic substances",
+    "zh": "有毒物质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "toxic waste disposal",
+    "zh": "毒性废水处理",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "transmission lime storage",
+    "zh": "管线中储存",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trapped air",
+    "zh": "残存空气；存气；内部气泡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped-air process",
+    "zh": "吹塑薄膜挤塑法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped electron (",
+    "zh": "被)俘获电子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped exciton",
+    "zh": "俘获激发子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped ion",
+    "zh": "捕获(了)的离子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped radical",
+    "zh": "截留基",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped species",
+    "zh": "俘获组分；俘获粒子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped twisting method",
+    "zh": "加捻分股法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trapped vapour",
+    "zh": "汽水分离的汽;(溶剂蒸发中的)残存气(雾)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tribochemistry corrosive wear",
+    "zh": "摩擦化学腐蚀磨损",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tripper",
+    "zh": "倾料器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube clipper",
+    "zh": "封管器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tube stopper",
+    "zh": "管塞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "two-lipped drill",
+    "zh": "二缘钻头",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultimate disposal",
+    "zh": "最终处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultimate disposal of radwaste",
+    "zh": "放射性废物最终处置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underbody dipping(=slipper dipping) (",
+    "zh": "车身)移动浸涂； (车身)下(身)浸涂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "underground disposal",
+    "zh": "地下处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underground liquefied petroleum gas storage",
+    "zh": "液化石油气地下储存(库)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underground oil storage",
+    "zh": "地下储油库",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underground storage pools",
+    "zh": "地下储油池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underground storage tank",
+    "zh": "地下储(油)罐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "undue toxicity",
+    "zh": "异常毒性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unexplosive",
+    "zh": "不爆炸的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uninflammable",
+    "zh": "不易燃的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unstopper",
+    "zh": "拔去塞子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unstripped gas",
+    "zh": "原料气体；富气；湿气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unstripped latex",
+    "zh": "原态胶乳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unzippering",
+    "zh": "开链式解聚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper alarm limit",
+    "zh": "上警告限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper cloud point",
+    "zh": "上浊点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper control limit",
+    "zh": "上控制限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper cylinder lubrication",
+    "zh": "上部汽缸润滑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper dead center",
+    "zh": "上死点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper end of evaporator",
+    "zh": "蒸发器的上端",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper explosion limit",
+    "zh": "爆炸上限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper half mean length",
+    "zh": "上半部平均长度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper header",
+    "zh": "上集管；上联箱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper horizontal flue",
+    "zh": "上横气道",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper layer",
+    "zh": "表面层；上层",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper leather",
+    "zh": "面革",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper limit",
+    "zh": "上限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper limit of variation",
+    "zh": "改动的上限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper plastic limit(=liquid limit; sticky point)",
+    "zh": "液态极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper platen",
+    "zh": "上(压)板",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper pour point",
+    "zh": "高流动点；最高倾点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper quartile length",
+    "zh": "上四分位长度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper sample",
+    "zh": "上层(取的)试样",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper tank air",
+    "zh": "油罐上层空气蒸气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper temperature limit",
+    "zh": "温度上限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "upper warning limit",
+    "zh": "上警戒限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vacuum stripper",
+    "zh": "真空解吸塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vancancy-trapped electron。",
+    "zh": "空穴捕获(的)电子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "veneer clipper",
+    "zh": "单板截断机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volatile inflammable liquid",
+    "zh": "挥发性可燃液体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voloxidizer",
+    "zh": "氧化挥发(反应)器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "waste disposal",
+    "zh": "废物处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "waste encapsulation and storage facility(WESF)",
+    "zh": "放射性废液封装储存设施",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water dropper",
+    "zh": "滴水器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water intoxication",
+    "zh": "水中毒",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water pepper",
+    "zh": "水蓼；辣蓼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water-pepper oil",
+    "zh": "蓼油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water-thinned stopper",
+    "zh": "水稀释性填孔剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wave clipper",
+    "zh": "削波计（物）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wax storage",
+    "zh": "蜡储藏；储蜡罐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weigh hopper",
+    "zh": "称量给料斗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wet storage holders",
+    "zh": "湿式储气柜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whipper",
+    "zh": "搅打器;净毛机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wide mouth bottle with ground stopper",
+    "zh": "广口磨塞瓶；带磨塞广口瓶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wrapped",
+    "zh": "包装好的;包住的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wrapped pipe",
+    "zh": "包裹好的管道(绝热)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wrapped pipe machine",
+    "zh": "卷管机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wrapper",
+    "zh": "包装纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc storage battery",
+    "zh": "锌蓄电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zippeite",
+    "zh": "水铀矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zipper closed conveyor belt",
+    "zh": "密闭式运输带",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zipper conveyor",
+    "zh": "密闭式运输带",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zippering (",
+    "zh": "高密度聚乙烯薄膜)易撕裂现象",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zippering pyrolysis",
+    "zh": "拉链裂解",
+    "role": "secondary",
+    "confidence": 2.0
+  }
+]

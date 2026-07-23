@@ -1,0 +1,1370 @@
+[
+  {
+    "en": "ab initio",
+    "zh": "从头开始",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ab initio calculation",
+    "zh": "从头计算法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ab initio wave function",
+    "zh": "初始波函数：基于第一性原理的波函数",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "air operated orbital sander",
+    "zh": "气动轨道式喷砂机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alternant molecular orbital(AMO)method",
+    "zh": "交替分子轨道法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "alternant orbital",
+    "zh": "交替轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ammonium acid fluoride",
+    "zh": "氟化氢铵 NH₄HF₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ammonium bifluoride",
+    "zh": "氟化氢铵 (NH₄)HF₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "angular quantum number",
+    "zh": "角量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "antibonding (molecular) orbital(AMO)",
+    "zh": "反键(分子)轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antibonding orbital",
+    "zh": "反键轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-Hückel system",
+    "zh": "反休克尔体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antisymmetrical wave function",
+    "zh": "反对称波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "antisymmetric wave function",
+    "zh": "反对称波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "antisymmetrized molecular orbital(ASMO)",
+    "zh": "反对称分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "atomic non-bonding orbital",
+    "zh": "原子的非键轨道",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic orbital",
+    "zh": "原子轨道*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic quantum mechanics",
+    "zh": "原子的量子力学",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "azimuthal quantum number",
+    "zh": "角量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "banana bond orbital",
+    "zh": "香蕉键轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "basis set",
+    "zh": "基组*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzal fluoride",
+    "zh": "亚苄二氟；二氟甲基苯 C6H5CHF2",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "bonding (molecular) orbital(BMO)",
+    "zh": "成键(分子)轨道*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bonding orbital",
+    "zh": "成键轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bond orbital",
+    "zh": "键轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bond-orbital method",
+    "zh": "键轨法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "canonical molecular orbital",
+    "zh": "正则分子轨道*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "classical quantum theory",
+    "zh": "古典派量子(学说)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "conservation of orbital symmetry",
+    "zh": "轨道对称性守恒*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cumulative throughflow",
+    "zh": "累积流量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Debye-Hückel limiting law",
+    "zh": "德拜-休克尔极限定律*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Debye-Hückel theory of strong electrolyte",
+    "zh": "德拜-休克尔强电解质理论*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delocalized molecular orbital",
+    "zh": "离域分子轨道*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "density functional theory",
+    "zh": "密度泛函理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "determination wave function",
+    "zh": "行列式波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diagonal hybrid orbital",
+    "zh": "直线型杂化轨函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "discrete variational (molecular orbital) method(DVM)",
+    "zh": "离散变分(分子轨道)法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "double quantum",
+    "zh": "双量子",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "double quantum coherence",
+    "zh": "双量子相干",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "double quantum filtered correlation spectroscopy",
+    "zh": "双量子滤波相关谱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "double quantum transfer experiment",
+    "zh": "双量子转移实验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "double quantum transition",
+    "zh": "双量子跃迁；双级跃迁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dynamic density functional theory",
+    "zh": "动态密度泛函理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effective quantum number",
+    "zh": "有效量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron correlation",
+    "zh": "电子相关",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electronic orbital angular momentum",
+    "zh": "电子轨道角动量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electronic structure",
+    "zh": "电子结构",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "energy quantum",
+    "zh": "能量子",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "equivalent DFT",
+    "zh": "同等通风(条件)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "equivalent orbital(EO)",
+    "zh": "等价轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "equivalent orbital method",
+    "zh": "等价轨道法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethylidene difluoride",
+    "zh": "亚乙基二氟；1,1-二氟乙烷 CH₃CHF₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ethylidene perfluoride",
+    "zh": "亚乙基二氟；1,1-二氟乙烷 CH₃CHF₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "extended Hartree-Fock method",
+    "zh": "推广的哈特莱-弗克法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extended Hückel method(EHM)",
+    "zh": "推广的休克尔法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extended Hückel molecular orbital method(EHMO)",
+    "zh": "推广的休克尔分子轨道法",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "extended Hückel theory",
+    "zh": "推广的休克尔理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "finite linear viscoelasticity",
+    "zh": "有限线性黏弹性 finite perturbation theory(FPT) 有限微扰理论",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluohafnate",
+    "zh": "氟铪酸盐 M3[HfF7]",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorescence quantum efficiency",
+    "zh": "荧光量子效率",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorhydric acid",
+    "zh": "氢氟酸 HF",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorine fluxing agent",
+    "zh": "氟熔剂（NH₄BF₄·NH₄F 和 HF 的混合物）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluorine hydride",
+    "zh": "氟化氢 HF",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fluoroform",
+    "zh": "三氟甲烷；氟仿 CHF₃",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "f orbitals f",
+    "zh": "轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "frontal orbital",
+    "zh": "前沿轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "frontier molecular orbital",
+    "zh": "前沿分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "frontier orbital",
+    "zh": "前沿轨道*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "furoyltrifluoroacetone(FTA; HFTA)",
+    "zh": "呋喃甲酰三氟丙酮 C₄H₃OCOCH₂COCF₃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Gaussian-type orbital(GTO)",
+    "zh": "高斯型轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "graph of molecular orbital",
+    "zh": "分子轨道图形",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "graph theory of molecular orbital",
+    "zh": "分子轨道图形理论",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "group orbital",
+    "zh": "群轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hafnifluoride",
+    "zh": "氟铪酸盐；氟铪化合物 M₂[HfF₆];M₃[HfF₇]",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hafnium",
+    "zh": "铨（72号元素，化学符号Hf）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hafnium hydroxide",
+    "zh": "氢氧化铪（1. 原Hf(OH)₄；2. 偏 HfO(OH)₂）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hafnium oxychloride",
+    "zh": "二氯一氧化铪 HfOCl₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hafnium sulfate",
+    "zh": "硫酸铪 Hf(SO₄)₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hafnyl chloride",
+    "zh": "氯化氧铪；二氯一氧化铪 HfOCl₂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "half quantum number",
+    "zh": "半量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hartree-Fock approximation",
+    "zh": "哈特里-福克近似",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hartree-Fock limit",
+    "zh": "哈特里-福克极限*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hartree-Fock method",
+    "zh": "哈特里-福克法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hartree-Fock-Roothaan equation",
+    "zh": "哈特里-福克-罗特汉方程*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hartree-Fock SCF method",
+    "zh": "哈特里-福克自洽场方法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "HF process",
+    "zh": "氟氢酸法(在水法热铀处理过程中加入氟氢酸合锆以改进对锆等裂变产物净化的过程)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "HF-vapor etching",
+    "zh": "氟化氢蒸气腐蚀",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "highest occupied molecular orbital (HOMO)",
+    "zh": "最高占据(分子)轨道*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "high flux beam reactor (HFBR)",
+    "zh": "高通量(中子)束堆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "H-number H",
+    "zh": "值；H 数；Hf 值（溶剂质量指标之一，定义为每10^9升溶剂萃取的铪 Hf 分子数）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Hückel molecular orbital method (HMO)",
+    "zh": "休克尔分子轨道法*",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "Hund-Mulliken-Hückel method",
+    "zh": "洪德-马利肯-休克尔法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hybridization of atomic orbitals",
+    "zh": "原子轨道的杂化",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hybridized orbital",
+    "zh": "杂化轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hybrid orbital",
+    "zh": "杂化轨道*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "incredible natural abundance double quantum transition experiment(INADEQUATE)",
+    "zh": "自然丰度双量子特殊跃迁试验",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "inner orbital",
+    "zh": "内层轨道*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner-orbital complex",
+    "zh": "内轨型配合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner-orbital configuration",
+    "zh": "内轨型(构型)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner orbital coordination compound",
+    "zh": "内轨配合物*",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner orbital mechanism",
+    "zh": "内轨机理*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inner quantum number",
+    "zh": "内量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "intermolecular orbital",
+    "zh": "分子间轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "isopropyl fluoride(=2-fluoropropane)",
+    "zh": "异丙基氟；2-氟丙烷 CH₃CHFCH₃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "light quantum",
+    "zh": "光量子",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "linear combination of atomic orbitals(LCAO)",
+    "zh": "原子轨函数的线性组合(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "localised orbital(LO)",
+    "zh": "定域轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "localized molecular orbital(LMO)",
+    "zh": "定域分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "long-range perturbation theory",
+    "zh": "长程微扰论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lowest free molecular orbital(LFMO)",
+    "zh": "最低自由分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "lowest unoccupied molecular orbital(LUMO)",
+    "zh": "最低未占",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "macroscopic quantum tunneling effect(MQT)",
+    "zh": "宏观量子隧道效应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "magnetic quantum number",
+    "zh": "磁量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "main quantum number",
+    "zh": "主量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular orbital(MO)",
+    "zh": "分子轨道*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "molecular orbital energy level",
+    "zh": "分子轨道能级*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "molecular orbital method",
+    "zh": "分子轨道法*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "molecular orbital theory",
+    "zh": "分子轨道理论*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "multiple-quantum coherence",
+    "zh": "多量子相干",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multiple quantum transition(MQT)",
+    "zh": "多量子跃迁*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "natural orbital",
+    "zh": "自然轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonbonding atomic orbital",
+    "zh": "非键原子轨道",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonbonding (molecular) orbital",
+    "zh": "非键(分子)轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonbonding orbital",
+    "zh": "非键轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-localized molecular orbital",
+    "zh": "非定域分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "non-paired spatial orbital(NPSO) method",
+    "zh": "非成对空间轨道法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear-centered wave function",
+    "zh": "核中心波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nuclear-spin quantum number",
+    "zh": "核自旋量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "octahedral hybrid orbital",
+    "zh": "八面体杂化轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital",
+    "zh": "轨道的;轨函数；轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital angular momentum",
+    "zh": "轨道角动量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital arrangement",
+    "zh": "轨道排列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital degeneracy",
+    "zh": "轨道简并度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital effect",
+    "zh": "轨道效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital electron",
+    "zh": "核外电子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital electron capture",
+    "zh": "轨道电子捕获；核外电子捕获",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital energy",
+    "zh": "轨道能量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital motion",
+    "zh": "轨道运行",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital overlap population",
+    "zh": "轨道重叠布居",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital pad sander (",
+    "zh": "便携)轨道式砂垫磨光机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital phase conservation",
+    "zh": "轨道位相守恒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital quantum number",
+    "zh": "轨道量子数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital sander",
+    "zh": "轨道式喷砂机；轨道式打磨机(磨光机)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital symmetry",
+    "zh": "轨道对称(性)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital symmetry rule",
+    "zh": "轨道对称定则",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital theory",
+    "zh": "轨函数(学)说",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital valence force field(OVFF)",
+    "zh": "轨道价力场",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orbital wave function",
+    "zh": "轨道波函数",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "order of multiple-quantum coherence",
+    "zh": "多量子相干的阶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "orthogonal atomic orbital",
+    "zh": "正交原子轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orthonormal orbital",
+    "zh": "正交归一轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oscillational quantum number",
+    "zh": "振动量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "outer-orbital complex",
+    "zh": "外轨配合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "outer-orbital configuration",
+    "zh": "外轨构型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "outer orbital coordination compound",
+    "zh": "外轨配合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "outer orbital mechanism",
+    "zh": "外轨机理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "parity of wave function",
+    "zh": "波函数的宇称性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "perturbational molecular orbital(PMO)",
+    "zh": "微扰分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "perturbation molecular orbital",
+    "zh": "微扰分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "perturbation theory",
+    "zh": "微扰理论*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "preheating by dielectric losses(=HF heating)",
+    "zh": "高频预热",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "principal quantum number",
+    "zh": "主量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum",
+    "zh": "量子；定量；和；量",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum bit",
+    "zh": "量子位",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum chemistry",
+    "zh": "量子化学",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "quantum collision",
+    "zh": "量子碰撞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum condition",
+    "zh": "量子(化)条件",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum effect",
+    "zh": "量子效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum efficiency",
+    "zh": "量子效率",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum electrodynamics",
+    "zh": "量子电动力学",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum field",
+    "zh": "量子场",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum group",
+    "zh": "量子群",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum jump",
+    "zh": "量子(性)跳变",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum liquid",
+    "zh": "量子液体",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum mechanical theory",
+    "zh": "量子力学理论",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum mechanics",
+    "zh": "量子力学",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "quantum notation",
+    "zh": "量子标志;量子符号表示法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum number",
+    "zh": "量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum partition function",
+    "zh": "量子配分函数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum relation",
+    "zh": "量子关系",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum restriction",
+    "zh": "量子(条件)限制",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum size effect",
+    "zh": "量子尺寸效应",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum state",
+    "zh": "量子态",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum statistical mechanics",
+    "zh": "量子统计力学",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum statistics",
+    "zh": "量子统计",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum theory",
+    "zh": "量子理论",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum transition",
+    "zh": "量子跃迁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum trap",
+    "zh": "量子阱",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum unit",
+    "zh": "量子单位",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum value",
+    "zh": "量子值",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quantum yield",
+    "zh": "量子产率*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radio-quantum number",
+    "zh": "放射量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "restricted Hartree-Fock(RHF) method",
+    "zh": "限制(的)哈特莱-弗克法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotational quantum number",
+    "zh": "转动量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Schrödinger atom",
+    "zh": "薛定谔原子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Schrödinger equation",
+    "zh": "薛定谔方程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Schrödinger representation",
+    "zh": "薛定谔表象",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Schrödinger wave equation",
+    "zh": "薛定谔波动方程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "self-consistent molecular orbital procedure",
+    "zh": "自洽场分子轨道法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "semiempirical molecular orbital method",
+    "zh": "半经验分子轨道法*",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "short-range perturbation theory",
+    "zh": "短程微扰理论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "single electron occupied molecular orbital",
+    "zh": "单电子已占的分子轨道",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "single-quantum transition",
+    "zh": "单量子跃迁",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Slater-type orbital (STO)",
+    "zh": "斯莱特型轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherical Gaussian orbital(SGO)",
+    "zh": "球型高斯轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin-free quantum chemistry",
+    "zh": "无自旋量子化学",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spin orbital",
+    "zh": "自旋轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin orbital splitting",
+    "zh": "自旋-轨道分裂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin quantum number",
+    "zh": "自旋量子数*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "spin-unrestricted Hartree-Fock method(SUHF)",
+    "zh": "非限定自旋哈特莱-福克法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin wave function",
+    "zh": "自旋波函数*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "square hybrid orbital",
+    "zh": "正方形杂化轨函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "subordinate quantum number",
+    "zh": "次量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "superconducting quantum interference devices",
+    "zh": "超导量子干涉器件",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "symmetric(al) wave function",
+    "zh": "对称波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "symmetry orbital",
+    "zh": "对称轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tetrahedral hybrid orbital",
+    "zh": "正四面体杂化轨函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tetrahydrofolate(THF)",
+    "zh": "四氢叶酸",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "total quantum number",
+    "zh": "总量子数：主量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "trigonal hybrid orbital",
+    "zh": "正三角形杂化轨函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quantum transfer experiment",
+    "zh": "二维天然丰度双量子转移实验",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "unrestricted Hartree-Fock(UHF) method",
+    "zh": "非限制(的)哈特莱-弗克法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vibrational quantum number",
+    "zh": "振动量子数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "vinyl fluoride",
+    "zh": "乙烯基氟；氟乙烯 CH₂=CHF",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "virtual orbital",
+    "zh": "虚(空)轨道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "washfastness",
+    "zh": "耐洗性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wave function",
+    "zh": "波函数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "zero-quantum transition",
+    "zh": "零量子跃迁",
+    "role": "secondary",
+    "confidence": 1.5
+  }
+]

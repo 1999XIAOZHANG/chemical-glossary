@@ -1,0 +1,3230 @@
+[
+  {
+    "en": "accidental coagulation",
+    "zh": "早期凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid coagulation",
+    "zh": "酸性凝固；酸凝固法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid thermocoagulation",
+    "zh": "酸性热凝固法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activated adsorption",
+    "zh": "活性吸附；化学吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activated carbon",
+    "zh": "活性炭（吸附剂）;活性炭黑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated carbon adsorption",
+    "zh": "活性炭吸附",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "activated carbon deodorization",
+    "zh": "活性炭脱臭",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated carbon extraction",
+    "zh": "活性炭萃取（增塑剂）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated carbon fibre",
+    "zh": "活化碳纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated carbon filter",
+    "zh": "活性炭过滤器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated carbon method",
+    "zh": "活性炭法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge",
+    "zh": "活性污泥",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge bulking",
+    "zh": "活性污泥膨胀",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge digestion",
+    "zh": "活性污泥消化",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge method",
+    "zh": "活性污泥处理法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge plant",
+    "zh": "活性污泥厂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge process",
+    "zh": "活性污泥法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activated sludge tank",
+    "zh": "活性污泥池",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "activation adsorption",
+    "zh": "活化吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activation energy of adsorption",
+    "zh": "吸附活化能*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "active adsorption",
+    "zh": "有效吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "active black(=activated carbon)",
+    "zh": "活性炭（吸附剂）；活性炭黑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "adsorption",
+    "zh": "吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption analysis",
+    "zh": "吸附分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption applicability",
+    "zh": "吸附适用性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption balance",
+    "zh": "吸附平衡；吸附均衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption band",
+    "zh": "吸附带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption band indicator",
+    "zh": "吸附带指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption bed",
+    "zh": "吸附床",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption-desorption technique",
+    "zh": "吸附脱吸技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption detector",
+    "zh": "吸附检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption displacement",
+    "zh": "吸附取代*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption dynamics",
+    "zh": "吸附动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption effect",
+    "zh": "吸附效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption efficiency",
+    "zh": "吸附效率；吸附能力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption energy",
+    "zh": "吸附能",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption equation",
+    "zh": "吸附平衡式；吸附方程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption equilibrium",
+    "zh": "吸附平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption equilibrium constant",
+    "zh": "吸附平衡常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption exponent",
+    "zh": "吸附指数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption film",
+    "zh": "吸附膜*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption filtration",
+    "zh": "吸附过滤",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "adsorption force",
+    "zh": "吸附力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption free energy",
+    "zh": "吸附自由能",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption gasoline",
+    "zh": "吸附汽油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption heat",
+    "zh": "吸附热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption heat detector",
+    "zh": "吸附热检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption hysteresis",
+    "zh": "吸附滞后(现象)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption index",
+    "zh": "吸附系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption indicator",
+    "zh": "吸附指示剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isobar",
+    "zh": "吸附等压线*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isobar line",
+    "zh": "吸附等压线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isoster",
+    "zh": "吸附等容线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isostere",
+    "zh": "吸附等量线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isotherm",
+    "zh": "吸附等温线*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption isothermal line",
+    "zh": "吸附等温线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption kinetics",
+    "zh": "吸附动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption layer",
+    "zh": "吸附层*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption magnetic field",
+    "zh": "吸附磁场",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption measurement",
+    "zh": "吸附测定法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption mechanism",
+    "zh": "吸附机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption medium",
+    "zh": "吸附介质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption phenomena",
+    "zh": "吸附现象",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption plant",
+    "zh": "吸附装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption plate",
+    "zh": "吸附板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption polymerization",
+    "zh": "吸附聚合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption potential",
+    "zh": "吸附电势*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption precipitant",
+    "zh": "吸附沉淀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption precipitation",
+    "zh": "吸附沉淀*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption premoulding",
+    "zh": "吸附预成型坯模压法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption process",
+    "zh": "吸附过程（自汽油气中生产汽油）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption process of waste water",
+    "zh": "废水吸附处理法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption quantity",
+    "zh": "吸附量*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption biodegradation AB",
+    "zh": "工艺；吸附生物降解工艺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption bond",
+    "zh": "吸附键",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption bubble separation method",
+    "zh": "吸附气泡分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption by hydrogen bond",
+    "zh": "氢键吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption capability",
+    "zh": "吸附本领：吸附容量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption catalysis",
+    "zh": "吸附催化*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption center",
+    "zh": "吸附中心*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption coefficient",
+    "zh": "吸附系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption compound",
+    "zh": "吸附化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption coprecipitation",
+    "zh": "吸附共沉淀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption current",
+    "zh": "吸附电流*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption curve",
+    "zh": "吸附曲线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption cycle",
+    "zh": "吸附周期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption rate",
+    "zh": "吸附速率 ；吸附率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption-recovery",
+    "zh": "吸附法(溶剂)回收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption refining",
+    "zh": "吸附精制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption separation",
+    "zh": "吸附分离法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption site",
+    "zh": "吸附部位；吸附点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption solvent strength parameter",
+    "zh": "吸附溶剂强度参数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption space",
+    "zh": "吸附空间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption stripping",
+    "zh": "吸附分离；吸附气提；解吸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption swelling",
+    "zh": "吸附膨胀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption test",
+    "zh": "吸附试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption theory",
+    "zh": "吸附理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption time",
+    "zh": "吸附时间",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption trap",
+    "zh": "吸附阱；吸附收集器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption tube",
+    "zh": "吸附管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption unit",
+    "zh": "吸附装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption wave",
+    "zh": "吸附波*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption zone",
+    "zh": "吸附带；吸附区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "advanced wastewater treatment",
+    "zh": "高级废水处理",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "affinity adsorption",
+    "zh": "亲和吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "affinity ultrafiltration",
+    "zh": "亲和超滤",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "after-coagulation",
+    "zh": "后凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-filtration (",
+    "zh": "最)后过滤；后滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air filtration",
+    "zh": "空气过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air infiltration",
+    "zh": "空气渗透",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alcohol coagulation volume",
+    "zh": "酒精凝固体积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aluminum oxide adsorption",
+    "zh": "氧化铝吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammine type adsorption",
+    "zh": "氨(络)型吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amphipathic adsorption",
+    "zh": "两亲吸附作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anaerobic biological treatment",
+    "zh": "厌氧生物处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anaerobic sewage treatment",
+    "zh": "厌氧性污水处理",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anticoagulation",
+    "zh": "抗凝作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antigravity filtration",
+    "zh": "抗重过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-sedimentation",
+    "zh": "抗沉积(降)作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-sedimentation agent",
+    "zh": "防沉(降)剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aqueous coagulation bath",
+    "zh": "水溶液凝固浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ARCO process （",
+    "zh": "词源: Alloy Reguline Chlorination Oxidation）阿尔科过程：合金块氯化氧化法（核燃料后处理首端过程之一。在氯化铅熔盐中通氯气溶解锆合金燃料元件外壳）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aromatic adsorption index",
+    "zh": "芳烃吸附指数（表示催化剂的活性）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aromatic adsorption method",
+    "zh": "芳烃吸附法（测定催化剂表面积）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "assisted bacterial coagulation",
+    "zh": "细菌助凝固法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autocoagulation",
+    "zh": "自动凝结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "autoflocculation",
+    "zh": "自絮凝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "automatic filtration",
+    "zh": "自动过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "batch filtration",
+    "zh": "间歇式过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "BET adsorption isotherm BET",
+    "zh": "吸附等温线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bio-flocculation process",
+    "zh": "生物絮凝法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological coagulation",
+    "zh": "生物凝固（胶乳）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological filtration process",
+    "zh": "生物过滤法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biological treatment",
+    "zh": "生物处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blood coagulation",
+    "zh": "血液凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Brunauer-Emmett-Teller adsorption isotherm(=BET adsorption isotherm) BET",
+    "zh": "吸附等温式*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbide-chlorination",
+    "zh": "碳化物氯化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cation-adsorption",
+    "zh": "阳离子吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "centrifugal filtration",
+    "zh": "离心过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain chlorination",
+    "zh": "链上氯化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "characterization of adsorption",
+    "zh": "吸附特性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charcoal adsorption method",
+    "zh": "活性炭吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "charcoal adsorption process",
+    "zh": "活性炭吸附过程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemocoagulation",
+    "zh": "化学凝固(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination",
+    "zh": "氯化*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination catalyst",
+    "zh": "氯化催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination furnace",
+    "zh": "氯化炉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination in sunlight",
+    "zh": "日光下氯化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination of drinking water",
+    "zh": "饮用水加氯（消毒）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorination process",
+    "zh": "氯化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chromatographic adsorption",
+    "zh": "色谱吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chromatographic adsorption analysis",
+    "zh": "色谱吸附分析；色层吸附分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "circular adsorption chromatogram",
+    "zh": "圆形吸附色谱图",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clarification filtration",
+    "zh": "澄清过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "co-adsorption",
+    "zh": "共吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulant sedimentation",
+    "zh": "混凝沉淀法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation",
+    "zh": "聚沉 ;凝聚；胶凝；凝结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation ability",
+    "zh": "凝固能力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation accelerator",
+    "zh": "凝固促进剂；促凝剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation bath",
+    "zh": "凝固浴；凝结浴;纺丝浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation bath composition",
+    "zh": "凝固浴组成",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation (bath) temperature",
+    "zh": "凝固(浴)温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation by blowing with air",
+    "zh": "充气凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation by high frequency heating",
+    "zh": "高频加热凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation by mechanical stirring",
+    "zh": "机械搅拌凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation cascade",
+    "zh": "阶式凝固器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation condition",
+    "zh": "凝固条件",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation equilibrium",
+    "zh": "凝固平衡；凝结平衡",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation factor",
+    "zh": "凝血因子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation grade",
+    "zh": "凝固程度（以喷出的丝条变成不透明",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation heat",
+    "zh": "凝结热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation power",
+    "zh": "凝固能力；凝固本领",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation of oil emulsions",
+    "zh": "乳化油的凝聚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation point",
+    "zh": "凝固点；凝结点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation mechanism",
+    "zh": "凝固机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation treatment",
+    "zh": "凝结处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation medium",
+    "zh": "凝固介质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulation value (=flocculation value)",
+    "zh": "絮凝值；凝结值",
+    "role": "secondary",
+    "confidence": 6.0
+  },
+  {
+    "en": "combined sewage",
+    "zh": "混合污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "competitive adsorption",
+    "zh": "竞争吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complex adsorption",
+    "zh": "络合吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "concentration coefficient of sedimentation",
+    "zh": "沉积(的)浓度系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "constant pressure filtration",
+    "zh": "恒压过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "constant rate filtration",
+    "zh": "恒速过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contact filtration",
+    "zh": "接触过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous activated sludge test",
+    "zh": "连续活性污泥试验",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "conventional activated sludge",
+    "zh": "常规活性污泥法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "conventional activated sludge process",
+    "zh": "标准活性污泥法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cooling water treatment",
+    "zh": "冷却水处理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cooperative adsorption",
+    "zh": "协同吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cross-flow filtration",
+    "zh": "交叉流过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crude sewage",
+    "zh": "原污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclic adsorption refining",
+    "zh": "循环吸附精制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deaerated biological treatment",
+    "zh": "脱气生化处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deflocculation",
+    "zh": "抗絮凝(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deflocculation agent",
+    "zh": "抗絮凝剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of adsorption",
+    "zh": "吸附度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of flocculation",
+    "zh": "絮凝度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrochlorination",
+    "zh": "脱去氯化氢 7-dehydrocholesterol 7-脱氢胆甾醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation DLVO",
+    "zh": "絮凝理论*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed coagulation",
+    "zh": "缓凝(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density gradient sedimentation",
+    "zh": "密度梯度沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "density gradient sedimentation method",
+    "zh": "密度梯度沉降法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deposition sedimentation",
+    "zh": "沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "destructive chlorination",
+    "zh": "破坏氯化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of coagulation factor activity",
+    "zh": "凝血因子活性测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential heat of adsorption",
+    "zh": "微分吸附热*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "differential sedimentation",
+    "zh": "差示沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct chlorination",
+    "zh": "直接氯化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct filtration",
+    "zh": "直接过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "discrete adsorption",
+    "zh": "选择吸收；离散吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disinfection",
+    "zh": "消毒(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disposal of sewage",
+    "zh": "污水处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "domestic sewage",
+    "zh": "生活污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dormant coagulation",
+    "zh": "潜伏凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dressing disinfection",
+    "zh": "服装除毒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry filtration",
+    "zh": "干法过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual adsorption site",
+    "zh": "双吸附中心",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "duplex polymer filtration",
+    "zh": "双联聚合物过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye adsorption",
+    "zh": "染料吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic adsorption",
+    "zh": "动态吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "edge filtration(=streamline filtration)",
+    "zh": "流线式过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effective adsorption capacity",
+    "zh": "有效吸附容量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro adsorption",
+    "zh": "电吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-capillary adsorption",
+    "zh": "电毛细(管)吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-coagulation",
+    "zh": "电凝固(作用); 电凝结(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrokinetic ultrafiltration analysis",
+    "zh": "动电超滤分析",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "electroretardation filtration",
+    "zh": "电阻滞过滤(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrostatic adsorption",
+    "zh": "静电吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-ultrafiltration",
+    "zh": "电超过滤",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enthalpy of adsorption",
+    "zh": "吸附热函",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equation of filtration",
+    "zh": "过滤方程",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrated adsorption",
+    "zh": "平衡吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium adsorption model",
+    "zh": "平衡吸附模型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exchange adsorption",
+    "zh": "交换吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration aid",
+    "zh": "助滤剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration area",
+    "zh": "过滤面积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration capacity",
+    "zh": "过滤能力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration-chlorination",
+    "zh": "过滤-氯化法",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "filtration cycle",
+    "zh": "过滤周期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration drying",
+    "zh": "过滤干燥",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration enrichment",
+    "zh": "过滤浓缩法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration factor",
+    "zh": "过滤因数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration packing",
+    "zh": "过滤填充",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration pump",
+    "zh": "过滤泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration rate",
+    "zh": "过滤速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration resistance",
+    "zh": "过滤阻力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration stand",
+    "zh": "漏斗架",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration under diminished pressure",
+    "zh": "减压过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration under reduced pressure",
+    "zh": "减压过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration velocity",
+    "zh": "过滤速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration yield",
+    "zh": "过滤(得)量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration",
+    "zh": "过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filtration adjuvant",
+    "zh": "过滤助剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "first filtration",
+    "zh": "头道过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "floatation by precipitation adsorption",
+    "zh": "沉淀吸附浮选",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation",
+    "zh": "絮凝；凝结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation accelerator",
+    "zh": "絮凝促进剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation basin",
+    "zh": "絮凝池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation concentration",
+    "zh": "絮凝浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation gradient",
+    "zh": "絮凝梯度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation kinetics",
+    "zh": "絮凝动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation number",
+    "zh": "絮凝值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation oil removing method",
+    "zh": "石油絮凝脱水法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation rate",
+    "zh": "絮凝速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation structure",
+    "zh": "絮凝结构(构造)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculation value(=coagulation value)",
+    "zh": "絮凝值；凝结值",
+    "role": "secondary",
+    "confidence": 6.0
+  },
+  {
+    "en": "fluid char adsorption process",
+    "zh": "活性炭流化吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent indicator adsorption",
+    "zh": "荧光指示剂吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent indicator adsorption method",
+    "zh": "荧光指示剂吸附法（测定石油产品中的族组成）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorescent indicator adsorption technique",
+    "zh": "荧光指示剂吸附术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "forced filtration",
+    "zh": "强制过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "force of flocculation",
+    "zh": "絮凝力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional coagulation",
+    "zh": "分级凝固；分凝(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional filtration",
+    "zh": "分步过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation by adsorption",
+    "zh": "吸附分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation by sedimentation velocity",
+    "zh": "沉降速度分级(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation by selective adsorption",
+    "zh": "选择吸附分级(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "freeze coagulation",
+    "zh": "冻结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Freundlich adsorption equation",
+    "zh": "弗罗因德利奇吸附公式",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Freundlich adsorption isotherm",
+    "zh": "弗罗因德利奇吸附等温式",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full dip infiltration",
+    "zh": "全部浸入浸渍法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas adsorption",
+    "zh": "气体吸附;毒气吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas adsorption technique",
+    "zh": "气体吸附技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas phase electron adsorption",
+    "zh": "气相电子吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-solid adsorption",
+    "zh": "气固吸附(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gel filtration",
+    "zh": "凝胶过滤(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gel filtration media",
+    "zh": "凝胶过滤介质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gel filtration method",
+    "zh": "凝胶过滤法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Gibbs adsorption equation",
+    "zh": "吉布斯吸附公式",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "granular activated carbon",
+    "zh": "颗粒活性炭",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gravitational sedimentation",
+    "zh": "重力沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Hammett adsorption indicator",
+    "zh": "哈米特吸附指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of adsorption",
+    "zh": "吸附热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of coagulation",
+    "zh": "凝结热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterocoagulation",
+    "zh": "杂凝聚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heteroflocculation",
+    "zh": "杂絮凝；不均匀絮凝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high energy adsorption site",
+    "zh": "高能吸附点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hollow-fibre ultrafiltration device",
+    "zh": "中空纤维超滤装置",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "homocoagulation",
+    "zh": "同粒凝结(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homopolar adsorption",
+    "zh": "无极吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot wastewater",
+    "zh": "高温废水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "household sewage",
+    "zh": "住户污水；生活污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrochlorination",
+    "zh": "氢氯化反应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen adsorption",
+    "zh": "氢吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hyperfiltration membrane",
+    "zh": "超细滤膜；纳滤膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hysteresis of adsorption",
+    "zh": "吸附滞后*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "image of adsorption current",
+    "zh": "吸收电流像",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immunoadsorption",
+    "zh": "免疫吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immunofiltration",
+    "zh": "免疫过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial filtration aids",
+    "zh": "工业助滤剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial sewage",
+    "zh": "工业污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "industrial waste water treatment",
+    "zh": "工业废水处理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "infiltration",
+    "zh": "渗(入过)滤;渗透；渗入",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "infiltration rate",
+    "zh": "渗入速率；渗滤速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "integral heat of adsorption",
+    "zh": "积分吸附热*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intensive filtration",
+    "zh": "强化过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inter coagulation",
+    "zh": "互凝聚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial adsorption",
+    "zh": "界面吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial solute adsorption",
+    "zh": "界面溶质吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interlamellar adsorption",
+    "zh": "界面薄层吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion adsorption",
+    "zh": "离子吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion exchange adsorption",
+    "zh": "离子交换吸附(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionic adsorption",
+    "zh": "离子性吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irreversible adsorption",
+    "zh": "不可逆吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "irreversible coagulation",
+    "zh": "不可逆凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isothermal heat of adsorption",
+    "zh": "等温吸附热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "krypton adsorption",
+    "zh": "氪吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir adsorption equation",
+    "zh": "朗缪尔吸附方程式（固体吸附剂的吸附率方程式）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir adsorption isotherm",
+    "zh": "朗缪尔吸附等温式*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir's adsorption isotherm",
+    "zh": "朗缪尔吸附等温线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir theory of adsorption",
+    "zh": "朗缪尔吸附理论",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Langmuir type adsorption",
+    "zh": "朗缪尔型吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "large-scale filtration",
+    "zh": "工业规模过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limiting adsorption current",
+    "zh": "极限吸附电流",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid infiltration",
+    "zh": "液体渗入；液体浸渍；液体渗透",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-liquid interfacial adsorption",
+    "zh": "液-液界面吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid metal infiltration",
+    "zh": "液态金属渗透法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid surface adsorption",
+    "zh": "液面吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "living sewage",
+    "zh": "生活污水;萃取容量;离子交换容量；吸附容量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low pulse sedimentation",
+    "zh": "低脉动沉淀技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macrofiltration",
+    "zh": "粗滤(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macromolecular film adsorption",
+    "zh": "高分子膜吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanism of coagulation",
+    "zh": "凝固机理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "membrane filtration",
+    "zh": "膜式过滤",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "membrane filtration culture method",
+    "zh": "薄滤膜培养法：膜滤",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "metafiltration",
+    "zh": "层滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micellar adsorption",
+    "zh": "胶束吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micelle enhanced ultrafiltration",
+    "zh": "胶束增效超滤",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "microadsorption detector",
+    "zh": "微吸附检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbiological treatment",
+    "zh": "微生物处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microfiltration",
+    "zh": "微量过滤(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microfiltration manifolds",
+    "zh": "微量过滤多支管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microfiltration membrane",
+    "zh": "微滤膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-heat of adsorption detector",
+    "zh": "微量吸附热检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "millipore filtration",
+    "zh": "微孔过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "millipore membrane filtration concentration method",
+    "zh": "微孔薄膜过滤浓集法",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "mixed adsorption",
+    "zh": "混合吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mobile adsorption layer",
+    "zh": "流动吸附层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular adsorption",
+    "zh": "分子吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular sieve filtration",
+    "zh": "分子筛过滤(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monomolecular adsorption",
+    "zh": "单分子吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moving bed adsorption",
+    "zh": "移动床吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multilayer adsorption",
+    "zh": "多(分子)层吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multimolecular adsorption",
+    "zh": "多分子吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi point adsorption",
+    "zh": "多点吸附（炭黑）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mutual coagulation",
+    "zh": "互凝结(作用);互凝聚(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "negative adsorption",
+    "zh": "负吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogen adsorption method",
+    "zh": "氮吸附法（炭黑）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogen adsorption surface area",
+    "zh": "氮吸附法表面积（炭黑）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linear adsorption isotherm",
+    "zh": "非线性吸附等温线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linear filtration",
+    "zh": "非线性过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonlocalized adsorption",
+    "zh": "非定域吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-polar adsorption",
+    "zh": "非极性吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-uniform adsorption",
+    "zh": "非均匀吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear chlorination",
+    "zh": "环上氯代反应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear gamma-ray resonance adsorption(NGR)",
+    "zh": "核γ射线共振吸收（即穆斯堡尔效应）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil industry wastewater",
+    "zh": "石油工业废水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oriented adsorption",
+    "zh": "定向吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orthokinetic coagulation",
+    "zh": "同向凝结(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orthokinetic flocculation",
+    "zh": "同向絮凝(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overflocculation",
+    "zh": "过度絮凝;结大块",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidative chlorination(=oxychlorination)",
+    "zh": "氧氯化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxychlorination(=oxidative chlorination)",
+    "zh": "氧氯化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ozonation",
+    "zh": "臭氧化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ozonation treatment of waste water",
+    "zh": "废水臭氧化处理法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Paneth-Fajans-Hahn adsorption rule",
+    "zh": "潘-法-罕吸附规律*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "para-dehydrochlorination",
+    "zh": "脱共轭氯化氢(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pentachlorination",
+    "zh": "五氯化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perchlorination",
+    "zh": "全氯化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percolation filtration",
+    "zh": "渗滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perikinetic coagulation",
+    "zh": "异向凝结(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "periodic coagulation",
+    "zh": "间歇凝固(作用)；间歇凝聚(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-chlorination",
+    "zh": "感光氯化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physical adsorption",
+    "zh": "物理吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physico-chemical (sewage) treatment (",
+    "zh": "污水)物理化学处理",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plain sedimentation",
+    "zh": "简单沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "point of coagulation",
+    "zh": "凝结点；凝固点；絮(胶)凝点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polar adsorption",
+    "zh": "极性吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polychlorination",
+    "zh": "多氯化反应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyelectrolyte flocculation",
+    "zh": "聚合电解质絮凝(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "positive adsorption",
+    "zh": "正吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potassium hydroxide adsorption method",
+    "zh": "氢氧化钾吸着法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powdered activated carbon",
+    "zh": "粉状活性炭",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "preadsorption",
+    "zh": "预吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "prechlorination",
+    "zh": "预氯化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-coagulation",
+    "zh": "早期凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preferential adsorption",
+    "zh": "选择性吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "premature coagulation",
+    "zh": "早期凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure filtration",
+    "zh": "加压过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary adsorption",
+    "zh": "第一类吸附；化学吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary sewage treatment",
+    "zh": "污水一次处理；污水一级处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudoadsorption",
+    "zh": "假吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrolytic infiltration",
+    "zh": "热解渗滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation-induced chlorination",
+    "zh": "辐射诱导氯化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid coagulation",
+    "zh": "快速凝结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rate of adsorption",
+    "zh": "吸附速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rate of coagulation",
+    "zh": "凝固速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rate of sedimentation",
+    "zh": "沉积速率；淀积速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "raw sewage",
+    "zh": "原污水；未处理的污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reclaiming by filtration",
+    "zh": "过滤法回收；过滤法精制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rectangular sedimentation tank",
+    "zh": "平流式沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reflocculation",
+    "zh": "再絮凝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "removal by filtration",
+    "zh": "滤除",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual adsorption",
+    "zh": "残留吸附；永久吸附;残留吸附量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reverse osmosis",
+    "zh": "反渗透;反向渗析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reverse osmosis desalination",
+    "zh": "反渗透脱盐",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reverse osmosis membrane",
+    "zh": "反渗透膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reverse osmosis unit",
+    "zh": "反渗透装置",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reverse osmosis water treatment",
+    "zh": "反渗透水处理法",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "reversible adsorption",
+    "zh": "可逆吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring chlorination",
+    "zh": "环上氯代作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saturated adsorption band",
+    "zh": "饱和吸附带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saturation adsorption",
+    "zh": "饱和吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "saturation adsorption band",
+    "zh": "饱和吸附谱带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary adsorption",
+    "zh": "第二类吸附；物理吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary sedimentation",
+    "zh": "二次沉淀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary sedimentation basin",
+    "zh": "二次沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary sewage treatment",
+    "zh": "二次污水处理；污水二级处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "second zone coagulation",
+    "zh": "第二酸(度)区凝固（胶乳）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation",
+    "zh": "沉降*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation analysis",
+    "zh": "沉降分析法（土壤）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation average molecular weight",
+    "zh": "沉降平均分子量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation balance",
+    "zh": "沉降天平",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation basin",
+    "zh": "沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation boundary",
+    "zh": "沉降界面",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation centrifuge",
+    "zh": "离心沉降机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation chamber",
+    "zh": "沉淀槽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation coefficient",
+    "zh": "沉降系数*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation constant",
+    "zh": "沉降系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation equilibrium",
+    "zh": "沉降平衡*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation equilibrium method",
+    "zh": "沉降平衡法*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation field flow fractionation",
+    "zh": "沉降场流分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation fractionation",
+    "zh": "沉降分级",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation glass",
+    "zh": "沉淀杯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation method",
+    "zh": "沉降法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation number",
+    "zh": "沉降值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation of coke",
+    "zh": "焦炭沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation of fuel",
+    "zh": "燃料沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation potential",
+    "zh": "沉降势*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation rate",
+    "zh": "沉积(速)率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation (separation) technique",
+    "zh": "沉降(分离)技术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation tank",
+    "zh": "沉积槽；沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation-type centrifuge",
+    "zh": "沉降式离心机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation value",
+    "zh": "沉降值",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation velocity",
+    "zh": "沉降速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sedimentation velocity method",
+    "zh": "沉降速度法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective chlorination",
+    "zh": "选择氯化(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-continuous activated sludge test",
+    "zh": "半连续活性污泥试验",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "septic sewage (",
+    "zh": "腐败的)污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage",
+    "zh": "阴沟水；污水;下水道;下水道系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage aeration",
+    "zh": "污水曝气",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage discharge standard",
+    "zh": "污水排放标准",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage disposal",
+    "zh": "污水处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage disposal system",
+    "zh": "污水处理系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage disposal work",
+    "zh": "污水处理厂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage farm",
+    "zh": "污水灌溉田",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage gas",
+    "zh": "沼气(一般组成为60%~70%甲烷和30%~ 40%二氧化碳)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage irrigation disposal",
+    "zh": "污水灌溉处置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage lagoon",
+    "zh": "污水池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage loading",
+    "zh": "污水负荷量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage oxidation pond",
+    "zh": "污水氧化池",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage pipe",
+    "zh": "污水管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage plant",
+    "zh": "污水处理厂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage purification",
+    "zh": "污水净化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage sludge (",
+    "zh": "污水处理生成的)污泥",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage sludge disposal",
+    "zh": "污泥处理",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage stream",
+    "zh": "污水系统；泥水流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage treatment plants",
+    "zh": "污水处理厂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage treatment structure",
+    "zh": "污水处理结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage treatment system",
+    "zh": "污水处理系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sewage work",
+    "zh": "污水处理厂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Shell hot filtration test",
+    "zh": "壳牌(石油公司)热过滤试验",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shock coagulation",
+    "zh": "冲击凝固",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "side chain chlorination",
+    "zh": "侧链的氯代作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silica-gel adsorption",
+    "zh": "硅胶吸着",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simple adsorption",
+    "zh": "单纯吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow coagulation",
+    "zh": "缓慢凝结",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sludge filtration",
+    "zh": "淤渣过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soil adsorption coefficient",
+    "zh": "土壤吸附系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific adsorption",
+    "zh": "特性吸附*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific filtration resistance",
+    "zh": "过滤比；比阻力；比滤阻",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stale wastewater",
+    "zh": "腐臭污水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streamline filtration",
+    "zh": "流线式过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "string discharge (filtration)",
+    "zh": "绳卸饼法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfochlorination",
+    "zh": "氯磺化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superchlorination",
+    "zh": "过氯化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "super-equivalent adsorption",
+    "zh": "超当量吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "support surface adsorption",
+    "zh": "载体表面吸附作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "surface filtration",
+    "zh": "表面过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "synthetic sewage",
+    "zh": "人造污水",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tenacious adsorption",
+    "zh": "黏滞吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tenacious adsorption site",
+    "zh": "黏滞吸附点",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal adsorption detector",
+    "zh": "吸附热检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal adsorption modulator",
+    "zh": "吸附热调制器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal chlorination",
+    "zh": "热氯化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin-layer gel filtration",
+    "zh": "薄层凝胶过滤(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "threshold of coagulation",
+    "zh": "凝结阈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total adsorption capacity",
+    "zh": "吸着剂的总活性;吸着剂的总活度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-story sedimentation tank",
+    "zh": "双层沉淀池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultracentrifugal sedimentation",
+    "zh": "超离心沉积",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultracentrifugation sedimentation",
+    "zh": "超速离心沉降(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultra-centrifugation sedimentation separation and analysis",
+    "zh": "超离心沉降分离分析方法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultracentrifuge sedimentation",
+    "zh": "超离心(机)淀积(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrafiltration",
+    "zh": "超滤*",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "ultra-filtration funnel",
+    "zh": "超滤漏斗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultrafiltration membrane",
+    "zh": "超滤膜",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "unacclimated (activated sludge)",
+    "zh": "未驯化的(活性污泥)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uniform adsorption",
+    "zh": "均匀吸附",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum filtration",
+    "zh": "真空过滤；减压过滤",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum filtration process",
+    "zh": "真空过滤法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "van der Waals adsorption",
+    "zh": "范德华吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor adsorption process",
+    "zh": "蒸气(汽)吸附法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "velocity sedimentation",
+    "zh": "速度(梯度)沉降",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "waste water treatment",
+    "zh": "废水处理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water treatment",
+    "zh": "水处理；水的净化",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water treatment plant",
+    "zh": "水处理厂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water treatment station",
+    "zh": "净水站；水处理站",
+    "role": "primary",
+    "confidence": 3.5
+  }
+]

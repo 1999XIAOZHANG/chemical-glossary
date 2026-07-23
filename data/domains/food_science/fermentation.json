@@ -1,0 +1,3680 @@
+[
+  {
+    "en": "abacterial",
+    "zh": "无菌的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic",
+    "zh": "需气的；需氧的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic biooxidation",
+    "zh": "需氧生物氧化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic condition",
+    "zh": "需氧条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic degradation",
+    "zh": "需气降解作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic digestion",
+    "zh": "好氧消化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic enzyme",
+    "zh": "需氧酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic treatment",
+    "zh": "好氧处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerotolerant bacteria",
+    "zh": "耐氧细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agriculture",
+    "zh": "农业;农学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "airbag mold",
+    "zh": "水胎硫化模（橡胶）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air distillation",
+    "zh": "常压蒸馏（石油产品）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air equilibrium distillation",
+    "zh": "常压平衡蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alcohol fermentation",
+    "zh": "乙醇发酵；酒精发酵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alcoholic fermentation",
+    "zh": "成(乙)醇发酵；酒精发酵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Alco two-stage distillation process",
+    "zh": "常减压二段蒸馏过程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anaerobic",
+    "zh": "厌氧的;绝氧的",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic adhesive",
+    "zh": "厌氧胶黏剂；厌氧黏合剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic biological treatment",
+    "zh": "厌氧生物处理",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic degradation",
+    "zh": "厌气降解(作用)",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic digestion",
+    "zh": "厌氧消化",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic mastication",
+    "zh": "无氧塑炼",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic organism",
+    "zh": "厌氧微生物",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic phase",
+    "zh": "厌氧期；缺氧期",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic polymerization",
+    "zh": "厌氧聚合",
+    "role": "secondary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic sewage treatment",
+    "zh": "厌氧性污水处理",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic treatment",
+    "zh": "厌气处理",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "anaerobic waste treatment",
+    "zh": "厌氧性废水处理anaerobion 厌氧菌；厌氧微生物anaesthesin(e)(=benzocaine) 阿奈西辛（药）；苯佐卡因",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "analytical distillation",
+    "zh": "分析蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "angle mold",
+    "zh": "角式压模；V形压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "angle molding press",
+    "zh": "直角型平板机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-bacterial fibre",
+    "zh": "抗菌纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-bacterial finish",
+    "zh": "抑菌整理；抗菌整理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "apparatus for extractive distillation",
+    "zh": "萃取蒸馏器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aromatic vinegar",
+    "zh": "香醋",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "assisted bacterial coagulation",
+    "zh": "细菌助凝固法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atmospheric and vacuum distillation unit",
+    "zh": "常减压蒸馏装置(设备)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atmospheric distillation",
+    "zh": "常压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atmospheric distillation plant",
+    "zh": "常压蒸馏装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atmospheric vacuum distillation process",
+    "zh": "常减压蒸馏过程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "autoclave molding",
+    "zh": "压热成型法(碳纤维复合材料成型方法之一)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auto-demolding polymer",
+    "zh": "自脱模聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "azeotropic distillation",
+    "zh": "共沸蒸馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "azeotropic distillation column",
+    "zh": "共沸蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "azeotropic extractive distillation",
+    "zh": "共沸萃取蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bacteria cellulose",
+    "zh": "细菌纤维素",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacteria counting apparatus",
+    "zh": "细菌计数器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacteria filter",
+    "zh": "滤菌器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacterial electrode",
+    "zh": "细菌电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacterial luminescence",
+    "zh": "细菌发光",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bacterial membrane electrode",
+    "zh": "细菌膜电极",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Badger two-stage distillation process",
+    "zh": "巴杰尔两级蒸馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bag molding",
+    "zh": "袋模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "balanced mold",
+    "zh": "对称压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "baling twine",
+    "zh": "捆包线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "batch distillation",
+    "zh": "分批蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "batch steam distillation",
+    "zh": "分批蒸汽蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bebeerilene",
+    "zh": "贝比烯 C34H28O6",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bebeerine(=curine)",
+    "zh": "贝比碱；卑比令碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bebeerinemethine",
+    "zh": "贝比碱甲炔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bebirine(=bebeerine)",
+    "zh": "贝比碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Beer-Bouguer law(=Beer-Lambert law)",
+    "zh": "比尔-波格尔定律 (关于光辐射强度与介质浓度关系的定律)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Beer-Lambert equation",
+    "zh": "比尔-朗伯方程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Beer-Lambert law(=Beer-Bouguer law)",
+    "zh": "比尔-朗伯定律 (关于光辐射强度与介质浓度关系的定律)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Beer's law",
+    "zh": "比尔定律*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biogas generating pit",
+    "zh": "沼气池",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blanking mold",
+    "zh": "冲模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blow molding",
+    "zh": "吹塑*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blow molding cycle",
+    "zh": "吹塑周期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Bouguer-Beer law",
+    "zh": "布格-比尔定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butylene glycol dimethacrylate",
+    "zh": "二甲基丙烯酸丁二醇酯 （硫化剂） 2,3-butyleneglycol fermentation 2,3-丁二醇发酵",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "butylic fermentation",
+    "zh": "丁醇发酵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "careful distillation",
+    "zh": "精馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carrier distillation",
+    "zh": "载体蒸馏(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carrier distillation method",
+    "zh": "载体分馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cast molding",
+    "zh": "铸塑成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyst distillation",
+    "zh": "催化蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cavity-molding",
+    "zh": "模孔铸型；浇铸成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cheese box still",
+    "zh": "干酪盒式蒸馏釜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cheese head screw",
+    "zh": "圆头螺钉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cheese winding machine",
+    "zh": "络筒机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemoheterotrophic bacteria",
+    "zh": "化学异养(细)菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coal distillation",
+    "zh": "煤蒸馏(作用)时为界限，用离喷丝头的距离表示）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "codistillation",
+    "zh": "共馏(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion blow molding",
+    "zh": "共挤吹塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coextrusion molding",
+    "zh": "共挤出成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coferment",
+    "zh": "辅酶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coinjection molding",
+    "zh": "共注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold compression molding",
+    "zh": "冷压模制法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold distillation",
+    "zh": "低温蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "comolded",
+    "zh": "共模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "component distillation",
+    "zh": "组分蒸馏；共沸蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite mold",
+    "zh": "组合模",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "composite molding",
+    "zh": "复合成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compression mold (",
+    "zh": "直接式)压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compression molder",
+    "zh": "平板硫化机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compression molding",
+    "zh": "平板硫化(法);压缩模塑(法);压模(法)(塑料)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "condistillation",
+    "zh": "附馏；共(蒸)馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant-rate method of distillation",
+    "zh": "恒速蒸馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact distillation",
+    "zh": "接触蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "contact molding",
+    "zh": "浇铸成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous distillation",
+    "zh": "连续蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous distillation plant",
+    "zh": "连续蒸馏车间",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled-cycle distillation",
+    "zh": "控制循环蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cooking fermentation mash",
+    "zh": "蒸煮发酵醪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cored mold",
+    "zh": "芯式塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion during distillation",
+    "zh": "蒸馏时(铜片上)的腐蚀",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counter-current azeotropic distillation",
+    "zh": "逆流共沸蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cracking distillation",
+    "zh": "裂化蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crude distillation",
+    "zh": "原油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crude distillation tower",
+    "zh": "原油蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cryogenic distillation",
+    "zh": "低温蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "culture",
+    "zh": "培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture bottle",
+    "zh": "培养瓶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cultured broth",
+    "zh": "培养液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cultured cell electrode array",
+    "zh": "培养细胞电极阵列",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture dish (=double dish)",
+    "zh": "培养皿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture flask",
+    "zh": "培养瓶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture medium",
+    "zh": "培养基；培养介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture tube",
+    "zh": "培养管",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culture yeast",
+    "zh": "培养酵母",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "cup of the mold",
+    "zh": "模巢；模腔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "custom (-made) molding",
+    "zh": "特制模制品；订制配件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyanobacteria",
+    "zh": "蓝藻细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of fermentation",
+    "zh": "发酵度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demolding",
+    "zh": "脱模；出模；下模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "destructive distillation",
+    "zh": "破坏蒸馏；分解蒸馏;干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "destructive distillation of wood",
+    "zh": "木材干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "destructive distillation turpentine",
+    "zh": "干馏(木)松节油",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deviations from Beer's law",
+    "zh": "偏离比尔定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dialysis culture",
+    "zh": "透析培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diesel-fuel distillation test",
+    "zh": "柴油(机燃料)蒸馏试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "digestive ferment",
+    "zh": "消化酶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dipping mold",
+    "zh": "浸渍用模(型)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "direct distillation method",
+    "zh": "直接蒸馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct-heated mold",
+    "zh": "直接加热压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disease yeasts（",
+    "zh": "复） 致病酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distillation",
+    "zh": "蒸馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation apparatus",
+    "zh": "蒸馏器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation bench",
+    "zh": "蒸馏装置组",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation cascade",
+    "zh": "蒸馏级联",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation chamber",
+    "zh": "蒸馏室",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation characteristic",
+    "zh": "蒸馏特性",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation column",
+    "zh": "蒸馏柱",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation column network",
+    "zh": "蒸馏塔网络",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation curve",
+    "zh": "蒸馏曲线",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation cut",
+    "zh": "馏分",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation effect",
+    "zh": "蒸馏效应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation end point",
+    "zh": "蒸馏终点",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation equipment",
+    "zh": "蒸馏装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation film",
+    "zh": "蒸馏薄膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation flask",
+    "zh": "蒸馏瓶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation gas",
+    "zh": "蒸馏气",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation loss",
+    "zh": "蒸馏损失",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation method",
+    "zh": "蒸馏法（确定馏分组成的方法）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation plant",
+    "zh": "蒸馏设备",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation plate calculation",
+    "zh": "蒸馏塔板的计算",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation plus loss activity",
+    "zh": "馏出量加损失活性（催化剂）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation range",
+    "zh": "馏程；沸程；蒸馏范围",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation rate",
+    "zh": "蒸馏速率",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation reactor",
+    "zh": "蒸馏反应器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation refluence ratio",
+    "zh": "蒸馏回流比",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation residue",
+    "zh": "蒸馏残渣",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation still",
+    "zh": "蒸馏釜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation tailings",
+    "zh": "尾馏分",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation test",
+    "zh": "蒸馏试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation test residue",
+    "zh": "蒸馏后的残渣",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation tower",
+    "zh": "蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation tray",
+    "zh": "蒸馏塔板",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation tube",
+    "zh": "蒸馏管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation under pressure",
+    "zh": "加压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation value",
+    "zh": "蒸馏值",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation yield",
+    "zh": "馏出产量",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distillation zone",
+    "zh": "蒸馏区",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distiller's yeast",
+    "zh": "酒曲；酿酒酵母",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dolomold",
+    "zh": "白云石晶模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double dish(=culture dish)",
+    "zh": "培养皿；北德利氏皿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dough fermentation",
+    "zh": "面团发酵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drape molding",
+    "zh": "包模成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dried rumen bacteria",
+    "zh": "干燥瘤胃菌(制剂)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dried yeast",
+    "zh": "干酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry distillation",
+    "zh": "干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry steam distillation",
+    "zh": "干(蒸)汽蒸馏(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry vacuum distillation process",
+    "zh": "真空干馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Dutch cheese",
+    "zh": "荷兰干酪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ecological agriculture",
+    "zh": "生态农业",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrified culture",
+    "zh": "通电培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrodialyzed culture",
+    "zh": "电渗析培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end point of distillation",
+    "zh": "终馏点",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Engler distillation",
+    "zh": "恩氏蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enteropathogenic bacteria",
+    "zh": "肠道致病菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy molding material",
+    "zh": "环氧树脂模塑(材)料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium air distillation",
+    "zh": "平衡空气蒸馏(在排除空气的情况下；把燃料试样与其蒸气相接触进行蒸馏)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "equilibrium distillation",
+    "zh": "平衡蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "eubacteria",
+    "zh": "真细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "expansion molding technique",
+    "zh": "膨胀成型技术（碳纤维复合材料成型法之一）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "external (mold) lubricant",
+    "zh": "外施脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extraction distillation column",
+    "zh": "萃取蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extractive distillation",
+    "zh": "萃取蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extract yeast",
+    "zh": "酵母膏",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extrusion blow molding",
+    "zh": "挤出吹塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extrusion draw blow molding",
+    "zh": "拉吹塑成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extrusion molding",
+    "zh": "挤出成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feeding culture",
+    "zh": "流加培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feed yeast",
+    "zh": "饲料酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "female mold",
+    "zh": "阴模；下半模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferment",
+    "zh": "酵素；酶;发酵",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fermentation",
+    "zh": "发酵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation alcohol",
+    "zh": "发酵酒精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation amyl alcohol",
+    "zh": "发酵戊醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation butyl alcohol",
+    "zh": "发酵(法)丁醇;异丁醇",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation chamber",
+    "zh": "发酵室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation chemistry",
+    "zh": "发酵化学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation coefficient",
+    "zh": "发酵系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation cylinder",
+    "zh": "发酵罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation diagram",
+    "zh": "发酵曲线；发酵图谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation glycerol",
+    "zh": "发酵(法)甘油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation inhibitor",
+    "zh": "发酵抑制剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation in sealed vessel",
+    "zh": "密闭(式)发酵法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation lactic acid",
+    "zh": "发酵乳酸",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation liquid",
+    "zh": "发酵(溶)液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation liquor",
+    "zh": "发酵液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation lock",
+    "zh": "水封;发酵闸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation media",
+    "zh": "发酵介质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation milk",
+    "zh": "发酵乳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation plant",
+    "zh": "发酵工厂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation recovery",
+    "zh": "发酵回收率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation residue",
+    "zh": "发酵残渣",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation test",
+    "zh": "发酵试验 $$",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filamentous yeast",
+    "zh": "丝状酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filling of mold",
+    "zh": "装模；填模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film distillation apparatus",
+    "zh": "液膜蒸馏器（蒸馏时被蒸馏的液体形成薄膜）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fire-distillation",
+    "zh": "用火加热的蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fishing twine",
+    "zh": "渔网绳；钓鱼线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fission yeast",
+    "zh": "裂殖酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixed mold",
+    "zh": "固定式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fixed mold press",
+    "zh": "固定模平板机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash distillation",
+    "zh": "闪蒸馏；急骤蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash distillation column",
+    "zh": "闪蒸塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash distillation plant",
+    "zh": "闪蒸装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flashless mold",
+    "zh": "不溢式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flashless molding",
+    "zh": "不溢式模压法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash molding",
+    "zh": "平板硫化法（橡胶）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash overflow mold",
+    "zh": "溢(出)式压模；开放式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash subcavity mold",
+    "zh": "溢式多巢模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash type mold",
+    "zh": "溢(出)式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flocculating yeast",
+    "zh": "絮凝酵母",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow molding",
+    "zh": "传递模压法；流动成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluidized distillation",
+    "zh": "流化床蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flush distillation",
+    "zh": "一次蒸发",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foam fermentation",
+    "zh": "起泡发酵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foam molding",
+    "zh": "泡沫塑料成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam sponge mold",
+    "zh": "泡沫胶硫化模",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fore-distillation",
+    "zh": "预蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fortified wine",
+    "zh": "强化酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractional distillation",
+    "zh": "分馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractional distillation column",
+    "zh": "分馏柱;分馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractional distillation effect",
+    "zh": "分馏效应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractional distillation process",
+    "zh": "分馏过程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractionating distillation",
+    "zh": "分馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fractionation by distillation",
+    "zh": "分馏；蒸馏分离",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Freudenreich culture flask",
+    "zh": "弗罗伊登里奇培养烧瓶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel distillation bell",
+    "zh": "燃料蒸馏罩",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "full-molded type rubber bearing",
+    "zh": "整体模制式橡胶轴承",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fully positive mold",
+    "zh": "溢(出)式压模；开放式模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gang mold",
+    "zh": "多巢模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas aided injection molding",
+    "zh": "气辅注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gas-assist injection molding",
+    "zh": "气体辅助注射成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline distillation",
+    "zh": "汽油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "general molded goods",
+    "zh": "一般模制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ginger beer",
+    "zh": "姜啤酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Glitsch distillation tray",
+    "zh": "格利希蒸馏塔板",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "global distillation",
+    "zh": "全球蒸馏效应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "granular yeast",
+    "zh": "粒状酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gray mold",
+    "zh": "灰霉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "green bacteria",
+    "zh": "绿色细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "green mold",
+    "zh": "绿霉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "half mold",
+    "zh": "半模；敞口模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hanging drop culture",
+    "zh": "悬滴培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "harness twine",
+    "zh": "通丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hard wood distillation",
+    "zh": "阔叶材干馏；硬材干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heavy wine",
+    "zh": "烈酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hempel analysis (=Hempel distillation)",
+    "zh": "亨佩耳蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Hempel distillation (=Hempel analysis)",
+    "zh": "亨佩耳蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heterolactic acid bacteria",
+    "zh": "杂异乳酸菌",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterotrophic bacteria",
+    "zh": "异养细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-distillation thermometer",
+    "zh": "高温蒸馏用温度计",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature distillation",
+    "zh": "高温蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature-pressure cheese dyeing machine",
+    "zh": "高温高压筒子染色机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high vacuum distillation",
+    "zh": "高真空蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homolactic acid bacteria",
+    "zh": "同型乳酸菌",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot compression molding",
+    "zh": "热压成型(法); 热压模塑法(碳纤维复合材料成型法之一)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot extrusion molding",
+    "zh": "热挤模塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot mold",
+    "zh": "热模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot oil distillation",
+    "zh": "热油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impact molding",
+    "zh": "冲压成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indirect heated mold",
+    "zh": "间接加热模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection compression molding",
+    "zh": "注塑压缩成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection mold",
+    "zh": "射模",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection-molded item",
+    "zh": "注压制品",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molder",
+    "zh": "注射模型成形机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molding",
+    "zh": "注射成型*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection molding machine",
+    "zh": "注压(硫化)机;注(射)模(塑)机（塑料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insert molding",
+    "zh": "夹物模压",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "instrumental deviations from Beer's law",
+    "zh": "偏离比尔定律的仪器偏差（指仪器响应值偏离比尔定律产生的偏差）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in vitro culture method",
+    "zh": "离体培养法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobebeerine(=isochondodendrine)",
+    "zh": "异谷树碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isochondodendrine(=isobebeerine)",
+    "zh": "异谷树碱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopiestic distillation",
+    "zh": "等压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isothermal distillation",
+    "zh": "等温蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "jet molding",
+    "zh": "注压(硫化)法;注(射)模(塑)法（塑料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminate molded method",
+    "zh": "层压模压法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laminate molding",
+    "zh": "层塑法；层压模塑法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "land of mold",
+    "zh": "水平承压面；承压边缘（压模）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "latex molding",
+    "zh": "胶乳铸型法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Law of Lambert-Beer(=Lambert-Beer law)",
+    "zh": "朗伯-比尔定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lay-up molding",
+    "zh": "铺叠成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leaky mold technique",
+    "zh": "泄漏式模塑技术；溢出式模塑技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid injection molding(LIM)",
+    "zh": "液体注射模压成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loose mold",
+    "zh": "可卸式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "loose-plate transfer mold",
+    "zh": "活板式传递塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low distillation thermometer",
+    "zh": "低温蒸馏温度计",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-pressure distillation",
+    "zh": "低压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-temperature distillation",
+    "zh": "低温蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lubricating oil distillation",
+    "zh": "润滑油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "male mold(=patrix)",
+    "zh": "阳模；上半模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "matched-mold thermoforming",
+    "zh": "对模热成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanical mold",
+    "zh": "模制品用压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melamine molding material",
+    "zh": "三聚氰胺树脂成型材料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methane fermentation (",
+    "zh": "产)甲烷发酵(作用)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro distillation apparatus",
+    "zh": "微量蒸馏装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micromolding in capillary",
+    "zh": "毛细管内",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microtransfer molding",
+    "zh": "微转移模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold(=mould)",
+    "zh": "塑模；(阴)模；模(型);造型；翻砂;霉菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldability",
+    "zh": "模压加工性；模压性能;模型最大生产率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldable",
+    "zh": "可模压的；适于模压的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldable synthetic detergent",
+    "zh": "可模制(的)合成洗涤剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldavium",
+    "zh": "元素87（未证实）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold box",
+    "zh": "模型箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold breaker",
+    "zh": "揭模起子；撬棒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold breaking jack",
+    "zh": "揭模起子；撬棒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold breathing",
+    "zh": "模型除气",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold bumping",
+    "zh": "模型除气",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold cavity",
+    "zh": "模巢；模腔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold clamping force",
+    "zh": "合模力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold clamping pressure",
+    "zh": "合模力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold cleaner",
+    "zh": "模型清洁剂;洗模器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold cleaning",
+    "zh": "模型清洗操作；洗模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold cleaning gun",
+    "zh": "洗模喷枪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold clearing jack",
+    "zh": "开模千斤顶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold clearing temperature",
+    "zh": "出模温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold coating",
+    "zh": "模具涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold cracker",
+    "zh": "揭模起子；撬棒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold deposit",
+    "zh": "模垢",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold discharging agent",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold dope",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold duplicator",
+    "zh": "模型复制机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded diaphragm",
+    "zh": "模制膜片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded goods",
+    "zh": "模制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded in place",
+    "zh": "现场模制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded mechanicals",
+    "zh": "模制配件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded part",
+    "zh": "模(型)制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded piece",
+    "zh": "模(型)制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molded resin",
+    "zh": "模制树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold equalizer",
+    "zh": "模型平衡器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molder",
+    "zh": "铸工",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold feeding",
+    "zh": "填模；装模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold filling",
+    "zh": "填模；装模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold finish",
+    "zh": "压模表面处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold flow property",
+    "zh": "模内流动性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold form",
+    "zh": "模巢；模腔",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding",
+    "zh": "模塑*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding box",
+    "zh": "翻砂箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding capacity",
+    "zh": "模压量；模压额",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding cycle",
+    "zh": "成型周期;模塑周期;成型时间;模塑时间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding machine",
+    "zh": "铸模机；制模机;切模机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding machinery",
+    "zh": "制模机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding material",
+    "zh": "模塑材料；铸模材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding powder",
+    "zh": "塑(料)粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding press",
+    "zh": "压模机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding resin",
+    "zh": "成型用树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldings",
+    "zh": "模(型)制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding seam",
+    "zh": "卸开线（压模）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding shrinkage",
+    "zh": "模塑收缩;模塑收缩率;成型收缩;成型收缩率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding strain",
+    "zh": "模塑应变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding temperature",
+    "zh": "模压温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molding tolerance",
+    "zh": "模制公差",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold insert",
+    "zh": "模型插入物；模制品骨架",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold life",
+    "zh": "模具使用年限",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold loading",
+    "zh": "填模；装模;按发泡胀大率装模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold locking force",
+    "zh": "模型闭合力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold lubricant",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold marks",
+    "zh": "模痕；模缝线（模塑缺陷）;模具标志",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold materials",
+    "zh": "模材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold oil",
+    "zh": "脱模油",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold parting agent",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold pressing",
+    "zh": "模压；模制；用模用制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold pressure",
+    "zh": "合模压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold prevention agent",
+    "zh": "防霉剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold prevention paint",
+    "zh": "防霉涂料；防霉漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold preventive",
+    "zh": "防霉剂；杀菌剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moldproofing coating",
+    "zh": "防霉涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold release",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold-release agent",
+    "zh": "脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold release spray",
+    "zh": "脱模喷(雾)剂；喷雾型脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold resistance",
+    "zh": "抗霉性；抗霉力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold shrinkage (",
+    "zh": "托)模后收缩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold split ester linkage",
+    "zh": "霉菌分解酯链",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold sticking",
+    "zh": "黏模(现象)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold stripping",
+    "zh": "托模；出模；下模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold test",
+    "zh": "霉菌试验；防霉试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold turn-over",
+    "zh": "模型周转(率)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold unloading",
+    "zh": "脱模；开模；下模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold vulcanization",
+    "zh": "模型硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold wash",
+    "zh": "铸型涂料;模型用润滑剂；脱模剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular distillation",
+    "zh": "分子蒸馏；高真空蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular distillation apparatus",
+    "zh": "分子蒸馏器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monolithic molding",
+    "zh": "整体成形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moulding(=molding)",
+    "zh": "模制；造型;翻砂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multicavity mold",
+    "zh": "多槽塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multicomponent distillation",
+    "zh": "多组分混合物蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multi-impression mold",
+    "zh": "多巢(压)模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-layer blow molding",
+    "zh": "多层吹塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multistage distillation",
+    "zh": "多级蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "naphtha distillation",
+    "zh": "石脑油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "near beer",
+    "zh": "淡啤酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nested mold",
+    "zh": "多巢(压)模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrifying bacteria",
+    "zh": "硝化(细)菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrogen-fixing bacteria",
+    "zh": "固氮细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-destructive distillation",
+    "zh": "非破坏蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-detachable mold",
+    "zh": "整体模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-fractionating distillation",
+    "zh": "不分割的蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil shale distillation",
+    "zh": "油页岩干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "one-shot molding (",
+    "zh": "聚氨酯泡沫)一步成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-shot molding process",
+    "zh": "一次铸型法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open cast molding",
+    "zh": "无压铸型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "open-top mold",
+    "zh": "敞口模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "opium vinegar",
+    "zh": "罂粟制品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organized ferment",
+    "zh": "活体酶",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "original mold",
+    "zh": "原型；样模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overflow (type) mold",
+    "zh": "溢(出)式压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "packaging twine",
+    "zh": "打包绳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "packed distillation column(=packed column)",
+    "zh": "填充塔；填充蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paper twine",
+    "zh": "纸绳；纸纱；纸线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paste molding",
+    "zh": "糊塑;糊塑法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "patrix(=male mold)",
+    "zh": "阳模；上半模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perdistillation",
+    "zh": "透析蒸馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perfect simple distillation",
+    "zh": "理想简单蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perforated plate distillation column",
+    "zh": "孔板蒸馏塔",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "petroleum distillation",
+    "zh": "石油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "petroleum fermentation process",
+    "zh": "石油发酵过程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plain draw mold",
+    "zh": "简易压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plaster molding",
+    "zh": "用石膏模注型法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plate culture",
+    "zh": "平皿培养(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plate distillation column",
+    "zh": "塔板蒸馏柱",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plunger mold",
+    "zh": "柱压式模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plunger-type transfer molding",
+    "zh": "柱塞式传递模制法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Podbielniak precise distillation apparatus",
+    "zh": "波氏精密分馏装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polypropene twine",
+    "zh": "聚丙烯细绳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "port wine",
+    "zh": "葡萄(汁)酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post-molding operation",
+    "zh": "出模后工序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-molding stability",
+    "zh": "成形后稳定性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "post-mold shrinkage",
+    "zh": "出模收缩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pot-type transfer molding",
+    "zh": "罐式传递模制法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pouring mold",
+    "zh": "铸型用模；铸型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder molding",
+    "zh": "粉料成型;粉料成型件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder sinter molding",
+    "zh": "粉末烧结成形",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precise distillation",
+    "zh": "精密蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precision fractional distillation",
+    "zh": "精密分馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precision molding",
+    "zh": "精密模塑法；精密造型法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "predistillation",
+    "zh": "初步蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preferment",
+    "zh": "酶原；前酶;提升；升级",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "preform molding",
+    "zh": "塑坯模制法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preliminary distillation (",
+    "zh": "石油的)初步蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "premolding",
+    "zh": "预压型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure distillation",
+    "zh": "加压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure molding",
+    "zh": "加压模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary distillation",
+    "zh": "初级蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "principal fermentation",
+    "zh": "主要发酵作用",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "processing and molding of polymer",
+    "zh": "高分子加工成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proferment",
+    "zh": "酶原",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "projected area molding",
+    "zh": "柱塞注压机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulp twine",
+    "zh": "纸捻纱；纸拈纱（纺）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrogenic distillation",
+    "zh": "高温蒸馏；干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyroligneous vinegar",
+    "zh": "焦木醋",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quick vinegar process",
+    "zh": "快速酿醋法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reaction distillation",
+    "zh": "反应蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "redistillation",
+    "zh": "再蒸馏(作用)；重蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reduced pressure distillation",
+    "zh": "减压蒸馏；真空蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refinery distillation",
+    "zh": "精馏作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reflux distillation",
+    "zh": "回流蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reinforced reaction molding",
+    "zh": "增强反应成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replica molding",
+    "zh": "复制模塑法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "residual molding stress",
+    "zh": "残余成型应力",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resinous wood distillation",
+    "zh": "明子干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin transfer molding",
+    "zh": "树脂传递模塑；树脂传递成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "restricted area molding",
+    "zh": "窄面模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring-type mold",
+    "zh": "环状模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rodless angle (molding) press",
+    "zh": "无杆角式压塑机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "roll plate culture",
+    "zh": "转碟培养法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "roll tube culture",
+    "zh": "转管培养法；旋管培养法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotary compression molding press",
+    "zh": "旋转式压缩成型机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotational molding",
+    "zh": "旋转模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "runnerless injection molding",
+    "zh": "无流道冷料注塑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sand mold casting",
+    "zh": "砂型铸件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "screw injection molding machine",
+    "zh": "螺杆式注塑机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sectional mold",
+    "zh": "镶合塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "selective azeotropic distillation",
+    "zh": "选择性共沸蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semi-automatic mold",
+    "zh": "半自动塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-continuous distillation",
+    "zh": "半连续蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shaking culture",
+    "zh": "振荡培养法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shale distillation",
+    "zh": "页岩蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shale distillation retort",
+    "zh": "页岩蒸馏甑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet mold",
+    "zh": "片料吹(气塑)模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sheet molding compound(SMC)",
+    "zh": "片状模塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "shock molding",
+    "zh": "冲压模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "short molding",
+    "zh": "欠压；缺胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "short-path distillation",
+    "zh": "短路蒸馏；分子蒸馏；极窄馏分蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "side injection molding",
+    "zh": "侧面注压法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sidestream distillation",
+    "zh": "侧流蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silicon mold release agent",
+    "zh": "硅脱模剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simple batch distillation",
+    "zh": "单程蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simple distillation",
+    "zh": "简单蒸馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single cavity mold",
+    "zh": "单横腔模具；单巢模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single effect distillation",
+    "zh": "单效蒸馏(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "single impression mold",
+    "zh": "单巢模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sinter molding",
+    "zh": "烧结成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slant culture",
+    "zh": "斜面培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slush molding",
+    "zh": "中空模塑：涂凝模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "small molding",
+    "zh": "小(件)模制品；小规格模制品",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "smearing culture",
+    "zh": "涂抹培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "smolder",
+    "zh": "发烟燃烧；熏烧",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft wood distillation",
+    "zh": "针叶材干馏；软材干馏；松根干馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soil bacteria",
+    "zh": "土壤细菌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid culture",
+    "zh": "固体培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent assisted micromolding",
+    "zh": "溶剂协助微模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sooty mold",
+    "zh": "烟霉；煤灰霉病",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sparkling wine",
+    "zh": "汽酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific molding pressure",
+    "zh": "单位模压力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spinner culture",
+    "zh": "迥转培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spinning band distillation column",
+    "zh": "自旋带蒸馏柱",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spirit of wine",
+    "zh": "酒精；乙醇；火酒",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "split mold",
+    "zh": "对开模子；瓣合塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stab culture",
+    "zh": "穿刺培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stack molding",
+    "zh": "叠模压塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stamping mold",
+    "zh": "冲压模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard distillation test",
+    "zh": "标准蒸馏试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam atmospheric distillation",
+    "zh": "常压蒸汽蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam distillation",
+    "zh": "蒸汽蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam jacketed mold",
+    "zh": "蒸汽夹套模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sterile culture",
+    "zh": "无菌培养;纯菌培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight distillation",
+    "zh": "直馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight-forward fractional distillation(=straight fractional distillation)",
+    "zh": "直接分馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight fractional distillation(=straight-forward fractional distillation)",
+    "zh": "直接分馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight run distillation",
+    "zh": "直馏；直接蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streak culture",
+    "zh": "划线培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stripper-plate mold",
+    "zh": "脱(膜)板塑模；丁字塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stripping molding",
+    "zh": "脱模模塑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structural foam molding",
+    "zh": "结构泡沫成型",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "styryl yeast",
+    "zh": "苯乙烯酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "submerged culture",
+    "zh": "深层培养;浸没培养",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "suitability distillation",
+    "zh": "评价润滑油潜含量的蒸馏法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superazeotropic distillation process for dilute nitric acid concentration",
+    "zh": "共沸蒸馏稀硝酸浓缩法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superimposed (pre-distillation) retort",
+    "zh": "重复(再蒸馏)甑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "swinestone",
+    "zh": "臭石灰；沥青石灰石",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sylviculture",
+    "zh": "林学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tank culture",
+    "zh": "水箱式栽培",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tape molding compound",
+    "zh": "带状模塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tar distillation",
+    "zh": "焦油蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tarragon vinegar",
+    "zh": "龙蒿醋",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "temperature-distillation chart",
+    "zh": "蒸馏温度曲线图",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermal distillation",
+    "zh": "热蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermosetting molding material",
+    "zh": "热固性模塑料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thick molding compound (TMC)",
+    "zh": "厚片模塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thin-film distillation",
+    "zh": "薄膜蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-neck distillation flask",
+    "zh": "三颈蒸馏瓶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three-stage distillation",
+    "zh": "三级蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "torula yeast",
+    "zh": "酿母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trap-to-trap distillation",
+    "zh": "逐阱蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tray mold",
+    "zh": "盘式模型；敞口模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "true boiling-point distillation",
+    "zh": "真沸点蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "twine",
+    "zh": "细绳;捻：交织（纺）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "twiner",
+    "zh": "捻线机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "underpressure distillation",
+    "zh": "减压蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unit construction mold",
+    "zh": "单构塑模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsteady distillation",
+    "zh": "不稳定蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "upper mold section",
+    "zh": "上半模；阳模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum-bag molding",
+    "zh": "真空袋模制法；真空袋成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum distillation",
+    "zh": "真空蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vacuum distillation plant",
+    "zh": "真空蒸馏装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vacuum flash distillation",
+    "zh": "真空一次挥发蒸馏；真空快速蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vapor distillation",
+    "zh": "蒸气(汽)蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinegar",
+    "zh": "醋",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinegar essence",
+    "zh": "醋精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinegar naphtha",
+    "zh": "醋酸乙酯",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinegar of squill",
+    "zh": "海葱醋萃液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water distillation",
+    "zh": "水的蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-resisting molding powder",
+    "zh": "抗水(性)塑(料)粉",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water vapor distillation",
+    "zh": "水蒸气蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet blast mold cleaning",
+    "zh": "喷湿砂洗模",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet distillation",
+    "zh": "水蒸气蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet distillation process",
+    "zh": "水蒸气蒸馏过程",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet extrusion molding",
+    "zh": "湿压(出)模塑(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet vacuum distillation",
+    "zh": "真空蒸气(汽)蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood distillation",
+    "zh": "木材蒸馏(法)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood distillation methanol",
+    "zh": "木馏(所得)甲醇",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood vinegar",
+    "zh": "木醋酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "yeast",
+    "zh": "酵母",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "yeast extract",
+    "zh": "酵母萃；酵母抽提物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zero pressure molding",
+    "zh": "无压成型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc distillation furnace",
+    "zh": "蒸锌炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc distillation retort",
+    "zh": "蒸锌甑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc dust distillation （",
+    "zh": "用）锌粉蒸馏",
+    "role": "secondary",
+    "confidence": 4.5
+  }
+]

@@ -1,0 +1,8756 @@
+[
+  {
+    "en": "accessory food factor",
+    "zh": "补助(食料)因素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accessory food substance",
+    "zh": "补助食物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "accompanying mineral",
+    "zh": "伴生矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid sulfate",
+    "zh": "酸式硫酸盐 MHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "activated glyceride stabilizer",
+    "zh": "活化甘油酯稳定剂（四乙铅）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "addition compound(=additive compound)",
+    "zh": "加(成化)合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "addition product(=additive product)",
+    "zh": "加成(产)物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive",
+    "zh": "添加物*;加成的;加和的*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive blended oil",
+    "zh": "添加剂调和油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive capacity",
+    "zh": "添加剂量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive color mixture(=additive mixture)",
+    "zh": "加色法配色；加色法混(合)色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive color process",
+    "zh": "加色法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive complementary colors",
+    "zh": "加色法补色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive compound(=addition compound)",
+    "zh": "加(成化)合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive concentration",
+    "zh": "添加剂浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive copolymerization",
+    "zh": "加成共聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive depletion",
+    "zh": "添加剂耗减",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive dimer",
+    "zh": "加成二聚物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive dimerization",
+    "zh": "加成二聚*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive disk",
+    "zh": "加色法混色盘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive effect",
+    "zh": "加成效应;加和效应",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive engine oil",
+    "zh": "含添加剂的机油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive error",
+    "zh": "附加误差",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive function",
+    "zh": "加性函数；可加函数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive ingredient(=compounding agent)",
+    "zh": "添加剂；配合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive interference",
+    "zh": "相加干扰",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive level",
+    "zh": "添加剂的总含量（石油产品的）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive loss",
+    "zh": "添加剂损失",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive lubricating oil",
+    "zh": "含添加剂的润滑油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive master batch",
+    "zh": "添加剂母料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive migration",
+    "zh": "添加剂迁移",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive mixture(=additive color mixture)",
+    "zh": "加色法配色；加色法混(合)色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive motor oil （",
+    "zh": "含）添加剂机油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive name",
+    "zh": "加成名称",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive paint",
+    "zh": "油漆助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive polymerization",
+    "zh": "加成聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive primaries",
+    "zh": "加色法(三)原色（红、蓝、绿三色）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive primary colors",
+    "zh": "加色法三原色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive process",
+    "zh": "加成法；加成工艺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive product(=addition product)",
+    "zh": "加成(产)物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive property",
+    "zh": "加成性；加合性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive reaction",
+    "zh": "加成反应",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive test of lubricating oil",
+    "zh": "润滑油的添加剂(含量)试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive-treated oil",
+    "zh": "(含)添加剂润滑油;加添加剂的油品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additive-type oil",
+    "zh": "含添加剂的油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adermin(=vitamin B6)",
+    "zh": "抗皮炎素；维生素 B6",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "advitant(=vitamin)",
+    "zh": "维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "age of minerals",
+    "zh": "矿石年龄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkane sulfate",
+    "zh": "链烷硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkoxyalkyl sulfate",
+    "zh": "烷氧基烷基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkoxy ethoxy sodium sulfate",
+    "zh": "烷氧基乙氧基硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl aryl polyether sulfate",
+    "zh": "烷基芳基聚醚硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkylaryl propyl ammonium sulfate",
+    "zh": "烷基芳基丙基硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl benzyl thiosulfate",
+    "zh": "烷基苄基硫代硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl ethanolamine sulfate",
+    "zh": "烷基乙醇胺硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl ether sulfate",
+    "zh": "烷基醚硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl ethoxylate sulfate",
+    "zh": "烷基乙氧基化物硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl hydrogen sulfate (=alkyl hydrosulfate)",
+    "zh": "硫酸烷基氢酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl hydrosulfate (=alkyl hydrogen sulfate)",
+    "zh": "硫酸烷基氢酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl phenol ether sulfate",
+    "zh": "烷基酚醚硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl sodium sulfate",
+    "zh": "硫酸烷基(酯)钠 RSO₄Na",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl sulfate",
+    "zh": "烷基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkyl tetrahydro pyranyl sulfate",
+    "zh": "烷基四氢吡喃硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkylthioalkyl sulfate",
+    "zh": "烷基硫代烷基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminium ammonium sulfate",
+    "zh": "硫酸铝铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminium potassium sulfate",
+    "zh": "硫酸铝钾；明矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminium rubidium sulfate",
+    "zh": "硫酸铝铷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminium sodium sulfate",
+    "zh": "硫酸铝钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum minerals",
+    "zh": "铝矿物类",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aluminum potassium sulfate",
+    "zh": "硫酸铝钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum rubidium sulfate",
+    "zh": "硫酸铝铷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum sulfate",
+    "zh": "硫酸铝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum thallium sulfate",
+    "zh": "硫酸铊铝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aluminum zinc sulfate",
+    "zh": "硫酸锌铝；锌矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amine antioxidants",
+    "zh": "胺类抗氧化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amine stabilizer",
+    "zh": "胺稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "N text {-amino ethyl fatty amide} quad N text {-",
+    "zh": "氨基乙基脂肪酰胺} $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aminoguanidine sulfate",
+    "zh": "氨基胍硫酸盐 $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amino polyoxy alkylene sulfate ammonium salt",
+    "zh": "氨基聚氧亚烷硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium acid sulfate",
+    "zh": "酸式硫酸铵 NH₄HSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium alkylaryl propyl sulfate",
+    "zh": "烷基芳基丙基硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium alum(=ammonium aluminium sulfate)",
+    "zh": "铵铝矾；铵矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium aluminium sulfate(=ammonium alum)",
+    "zh": "铵铝矾；铵矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium bisulfate",
+    "zh": "硫酸氢铵 NH₄HSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonia sulfate(=ammonium sulfate)",
+    "zh": "硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium carbamate",
+    "zh": "氨基甲酸铵 ammonium carbonate 碳酸铵 ammonium ceric sulfate 硫酸高铈铵 ammonium cerous sulfate 硫酸铈铵 ammonium chlorate 氯酸铵 ammonium chloraurate 氯金酸铵 ammonium chloride 氯化铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium coco alkyl sulfate",
+    "zh": "椰子油烷基硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium ferric sulfate",
+    "zh": "硫酸铁铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium ferricyanide",
+    "zh": "铁氰化铵 ammonium ferrocyanide 亚铁氰化铵 ammonium ferrous sulfate 硫酸亚铁铵 ammonium fluoralkanoate 氟代链烷酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium peroxydisulfate",
+    "zh": "过(二)硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium peroxysulfate",
+    "zh": "过硫酸铵（引发剂） ammonium persulfate 过硫酸铵 ammonium persulphate(=ammonium peroxodisulphate)过(氧化)硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium pyrosulfate",
+    "zh": "焦硫酸铵 (NH₄)₂S₂O₇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium sulfate(=ammonia sulfate)",
+    "zh": "硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium tetradecyl sulfate",
+    "zh": "十四烷基硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium thiostannate",
+    "zh": "全硫锡酸铵 ammonium thiosulfate 硫代硫酸铵 ammonium titanium oxyoxalate 草酸铵合草酸氧钛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ammonium undecanol ethoxy sulfate",
+    "zh": "十一(烷)醇乙氧基硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amphetamine sulfate",
+    "zh": "硫酸苯异丙胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amphoteric emulsifier",
+    "zh": "两性乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "amphoteric fat liquor",
+    "zh": "两性加油乳液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amphoteric fatty compound",
+    "zh": "两性脂肪族化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amyl hydrogen sulfate",
+    "zh": "硫酸氢戊酯 C5H11OSO3H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aneurin(e)(=thiamine;vitamin B₁)",
+    "zh": "抗神经炎素；盐酸硫胺素；维生素 B₁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anhydropolyol fatty acid ester",
+    "zh": "失水多元醇脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anhydrous calcium sulfate",
+    "zh": "无水硫酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anhydrovitamin A(=axerophthene)",
+    "zh": "脱水维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aniline sulfate",
+    "zh": "硫酸苯胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anilinium decyl sulfate",
+    "zh": "癸基苯胺硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "animal fat",
+    "zh": "动物脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anionic emulsifier",
+    "zh": "阴离子乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anionic fat liquor",
+    "zh": "阴离子(型)加油(或脂)乳液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anti-abrasion additives",
+    "zh": "抗磨蚀添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiacid additive",
+    "zh": "抗酸添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiberiberi",
+    "zh": "维生素 antiberiberi vitamin(=vitamin ) 抗脚气病维生素；维生",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anticoking additive",
+    "zh": "防焦添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-corrosion additive",
+    "zh": "抗腐蚀添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-corrosive additive",
+    "zh": "防腐蚀添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-emulsifier",
+    "zh": "抗乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-fatigue agent",
+    "zh": "抗疲劳剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "antiflex cracking antioxidant",
+    "zh": "防折裂抗氧化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antifoam additive(=antifoaming additive;antifrother)",
+    "zh": "防沫添加剂；防起泡添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antifoaming additive(=antifoam additive)",
+    "zh": "防沫添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antifoulant additive",
+    "zh": "防污添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antifreeze additive",
+    "zh": "防冻剂；阻冻添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antifrother(=antifoam additive)",
+    "zh": "防沫添加剂；防起泡添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antigas additive",
+    "zh": "抗气(体)添加剂；消泡添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antigassing additive",
+    "zh": "抗气(体)添加剂；消泡添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiicing additive",
+    "zh": "防冰添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiknock additive",
+    "zh": "抗爆添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiknock petrol additive",
+    "zh": "抗爆汽油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antineuritic factor(=vitamin B₁)",
+    "zh": "抗神经炎因子；维生素B₁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antineuritic vitamin",
+    "zh": "抗神经炎维生素；维生素B₁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiophthalmic factor(=vitamin A)",
+    "zh": "抗干眼因子；维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antioxidant",
+    "zh": "抗氧化剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antioxidant additive",
+    "zh": "抗氧化添加剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "antioxidant carrier",
+    "zh": "抗氧化剂载体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antioxidant detergent",
+    "zh": "抗氧化洗涤剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antioxidant emulsion",
+    "zh": "乳化防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antioxidative stabilizer",
+    "zh": "抗氧化稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antioxygen(=antioxidant)",
+    "zh": "抗氧化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antipellagra vitamin",
+    "zh": "抗糙皮病维生素；维生素PP",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antipernicious anemia factor(=vitamin B₁₂)",
+    "zh": "抗恶性贫血因子；维生素B₁₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antipernicious anemia principle(=vitamin B₁₂)",
+    "zh": "抗恶性贫血因子；维生素B₁₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-pitting additives",
+    "zh": "防针孔添加剂（电镀）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antipreignition additive",
+    "zh": "防预燃添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antirachitic vitamin",
+    "zh": "抗佝偻病维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-rust additive",
+    "zh": "防锈添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiscorbutic vitamin",
+    "zh": "抗坏血病维生素；维生素C",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-scratch additive",
+    "zh": "耐刮擦助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-scuff additive",
+    "zh": "抗擦伤添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antisludge additive(=antisludging agent)",
+    "zh": "抗淤渣添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antisludging agent(=antisludge additive)",
+    "zh": "抗淤渣添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anti-static additive",
+    "zh": "抗静电添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antistatic emulsifier",
+    "zh": "抗静电乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antivitamin",
+    "zh": "抗维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiwear additive(=antiwear agent)",
+    "zh": "抗磨添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiwear agent(=antiwear additive)",
+    "zh": "抗磨添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antixerophthalmic vitamin",
+    "zh": "抗干眼维生素；维生素 A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "apricot kernel mixed fatty acid",
+    "zh": "杏仁混合脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aromatic diprimary amine antioxidant",
+    "zh": "芳香二伯胺类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arsenic minerals",
+    "zh": "砷矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "artificial fat",
+    "zh": "人造油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "artificial food flavouring",
+    "zh": "人造食品香料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "artificial sweetener",
+    "zh": "人造甜味剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aryl hydrogen sulfate",
+    "zh": "硫酸氢芳基酯 ArOSO₃H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ascorbic acid(=vitamin C)",
+    "zh": "抗坏血酸；维生素 C",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ashless additive",
+    "zh": "无灰添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "asphalt emulsifier",
+    "zh": "沥青乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "associative thickener",
+    "zh": "缔合性增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atropine sulfate",
+    "zh": "硫酸阿托品",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auric sulfate",
+    "zh": "硫酸金 Au₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auryl hydrosulfate",
+    "zh": "硫酸氢氧金；酸式硫酸氧金 (AuO)HSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "avitaminosis",
+    "zh": "维生素缺乏症",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "avitaminous",
+    "zh": "缺乏维生素的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "axerophthene(=anhydrovitamin A)",
+    "zh": "抗干眼烯；脱水维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "axerophthol(=vitamin A)",
+    "zh": "抗干眼醇；维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baking additive",
+    "zh": "烘烤添加剂（尤指烘制食品的添加剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "balanced tray thickener",
+    "zh": "平衡式多层增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "barium detergent additive",
+    "zh": "含钡洗涤添加剂；含钡去垢添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "barium hydrogen sulfate",
+    "zh": "硫酸氢钡 Ba(HSO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium hyposulfate",
+    "zh": "连二硫酸钡 BaS₂O₆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium mineral",
+    "zh": "钡矿(物)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "barium persulfate",
+    "zh": "过(二)硫酸钡 BaS2O6(O2); BaS2O8",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium phenylsulfate",
+    "zh": "苯代硫酸钡 Ba(C6H5SO4)2",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium sulfate(=barium white)",
+    "zh": "钡白；硫酸钡 BaSO4",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium sulfate extender",
+    "zh": "硫酸钡体质颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium sulfate precipitated",
+    "zh": "沉淀硫酸钡；硫酸钡 BaSO4",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium thiosulfate",
+    "zh": "硫代硫酸钡 BaSO3S;BaS2O3",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "barium white(=baryta white;barium sulfate)",
+    "zh": "钡白；硫酸钡（着色剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "baseline stabilizer",
+    "zh": "基线稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic chromium sulfate",
+    "zh": "碱式硫酸铬",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basic ethylene sulfate",
+    "zh": "羟乙硫酸 HOC H OSO H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basic lead sulfate",
+    "zh": "碱式硫酸铅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basic lead sulfate white",
+    "zh": "碱式硫酸铅白",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "basic sulfate white lead",
+    "zh": "硫酸铅白",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bassia fat",
+    "zh": "榄树脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bear fat",
+    "zh": "熊脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beater additive",
+    "zh": "打浆添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "beef fat",
+    "zh": "牛脂肪；牛(板)油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzidine sulfate",
+    "zh": "联苯胺硫酸盐；硫酸联苯胺 (H₂NC₆H₄)₂·H₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beryllium sulfate",
+    "zh": "硫酸铍 BeSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bioactive additive",
+    "zh": "生物活性添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "biotin(=vitamin H)",
+    "zh": "生物素；维生素 H",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bismuth potassium thiosulfate",
+    "zh": "硫代硫酸铋钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bismuth sodium thiosulfate",
+    "zh": "硫代硫酸铋钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bisphenol antioxidant",
+    "zh": "双酚类抗氧化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bisulfate",
+    "zh": "硫酸氢盐：酸式硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bisulfate fusion",
+    "zh": "酸式硫酸盐熔融",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bleeding of additive",
+    "zh": "添加剂的渗出(现象)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blended antioxidant(=mixed antioxidant)",
+    "zh": "混合防老剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blended emulsifier",
+    "zh": "混合乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blood fat",
+    "zh": "血脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blown mineral oil",
+    "zh": "吹制矿物油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blue basic lead sulfate(=blue lead)",
+    "zh": "碱式硫酸铅蓝；蓝铅（主要成分 PbSO₄·PbO）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "branched chain fatty acid",
+    "zh": "支链脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bright-coloured preservative stain",
+    "zh": "浅色防腐着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bufatrienolide",
+    "zh": "蟾三烯内酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "buffalo milk fat",
+    "zh": "水牛酪脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "buffer additive",
+    "zh": "缓冲溶液添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk additive",
+    "zh": "填充剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "butyl hydrogen sulfate",
+    "zh": "丁(代)硫酸；硫酸氢丁酯 C₄H₉OSO₃H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "butyl sulfate",
+    "zh": "硫酸氢丁酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium minerals",
+    "zh": "镉矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calciferol (=vitamin D₂)",
+    "zh": "钙化醇；骨化醇；维生素D₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcium bisulfate",
+    "zh": "硫酸氢钙 Ca(HSO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium ethoxide",
+    "zh": "乙醇钙 Ca(OC H ) calcium ethylate 乙醇钙 Ca(OC H ) calcium ethylsulfate 乙基硫酸钙 CaSO (C H ) calcium-exchanged silica pigment 钙离子交换型硅颜料；钙交换硅颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium sulfate",
+    "zh": "硫酸钙 CaSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium sulfate hemihydrate",
+    "zh": "半水合硫酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcium thiosulfate",
+    "zh": "硫代硫酸钙 CaSO₃S;CaS₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calorie",
+    "zh": "卡（热量单位）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "canned food",
+    "zh": "罐头(食品)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "caramelization",
+    "zh": "焦糖化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbohydrate",
+    "zh": "碳水化合物*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carbonate ester additive",
+    "zh": "碳酸酯添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbonate minerals",
+    "zh": "碳酸盐矿物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbyl sulfate",
+    "zh": "亚乙基磺酸酐 carbyne 碳炔*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalyst-to-additive ratio",
+    "zh": "催化剂对添加剂比",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalytic additive",
+    "zh": "催化添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cationic additive",
+    "zh": "阳离子添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cationic emulsifier",
+    "zh": "阳离子乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cationic fat liquor",
+    "zh": "阳离子(型)加油(脂)乳液",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cellulose acetate sulfate",
+    "zh": "乙酸纤维素酯硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cellulose sulfate",
+    "zh": "硫酸纤维素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cellulose thickener",
+    "zh": "纤维素增稠剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cement colorant",
+    "zh": "水泥着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ceric oxysulfate",
+    "zh": "硫酸氧化高铈 CeO(SO₄)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ceric sulfate",
+    "zh": "硫酸高铈 Ce(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ceric sulfate dosimeter",
+    "zh": "硫酸铈剂量计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ceric sulfate method",
+    "zh": "硫酸高铈(滴定)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cerium mineral",
+    "zh": "铈矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cerous dioxysulfate",
+    "zh": "硫酸二氧二铈",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cerous hydrosulfate",
+    "zh": "硫酸氢铈",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cerous sulfate",
+    "zh": "硫酸亚铈",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium alum (=cesium aluminium sulfate)",
+    "zh": "铯矾；硫酸铯铝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium aluminium sulfate (=cesium alum)",
+    "zh": "硫酸铯铝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium bisulfate",
+    "zh": "硫酸氢铯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium chromic sulfate",
+    "zh": "硫酸铬铯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium disulfatoindate",
+    "zh": "二硫酸根络铟酸铯；硫酸铟铯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cesium ferric sulfate",
+    "zh": "硫酸铁铯 </div>",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cetane additive (=cetane improver)",
+    "zh": "十六烷值增进剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cetane improver (=cetane additive)",
+    "zh": "十六烷值增进剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cetyl sodium sulfate",
+    "zh": "十六烷基硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cetyl sulfate",
+    "zh": "十六烷基硫酸酯(盐)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cevitamic acid (=vitamin C)",
+    "zh": "维生素 C；抗坏血酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chamois fat",
+    "zh": "油鞣用油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical addition agent (=chemical additive)",
+    "zh": "添加剂；化学添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical additive (=chemical addition agent)",
+    "zh": "添加剂；化学添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical bonded stabilizer",
+    "zh": "化学键合的稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical-bound antioxidant",
+    "zh": "化学结合的抗氧化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorinated additive",
+    "zh": "氯化添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chloromethyl methyl sulfate",
+    "zh": "硫酸氯甲基甲酯 (ClCH₂)(CH₃)SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic chlorosulfate",
+    "zh": "硫酸氯铬 CrClSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic oxydisulfate",
+    "zh": "二硫酸一氧化二铬 Cr₂O(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic potassium alum (=chromic potassium sulfate)",
+    "zh": "铬钾矾；硫酸铬钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic potassium sulfate (=chromic potassium alum)",
+    "zh": "硫酸铬钾；铬钾矾 K₂SO₄·Cr₂(SO₄)₃·24H₂O; KCr(SO₄)₂·12H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic rubidium alum (=chromic rubidium sulfate)",
+    "zh": "铬铷矾: 硫酸铬铷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic rubidium sulfate (=chromic rubidium alum)",
+    "zh": "铬铷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic sodium alum (=chromic sodium sulfate)",
+    "zh": "铬钠矾: 硫酸铬钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic sodium sulfate (=chromic sodium alum)",
+    "zh": "铬钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromic sulfate green",
+    "zh": "硫酸铬绿（搪瓷和陶瓷用颜料）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chromyl sulfate",
+    "zh": "硫酸氧铬 chronic 慢性的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "citrate soluble plant food",
+    "zh": "柠檬酸溶解性植物养料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clay mineral",
+    "zh": "黏土矿物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cling additives",
+    "zh": "黏着添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "closed-edge gutter stabilizer",
+    "zh": "封缘淌蜡(成沟)稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulating bath additive",
+    "zh": "凝固浴添加剂；纺丝浴添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coating additive",
+    "zh": "涂料添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coatings additive",
+    "zh": "涂料助剂；涂料添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cocoanut fat",
+    "zh": "椰子脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coco fatty diethanol amide",
+    "zh": "椰油脂肪二乙醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coconut fatty acid",
+    "zh": "椰子油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coconut oil fatty acid",
+    "zh": "椰子油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coco sulfate",
+    "zh": "椰油(醇)硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coenzyme R(=vitamin H; biotin)",
+    "zh": "辅酶R；维生素H；生物素",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coke suppressing additive",
+    "zh": "防焦添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color additive",
+    "zh": "染料助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colorant",
+    "zh": "色料；着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color stabilizer",
+    "zh": "颜色稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colour(ing) stabilizer",
+    "zh": "色泽稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "combined fatty acids",
+    "zh": "化合脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combustion additive",
+    "zh": "燃烧添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combustion stabilizer",
+    "zh": "燃烧稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "complex subtractive colorant mixture",
+    "zh": "复杂减色剂混合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complex type antioxidant",
+    "zh": "复合型抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "composite stabilizer",
+    "zh": "复合稳定剂；混配稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "compounded mineral oil",
+    "zh": "复合矿物油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compounding agent (=additive ingredient)",
+    "zh": "添加剂；配合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous thickener",
+    "zh": "连续稠厚器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coot fat",
+    "zh": "黑鸭脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper salt antioxidant",
+    "zh": "铜盐抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corn oil fatty acid",
+    "zh": "玉米油脂肪酸；玉蜀黍油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "corn fatty acid",
+    "zh": "玉米油脂酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "co-stabilizer",
+    "zh": "共稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cotton seed fatty acid",
+    "zh": "棉籽脂酸（活性剂、分散剂、乳化剂)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crankcase oil additive",
+    "zh": "曲轴箱润滑油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crude mineral oil (=crude oil)",
+    "zh": "石油；原油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crude oil (=crude petroleum; crude mineral oil)",
+    "zh": "石油；原油",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crude fat",
+    "zh": "粗脂(肪)；原脂(肪)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cryophilic salt minerals",
+    "zh": "喜冰无机盐",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cuprammonium sulfate",
+    "zh": "硫酸铜铵；硫酸四氨合铜 [Cu(NH₃)₄]SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupric sulfate",
+    "zh": "硫酸铜 CuSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupric tetramminosulfate",
+    "zh": "硫酸四氨(合)铜 [Cu(NH₃)₄]SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cupric thiosulfate",
+    "zh": "硫代硫酸铜 CuSO₃S;CuS₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cuprosulfate",
+    "zh": "硫酸铜复盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cutting oil additive",
+    "zh": "切削油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cyclone thickener",
+    "zh": "旋风增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyclon thickener",
+    "zh": "旋风增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead burned calcium sulfate",
+    "zh": "烧僵硫酸钙（完全无水的硫酸钙）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "decolorant",
+    "zh": "脱色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deemulsifier",
+    "zh": "去乳化剂；破乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "defatting",
+    "zh": "脱脂的;脱脂(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dehydrated castor oil fatty acid",
+    "zh": "脱水蓖麻油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dehydrated food",
+    "zh": "脱水食物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demineralization",
+    "zh": "去矿化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demineralized water",
+    "zh": "软化水；脱矿质水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demineralizer",
+    "zh": "脱盐装置；软水器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demineralizing plant (",
+    "zh": "水的)软化装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "demulsifier",
+    "zh": "反乳化剂；破乳剂;乳液澄清器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depletion of additive",
+    "zh": "添加剂的消耗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dermatan sulfate",
+    "zh": "硫酸皮肤素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "destabilizer",
+    "zh": "去稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "desulfate",
+    "zh": "脱硫；脱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "desulfating",
+    "zh": "脱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "desulfation",
+    "zh": "脱硫(作用); 脱硫酸盐(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "detergent additive",
+    "zh": "去垢添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of fat",
+    "zh": "脂肪含量的测定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "determination of vitamin",
+    "zh": "维生素测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deuterated antioxidant",
+    "zh": "氘化抗氧剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dextran sulfate",
+    "zh": "硫酸葡聚糖",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diaryl secondary amine antioxidant",
+    "zh": "二芳基仲胺类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dibutyl sulfate",
+    "zh": "硫酸二丁酯 (C₄H₉O)₂SO₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "didymium sulfate",
+    "zh": "硫酸钕镨",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dielectric fatigue",
+    "zh": "介电疲乏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diesel-fuel additive",
+    "zh": "柴油(机燃料)添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diethyl sulfate(=ethyl sulfate)",
+    "zh": "硫酸二乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "difatty amido alkoxylated ammonium halide",
+    "zh": "二脂肪酰氨基烷氧基卤化铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "difunctional additive",
+    "zh": "双官能添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dika fat",
+    "zh": "地咖脂;加蓬依苦木脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dilatant thickener",
+    "zh": "胀流增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dilution additive",
+    "zh": "稀释剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimethylamine sulfate",
+    "zh": "硫酸二甲胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dimethyl sulfate",
+    "zh": "硫酸二甲酯 (CH₃O)₂SO₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diphenylamine sulfate",
+    "zh": "二苯胺硫酸 </div>",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipropyl sulfate",
+    "zh": "硫酸二丙酯 (C₂H₅CH₂O)₂SO₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "discoloring antioxidant",
+    "zh": "脱色性防老剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dispersing additive",
+    "zh": "分散添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "docosyl sulfate",
+    "zh": "二十二烷基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "doctor sweetener",
+    "zh": "博士法(脱硫醇)精制装置；亚铅酸钠精制装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dodecyl amine thiosulfate",
+    "zh": "硫代硫酸十二烷基胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dodecyl polyoxy ethylene sulfate",
+    "zh": "十二烷基聚氧乙烯硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dodecyl sulfate",
+    "zh": "十二烷基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dog fat",
+    "zh": "狗脂(肪)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Dorr balanced-tray thickener",
+    "zh": "多尔型平衡盘式增稠器；料盘式增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double sulfate method",
+    "zh": "硫酸复盐法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drying oil fatty acid",
+    "zh": "干性油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dual-purpose additive",
+    "zh": "双效添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic fatigue",
+    "zh": "动态疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dynamic fatigue test",
+    "zh": "动态疲劳试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dysprosium sulfate",
+    "zh": "硫酸镝 Dy₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "edible fat",
+    "zh": "食用脂肪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elastic fatigue",
+    "zh": "弹性疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Elbs persulfate oxidation",
+    "zh": "埃尔布斯过硫酸盐氧化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electro-chemical additive",
+    "zh": "电化添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsifier(=emulsifying agent)",
+    "zh": "乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsifier free emulsion polymerization",
+    "zh": "无乳化剂乳液聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsifier-free latex",
+    "zh": "无乳化剂的胶乳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsifier of the oil-in-water type",
+    "zh": "水包油型乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsifying agent(=emulsifier)",
+    "zh": "乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion stabilizer",
+    "zh": "乳化稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion thickener",
+    "zh": "乳液增稠剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endurance limit(=fatigue limit)",
+    "zh": "疲劳极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "EP additive(=extreme pressure additive) (",
+    "zh": "耐)特压添加剂；极压添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "epoxide stabilizer",
+    "zh": "环氧化物稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy stabilizer",
+    "zh": "环氧稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "erbium sulfate",
+    "zh": "硫酸铒 Er₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "essential fatty acid",
+    "zh": "必需脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethereal sulfate",
+    "zh": "硫酸乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ether sulfate",
+    "zh": "醚硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethiops mineral",
+    "zh": "黑硫汞矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethoxylated fatty acid",
+    "zh": "乙氧基脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated fatty amide",
+    "zh": "乙氧基(化)脂肪族酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated fatty monoamine",
+    "zh": "乙氧基化脂肪族一元胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated fatty polyamine",
+    "zh": "乙氧基化脂肪族多胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylated sorbitol fatty acid ester",
+    "zh": "乙氧基化山梨糖醇脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethoxylized fatty alcohol",
+    "zh": "乙氧基化脂肪(族)醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl acid sulfate",
+    "zh": "酸式硫酸乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl butyric acid sulfate",
+    "zh": "乙基丁酸硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethylene oxide condensate emulsifier",
+    "zh": "环氧乙烷缩合乳化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ethyl hydrogen sulfate",
+    "zh": "乙基硫酸；硫酸乙氢酯 C₂H₅SO₄H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl sulfate(=diethyl sulfate)",
+    "zh": "硫酸乙酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "europium sesquioxide",
+    "zh": "氧化铕 europium sulfate 硫酸铕 europous chloride 二氯化铕 europous sulfate 硫酸亚铕 eurotin 败菌素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "examination of genetically modified organisms foods",
+    "zh": "转基因食品检验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "excess stabilizer reflux (",
+    "zh": "来自)稳定塔的过量回流",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "exterior-grade preservative",
+    "zh": "外用级防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extreme pressure addition agent(=extreme pressure additive) (",
+    "zh": "耐)特压添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extreme pressure additive(=extreme pressure addition agent) (",
+    "zh": "耐)特压添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extreme pressure lubricant (",
+    "zh": "耐)特压润滑剂 extreme pressure compound(=extreme pressure additive) (耐)特压添加剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "extreme pressure dope(=extreme pressure additive) (",
+    "zh": "耐)特压添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "FAC(Fat Analysis Committee) color FAC",
+    "zh": "色度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat acid",
+    "zh": "脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatal",
+    "zh": "致死的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatal dose",
+    "zh": "致死剂量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue crack",
+    "zh": "疲劳裂缝；疲劳断裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue curve",
+    "zh": "疲劳曲线",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue data",
+    "zh": "疲劳数据;疲劳值",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue endurance",
+    "zh": "耐疲劳性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue endurance limit",
+    "zh": "疲劳持久极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue failure",
+    "zh": "疲劳衰坏；疲劳破坏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue life",
+    "zh": "疲劳寿命",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue limit(=endurance limit)",
+    "zh": "疲劳极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue loss",
+    "zh": "疲劳损耗",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue machine",
+    "zh": "疲劳试验机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue mechanism",
+    "zh": "疲劳机理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue notch factor",
+    "zh": "疲劳缺口因数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue notch sensitivity",
+    "zh": "疲劳缺口敏度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue-proof rubber",
+    "zh": "防疲劳橡胶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue protective agent",
+    "zh": "抗疲劳剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue ratio",
+    "zh": "疲劳比",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue strength",
+    "zh": "疲劳强度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue test",
+    "zh": "疲劳试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue under flexing",
+    "zh": "挠曲疲劳；弯曲疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue under scrubbing",
+    "zh": "挠曲疲劳；搓擦疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue wear",
+    "zh": "疲劳磨损",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat iodine value",
+    "zh": "油脂碘值",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat lime",
+    "zh": "肥石灰",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat liquor",
+    "zh": "加油(或脂)乳液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat liquored",
+    "zh": "乳液加油(或脂)的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat liquoring",
+    "zh": "上脂；上油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-lub test",
+    "zh": "液体中含油量测定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatlute",
+    "zh": "油泥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat melter",
+    "zh": "熔脂器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatness",
+    "zh": "多脂;油腻;油性;润滑性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat oil",
+    "zh": "饱和油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat ore",
+    "zh": "富矿石",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat rendering",
+    "zh": "炼脂；脂肪熔炼",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat resistance",
+    "zh": "防油性；不透油性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat sand",
+    "zh": "富沙",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat saponification",
+    "zh": "油脂皂化(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-soluble",
+    "zh": "脂溶性的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-soluble vitamin",
+    "zh": "脂溶性维生素",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "fat splitter",
+    "zh": "裂脂器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-splitting agent",
+    "zh": "油脂水解(催化)剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat splitting plant",
+    "zh": "脂肪分裂工厂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat substitute",
+    "zh": "脂肪代用品；代用油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat tannage",
+    "zh": "油脂鞣",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatality",
+    "zh": "致死率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat asphalt",
+    "zh": "肥沥青（含大量铺路用沥青的混合物）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat clay",
+    "zh": "富黏土；可塑性黏土；油性黏土",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat coal",
+    "zh": "肥煤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat colors",
+    "zh": "油溶染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat dye",
+    "zh": "油溶染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat dyestuffs",
+    "zh": "油溶染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fate",
+    "zh": "历程；去向；走向",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat edge",
+    "zh": "厚边；溜边；淤边（漆膜病态）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-free extraction paper",
+    "zh": "脱脂提取纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat-free filter paper",
+    "zh": "脱脂滤纸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat gas",
+    "zh": "油气；肥气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat grease",
+    "zh": "动物润滑脂（用动物脂肪做成的润滑脂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat hardening",
+    "zh": "油脂硬化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat hydrolysis",
+    "zh": "油脂水解",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat hydrolyzing process",
+    "zh": "油脂水解法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue",
+    "zh": "疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue break-down",
+    "zh": "疲劳破坏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatigue breaking",
+    "zh": "疲劳断裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat tanned",
+    "zh": "油脂鞣(了)的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fattening (",
+    "zh": "油漆储存期间的)增稠；返稠〔漆病〕",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatting agent",
+    "zh": "加脂剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat turpentine",
+    "zh": "脂化松节油；稠化松节油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty",
+    "zh": "脂(肪)的;多脂的；油的;脂(肪)族的；链烃类的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid",
+    "zh": "脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid alkanol amine",
+    "zh": "脂肪酸烷醇胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid alkyl amide",
+    "zh": "脂肪酸烷基酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid amide",
+    "zh": "脂肪酸酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid amide sulfonate",
+    "zh": "脂肪酸酰胺磺酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid ammonium salt",
+    "zh": "脂肪酸铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid anhydride",
+    "zh": "脂肪酸酐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid chloride",
+    "zh": "脂肪酸氯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid ethanol amide",
+    "zh": "脂肪酸乙醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid fractionation",
+    "zh": "脂肪酸分馏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid glyceride",
+    "zh": "甘油脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid hydrazide",
+    "zh": "脂肪酸酰肼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid inositol ester",
+    "zh": "脂肪酸环己六醇酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid lakes",
+    "zh": "脂肪酸色淀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid mannitol ester",
+    "zh": "脂肪酸甘露醇酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid methyl ester",
+    "zh": "脂肪酸甲酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid methylol amide",
+    "zh": "脂肪酸羟甲酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid monoethyl polyoxyethylene ester",
+    "zh": "脂肪酸单乙基聚氧乙烯酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid monoglyceride",
+    "zh": "脂肪酸单甘油酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid monoglyceride monosulfate",
+    "zh": "脂肪酸单甘油酯单硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid nitrile",
+    "zh": "脂肪酸腈",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid pentaerythritol ester",
+    "zh": "脂肪酸季戊四醇酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid peroxidase",
+    "zh": "脂(肪)酸过氧物酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid phenylethyl amide",
+    "zh": "苯乙基脂肪酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid pitch",
+    "zh": "脂肪酸沥青",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid process",
+    "zh": "脂肪酸法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid quaternary ammonium salt",
+    "zh": "脂肪酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid separation",
+    "zh": "脂肪酸分离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid sorbitan ester",
+    "zh": "脂肪酸失水山梨糖醇酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid sulfate",
+    "zh": "脂肪酸硫酸酯（阴离子表面活性剂如红油或酯化油）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid triethanol amine",
+    "zh": "脂肪酸三乙醇胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid triglyceride",
+    "zh": "三脂肪酸甘油酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl alkylol amide",
+    "zh": "脂肪酰烷醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl amino alcohol",
+    "zh": "脂肪酰氨基醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl amino carboxylic acid",
+    "zh": "脂肪酰氨基羧酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl amino diphenyl ether sulfonic acid",
+    "zh": "脂肪酰氨基二苯醚磺酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acylated glucamine",
+    "zh": "脂肪酰葡萄糖胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl benzene sulfonate",
+    "zh": "脂肪酰苯磺酸盐(或酯)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl carbazole sulfonic acid",
+    "zh": "脂肪酰咔唑磺酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl guanidine",
+    "zh": "脂肪酰胍",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl guanyl urea",
+    "zh": "脂肪酰脒基脲",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl hydrazide",
+    "zh": "脂肪酰肼",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl methyl metanilic acid",
+    "zh": "脂肪酰甲基间氨基苯磺酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl naphthalene sulfonate",
+    "zh": "脂肪酰萘磺酸盐(或酯)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl phenol",
+    "zh": "脂肪酰基酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl phenoxyethyl amide",
+    "zh": "脂肪酰苯氧乙酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "N-fatty acyl-sphingosine N-",
+    "zh": "脂(肪)酰(神经)鞘氨醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl sulfanilic acid",
+    "zh": "脂肪酰氨基苯磺酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl taurine",
+    "zh": "脂肪酰牛磺酸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acyl urea",
+    "zh": "脂肪酰脲",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol",
+    "zh": "脂肪族醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol adduct",
+    "zh": "脂肪醇加合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol chloroacetate ester",
+    "zh": "脂肪醇氯乙酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol ether sulfosuccinate",
+    "zh": "脂肪醇醚磺基琥珀酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol ethoxylate",
+    "zh": "脂肪醇乙氧基化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol glucoside",
+    "zh": "脂肪醇葡糖苷",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol polyglycol ether",
+    "zh": "脂肪醇聚乙二醇醚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol sulfonate",
+    "zh": "脂族醇磺酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alcohol sulfosuccinate ester",
+    "zh": "脂肪醇磺基琥珀酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty aldehyde",
+    "zh": "脂肪(族)醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alkanol amide",
+    "zh": "脂肪醇酰胺；(脂族)链烷醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty alkyl sulfoacetate",
+    "zh": "磺基乙酸(脂肪族)烷基酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amide",
+    "zh": "脂肪酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amide oxide",
+    "zh": "脂肪酰胺氧化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amide sulfonate",
+    "zh": "磺酸化脂肪酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine",
+    "zh": "脂肪族胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine basicity",
+    "zh": "脂肪(族)胺的碱度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine hydrochloride",
+    "zh": "脂肪胺盐酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine oxide",
+    "zh": "脂肪胺氧化物：氧化脂肪胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine polyalkylene glycol",
+    "zh": "聚亚烷基二醇脂肪胺；聚烷撑二醇脂肪胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty amine salt",
+    "zh": "脂肪胺盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty arsine oxide",
+    "zh": "脂肪肿氧化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty compound",
+    "zh": "脂肪族化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty cutting oil",
+    "zh": "脂肪切削油（用于金属切削）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty degeneration",
+    "zh": "脂肪变质",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty diethanol amide",
+    "zh": "脂肪二乙醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty ether",
+    "zh": "脂肪族醚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty glyceride",
+    "zh": "脂肪酸甘油酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty group",
+    "zh": "脂肪族;脂肪(族)基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty liver",
+    "zh": "脂肪肝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty mercaptan",
+    "zh": "脂肪硫醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty monoamine polyglycol",
+    "zh": "聚乙二醇脂肪一元胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty monoethanol amide",
+    "zh": "脂肪酸单乙醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty monoglyceride",
+    "zh": "脂肪酸单甘油酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty nitrile",
+    "zh": "脂肪腈",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty odor",
+    "zh": "油脂气息",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty oil",
+    "zh": "脂肪油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty paint",
+    "zh": "油性漆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat type soil",
+    "zh": "脂肪类污垢",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty phosphine",
+    "zh": "脂肪膦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty polyamide",
+    "zh": "脂肪族聚酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty polyamine polyglycol",
+    "zh": "聚乙二醇脂肪多胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty series（",
+    "zh": "复） 脂肪系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty spew",
+    "zh": "脂肪斑（皮革）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty sulfonamide",
+    "zh": "脂肪磺基酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty thioether",
+    "zh": "脂肪硫醚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatwood",
+    "zh": "明子；多脂材",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fat wrinkles（",
+    "zh": "复） 油皱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "femic minerals（",
+    "zh": "复） 铁镁质矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ferric rubidium alum(=ferric rubidium sulfate)",
+    "zh": "铁铷 矾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferric rubidium sulfate",
+    "zh": "铁铷 矾（硫酸铷 和硫酸铁的水合复盐；硫酸铷 铁）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferric sulfate",
+    "zh": "硫酸铁 Fe₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferriferrous sulfate",
+    "zh": "硫酸正亚铁 FeSO₄·Fe₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferromagnesium sulfate",
+    "zh": "硫酸亚铁镁 FeSO₄·MgSO₄·6H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferromanganous sulfate",
+    "zh": "硫酸亚铁亚锰 FeMn(SO₄)₂·12H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferrosi sulfate",
+    "zh": "硫酸亚铁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferrous ammonium sulfate",
+    "zh": "硫酸亚铁铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferrous sulfate",
+    "zh": "硫酸亚铁 FeSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ferrous sulfate dosimeter",
+    "zh": "硫酸亚铁剂量计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fertility vitamin",
+    "zh": "生育维生素；维生素E",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "film forming emulsifier",
+    "zh": "成膜乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "film strength additive",
+    "zh": "增加(润滑油)膜强度的添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "film strength grease additive",
+    "zh": "增加润滑脂膜强度的添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filter thickener",
+    "zh": "过滤增稠剂;过滤增稠器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fire-retardant additive",
+    "zh": "阻燃添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flame-retardant additive",
+    "zh": "阻燃添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flame stabilizer",
+    "zh": "火焰稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavor",
+    "zh": "香味;食用香料;调料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavorant",
+    "zh": "食用香料；食品香料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavor chemistry",
+    "zh": "香味化学；香料化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor component",
+    "zh": "香味组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor composition",
+    "zh": "食用香精;香味组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavored",
+    "zh": "调味；加香",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavor enhancer",
+    "zh": "香味增强剂；风味增强剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavorhodin",
+    "zh": "紫菌红素甲",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring",
+    "zh": "香味;调香;调味剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring agent",
+    "zh": "增香剂;调味剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring composition",
+    "zh": "食用香精;风味组分",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring oil",
+    "zh": "食用油质香精",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring tablet",
+    "zh": "食用片剂香料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavoring tincture",
+    "zh": "食用香酊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavorist",
+    "zh": "食品调香者 </div>",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flavor material",
+    "zh": "食用香料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor potentiator",
+    "zh": "香味增强剂；风味增强剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor profile method",
+    "zh": "风味剖析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor substance",
+    "zh": "食用香料;调料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor terminology",
+    "zh": "风味术语",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor threshold",
+    "zh": "香味阈值；口味阈值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flavor threshold concentration",
+    "zh": "香味阈值浓度；口味阈值浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flex fatigue",
+    "zh": "挠曲疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flexing fatigue life",
+    "zh": "抗挠疲劳寿命；耐挠曲疲劳性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluorescent additive",
+    "zh": "荧光添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorobutane",
+    "zh": "丁基氟：1-氟代丁烷 fluorocarbohydrate 氟代碳水化合物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluorocarbon additive",
+    "zh": "碳氟(化合物)添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flux stabilizer",
+    "zh": "磁通稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam stabilizer",
+    "zh": "稳泡剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fodder sweetener",
+    "zh": "饲料用甜味剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food",
+    "zh": "食品；食物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food additive analysis",
+    "zh": "食品添加剂分析",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "food additives",
+    "zh": "食品添加剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "food allergy",
+    "zh": "食物过敏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food analysis",
+    "zh": "食品分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Food and Drug Administration (",
+    "zh": "美国)食品与药物管理局",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food antiseptics",
+    "zh": "食品防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food chain",
+    "zh": "食物链",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food color",
+    "zh": "食品着色剂；食品色素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food dye",
+    "zh": "食用染料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food filming agent",
+    "zh": "食品被膜剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food flavor(ing)",
+    "zh": "食品香味;食品香精;食品香料;食品调味剂",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "food flavour",
+    "zh": "食用香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food manufacturing agent",
+    "zh": "食品制造用添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food poison",
+    "zh": "食物毒",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food pollution",
+    "zh": "食物污染",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food preservative analysis",
+    "zh": "食品防腐剂分析",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "food processing aid",
+    "zh": "食品加工助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food soil",
+    "zh": "食物类污垢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food starch",
+    "zh": "食用淀粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "foodstuff rubber",
+    "zh": "食品工业用橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food wrapper",
+    "zh": "食品包装纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fox fat",
+    "zh": "狐狸脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "free fatty acids",
+    "zh": "游离脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "freeze-thaw stabilizer",
+    "zh": "冻融稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "FTV(flavor threshold values)",
+    "zh": "香味阈值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel additive",
+    "zh": "燃料添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel oil additive",
+    "zh": "燃料油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fuel oil stabilizer",
+    "zh": "燃料油稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel thickener",
+    "zh": "燃料稠化剂：凝油剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel value (of food) (",
+    "zh": "食物的)燃烧值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fully-additive process",
+    "zh": "全加成法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "galium sulfate",
+    "zh": "硫酸镓 Ga2(SO4)3",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gallium potassium alum(=gallium potassium sulfate)",
+    "zh": "镓钾矾；硫酸镓钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gallium potassium sulfate(=gallium potassium alum)",
+    "zh": "硫酸镓钾；镓钾矾 KSO · Ga(SO) · 24HO; KGa(SO) · 12HO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gasoline additive(=gasoline dope)",
+    "zh": "汽油添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasoline anti-icing additive",
+    "zh": "汽油防冻添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasoline detergent additive",
+    "zh": "汽油清洁添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasoline dope(=gasoline additive)",
+    "zh": "汽油添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gasoline stabilizer",
+    "zh": "汽油稳定塔;汽油稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gasoline sweetener",
+    "zh": "汽油脱硫装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gear lubricating mineral grease",
+    "zh": "齿轮用矿物润滑脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gear oil additive",
+    "zh": "齿轮油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glutton fat",
+    "zh": "獽脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycerine monofatty ester",
+    "zh": "甘油单脂肪酸酯；脂肪酸单甘油酯（俗）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycol fatty acid stearate",
+    "zh": "脂肪酸硬脂酸二醇酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glyoxal sulfate",
+    "zh": "硫酸缩乙二醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gooseberry flavor",
+    "zh": "圆醋栗香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "goose fat",
+    "zh": "鹅脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "graft-promoting additive",
+    "zh": "接枝促进剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gram calorie",
+    "zh": "克卡；卡；小卡（相对于大卡即千卡）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grease additive",
+    "zh": "润滑脂添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grease antioxidant",
+    "zh": "润滑脂的抗氧化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "grease thickener",
+    "zh": "润滑脂增稠剂;增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "great calorie",
+    "zh": "大卡；千卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "green food",
+    "zh": "绿色食品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grout additive",
+    "zh": "砂浆添加剂：(水泥)薄浆添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "guanidine octadecyl sulfate",
+    "zh": "十八烷基硫酸胍",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "guanidine sulfate",
+    "zh": "硫酸胍 (CH₅N₃)₂H₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gutter stabilizer",
+    "zh": "窄槽稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hafnium sulfate",
+    "zh": "硫酸铪 Hf(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hardened fat",
+    "zh": "硬化脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hardening of fat",
+    "zh": "油脂的加氢作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hard fat",
+    "zh": "硬脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat ageing additive",
+    "zh": "防热老化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat stabilizer",
+    "zh": "热稳定剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat stabilizing additive",
+    "zh": "热稳定添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat stable antioxidant",
+    "zh": "热稳定防老剂；防热老化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heavy mineral sand",
+    "zh": "重矿砂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heavy mineral spirit (=heavy petroleum spirit)",
+    "zh": "重质溶剂油：重石油醚",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "herapathite (=quinine iodosulfate)",
+    "zh": "碘硫酸奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high additive oil",
+    "zh": "高添加剂含量的油品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high alkalinity additive",
+    "zh": "高碱性添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high cycle fatigue",
+    "zh": "高周疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "higher alkyl sulfate",
+    "zh": "高烷基硫酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "higher fatty acid",
+    "zh": "高级脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hindered phenolic antioxidant",
+    "zh": "受阻碍酚性抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hog fat",
+    "zh": "猪(脂)油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homo-ionic mineral",
+    "zh": "同离子矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "homovitamin A",
+    "zh": "高维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "horse fat",
+    "zh": "马脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horse marrow fat",
+    "zh": "马髓脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot column stabilizer",
+    "zh": "稳定塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrated barta",
+    "zh": "氢氧化钡 Ba(OH) hydrated calcium sulfate 水合硫酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrazine sulfate",
+    "zh": "硫酸肼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogenated fat",
+    "zh": "氢化脂；硬化脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogenated fatty acid",
+    "zh": "氢化脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogenated oil and fat",
+    "zh": "氢化油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen sulfate",
+    "zh": "硫酸氢（即：硫酸）;硫酸氢盐 MHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrogen sulfate of sodium",
+    "zh": "硫酸氢钠 NaHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrosulfate",
+    "zh": "硫酸氢盐 MHSO₄;硫酸化物 R·H₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrosulfate of sodium",
+    "zh": "硫酸氢钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrous calcium sulfate",
+    "zh": "含水硫酸钙；石膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydrous wool fat",
+    "zh": "含水羊毛脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ice-bear fat",
+    "zh": "北极熊油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ice fat",
+    "zh": "冰脂；卡丽托脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "imidodisulfate",
+    "zh": "亚氨二硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "imitation flavor",
+    "zh": "人造食用香料; 调制食用香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "impact fatigue",
+    "zh": "冲击疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "impact fatigue test",
+    "zh": "冲击疲劳试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "in-can preservative",
+    "zh": "罐内防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "induline fat-soluble",
+    "zh": "油溶引杜林",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inedible fat",
+    "zh": "非食用脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inert additive",
+    "zh": "惰性添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inflammable minerals〔",
+    "zh": "复〕 可燃性矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inorganic additive",
+    "zh": "无机添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insulating oil organic chloride and sulfate test",
+    "zh": "绝缘油有机氯化物及硫酸盐试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "interior grade wood preservative",
+    "zh": "内用级木材防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "internal oleyl sulfate",
+    "zh": "内油醇硫酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "internal stabilizer",
+    "zh": "内稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "International Organization of Flavor Industry(IOFI)",
+    "zh": "国际香料工业组织",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "invisible fat",
+    "zh": "隐(性)油；不可见油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion exchange demineralization",
+    "zh": "离子交换除盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic emulsifier",
+    "zh": "离子型乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron mineral",
+    "zh": "铁矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isovitamin C",
+    "zh": "异维生素 C; 异抗坏血酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kermes mineral",
+    "zh": "红锑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "keto fatty acid",
+    "zh": "脂肪酮酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "keto fatty alcohol",
+    "zh": "脂肪酮醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kilocalorie",
+    "zh": "千卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kilogram calorie",
+    "zh": "大卡；千(克)卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kitchen fat",
+    "zh": "厨用脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kiwi flavor",
+    "zh": "猕猴桃香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Kopp's law of additive volume",
+    "zh": "科普容积加和定律",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Kunkel's zinc sulfate test",
+    "zh": "孔克耳硫酸锌检验法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lanolin fatty acid",
+    "zh": "羊毛脂脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lanthanum dioxysulfate",
+    "zh": "硫酸二氧二镧 (LaO)₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lanthanum hydrosulfate",
+    "zh": "硫酸氢镧 La(HSO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lanthanum sulfate",
+    "zh": "硫酸镧 La₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "latex stabilizer",
+    "zh": "胶乳稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "latex thickener",
+    "zh": "乳胶增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lather stabilizer",
+    "zh": "泡沫稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laurel butter(=laurel fat)",
+    "zh": "月桂油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "laurel fat(=laurel butter)",
+    "zh": "月桂油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lauryl ether sulfate",
+    "zh": "月桂基醚硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lauryl pyridinium sulfate",
+    "zh": "硫酸月桂基吡啶鎓",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lauryl sodium sulfate",
+    "zh": "十二烷基硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lauryl sulfate",
+    "zh": "硫酸月桂酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lauryl triethanol ammonium sulfate",
+    "zh": "月桂基三乙醇硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lead heat stabilizer",
+    "zh": "铅系热稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead minerals",
+    "zh": "铅矿(物)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead stabilizer",
+    "zh": "铅稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lead sulfate",
+    "zh": "硫酸铅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lead thiosulfate",
+    "zh": "硫代硫酸铅 PbSO₃S;PbS₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "leafing stabilizer",
+    "zh": "漂浮稳定剂；叶展稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light stabilizer",
+    "zh": "光稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limit of fatigue",
+    "zh": "疲劳限度；疲劳极限",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limit test for sulfate",
+    "zh": "硫酸盐极限试验法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linseed fatty acid",
+    "zh": "亚麻仁脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium ammonium sulfate",
+    "zh": "硫酸锂铵 Li(NH₄)SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium bisulfate",
+    "zh": "硫酸氢锂 LiHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium dodecyl sulfate",
+    "zh": "十二烷基硫酸锂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium hydrogen orthophosphate",
+    "zh": "磷酸二氢锂 lithium hydrogen sulfate 硫酸氢锂 lithium hydroxide 氢氧化锂 LiOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium potassium sulfate",
+    "zh": "硫酸锂钾 LiKSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium sulfate",
+    "zh": "硫酸锂 Li₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithium thiocyanate",
+    "zh": "硫氰酸锂 LiSCNlithium thiosulfate 硫代硫酸锂 Li₂S₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "load-carrying additive",
+    "zh": "载荷能力添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lobeline sulfate",
+    "zh": "硫酸山梗碱；硫酸洛贝林",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long chain fatty acid",
+    "zh": "长链脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "long-term static fatigue failure",
+    "zh": "长期静态疲劳破损",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low cycle fatigue",
+    "zh": "低循环疲劳；低周疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lower alkyl fatty ester",
+    "zh": "低碳烷基脂肪酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lube oil additive",
+    "zh": "润滑油添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lubricant additive",
+    "zh": "润滑剂添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lubricant demulsifier",
+    "zh": "润滑油破乳剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lubricating detergent additive",
+    "zh": "润滑清净添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lupinidine sulfate",
+    "zh": "硫酸(左旋)鹰爪豆；硫酸金雀花碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lychee flavor",
+    "zh": "荔枝香精；荔枝风味",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lynx fat",
+    "zh": "山猫脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mafic minerals（",
+    "zh": "复）镁铁质矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Maillard reaction",
+    "zh": "美拉德反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "manganese minerals",
+    "zh": "锰矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "manganese sulfate",
+    "zh": "硫酸锰",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "manganic sulfate",
+    "zh": "硫酸三价锰 Mn₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "manganous ammonium sulfate",
+    "zh": "硫酸亚锰铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maripa fat(=maripa oil)",
+    "zh": "棕榈油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maripa oil(=maripa fat)",
+    "zh": "棕榈油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maroti fat",
+    "zh": "海南大风子油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "marproofing additive",
+    "zh": "抗擦伤添加剂；耐磨损添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mean calorie",
+    "zh": "平均卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mechanical colorant dispenser",
+    "zh": "自动调色机；自动混色机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercuric sulfate",
+    "zh": "硫酸汞 HgSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mercurous sulfate",
+    "zh": "硫酸亚汞 Hg₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mercury minerals",
+    "zh": "汞矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallic(lic) stabilizer",
+    "zh": "金属稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metamict mineral",
+    "zh": "乱晶矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methylene blue stabilizer",
+    "zh": "亚甲蓝稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylguanidine sulfate",
+    "zh": "硫酸甲胍",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methylol fatty acid",
+    "zh": "羟甲基脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl-sulfate",
+    "zh": "硫酸二甲酯 (CH₃)₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcalorie",
+    "zh": "小卡；微卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mineral",
+    "zh": "矿(物)；矿石;矿物的;无机的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral acid",
+    "zh": "无机酸*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral acid content",
+    "zh": "无机酸含量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral acid neutralization number",
+    "zh": "无机酸中和数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral additive",
+    "zh": "矿物添加剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "mineral adhesive",
+    "zh": "硅酸钠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral aggregate",
+    "zh": "矿物集料；无机骨料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral alkali",
+    "zh": "无机碱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral black",
+    "zh": "石墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral blue",
+    "zh": "矿蓝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral burning oil",
+    "zh": "煤油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral butter",
+    "zh": "凡士林；矿脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral caoutchouc",
+    "zh": "弹性沥青",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral carbon",
+    "zh": "石墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral chameleon",
+    "zh": "高锰酸钾",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral charcoal",
+    "zh": "丝炭；天然木炭",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral chemistry",
+    "zh": "矿物化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral coal",
+    "zh": "丝煤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral color",
+    "zh": "矿物颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral colza (oil)",
+    "zh": "重质灯油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral compound",
+    "zh": "无机化合物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral cotton",
+    "zh": "矿棉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral cutting oil",
+    "zh": "矿物切削油（切削工具用矿质润滑-冷却液）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral dispersion",
+    "zh": "矿物分散体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral dye",
+    "zh": "无机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral ether",
+    "zh": "石油醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral fat",
+    "zh": "矿脂",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "mineral fertilizer",
+    "zh": "无机肥料（矿物肥料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral fiber",
+    "zh": "矿物纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral filler",
+    "zh": "矿物填料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral filter",
+    "zh": "矿物滤器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral fuel",
+    "zh": "矿物燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral-gelled grease",
+    "zh": "无机胶凝润滑脂；矿物质胶态润滑脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral glue",
+    "zh": "矿物胶（硅酸钠的水溶液）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral green",
+    "zh": "矿物绿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralization",
+    "zh": "矿化*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralized froth",
+    "zh": "矿化泡沫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralized methylated spirit (",
+    "zh": "甲基紫着色的)甲醇和石脑油混合溶剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralizer",
+    "zh": "矿化物;矿化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralizing",
+    "zh": "矿化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral jelly",
+    "zh": "矿物冻",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral kermes",
+    "zh": "硫氧锑矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral-lard (cutting) oil",
+    "zh": "矿物-猪油切削油（矿物润滑油与猪油润滑冷却液）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral lattice",
+    "zh": "无机物晶体点阵；矿物晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral linseed oil",
+    "zh": "矿质亚麻油（亚麻油的矿质代用品）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral lubricating oil",
+    "zh": "矿物润滑油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral manure",
+    "zh": "无机肥料；矿物肥料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral matter",
+    "zh": "矿物(质)；矿质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral membrane electrode",
+    "zh": "矿物膜电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralogical",
+    "zh": "矿物(学)的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralogical analysis",
+    "zh": "矿物组成分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralogical chemistry",
+    "zh": "矿物化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralography",
+    "zh": "矿相学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineralogy",
+    "zh": "矿物学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral oil",
+    "zh": "矿物油（指石油、页岩油等矿物来源的油）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral oil spring",
+    "zh": "矿物油泉；石油喷流",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral orange(=red lead)",
+    "zh": "铅丹；红丹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral paint",
+    "zh": "矿物性涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral paint thinner",
+    "zh": "矿质油漆稀释剂；油漆的矿物质石油稀释剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral pigment",
+    "zh": "矿物性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral pitch",
+    "zh": "地沥青；柏油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral-polymer composite",
+    "zh": "矿物-聚合物组分",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral product",
+    "zh": "矿产",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral purple",
+    "zh": "赭石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral quartz",
+    "zh": "矿物石英；石英石",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral resin",
+    "zh": "矿物树脂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral resources",
+    "zh": "矿物资源",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral rubber",
+    "zh": "矿物胶；弹性沥青",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral salt",
+    "zh": "天然盐；矿盐；岩盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral seal oil",
+    "zh": "矿质海豹油；重质灯油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral separating fluid",
+    "zh": "离矿液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral silicate emulsion",
+    "zh": "无机硅酸盐乳液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral slags",
+    "zh": "矿渣(磨料)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral spirit",
+    "zh": "一种溶剂油（约150～200℃馏分）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral spots（",
+    "zh": "复）矿物包体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral springs",
+    "zh": "矿泉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral streak",
+    "zh": "矿脉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral substance",
+    "zh": "矿物质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral sulfonate",
+    "zh": "石油磺酸盐；矿物(油)磺酸盐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral sulfur",
+    "zh": "矿质硫黄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral syrup",
+    "zh": "液体石蜡；石蜡油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral tallow",
+    "zh": "矿蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral tannage",
+    "zh": "矿物鞣(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral tanning agent",
+    "zh": "矿物鞣剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral tar",
+    "zh": "矿质焦油;风化石油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral theory (",
+    "zh": "石油起源的)无机理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral thinner",
+    "zh": "矿物稀释剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral turpentine",
+    "zh": "矿质松节油；石油溶剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral violet",
+    "zh": "矿物紫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral water",
+    "zh": "矿质水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral wax",
+    "zh": "地蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral white",
+    "zh": "矿物白；石膏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral white primer",
+    "zh": "碳酸钙油性填孔料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral wool",
+    "zh": "石纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mineral yellow",
+    "zh": "氯氧化铅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "minimum fatal dose",
+    "zh": "最小致死量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mink fat",
+    "zh": "貂脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "miscellaneous paint additive",
+    "zh": "多用漆添加剂；通用漆添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed antioxidant(=blended antioxidant)",
+    "zh": "混合防老剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mixed fatty acid",
+    "zh": "混合脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdenum dioxysulfate",
+    "zh": "硫酸双氧钼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdenum minerals",
+    "zh": "钼矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molybdenum trisulfate",
+    "zh": "硫酸钼 Mo(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdenyl sulfate",
+    "zh": "硫酸双氧钼 (MoO₂)SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monethenoid fatty acids",
+    "zh": "单烯型脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoacyloxytitanate-treated mineral",
+    "zh": "单酰氧基钛酸酯处理的无机物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monoammonium sulfate",
+    "zh": "硫酸氢铵；硫酸一铵 (NH₄)HSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monobasic lead sulfate",
+    "zh": "碱式硫酸铅；一代硫酸铅；硫酸铅白〔俗〕",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoethanolamine alkyl sulfate",
+    "zh": "烷基硫酸单乙醇胺盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoethanolamine dodecyl sulfate",
+    "zh": "十二烷基硫酸单乙醇胺盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoethanolamine fatty acid",
+    "zh": "脂肪酸单乙醇胺盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoethyl-sulfate",
+    "zh": "硫酸一乙酯 CH₃CH₂OSO₃H;CH₃CH₂SO₄H",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monomeric additive",
+    "zh": "单体添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "motor fuel additive",
+    "zh": "发动机燃料添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mowrah fat",
+    "zh": "雾冰藜脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-charge fat liquor",
+    "zh": "多电荷加油(脂)乳液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multipurpose additive",
+    "zh": "多效添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mutton fat",
+    "zh": "羊脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "naphthylamine antioxidant",
+    "zh": "萘胺类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "native mineral wax",
+    "zh": "天然地蜡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "native sulfate of barium",
+    "zh": "天然硫酸钡；重晶石 BaSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "natural fats and oils",
+    "zh": "天然油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neodymium hydrosulfate",
+    "zh": "硫酸氢钕 Nd(HSO₄)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neutral colorant",
+    "zh": "中性染料；中性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral fat",
+    "zh": "中性脂肪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "niam fat",
+    "zh": "非洲栎树油（取自 Lophira alata 的种子）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nickel ammonium sulfate",
+    "zh": "硫酸镍铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nickel-containing heat stabilizer",
+    "zh": "含镍热稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nickel minerals",
+    "zh": "镍矿(类)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nickel sulfate",
+    "zh": "硫酸镍 NiSO₄·6H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nickel thiosulfate",
+    "zh": "硫代硫酸镍 NiSO₃S; NiS₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nigrosine fat soluble",
+    "zh": "油溶尼格(洛辛)〔染〕",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "niobium minerals",
+    "zh": "铌矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitrate additive",
+    "zh": "硝酸酯添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "NMR stabilizer",
+    "zh": "核磁共振稳定器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-conjugated fatty acid",
+    "zh": "非共轭脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nondetergent fatty matter",
+    "zh": "非洗涤剂脂肪物；不皂化物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-essential fatty acid",
+    "zh": "非必需脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-extractable stabilizer system",
+    "zh": "非萃取性稳定剂体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonionic emulsifier",
+    "zh": "非离子乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-ionic fat liquor",
+    "zh": "非离子(型)加油(脂)乳液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nonionic thickener",
+    "zh": "非离子型增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-metallic additive",
+    "zh": "非金属添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-metallic minerals（",
+    "zh": "复） 非金属矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-mineral constituents",
+    "zh": "非矿质组分",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-staining antioxidant",
+    "zh": "无污染的抗氧化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-toxic stabilizer",
+    "zh": "无毒稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal paraffin hydrocarbon(NPH)",
+    "zh": "正烷烃 normal paraffin sulfate 直链烷烃硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nutrition",
+    "zh": "营养;营养学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nutritional",
+    "zh": "营养的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nutritional significance",
+    "zh": "营养意义",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nutrition analysis of fruits and vegetables",
+    "zh": "果蔬营养分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "octafunctional stabilizer",
+    "zh": "八官能稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "odor additive",
+    "zh": "添味剂；香味添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "odor control additive",
+    "zh": "调味添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "odorless mineral spirit",
+    "zh": "无(臭)味石油溶剂油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil and fat",
+    "zh": "油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oiliness additive",
+    "zh": "油性添加剂（提高润滑性能的添加剂）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-pressure stabilizer",
+    "zh": "油压稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oily flavor",
+    "zh": "油溶性食用香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "olefinic carbohydrate",
+    "zh": "烯属碳水化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oleovitamin A",
+    "zh": "维生素A油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oleyl sulfate",
+    "zh": "油基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oligosaccharide sulfate",
+    "zh": "低聚糖硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "one package stabilizer",
+    "zh": "复合稳定剂；综合稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-pack stabilizer",
+    "zh": "单组分稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orange lead(=orange mineral)",
+    "zh": "铅橙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orange mineral(=orange lead)",
+    "zh": "铅橙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic colorant",
+    "zh": "有机着色剂;有机染料;有机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic metal",
+    "zh": "有机(化)金属organic mineral 有机矿物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "organic stabilizer",
+    "zh": "有机稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organoclay-thickener",
+    "zh": "有机瓷(白)土增稠剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organometallic stabilizer",
+    "zh": "有机金属稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organotin stabilizer",
+    "zh": "有机锡稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ortho-sulfate",
+    "zh": "原硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ostrich fat",
+    "zh": "驼鸟脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxammonium sulfate",
+    "zh": "硫酸羟氨 (NHOH) · HSO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxo sulfate",
+    "zh": "羰基醇硫酸盐(酯)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxyethylated castor oil fatty amide",
+    "zh": "氧乙烯(化)蓖麻油脂肪酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxyethylated fatty amide",
+    "zh": "氧乙烯(化)脂肪酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxysulfate",
+    "zh": "含氧硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paint additive",
+    "zh": "涂料添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "palm oil fatty acid",
+    "zh": "棕榈油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pangamic acid(=vitamin B₁₅)",
+    "zh": "潘氨酸；维生素 B₁₅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "partial stabilizer",
+    "zh": "部分稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peanut oil fatty acid",
+    "zh": "花生油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pelletierine sulfate",
+    "zh": "硫酸石榴碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pentaerythritol fatty ester",
+    "zh": "季戊四醇脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "perdeuterated fatty acid",
+    "zh": "全氘化脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "performance additive",
+    "zh": "改性助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perhydrovitamin A",
+    "zh": "全氢(化)维生素A",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peroxodisulfate",
+    "zh": "过二硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxy-disulfate(=persulfate)",
+    "zh": "过(二)硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxy-monosulfate",
+    "zh": "过一硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate(=peroxy-disulfate)",
+    "zh": "过(二)硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate initiator",
+    "zh": "过(二)硫酸盐引发剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate ion",
+    "zh": "过(二)硫酸根离子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate method",
+    "zh": "过(二)硫酸盐法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate oxidation",
+    "zh": "过(二)硫酸盐氧化(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "persulfate salt",
+    "zh": "过(二)硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petroleum additive",
+    "zh": "石油添加剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenate stabilizer",
+    "zh": "酚盐稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenelzine sulfate",
+    "zh": "硫酸苯乙基肼",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenol antioxidant",
+    "zh": "酚类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic antioxidant",
+    "zh": "酚类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic stabilizer",
+    "zh": "酚型稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenolic type antioxidant",
+    "zh": "酚类防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenothiazine-type antioxidant",
+    "zh": "吩噻嗪型抗氧化剂（润滑油用）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "p-phenylenediamine derivative antioxidant",
+    "zh": "对苯二胺衍生物防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenylethyl valerate",
+    "zh": "戊酸苯乙酯 ω-phenyl fatty acid 端苯基脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenyl-hydrogen-sulfate",
+    "zh": "苯硫酸：硫酸苯氢酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photo-oxidant stabilizer",
+    "zh": "防光老化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photostabilizer",
+    "zh": "耐光剂；光稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pH-stabilizer pH",
+    "zh": "稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalyl sulfathiazole",
+    "zh": "邻苯二甲酰基磺胺噻唑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physical antioxidant",
+    "zh": "物理性防老剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigeon fat",
+    "zh": "鸽脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pig liver fat",
+    "zh": "猪肝脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pine marten fat",
+    "zh": "松皮脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "piquia fat",
+    "zh": "白胡桃油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plain mineral oil",
+    "zh": "普通矿物润滑油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic fat",
+    "zh": "胶性脂肪；塑性脂肪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plasticizer-stabilizer",
+    "zh": "增塑-稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plasticizing stabilizer",
+    "zh": "增塑稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plastics additive",
+    "zh": "塑料添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plate sulfate",
+    "zh": "板状硫酸盐；硫酸盐首次结晶部分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "platinic sulfate",
+    "zh": "硫酸铂 Pt(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "platinum mineral",
+    "zh": "铂矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plumbic sulfate (basic)",
+    "zh": "碱式硫酸高铅 Pb(OH)₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plumbite sweetener",
+    "zh": "铅酸盐香化器；铅酸盐脱臭装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plumbous hyposulfate",
+    "zh": "连二硫酸铅 PbS₂O₆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plumbous sulfate (basic)",
+    "zh": "碱式硫酸铅 PbSO₄·PbO",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plutonium sulfate",
+    "zh": "硫酸钚 Pu(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pneumatic thickener",
+    "zh": "气压稠料器；气压脱水机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poldine methylsulfate",
+    "zh": "甲硫泊尔定；甲基硫酸波定（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyene fatty acid",
+    "zh": "多烯脂肪酸；多双键脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyenoid fatty acid",
+    "zh": "多(乙)烯型脂肪酸；多双键脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymeric additive",
+    "zh": "高分子添加剂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric antioxidant",
+    "zh": "聚合型防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymeric associative type thickener",
+    "zh": "缔合型高分子增稠剂；缔合聚合物型增稠剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymeric dispersion stabilizer",
+    "zh": "聚合物分散稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymeric thickener",
+    "zh": "聚合增稠剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization stabilizer",
+    "zh": "聚合稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerized antioxidant",
+    "zh": "聚合型防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerized fatty acid",
+    "zh": "聚合脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymer stabilizer",
+    "zh": "聚合物稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer type antioxidant",
+    "zh": "聚合物型抗氧剂；聚合型防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyoxyalkylene fatty acid ester",
+    "zh": "脂肪酸聚氧烷撑酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyoxyethylene alkyl phenyl ether sulfate",
+    "zh": "聚氧乙烷基苯基硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyoxyethylene fatty acid",
+    "zh": "聚氧乙烯脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyoxyethylene fatty acid ester",
+    "zh": "聚氧乙烯脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyphenol type antioxidant",
+    "zh": "多酚防老剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyunsaturated fatty acid",
+    "zh": "多不饱和脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyvinyl stearate",
+    "zh": "聚硬脂酸乙烯酯poly(vinyl sulfate) 聚乙烯磺酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyvitaminosis",
+    "zh": "缺多种维生素症",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "poona fat",
+    "zh": "浦那脂（取自 Cototropis gigantea）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium bisulfate",
+    "zh": "硫酸氢钾 KHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium ceric sulfate",
+    "zh": "硫酸铈钾；四硫酸根合铈酸钾 K₄[Ce₂(SO₄)₄]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium chromium sulfate",
+    "zh": "硫酸铬钾;钾铬钒 KCr(SO₄)₂·12H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium decyl sulfate",
+    "zh": "癸烷基硫酸钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium disulfate",
+    "zh": "焦硫酸钾 K₂S₂O₇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium disulfatoindate",
+    "zh": "二硫酸根合铟酸钾 K₂SO₄·In₂(SO₄)₃·24H₂O·KIn(SO₄)₃·12H₂O $$",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium hydrogen sulfate",
+    "zh": "硫酸氢钾 KHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium hyposulfate",
+    "zh": "连二硫酸钾 K₂S₂O₆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium mineral",
+    "zh": "钾矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potassium persulfate",
+    "zh": "过(二)硫酸钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium pyrosulfate",
+    "zh": "焦硫酸钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium scandium sulfate",
+    "zh": "硫酸钪钾；三硫酸根合钪酸钾 K₃[Sc(SO₄)₃]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium sulfate",
+    "zh": "硫酸钾 K₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium sulfatothorate",
+    "zh": "硫代钍酸钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium thiosulfate",
+    "zh": "硫代硫酸钾 K₂SO₃S;K₂S₂O₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potassium zinc sulfate",
+    "zh": "硫酸锌钾 K₂SO₄·ZnSO₄·6H₂O",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "potato flavor",
+    "zh": "土豆香精",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "potential associative thickener",
+    "zh": "电位(势)缔合增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pound calorie",
+    "zh": "磅卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pour point additive(=pour point depressant)",
+    "zh": "倾点下降剂 pour point depressant(=pour depressor; pour inhibitor; pour",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "point additive; pour point reducer)",
+    "zh": "倾点下降剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "powdered extract",
+    "zh": "粉状栲胶 powdered flavor 粉状香料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "precipitated barium sulfate",
+    "zh": "沉淀硫酸钡（填料）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "preexisting mineral",
+    "zh": "先成矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative",
+    "zh": "保存剂;防腐剂；杀菌剂;防老剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative agent",
+    "zh": "保存剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative coat",
+    "zh": "防腐层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative engine oil",
+    "zh": "防护机器油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative lubricating oil",
+    "zh": "防护润滑油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative oil",
+    "zh": "防护油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preservative treated plywood",
+    "zh": "防腐胶合板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "preserved food",
+    "zh": "罐头食品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressed barium sulfate",
+    "zh": "压制硫酸钡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primary colorant",
+    "zh": "主着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "process additive",
+    "zh": "操作助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "product stabilizer (",
+    "zh": "石油)产品的稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proflavine(=3,6-diaminoacridine sulfate)",
+    "zh": "硫酸原黄素；硫酸-3,6-二氨基吖啶 proflavine cream 硫酸原黄素膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "propamine sulfate",
+    "zh": "硫酸苯丙胺；硫酸普鲁巴明",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "property-modifying additive (",
+    "zh": "聚合物)改性添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "propyl hydrogen-sulfate",
+    "zh": "硫酸氢丙酯 C₃H₇HSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "propyl sulfate",
+    "zh": "硫酸二丙酯 (C₃H₇)₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "protactinium sulfate",
+    "zh": "硫酸镁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "protosulfate",
+    "zh": "低硫酸盐；含硫酸基最少的硫酸盐（类同低卤化物,不能叫作原硫酸盐 ortho-sulfate)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "provitamin",
+    "zh": "前维生素; 维生素原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "provitamin A",
+    "zh": "前维生素A; 维生素A原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "provitamin D",
+    "zh": "前维生素D; 二氢麦角甾醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "provitamin D₂",
+    "zh": "前维生素D₂; 麦角甾醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudovitamin B₁₂",
+    "zh": "假维生素 B₁₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pupal fat",
+    "zh": "蛹油；蛹脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pure mineral oil",
+    "zh": "纯矿油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "PVC stabilizer",
+    "zh": "聚氯乙烯稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrosulfate",
+    "zh": "焦硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyrosulfate fusion",
+    "zh": "焦硫酸盐熔融",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quality determination of fats",
+    "zh": "油脂质量鉴定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary ammonium sulfate",
+    "zh": "硫酸季铵盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quaternary morpholinium alkyl sulfate",
+    "zh": "季(铵)化吗啉硫酸烷基酯盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinacetine sulfate",
+    "zh": "硫酸奎哪亭",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinidine sulfate",
+    "zh": "硫酸奎尼丁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinine bisulfate",
+    "zh": "酸式硫酸奎宁；金鸡纳霜；重硫酸奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinine iodosulfate(=herapathite)",
+    "zh": "碘硫酸奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinine sulfate",
+    "zh": "硫酸奎宁",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "quinine sulfate periodide",
+    "zh": "硫酸奎宁合高碘化物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation preservation of food",
+    "zh": "辐射保藏食品",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radioactive mineral",
+    "zh": "放射性矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rancidity test of fats",
+    "zh": "油脂酸败试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rare-earth additive",
+    "zh": "稀土(化合物)添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rare earth minerals",
+    "zh": "稀土矿物类",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rattlesnake fat",
+    "zh": "响尾蛇脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "red lead(=mineral orange; minium)",
+    "zh": "铅丹；红丹；红铅粉；四氧化三铅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reducing stabilizer",
+    "zh": "还原性稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "refined wool fat",
+    "zh": "精制羊毛脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "remineralization",
+    "zh": "再矿化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reserve carbohydrate",
+    "zh": "储备碳水化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rhodium sulfate",
+    "zh": "硫酸三价铑 Rh₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "riboflavin(=vitamin B₂)",
+    "zh": "核黄素；维生素 B₂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rinse additive",
+    "zh": "漂清助剂；调理助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rock-forming minerals（",
+    "zh": "复） 造岩矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rubber antioxidant",
+    "zh": "橡胶防老剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rubidium bicarbonate",
+    "zh": "碳酸氢铷; 重碳酸铷 rubidium bichromate 重铬酸铷 rubidium bisulfate 硫酸氢铷 rubidium bisulfite 亚硫酸氢铷 rubidium bromate 溴酸铷 rubidium bromide 溴化铷 rubidium carbonate 碳酸铷 rubidium chlorate 氯酸铷 rubidium chloride 氯化铷 rubidium chloroplatinate 氯铂酸铷 rubidium chlorostannate 氯锡酸铷 rubidium chromate 铬酸铷 rubidium dithionate 连二硫酸铷 rubidium fluoride 氟化铷 RbF",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rust preventive additive",
+    "zh": "防锈添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salic minerals",
+    "zh": "硅铝质矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "samaric hydrosulfate",
+    "zh": "硫酸氢钐 Sm(HSO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "samaric sulfate",
+    "zh": "硫酸钐 Sm₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "samarous sulfate",
+    "zh": "硫酸亚钐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sanguinarine sulfate",
+    "zh": "血根碱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saturated fatty acid",
+    "zh": "饱和脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "saturated long chain fatty acid",
+    "zh": "饱和长链脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scandium oxysulfate",
+    "zh": "硫酸氧化钪 (Sc₂O)(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scandium sulfate",
+    "zh": "硫酸钪 Sc₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "secondary additive",
+    "zh": "辅助配合剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary mineral",
+    "zh": "次生矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "secondary stabilizer",
+    "zh": "二级稳定器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seed fat",
+    "zh": "植物油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selenophosphate additive",
+    "zh": "硒代磷酸盐添加物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sharp flavor",
+    "zh": "辛辣味；辛辣调料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "shea nut fat",
+    "zh": "牛油树坚果脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shipboard irradiation (of seafood) (",
+    "zh": "海味水产品)船上照射",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silicate minerals",
+    "zh": "硅酸盐矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica minerals",
+    "zh": "硅氧矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silver hydrogen sulfate",
+    "zh": "硫酸氢银 AgHSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silver sodium thiosulfate",
+    "zh": "硫代硫酸一银三钠 Na₃[AgSO₃S)₂]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silver sulfate",
+    "zh": "硫酸银 Ag₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silver thiosulfate",
+    "zh": "硫代硫酸银 Ag₂SO₃S; Ag₂S₂O₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sizing of minerals",
+    "zh": "矿物的分级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "slip additive",
+    "zh": "滑爽添加剂；润滑添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "small calorie(=small calory)",
+    "zh": "小卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "small calory(=small calorie)",
+    "zh": "小卡",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap fat",
+    "zh": "制皂用脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap fat liquor",
+    "zh": "肥皂乳化的加油(脂)液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soap-type emulsifier",
+    "zh": "皂型乳化剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soapy flavor",
+    "zh": "肥皂味",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium amyl sulfate",
+    "zh": "戊基硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium ethyl-sulfate",
+    "zh": "乙硫酸钠 sodium ethyl-xanthate(=sodium ethyl-xanthogenate) 乙基黄原酸钠 sodium ethyl-xanthogenate(=sodium ethyl-xanthate) 乙基黄原酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium hexadecyl sulfate",
+    "zh": "十六烷基硫酸钠 (湿润剂)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium laureth sulfate",
+    "zh": "月桂基(聚氧乙烯)醚硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium lauryl ether sulfate",
+    "zh": "月桂基乙醚硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium lauryl sulfate",
+    "zh": "十二烷基硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium persulfate",
+    "zh": "过(二)硫酸钠 Na₂S₂O₈; Na₂S₂O₆[O₂]",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium sulfate",
+    "zh": "硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium sulfate-sensitized flame photometric detector",
+    "zh": "硫酸钠敏化火焰光度检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soft fat",
+    "zh": "软脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soil clay mineral",
+    "zh": "土壤黏土矿物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soil mineral",
+    "zh": "土壤矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soil stabilizer",
+    "zh": "土壤稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solfatara",
+    "zh": "硫气孔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soluble colorant",
+    "zh": "可溶着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sorbitan fatty acid ester",
+    "zh": "失水山梨糖醇脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sorbitan fatty ester",
+    "zh": "失水山梨糖醇脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soya bean fatty acid",
+    "zh": "大豆脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soy(a)-bean oil fatty acid",
+    "zh": "豆油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soya fatty acid",
+    "zh": "大豆(油)脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sparteine bisulfate",
+    "zh": "鹰爪豆碱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sparteine sulfate",
+    "zh": "鹰爪豆碱硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "specialist additive",
+    "zh": "专用添加剂；特种添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sperm oil fatty acid",
+    "zh": "鲸油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sperm oil fatty acid EO adduct",
+    "zh": "鲸油脂肪酸环氧乙烷加成物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stabilizer",
+    "zh": "稳定器;稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer column(=stabilizer tower)",
+    "zh": "稳定塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer feed pump",
+    "zh": "稳定塔进油泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer gas",
+    "zh": "稳定塔气体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer overhead",
+    "zh": "稳定塔顶排出气体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer packed column",
+    "zh": "填充稳定塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer plant",
+    "zh": "稳定厂；稳定装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer reboiler",
+    "zh": "稳定塔再沸器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stabilizer tower(=stabilizer column)",
+    "zh": "稳定塔",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stannic sulfate",
+    "zh": "硫酸锡 Sn(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stannous sulfate",
+    "zh": "硫酸锡 SnSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "static fatigue",
+    "zh": "静态疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "static fatigue failure",
+    "zh": "静疲劳失效",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "straight chain fatty acid",
+    "zh": "直链脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "straight chain paraffin sulfate",
+    "zh": "直链烷烃硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "straight mineral cutting oil",
+    "zh": "纯矿物性切削油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "straight mineral oil",
+    "zh": "纯矿物油；直馏矿物油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "streptomycin sulfate",
+    "zh": "硫酸链霉素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strong fatty note",
+    "zh": "强烈油脂气息",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strontium hyposulfate",
+    "zh": "连二硫酸锶 SrS₂O₆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strontium sulfate",
+    "zh": "硫酸锶 SrSO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strong (sodium) sulfate",
+    "zh": "强硫酸钠",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strontium bisulfate",
+    "zh": "硫酸氢锶 Sr(HSO)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "strychnine sulfate",
+    "zh": "硫酸马钱子碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subhedral minerals",
+    "zh": "岩状矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "subsulfate",
+    "zh": "碱式硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subtractive colorant mixture theory",
+    "zh": "减色法混色理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "succinylsulfathiazole",
+    "zh": "琥珀酰磺胺噻唑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sucralfate",
+    "zh": "硫糖铝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sucrose fatty ester",
+    "zh": "蔗糖脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sugar sulfate",
+    "zh": "糖硫酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfasuxidine(=succinyl-sulfathiazole)",
+    "zh": "磺胺杀克啶；丁二酰磺胺噻唑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatase",
+    "zh": "硫酸酯酶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate",
+    "zh": "硫酸酯 R₂SO₄;硫酸盐 M₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate adenylyl transferase",
+    "zh": "硫酸腺苷酰转移酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate cellulose",
+    "zh": "硫酸纤维素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated alkanolamide",
+    "zh": "烷醇酰氨硫酸盐；硫酸化烷醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated alkyl ether",
+    "zh": "烷基醚硫酸盐；硫酸化烷基醚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated alkylolamide",
+    "zh": "烷醇酰氨硫酸盐；硫酸化烷醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated amide",
+    "zh": "硫酸化酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated amyl oleate",
+    "zh": "硫酸化油酸戊酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated ash value",
+    "zh": "硫酸盐灰分值",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated butyl oleate",
+    "zh": "油酸丁酯硫酸盐；硫酸化油酸丁酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated castor oil",
+    "zh": "硫酸化蓖麻油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated cod oil",
+    "zh": "硫酸化鳕鱼油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate detergent",
+    "zh": "硫酸盐(型)洗涤剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated ethoxylated alkylphenol",
+    "zh": "乙氧基化烷基酚硫酸盐；硫酸化乙氧基化烷基酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated fatty acid monoglyceride",
+    "zh": "硫酸化甘油单脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated fatty ester",
+    "zh": "硫酸化脂肪(族)酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated glyceride",
+    "zh": "硫酸化甘油酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate digester",
+    "zh": "硫酸(纤维)消化器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated monoglyceride",
+    "zh": "硫酸化甘油单脂肪酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated oil",
+    "zh": "磺化油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated residue test",
+    "zh": "残余硫酸试验",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfated surfactant",
+    "zh": "硫酸盐型表面活性剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate hemiester",
+    "zh": "硫酸半酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate ion",
+    "zh": "硫酸根离子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate method",
+    "zh": "硫酸盐法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate of ammonia",
+    "zh": "硫酸铵",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate of lime",
+    "zh": "硫酸钙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate of potash",
+    "zh": "硫酸钾",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate of soda glass",
+    "zh": "硫酸盐玻璃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate pigment",
+    "zh": "硫酸盐颜料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate process",
+    "zh": "硫酸盐(制纸浆)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate process titanium dioxide",
+    "zh": "硫酸法二氧化钛；硫酸法钛白",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate pulp",
+    "zh": "硫酸盐纸浆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate pulping",
+    "zh": "硫酸盐纸浆",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate rosin",
+    "zh": "磺化松香",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate saturator",
+    "zh": "硫酸盐饱和器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate sulfur",
+    "zh": "硫酸盐式硫；硫酸盐中的硫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate terpentine oil",
+    "zh": "硫酸盐纸浆松节油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfate transferase",
+    "zh": "硫酸转移酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfathalidine N-",
+    "zh": "酞酰磺胺噻唑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfathiazole",
+    "zh": "磺胺噻唑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfathiazoline",
+    "zh": "磺胺噻唑啉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfathiodiazole",
+    "zh": "磺胺噻二唑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatidase",
+    "zh": "硫(脑)苷脂酶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatidate",
+    "zh": "硫酸(脑苷)酯；脑硫酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatidate sulfatase",
+    "zh": "硫(脑)苷脂硫酸酯酶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatide",
+    "zh": "硫(脑)苷脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfating",
+    "zh": "硫酸化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfating roasting",
+    "zh": "硫酸盐焙烧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfation",
+    "zh": "硫酸盐化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatocerate",
+    "zh": "硫酸根合铈酸盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatoceric acid",
+    "zh": "硫酸根合铈酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatocobalamin",
+    "zh": "硫酸钴胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatostannate",
+    "zh": "硫酸根合锡酸盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfatosulfonate",
+    "zh": "硫酸根合磺酸盐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfofatty acid salt",
+    "zh": "磺基脂肪酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfonated fatty amide",
+    "zh": "磺化脂肪(族)酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfonated fatty ester",
+    "zh": "磺化脂肪(族)酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfuration of mineral oil",
+    "zh": "矿物油硫化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfurized-chlorinated mineral oil",
+    "zh": "硫化氯化矿物油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfurized fat",
+    "zh": "硫化脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulphated fatty alcohol",
+    "zh": "硫酸化脂肪醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sunlight screening additive",
+    "zh": "日光屏蔽添加剂；防晒添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superfatted soap",
+    "zh": "富脂(肥)皂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "superfatting agent",
+    "zh": "富脂剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surfatron",
+    "zh": "同轴表面波激励器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "suspension stabilizer",
+    "zh": "悬浮稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sweetener",
+    "zh": "脱硫设备；香化设备；用博士溶液精制汽油的设备;增甜剂；增香剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synergistic emulsifier",
+    "zh": "多效乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "synthetic fat liquor",
+    "zh": "合成加油剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tall oil fatty acid",
+    "zh": "松浆油脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tama fat",
+    "zh": "奶油树脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tantalum minerals",
+    "zh": "钽矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "teglam fat",
+    "zh": "南洋同翼香脂(取自 Isoptera bornensis 的种子)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "teracalorie",
+    "zh": "兆兆卡；万亿卡（= 卡）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tersulfate",
+    "zh": "三硫酸盐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetrabasic lead sulfate",
+    "zh": "四(碱)价硫酸铅；四代硫酸铅",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetraethylammonium sulfate",
+    "zh": "硫酸四乙铵 [(C₂H₅)₄N]₂SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tetrafunctional stabilizer",
+    "zh": "四官能(基)稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrahydrogen sulfato boric acid",
+    "zh": "四(硫酸氢根合)硼酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thallic sulfate",
+    "zh": "硫酸铊 Tl₂(SO₄)₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thalline sulfate",
+    "zh": "硫酸四氢对甲氧基喹啉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal stress fatigue",
+    "zh": "热应力疲劳",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermo-stabilizer",
+    "zh": "热稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiamine hydrochloride(=vitamin B₁)",
+    "zh": "盐酸硫胺素；维生素 B₁",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thickener",
+    "zh": "增稠器;增稠剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thickener response",
+    "zh": "增稠剂响应性；增稠剂反应能力（加入增稠剂效应）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thixotropic thickener",
+    "zh": "触变性增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thiosulfate",
+    "zh": "硫代硫酸盐(酯)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thorium sulfate",
+    "zh": "硫酸钍 Th(SO ) thorium tetraisopropoxide 四异丙氧基钍",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thulium sulfate",
+    "zh": "硫酸铥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tin stabilizer",
+    "zh": "有机锡稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "titanium sesquisulfate",
+    "zh": "倍半硫酸钛(Ⅲ)；三硫酸二钛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "titanium sulfate",
+    "zh": "硫酸钛 Ti₂(SO₃)₃;Ti(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "titanous sulfate",
+    "zh": "硫酸亚钛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "titanyl sulfate",
+    "zh": "硫酸氧钛 (TiO)SO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tocopherol (=vitamin E)",
+    "zh": "生育酚；抗不育维生素；维生素E",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tolidine sulfate",
+    "zh": "硫酸联甲苯胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "topomineralogy",
+    "zh": "区域矿物学",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "torulin",
+    "zh": "(=vitamin B₁)维生素 B₁;圆酵母素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tray thickener",
+    "zh": "多层增稠器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "triethenoid fatty acid",
+    "zh": "三烯脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "triphenylrosaniline sulfate",
+    "zh": "硫酸三苯蔷薇苯胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tropine sulfate",
+    "zh": "硫酸托品",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tungsten minerals",
+    "zh": "钨矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "turboemulsifier",
+    "zh": "涡轮式乳化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "turpeth mineral",
+    "zh": "碱式硫酸汞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "two-phase additive",
+    "zh": "两相添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ucuhyba fat",
+    "zh": "肉豆蔻脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultraphonic emulsifier",
+    "zh": "超声波乳化器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultraviolet stabilizer",
+    "zh": "紫外线稳定剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unleaded antiknock additive",
+    "zh": "无铅抗爆添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "unsaturated fatty acid",
+    "zh": "不饱和脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unsulfated cement",
+    "zh": "未加石膏的水泥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uranium mineral (",
+    "zh": "含)铀矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "uranium sulfate",
+    "zh": "硫酸(四价)铀 U(SO)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uranous sulfate",
+    "zh": "硫酸(四价)铀 U(SO₄)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "UV light stabilizer",
+    "zh": "紫外光稳定剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vanadic sulfate",
+    "zh": "硫酸钒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vanadium minerals",
+    "zh": "钒矿物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vanadyl sulfate",
+    "zh": "硫酸氧钒 vanadyl tribromide 三溴化氧钒",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vateria fat",
+    "zh": "龙脑香脂（取自 Vateria）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vegetable fat",
+    "zh": "植物油脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vegetable fatty acid",
+    "zh": "植物脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vegifat",
+    "zh": "高植脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "veratrine sulfate",
+    "zh": "硫酸藜芦碱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vinyl fatty ester",
+    "zh": "脂肪酸乙烯酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vitamin A(=axerophthol)",
+    "zh": "维生素A；抗干眼醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin A1(=retinol)",
+    "zh": "维生素A1；视网膜醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin A2(=3-dehydroretinol)",
+    "zh": "维生素A2；3-脱氢视网膜醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin A acid(=retinoic acid)",
+    "zh": "视网膜酸；维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin A ether",
+    "zh": "维生素A醚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin A ketone",
+    "zh": "维生素A酮",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B",
+    "zh": "维生素B",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B1(=thiamine)",
+    "zh": "维生素B1；硫胺(素)；抗神经炎维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B2(=riboflavin)",
+    "zh": "维生素B2；核黄素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B6(=pyridoxine; pyridoxal; pyridoxamine)",
+    "zh": "维生素B6；抗皮肤炎维生素（吡哆醇、吡哆醛及吡哆胺的总称）",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B12(=cyanocobalamine)",
+    "zh": "维生素B12；(氰)钴胺(素)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B12a(=hydroxocobalamine)",
+    "zh": "维生素B12a；羟钴胺(素)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B13(=orotic acid)",
+    "zh": "维生素B13；乳清酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin Bc(=folic acid)",
+    "zh": "维生素Bc；叶酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B15",
+    "zh": "维生素B15",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B complex",
+    "zh": "复合维生素B",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin B group",
+    "zh": "维生素B类",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin Bp",
+    "zh": "维生素Bp",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin BT(=carnitine)",
+    "zh": "维生素BT；肉碱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin Bu",
+    "zh": "维生素Bu",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin Bx",
+    "zh": "维生素Bx",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin C(=ascorbie acid)",
+    "zh": "维生素C；抗坏血酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D",
+    "zh": "维生素D",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D2(=ergocalciferol, calciferol)",
+    "zh": "维生素D2；麦角钙化(甾)醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D3(=cholecalciferol)",
+    "zh": "维生素D3；胆钙化(甾)醇",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D4",
+    "zh": "维生素D4",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D palmitate",
+    "zh": "维生素D棕榈酸酯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin D sulfate",
+    "zh": "维生素D硫酸酯",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "vitamin(e)",
+    "zh": "维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin E(=tocopherol)",
+    "zh": "维生素E；生育酚",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin E1",
+    "zh": "维生素E1",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin F(=nicotinic acid)",
+    "zh": "维生素F；烟酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin G",
+    "zh": "维生素G",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin H(=biotin)",
+    "zh": "维生素 H; 生物素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitaminization",
+    "zh": "维生素化作用; 加入维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitaminized",
+    "zh": "维生素化了的; 加了维生素的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin K(=coagulation vitamin)",
+    "zh": "维生素 K; 凝血维生素 vitamin (=phylloquinone; 2-methyl-3-phytyl-1,4-naphtha-",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quinone)",
+    "zh": "维生素 ; 叶绿醌; 2-甲基-3-植基-1,4-萘醌 vitamin (=2-methyl-3-difarnesyl-1,4-naphthoquinone)维生素 ; 2-甲基-3-二法呢基-1,4-萘醌",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "vitamin L",
+    "zh": "维生素 L",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin $L_{1}$",
+    "zh": "维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin M(=folic acid)",
+    "zh": "维生素 M; 叶酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitaminosis",
+    "zh": "维生素过多症",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin P(=citrin)",
+    "zh": "维生素 P; 柠檬素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin PP(=nicotinic acid; nicotinamide)",
+    "zh": "维生素 PP;烟酸; 烟酰胺; 抗糙皮病维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamins A A",
+    "zh": "族维生素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitaminstoss",
+    "zh": "维生素大剂量治疗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin T",
+    "zh": "维生素 T",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin U",
+    "zh": "维生素 U",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin units",
+    "zh": "维生素单位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vitamin value",
+    "zh": "维生素值",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "volatile fatty acid",
+    "zh": "挥发性脂肪酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "voltage stabilizer",
+    "zh": "稳压器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanized fatty oil",
+    "zh": "油膏（软化剂、增量剂）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "walnut fatty alcohol",
+    "zh": "核桃脂肪醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water-borne preservative",
+    "zh": "水性防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water demineralizing",
+    "zh": "水去矿物质；水软化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water flooding additive",
+    "zh": "水驱添加剂；水攻添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-proofing additive",
+    "zh": "防水剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-removal additive",
+    "zh": "脱水添加剂；除水剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water repellent wood preservative",
+    "zh": "疏水性木材防腐剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water soluble plant food",
+    "zh": "水溶性植物养料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "water-white mineral oil",
+    "zh": "水白矿物油；无色矿物油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wax thickener",
+    "zh": "蜡增稠剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wear-preventive additive",
+    "zh": "防磨添加剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white lead sulfate",
+    "zh": "硫酸铅白；碱式硫酸铅（俗名）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "white mineral oil(=paraffin oil)",
+    "zh": "石蜡油",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white sulfate of alumina",
+    "zh": "纯硫酸铝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wood preservation",
+    "zh": "木材防腐 wood preservative 木材防腐剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wood preservative and stain",
+    "zh": "护木油（商）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood preservative coatings",
+    "zh": "木材防腐涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wool fat",
+    "zh": "羊毛脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wool fat ethanolamide",
+    "zh": "羊毛脂乙醇酰胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wool fat pitch",
+    "zh": "羊毛脂沥青",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Y factor (=vitamin B₆) Y",
+    "zh": "因素；维生素 B₆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ytterbium oxide",
+    "zh": "氧化镱 ytterbium oxychloride 氯氧化镱 ytterbium sulfate 硫酸镱",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "yttrium hydrosulfate",
+    "zh": "硫酸氢钇 yttrium hydroxide 氢氧化钇 yttrium iodide 碘化钇 yttrium nitrate 硝酸钇 yttrium oxide 三氧化二钇；氧化钇 yttrium pellet 钇片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "yttrium sulfate",
+    "zh": "硫酸钇 yttrium sulfide 硫化钇 yttrium superoxide 过氧化钇；九氧化四钇 yttrocerite 铈钇矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero calorie",
+    "zh": "零点卡（物化）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc ethyl sulfate",
+    "zh": "硫酸乙酯锌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc sulfate",
+    "zh": "硫酸锌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zone of high fatal temperature",
+    "zh": "致死高温带",
+    "role": "primary",
+    "confidence": 2.0
+  }
+]

@@ -1,0 +1,2546 @@
+[
+  {
+    "en": "aerothermochemistry",
+    "zh": "空气热化学；气动热化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "air relief valve(=air release valve)",
+    "zh": "排气阀；放空阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "albaspidin",
+    "zh": "三叉蕨素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alum earth",
+    "zh": "明矾土 alumel-chromel thermocouple 铝镍-铬镍热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aminolipid",
+    "zh": "氨脂质",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Amoco process",
+    "zh": "阿莫科工艺（芳烃氧化制苯酚法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anti-clogging safety stop motion",
+    "zh": "防轧装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aqua tepida",
+    "zh": "温水",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arsenidine(=arsepidine)",
+    "zh": "六氢砷吡啶;砷杂环己烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asclepidin",
+    "zh": "浓萝藦素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "asclepidoid",
+    "zh": "混萝藦素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aspidium oleoresin",
+    "zh": "绵马油树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric relief value",
+    "zh": "大气安全阀；泄气阀",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "automatic process controller",
+    "zh": "过程自动调节器；过程自动控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aviation safety fuel",
+    "zh": "安全航空燃料；高闪点航空燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "back pressure relief port",
+    "zh": "背压放出口",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ball relief valve",
+    "zh": "球形安全阀；球心安全阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "barrel control thermocouple",
+    "zh": "筒温控制热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Batroxobin (hemocoagulase)",
+    "zh": "巴曲酶(血凝酶)(药)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bicycloparaffin",
+    "zh": "二环脂族烃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bigtooth aspen",
+    "zh": "大齿白杨",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bimetallic thermocouple",
+    "zh": "双金属热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocaffeine",
+    "zh": "溴代咖啡碱 C₈H₉O₂N₄Br",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocaproic acid",
+    "zh": "溴己酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromochloro-acetic acid",
+    "zh": "溴氯乙酸 CHBrClCOOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromochlorobenzene",
+    "zh": "溴氯苯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromochlorodifluoromethane",
+    "zh": "溴氯二氟甲烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromochloroethane",
+    "zh": "溴氯乙烷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromochlorophene",
+    "zh": "溴氯芬",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocinnamaldehyde",
+    "zh": "溴肉桂醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocresol",
+    "zh": "溴甲酚",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocresol green",
+    "zh": "溴甲酚绿*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocresol purple",
+    "zh": "溴甲酚紫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocriptine",
+    "zh": "溴隐亭（药）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocrotonic acid",
+    "zh": "溴巴豆酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bromocymene",
+    "zh": "溴代伞花烃 (CH₃)₂CHC₆H₃(Br)CH₃ 5-bromodeoxyuridine 5-溴脱氧尿苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "capacitive feedback",
+    "zh": "电容反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "capacity ratio",
+    "zh": "容量比 caparrapidiol (= 3,7,11-trimethyl-1,10-dodecadiene-3,7-diol)卡帕木二醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemoceptor (=chemoreceptor)",
+    "zh": "化学接受体；化学受纳体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemocoagulation",
+    "zh": "化学凝固(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemocreep",
+    "zh": "化学蠕变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemoreceptor (=chemoceptor)",
+    "zh": "化学接受体；化学受纳体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "circular spider type joint",
+    "zh": "十字叉连接",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clomocycline",
+    "zh": "氯莫环素；羟甲金霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coefficient of safety",
+    "zh": "安全系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "combined pressure and vacuum relief valve",
+    "zh": "联合压力真空排出阀(放空阀)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "conjugated lipid",
+    "zh": "复合脂质",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "continuous flow thermocycling PCR chip",
+    "zh": "连续流式温度循环芯片 PCR",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cooperative feedback inhibition",
+    "zh": "合作反馈抑制；协同反馈抑制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper-constantan thermocouple",
+    "zh": "铜-康铜热电偶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cosmochemistry",
+    "zh": "宇宙化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "current feedback",
+    "zh": "电流反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cuspidine",
+    "zh": "枪晶石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cuspidite",
+    "zh": "枪晶石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyanate",
+    "zh": "氰酸盐 MOCN",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cycloparaffin",
+    "zh": "环烷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cycloparaffinic hydrocarbons",
+    "zh": "环烷烃",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dehydrohomocamphoric acid",
+    "zh": "脱氢高樟脑酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "delanium graphite safety disc",
+    "zh": "高纯度压缩石墨安全盘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "derived lipid",
+    "zh": "衍生脂类",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "desaspidin",
+    "zh": "异鳞毛蕨素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deserpidine(=canescine;recanescine;raunormine)",
+    "zh": "地舍平",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazotol rapid fast colours",
+    "zh": "重氮酚快速坚牢染料；偶氮酚类",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "die spider",
+    "zh": "辐架",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "differential thermocouple",
+    "zh": "差示热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "distributed control system",
+    "zh": "集散控制系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effect of rapid deformation",
+    "zh": "快速变形作用",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "effect of rapid impact",
+    "zh": "快速冲击作用",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrically heated thermocouple",
+    "zh": "电热温差电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron feedback",
+    "zh": "电子反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "elpidite",
+    "zh": "钠锆石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elymoclavine",
+    "zh": "野麦角碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "engineered safety system",
+    "zh": "工程安全系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "epidermin",
+    "zh": "表皮纤维",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epididymite",
+    "zh": "板晶石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epidihydrocholesterol",
+    "zh": "表二氢胆甾醇；表胆甾烷醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epidioxy-（",
+    "zh": "词头） 环二氧；桥二氧 —OO—",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epidithio-（",
+    "zh": "词头） 环二硫；桥二硫 —SS—",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epidote",
+    "zh": "绿帘石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "epidotization",
+    "zh": "绿帘石化作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ethyl dibromocinnamate",
+    "zh": "二溴肉桂酸乙酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "factor of safety",
+    "zh": "安全因素;安全系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "false feedback inhibition",
+    "zh": "假反馈抑制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback",
+    "zh": "回料;反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback circuit",
+    "zh": "反馈电路",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback control",
+    "zh": "反馈控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback control system",
+    "zh": "反馈控制装置",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback inhibition",
+    "zh": "反馈抑制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback loop",
+    "zh": "反馈回路",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback mechanism",
+    "zh": "反馈机制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback principle",
+    "zh": "反馈原理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback ratio",
+    "zh": "反馈比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedback-type proportioning controller",
+    "zh": "反馈型比例控制器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedforward control",
+    "zh": "前馈控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "feedforward inhibition",
+    "zh": "前馈抑制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flame thermocouple detector",
+    "zh": "火焰热电偶检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flat-operated relief valve",
+    "zh": "浮筒操纵安全阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flavaspidic acid",
+    "zh": "黄绵马酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flavaspidinol",
+    "zh": "黄绵马定醇",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "float-operated relief valve",
+    "zh": "浮球控制安全阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flow feedback control",
+    "zh": "流量反馈控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid relief",
+    "zh": "内液压缓冲",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fucolipid",
+    "zh": "岩藻糖脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "galipidine",
+    "zh": "尬梨定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas relief line",
+    "zh": "排气线;放气管线;减压管道",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "glycolipid",
+    "zh": "糖脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "glycolipide(=glycolipin)",
+    "zh": "糖脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycolipin(=glycolipide)",
+    "zh": "糖脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grazed relief tile",
+    "zh": "釉面浮雕瓷砖；浮雕琉璃砖",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "green-for-safety mining product",
+    "zh": "安全矿用品（如防火运输带）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "h(a)emocyte",
+    "zh": "血细胞；血球",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "haemocytometer",
+    "zh": "血球计；血细胞计数器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hemocyanin",
+    "zh": "血蓝蛋白",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heterolipid",
+    "zh": "杂脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high performance liquid chromatography (HPLC)",
+    "zh": "高效液相色谱法*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high pressure safety cut-out",
+    "zh": "高压安全切断器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-relief wallcovering",
+    "zh": "高浮雕型糊墙材料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homocamphor",
+    "zh": "高樟脑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocamphoric acid",
+    "zh": "高樟脑酸（高指多一个—CH₂—） COOHC₈H₁₄CH₂COOH",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocaryophyllenic acids",
+    "zh": "高石竹烯酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocentric",
+    "zh": "共心的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocentric rays",
+    "zh": "共心射线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocerebrin",
+    "zh": "类脑素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochelidonine",
+    "zh": "高白屈菜碱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochemical compound",
+    "zh": "二(型)原子化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochiral",
+    "zh": "纯手性(的)*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochirality",
+    "zh": "同手型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochroman",
+    "zh": "高苯并二氢吡喃homochromatography 同系色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochromo-isomer",
+    "zh": "同色异构体",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homochromo-isomerism",
+    "zh": "同色异构(现象)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocinchonidine",
+    "zh": "高辛可尼丁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocitric acid",
+    "zh": "高柠檬酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocitrullyl-amino-adenosine",
+    "zh": "高瓜氨酰氨基腺苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocoagulation",
+    "zh": "同粒凝结(作用)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homoconjugate",
+    "zh": "共轭对配合物；均共聚物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homoconjugation",
+    "zh": "匀共轭；隔碳共轭",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homoconjugation effect",
+    "zh": "匀共轭效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocycle",
+    "zh": "碳环;同素环",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocyclic",
+    "zh": "碳环的;同素环的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocyclic compound",
+    "zh": "碳环化合物;同素环化合物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocyclic nucleus",
+    "zh": "碳环核;同素环核",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocyclic ring",
+    "zh": "碳环;同素环 β-homocyclocitral β-环高柠檬醛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocysteine",
+    "zh": "高半胱氨酸；同型半胱氨酸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocystine",
+    "zh": "高胱氨酸；同型胱氨酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homocystinuria",
+    "zh": "高胱氨酸尿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "immersion thermocouple",
+    "zh": "浸入式热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "immersion type thermocouple",
+    "zh": "浸渍型热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "indicating thermocouple",
+    "zh": "指示热电偶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "industrial rapid balance",
+    "zh": "工业快速秤",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "industrial safety",
+    "zh": "工业安全",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "infrared rapid-scan monochromator",
+    "zh": "红外快扫描单色仪；快扫描红外单色仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "insipid",
+    "zh": "无味的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "intrinsic safety",
+    "zh": "本征安全",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kibdelopane(=kibdelophan)",
+    "zh": "钛铁矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Komagome pipette(=safety pipette)",
+    "zh": "安全移液管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lapidolite",
+    "zh": "锂云母",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lepidene",
+    "zh": "四苯呋喃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limocitrin",
+    "zh": "柠檬素；柠檬黄素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limocitrin-3,7-diglucoside",
+    "zh": "柠檬素-3,7-二葡萄糖苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "limocitrin-3-glucoside",
+    "zh": "柠檬素-3-葡萄糖苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linear prediction with singular value decomposition (LPSVD)",
+    "zh": "单值分解的线性预测",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lipidal",
+    "zh": "脂醛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "locating spider",
+    "zh": "定位芯座",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low-pressure safety cut-out",
+    "zh": "低压安全切断器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "margin of safety",
+    "zh": "安全限度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "megacarpidine(=soladulcidine)",
+    "zh": "茄甜定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl pyruvate",
+    "zh": "丙酮酸甲酯 4-methyl quinoline(=lepidine) 4-甲基喹啉 C₁₀H₉N",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "micro chamber stationary thermocyling PCR chip",
+    "zh": "微室静态温度循环 PCR 芯片",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "micro rapid mill",
+    "zh": "微型快速磨碎机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "micro-safety burner",
+    "zh": "安全微灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mocaya oil",
+    "zh": "顶束毛桐油（取自 Acrocomia sclerocarpa）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moccasin",
+    "zh": "鹿皮软革",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mocha (",
+    "zh": "铝鞣或醛鞣)绵羊正绒面手套革",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mocha stone",
+    "zh": "苔纹玛瑙",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mochyl alcohol",
+    "zh": "日本雀胶醇",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock gold",
+    "zh": "金黄铁矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock iodine-131",
+    "zh": "模拟碘-131",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock lead",
+    "zh": "闪锌矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock leno weave",
+    "zh": "假纱组织",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock ore",
+    "zh": "闪锌矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock silver",
+    "zh": "银色锡锑合金",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock standard",
+    "zh": "模拟标准",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mockup",
+    "zh": "样本；模型；模板",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mockup shop",
+    "zh": "模式车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mockup test",
+    "zh": "模型试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mock vermilion",
+    "zh": "铬酸铅",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moclobemide",
+    "zh": "吗氯贝胺（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "modified bilayer lipid membrane",
+    "zh": "修正双层磷脂膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "modulus at rapid deformation",
+    "zh": "速形变模量；动模量",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "molybdenum chloride",
+    "zh": "氯化钼（总名,计有 MoCl₂,MoCl₃, MoCl₄ 和 MoCl₅ 等）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdenum tetrachloride",
+    "zh": "四氯化钼 MoCl₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdenum trichloride",
+    "zh": "三氯化钼 MoCl₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdic chloride",
+    "zh": "三氯化钼 MoCl₃",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molybdous chloride",
+    "zh": "二氯化钼 MoCl₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi point thermocouple",
+    "zh": "多头热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mustard gas safety clothing",
+    "zh": "芥子气保安衣",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nano and micro relief",
+    "zh": "微观粗糙度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "native lipid",
+    "zh": "天然类脂(物)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "negative feedback",
+    "zh": "负反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "noble-metal thermocouple",
+    "zh": "贵金属型热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "norhomocamphoric acid",
+    "zh": "降高樟脑酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nucleo-cosmochronology",
+    "zh": "核子宇宙年代学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil-pressure relief valve",
+    "zh": "油压减压阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oil relief valve",
+    "zh": "润滑油系统减压阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oleoresin aspidium",
+    "zh": "绵马油树脂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "orifice relief",
+    "zh": "口型槽孔",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oxylepidine",
+    "zh": "联苯甲酰苯乙烯 (C₆H₅CHCOC₆H₅)₂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "patch thermocouple",
+    "zh": "接触热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pempidine 1,2,2,6,6-",
+    "zh": "五甲基哌啶；潘必啶（降压药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pentabromochlorocyclohexane",
+    "zh": "五溴氯环己烷（阻燃剂）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pentabromocyclopentadienyl",
+    "zh": "五溴环戊二烯(基)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phospho-lipid(=phospho-lipin)",
+    "zh": "磷脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phospho-lipin(=phospho-lipid)",
+    "zh": "磷脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "photoionization detector(PID)",
+    "zh": "光致电离检测器*；光离子化检测器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "photo rapid dyestuff",
+    "zh": "感光显色染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "picolyl",
+    "zh": "吡啶甲基；皮考基 2-picolyliminodiacetic acid(H₂PIDA) 2-甲基吡啶基亚氨基二乙酸 (CH₃C₅H₃N)N(CH₂COOH)₂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pilocarpidine",
+    "zh": "毛果芸香定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pipet safety filling attachment",
+    "zh": "安全移液管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "planar bilayer lipid membrane",
+    "zh": "平板双层磷脂膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "plant safety rules",
+    "zh": "工厂安全条例",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "platinum platinum-nickel thermocouple",
+    "zh": "铂-铂镍温差电偶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "platinum platinum-rhodium thermocouple",
+    "zh": "铂-铂铑温差电偶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polybromocarbon(=polybromohydrocarbon)",
+    "zh": "多溴烃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polybromohydrocarbon(=polybromocarbon)",
+    "zh": "多溴烃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polydispersity index(PID)",
+    "zh": "多分散性指数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pop safety valve",
+    "zh": "快泄安全阀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "positive feedback",
+    "zh": "正反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressure relief",
+    "zh": "解除压力",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pressure relief valve",
+    "zh": "卸压阀；安全阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "process control",
+    "zh": "过程控制",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "process controller",
+    "zh": "过程控制器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "process control word",
+    "zh": "过程控制代码",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "processing safety",
+    "zh": "操作安全性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "purpurum bromocresolis",
+    "zh": "溴甲酚紫",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation safety",
+    "zh": "放射性安全",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radiothermochromatography",
+    "zh": "放射热色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid accelerator",
+    "zh": "快速催速剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid aging",
+    "zh": "快速老化",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid aging method",
+    "zh": "快速老化法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid analysis",
+    "zh": "快速分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid analysis method",
+    "zh": "快速分析方法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapidazol",
+    "zh": "快磺素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rapid-breaking emulsified asphalt",
+    "zh": "快裂乳化沥青",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid catalyst",
+    "zh": "快速催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid chemical analysis",
+    "zh": "快速化学分析",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid coagulation",
+    "zh": "快速凝结",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid cure adhesive",
+    "zh": "速(变)定胶黏剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-curing",
+    "zh": "快固的；快凝的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-curing asphalt(=rapid-curing cutback)",
+    "zh": "快干(铺路)沥青",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-curing cutback(=rapid-curing asphalt; rapid-curing paving binder)",
+    "zh": "快干(铺路)沥青",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid curing cutback asphalt",
+    "zh": "快干(铺路)沥青",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-curing paving binder(=rapid-curing cutback)",
+    "zh": "快干(铺路)沥青",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid degradation",
+    "zh": "迅速降解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid determine of red fuel",
+    "zh": "红油的快速鉴定",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid developer",
+    "zh": "快速显影液",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-drying varnish",
+    "zh": "快干清漆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid dry process",
+    "zh": "快速干燥法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fast blue",
+    "zh": "快速坚牢蓝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fast colors",
+    "zh": "快速坚牢颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fast orange",
+    "zh": "快速坚牢橙",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fast pulver process",
+    "zh": "粉状鞣剂转鼓速鞣法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fast scarlet",
+    "zh": "快速坚牢猩红",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid filter",
+    "zh": "快速过滤器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid fixer with hardener",
+    "zh": "快速坚膜定影液",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid floculation",
+    "zh": "快速絮凝(作用)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid flow (mixing) method",
+    "zh": "快速流动(混合)法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid freezing technique",
+    "zh": "快速冷冻技术",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid hardening cement",
+    "zh": "快硬水泥",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid heater",
+    "zh": "快速加热器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid liming",
+    "zh": "快速浸灰(法)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid open-access channel electrophoresis",
+    "zh": "开管快速电泳",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid paper",
+    "zh": "快(性印像)纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid polymerization",
+    "zh": "快速聚合",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid preoxidation",
+    "zh": "快速预氧化",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid process(=r-process)",
+    "zh": "快过程",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid radioimmunoassay",
+    "zh": "快速放射免疫测定",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid reaction",
+    "zh": "快速反应 rapid scan Fourier transform NMR correlation spectroscopy快速扫描傅里叶变换核磁共振相关波谱法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid scan monochromator",
+    "zh": "快速扫描单色仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid scanning interferometer",
+    "zh": "快速扫描干涉仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid-setting emulsified asphalt",
+    "zh": "快凝乳化沥青",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid solidification",
+    "zh": "快速凝固法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid specific surface area analyzer",
+    "zh": "快速比表面分析仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid steel",
+    "zh": "高速钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid steel tool",
+    "zh": "高速钢工具",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid stock-removal",
+    "zh": "快速切削；快速磨削",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid tannage",
+    "zh": "速鞣法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid tanning of sole leather",
+    "zh": "底革速鞣",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid test of spirit",
+    "zh": "白酒快速检验",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rapid tool steel",
+    "zh": "高速工具钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "raunormine(=deserpidine)",
+    "zh": "去甲氧利血平；地舍平",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "red-rapid photographic plate",
+    "zh": "红快型感光板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "relief",
+    "zh": "浮凸;减压",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief condenser",
+    "zh": "排放冷凝器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief fitting",
+    "zh": "溢流塞；出口;减压润滑器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief gas",
+    "zh": "排出气；废气；吹气",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief holder",
+    "zh": "均衡储气器",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief hole",
+    "zh": "放水孔",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief lines",
+    "zh": "切片刀痕",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief liquor",
+    "zh": "放出液；排放液",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief port",
+    "zh": "放气口",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relief valve",
+    "zh": "安全阀；减压阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "relief valve connection",
+    "zh": "安全阀接口",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reverse feedback",
+    "zh": "负反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reversible thermocoating",
+    "zh": "可逆示温涂料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rhamnolipid",
+    "zh": "鼠李糖脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ripidolite",
+    "zh": "铁绿泥石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "r-process(=rapid process)",
+    "zh": "快过程",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "safety fuse",
+    "zh": "安全导火线;安全引信；定时引信",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety gate",
+    "zh": "安全门",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety glass",
+    "zh": "安全玻璃；不碎玻璃",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety goggles",
+    "zh": "防护眼镜；护目镜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety guard",
+    "zh": "防护装置（如防护罩、防护栏）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety hardener",
+    "zh": "安全固化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety head",
+    "zh": "安全盖",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety ink",
+    "zh": "安全墨",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety lamp",
+    "zh": "安全灯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety lighting fitting",
+    "zh": "安全照明装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety margin",
+    "zh": "安全限度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety match",
+    "zh": "安全火柴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety measure",
+    "zh": "安全测试",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety mercury pipette",
+    "zh": "安全汞吸移管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety nitrogen storage tank",
+    "zh": "安全(用)氮储槽",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety paper",
+    "zh": "保险纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety pin",
+    "zh": "安全销机;(安全)扣针",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety pipette(=Komagome pipette)",
+    "zh": "安全移液管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety plug",
+    "zh": "安全插头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety powder",
+    "zh": "保险粉；连二亚硫酸钠",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety precaution",
+    "zh": "安全防护",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety regulation",
+    "zh": "安全规程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety solvent",
+    "zh": "安全溶剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety stop",
+    "zh": "安全装置；紧急停车装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety stud",
+    "zh": "防滑钉（轮胎）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety switch",
+    "zh": "安全开关；紧急开关",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety",
+    "zh": "安全",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety syphon",
+    "zh": "安全虹吸管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety alarm device",
+    "zh": "安全报警装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety throw-out bar",
+    "zh": "安全关闭器连杆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety belt",
+    "zh": "安全带",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety tread",
+    "zh": "安全轮胎",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety bulb",
+    "zh": "安全球",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety tube",
+    "zh": "安全管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cage (",
+    "zh": "油罐操作用的)安全室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety valve",
+    "zh": "安全阀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety can",
+    "zh": "安全罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety vent",
+    "zh": "安全(气)孔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety catch",
+    "zh": "安全制动装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety wire",
+    "zh": "紧急开关拉绳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cock",
+    "zh": "安全栓",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety code",
+    "zh": "安全规程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety coefficient",
+    "zh": "安全系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety color",
+    "zh": "安全色（安全标志颜色）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cut-off",
+    "zh": "安全开关;安全切断",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety cutout",
+    "zh": "安全切断器；安全切断",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety device",
+    "zh": "安全防护装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety drilling method",
+    "zh": "安全钻孔法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety equipment",
+    "zh": "安全装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety explosive",
+    "zh": "安全炸药",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety factor",
+    "zh": "安全率;安全因素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety flask",
+    "zh": "安全烧瓶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety fuel",
+    "zh": "安全燃料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety funnel",
+    "zh": "安全漏斗",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "safety funnel tube",
+    "zh": "安全漏斗管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "salt bridge supported bilayer lipid membrane",
+    "zh": "盐桥支撑双 </div>",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "samaric oxychloride",
+    "zh": "氯氧化钐 SmOCl",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "schemochrome",
+    "zh": "结构色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scorch safety",
+    "zh": "焦烧安全性; 防焦性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "side relief",
+    "zh": "侧面放汽(管路)",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "simple lipid",
+    "zh": "单纯脂质",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soladulcidine(=megacarpidine)",
+    "zh": "茄甜定；蜀羊泉定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solancarpidine(=solasodine)",
+    "zh": "茄解定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid supported bilayer lipid membrane",
+    "zh": "固体支撑双层磷脂膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sophorolipid",
+    "zh": "槐糖脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spider",
+    "zh": "芯型支座;多腿支架;多肢架（固定晶种用）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spider legs",
+    "zh": "云卷花纹；流云花纹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spider-web hydrocarbon",
+    "zh": "多枝链烃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spring-loaded pressure relief valve",
+    "zh": "弹簧式安全阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spring safety valve",
+    "zh": "弹簧安全阀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress relief test",
+    "zh": "应力消除试验（热收缩试验）",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "strip thermocouple",
+    "zh": "条状热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "supported bilayer lipid membrane",
+    "zh": "支撑双层磷脂膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "synthetic lipid",
+    "zh": "合成类脂物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tank relief valve",
+    "zh": "油罐放气阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tepid",
+    "zh": "微热的：有点温热的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tertiary lipid",
+    "zh": "无磷或氮的脂类",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thermal feedback",
+    "zh": "热反馈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermocatalytic",
+    "zh": "热催化的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical",
+    "zh": "热化学的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical calculation",
+    "zh": "热化学计算",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical cycle",
+    "zh": "热化学循环",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical equation",
+    "zh": "热化学方程式",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical kinetics",
+    "zh": "热化学动力学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical measurement",
+    "zh": "热化学量度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical method",
+    "zh": "热化学(方)法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical standard",
+    "zh": "热化学标准",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemical treatment",
+    "zh": "化学热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochemistry",
+    "zh": "热化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochor",
+    "zh": "分子体积与温度关系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochromism",
+    "zh": "热色现象：热致变色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermochrose",
+    "zh": "选吸热线(作用)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocompression evaporation",
+    "zh": "热压蒸发",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocompressor",
+    "zh": "热压机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocooling",
+    "zh": "温差环流冷却",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple",
+    "zh": "热电偶；温差电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple ammeter",
+    "zh": "温差电偶安培计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple detector",
+    "zh": "热电偶检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple gauge",
+    "zh": "温差电偶计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple needle",
+    "zh": "热电偶针",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple pyrometer",
+    "zh": "热电偶高温计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple thermometer",
+    "zh": "热电偶温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple vacuum gauge",
+    "zh": "温差电偶(式)真空计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocouple well",
+    "zh": "热电偶管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocross",
+    "zh": "热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermocurrent",
+    "zh": "热电流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thin-layer thermochromatography",
+    "zh": "薄层热色谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "through thermocouple",
+    "zh": "穿透式热电偶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tow piddler",
+    "zh": "丝束运送器;丝束运送工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tropide",
+    "zh": "托品交酯; 托品酸交酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tropidine",
+    "zh": "托品定; 茁菪定",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultra-rapid vulcanization",
+    "zh": "超速硫化",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "vacuum relief valve",
+    "zh": "真空解除阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "vegetables pesticide residues rapid analysis",
+    "zh": "蔬菜农药残留物快速测定法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wild jasmin(=mock orange)",
+    "zh": "西洋山梅花",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zolpidem",
+    "zh": "唑吡坦（药）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zymochemistry",
+    "zh": "酶化学",
+    "role": "secondary",
+    "confidence": 2.0
+  }
+]

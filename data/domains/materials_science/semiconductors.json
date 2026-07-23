@@ -1,0 +1,5780 @@
+[
+  {
+    "en": "aerosol silicone release agent",
+    "zh": "喷用硅油脱模剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-stretching",
+    "zh": "后拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-etching",
+    "zh": "后蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air cooled",
+    "zh": "空气冷却的",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air-cooled condenser",
+    "zh": "气冷式冷凝器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air cooled cylinder",
+    "zh": "气冷式汽缸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air cooled gas-cooler",
+    "zh": "空气冷却的气体冷却器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air-cooled heat exchanger",
+    "zh": "空气冷却换热器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air-cooled torch tube",
+    "zh": "空气冷却炬管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air entangled yarn",
+    "zh": "空气交络丝；(喷气)交缠丝",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "air filled plastic",
+    "zh": "气体填充塑料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "alkaline etching",
+    "zh": "碱蚀刻；碱腐蚀法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkyl silicone oil",
+    "zh": "烷基硅酮油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aminosilicone",
+    "zh": "氨基硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silicon dioxide aerogel(=silica aerogel)",
+    "zh": "无定形二氧化硅气凝胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amorphous silicon dioxide hydrogel(=silica hydrogel)",
+    "zh": "无",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "angled flash line",
+    "zh": "斜向溢料缝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "angled reed",
+    "zh": "斜齿筘（预取向丝整经拉伸用）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "angled twill",
+    "zh": "山形斜纹",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "annealed",
+    "zh": "退火的；退了火的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "annealed bulk polymer",
+    "zh": "热处理过的块状聚合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "annealed density (",
+    "zh": "薄膜)退火密度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "annealed track",
+    "zh": "退火径迹；熟炼径迹",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "annealed zone",
+    "zh": "重结晶区",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "antifoam silicone",
+    "zh": "消泡硅酮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "argon inductively coupled plasma(=argon ICP)",
+    "zh": "氩电感耦",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "assembled light source",
+    "zh": "组合光源",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "assembled unit",
+    "zh": "组合单元；组装单元",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "asymmetric stretching vibration",
+    "zh": "不对称伸展振动",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "avalanche photodiode",
+    "zh": "雪崩光电二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "axial inductively coupled plasma",
+    "zh": "端视电感耦合等离子体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "back-filled",
+    "zh": "反填充的；回填充的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "baffled decant line",
+    "zh": "拦水线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "baffled evaporator",
+    "zh": "折流蒸发器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "baffled reaction chamber",
+    "zh": "隔板式反应室",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "baffled spray column",
+    "zh": "挡板喷雾萃取塔",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "baled goods",
+    "zh": "包装好的物品",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Ball's sledge sorter",
+    "zh": "包氏纤维长度分析仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "balled iron",
+    "zh": "铁坯",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "band gap",
+    "zh": "带隙",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "barrelled",
+    "zh": "装入桶内的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "belled",
+    "zh": "套接的;钟形口的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "belt stretching machine",
+    "zh": "皮带展幅机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzyl silicone",
+    "zh": "苄基硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "beveled carbon-fiber bundle microelectrode",
+    "zh": "斜削碳纤维束复合微电极",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bevelled",
+    "zh": "倾斜的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "biaxial stretching",
+    "zh": "双轴(向)拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bistable laser diode",
+    "zh": "双稳激光二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bled steam",
+    "zh": "废蒸气",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "blue-mottled soap",
+    "zh": "蓝花皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled grease",
+    "zh": "熟炼润滑油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled linseed oil",
+    "zh": "熟炼胡麻子油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled oil",
+    "zh": "清油；熟油；沸炼油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled-out water",
+    "zh": "沸过的蒸馏水",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled tar",
+    "zh": "熟焦油；脱水焦油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boiled urushi",
+    "zh": "熟漆；精制漆〔大漆〕〔生漆经过搅漆和晒漆两步加工之后称熟漆，亦称精制漆〕",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "boron-doping",
+    "zh": "掺硼",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bottled gas",
+    "zh": "瓶装气体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "brush-on-type",
+    "zh": "刷涂型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "buckled ply",
+    "zh": "皱层；折层",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cabled yarn",
+    "zh": "缆线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "calcium methyl siliconate",
+    "zh": "甲基硅酸钙",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caledon colors",
+    "zh": "加里东染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "caledon gold orange",
+    "zh": "加里东金橙",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "caledonian brown",
+    "zh": "天然铁棕",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "caledonite",
+    "zh": "铅蓝矾",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "capacitive coupled microwave plasma",
+    "zh": "电容耦合微波等离子体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "capacitively coupled high frequency plasma torch",
+    "zh": "电容耦合高频等离子体焰炬*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "capacitively coupled microwave plasma",
+    "zh": "电容耦合微波等离子体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cantilevered dual side construction",
+    "zh": "双侧悬臂式结构capacitively coupled microwave plasma torch 电容耦合微波等离子体焰炬*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "capacitively coupled plasma",
+    "zh": "电容耦合等离子体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "canyon-type cell",
+    "zh": "狭长型热室；狭谷型设备室",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "canyon-type centrifuge",
+    "zh": "屏蔽型离心机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "canyon-type pump",
+    "zh": "屏蔽型泵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbon-filled hollow fibre",
+    "zh": "充碳中空纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carbonyl stretching frequency",
+    "zh": "羰基伸展频率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carborundum (=silicon carbide)",
+    "zh": "碳化硅；金刚砂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cathode coupled D.C amplifier",
+    "zh": "阴极耦合直流放大器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "celedonite",
+    "zh": "绿鳞石",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "centrifugalled",
+    "zh": "经过离心分离的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "channeled spectrum",
+    "zh": "沟槽光谱",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "charge controlled reaction",
+    "zh": "电荷控制反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "charge coupled detector",
+    "zh": "电荷耦合检测器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "charge coupled device",
+    "zh": "电荷耦合器件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chemical etching",
+    "zh": "化学浸蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemically sensitive field effect transistor",
+    "zh": "化学敏感场效应管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically sensitive semiconductor device",
+    "zh": "化(学)敏(感)半导体器件",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chilled",
+    "zh": "冷却了的;冷凝了的;淬火过的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled cast iron (=chilled iron)",
+    "zh": "冷铸铁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled distillate",
+    "zh": "冷冻的馏液〔脱蜡时〕",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled iron (=chilled cast iron)",
+    "zh": "冷铸铁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled iron roll",
+    "zh": "冷铸铁滚筒",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled joint",
+    "zh": "冻胶接头；冷凝接头",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled joint failure",
+    "zh": "黏合接头冷凝破坏",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled roll",
+    "zh": "冷铸铁滚筒",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled rubber",
+    "zh": "冻凝橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled solvent",
+    "zh": "冷冻溶剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chilled steel",
+    "zh": "淬火钢；硬化钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "choke-capacitance coupled amplifier",
+    "zh": "扼流圈-电容耦合放大器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "clear boiled soap",
+    "zh": "抛光皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "clip stretcher (=clip stretching machine)",
+    "zh": "链式展幅机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "clip stretching machine (=clip stretcher)",
+    "zh": "链式展幅机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "close-coupled process",
+    "zh": "紧凑过程；一体化(方)法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "close-coupled processing",
+    "zh": "一体化(核燃料)处理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "closed grained chilled iron",
+    "zh": "无砂眼冷铸铁（滚筒）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coated paper (=enamelled paper)",
+    "zh": "铜版纸（商）；印图纸；蜡图纸；蜡光纸；釉纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled column",
+    "zh": "盘旋柱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled configuration",
+    "zh": "蜷曲构型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled conformation",
+    "zh": "卷曲构象",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled expansion pipe",
+    "zh": "盘旋膨胀管；膨胀旋管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled hose insert",
+    "zh": "金属螺旋线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled loop stitch",
+    "zh": "绞绕组织",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled macromolecule",
+    "zh": "线团大分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled molecule",
+    "zh": "卷曲分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled oval (tube)",
+    "zh": "椭圆形旋管；椭圆形蛇管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled pipe (=coiler)",
+    "zh": "线圈;旋管；盘管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled pipe cooler",
+    "zh": "盘管冷却器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coiled radiator",
+    "zh": "盘旋散热器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coke-filled scrubber",
+    "zh": "填焦洗涤器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cold rolled steel",
+    "zh": "冷轧钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cold-settled cylinder oil",
+    "zh": "经冷冻沉降脱蜡的汽缸油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cold stretching",
+    "zh": "冷拉伸*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "commingled yarn",
+    "zh": "混络丝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "compression-type regularity tester",
+    "zh": "压缩式均匀度试验机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "computer-controlled guide-bar shogging system",
+    "zh": "电子梳栉横移系统",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "condensation-type polymerization",
+    "zh": "缩合型聚合(作用)：缩聚(作用)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled application of heat",
+    "zh": "热的控制供给",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled atmosphere",
+    "zh": "控制气氛",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled chain growth polymerization",
+    "zh": "链增长受控聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled chilling",
+    "zh": "控制冷却",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled condition",
+    "zh": "一定条件；恒定条件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current coulometry",
+    "zh": "控制电流库仑滴定法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current electrogravimetric analysis",
+    "zh": "控制电流电重量分析法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current electrogravimetry",
+    "zh": "控制电流电重量分析法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current electrolysis",
+    "zh": "控制电流电解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current polarography",
+    "zh": "控制电流极谱法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled current potentiometric titration",
+    "zh": "控制电流电位滴定",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled-cycle distillation",
+    "zh": "控制循环蒸馏",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled degradation",
+    "zh": "可控降解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled deviation",
+    "zh": "控制偏差",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled diffusion",
+    "zh": "受控(制)扩散",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled factor",
+    "zh": "可控因素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled fancy yarn",
+    "zh": "控制型花式线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled filter",
+    "zh": "控制过滤",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled foam detergent",
+    "zh": "控泡洗涤剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled freezing",
+    "zh": "受控凝固",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled frequency",
+    "zh": "控制频率",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled fusion",
+    "zh": "受控(核)聚变",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled humidity drying",
+    "zh": "控制湿度(下的)干燥",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled-humidity thinlayer chromatography",
+    "zh": "控(制)湿(度)薄层色谱(法)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled mechanical fibrillation process",
+    "zh": "受控机械原纤化法；可调机械原纤化法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled polymerization",
+    "zh": "控制聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled polymerization rate",
+    "zh": "受控聚合速度",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled pore glass granule",
+    "zh": "可控孔径玻璃珠",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled porosity glass",
+    "zh": "可控多孔性玻璃",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled porosity product",
+    "zh": "受控多孔性制品",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential analysis",
+    "zh": "控制电势分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential coulometric analysis",
+    "zh": "控制电位库仑分析",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential coulometric titration",
+    "zh": "控制电位库仑滴定(法)*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential coulometry",
+    "zh": "控制电势库仑法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential electrogravimetry",
+    "zh": "控制电位电重量法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential electrolysis",
+    "zh": "控制电势电解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential electrolysis apparatus",
+    "zh": "控制电位电",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential electroseparation",
+    "zh": "控制电位电分离",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled potential method",
+    "zh": "控制电位法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled propagation (",
+    "zh": "链)受控增长",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled radical polymerization (CRP)",
+    "zh": "控制自由基聚合；可控自由基聚合",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled release pesticide",
+    "zh": "长效农药",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled-shrinkage annealing",
+    "zh": "受控收缩热处理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled split",
+    "zh": "均裂式",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled structure polymer",
+    "zh": "有规结构聚合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled-sudser (=controlled sudsing detergent)",
+    "zh": "控泡洗涤剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled sudsing detergent (=controlled-sudser)",
+    "zh": "控泡洗涤剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled surface",
+    "zh": "可控表面；限制表面",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled surface pore glass",
+    "zh": "可控表面多孔玻璃",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled surface porosity",
+    "zh": "可控表面孔度",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled surface porosity support",
+    "zh": "可控表面孔率载体",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled temperature",
+    "zh": "控制温度；支配的温度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled-temperature bath",
+    "zh": "控温浴",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled temperature furnace atomizer",
+    "zh": "控温炉原子化器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled thermal decomposition",
+    "zh": "受控热分解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled thermohygrostat",
+    "zh": "恒温恒湿器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled thermonuclear fusion reactor",
+    "zh": "受控热核聚变反应堆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled thermonuclear reaction",
+    "zh": "可控热核反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled variable",
+    "zh": "控制变量",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled volume pump",
+    "zh": "计量泵",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "controlled weighted centroid simplex method",
+    "zh": "控制加权形心单纯形法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cooled",
+    "zh": "冷却了的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled reaction",
+    "zh": "偶合反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled simultaneous technique",
+    "zh": "偶合联用技术",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled stress",
+    "zh": "偶合应力",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled phosphorylation",
+    "zh": "偶联磷酸化(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled type",
+    "zh": "偶合型（复合半导体纳米微粒的结构型式之一）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled",
+    "zh": "偶合的；耦合的;成对的;联结的;偶联的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled action",
+    "zh": "偶联反应(作用)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled column",
+    "zh": "联用柱；多级柱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled dimer",
+    "zh": "偶联二聚物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled oxidation-reduction",
+    "zh": "偶合氧化还原",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled electron",
+    "zh": "偶合电子",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled-pair many-electron theory (CPMET)",
+    "zh": "耦合电子对多电子理论*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled instrument system",
+    "zh": "联用仪器系统",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled length",
+    "zh": "带管接头的长度（胶管）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupled oxidation",
+    "zh": "偶联氧化*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crumpled",
+    "zh": "皱的；起皱纹的;盘曲的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cryogenic dry etching",
+    "zh": "低温干法腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "culled wood",
+    "zh": "废材；边材",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cupro silicon",
+    "zh": "铜硅合金",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cup-type pycnometer",
+    "zh": "杯式比重瓶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "curled buff",
+    "zh": "蜷曲式布抛光轮；布蜷抛光轮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "curled edge",
+    "zh": "卷边",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "curled selvage",
+    "zh": "卷曲边",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "current-sampled polarography",
+    "zh": "电流取样极谱法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "current-sampled voltammetry",
+    "zh": "电流取样伏安法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cyano-silicone rubber",
+    "zh": "氰基硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Dacron color-sealed black staple",
+    "zh": "大可纶色封型黑色短纤维（指熔体染色型纤维）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "DC resin(=silicone resin)",
+    "zh": "硅氧烷树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead milled",
+    "zh": "过炼",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dead milled rubber",
+    "zh": "过炼橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dead rolled rubber",
+    "zh": "过炼橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "deep reactive ion etching",
+    "zh": "深度反应离子腐蚀; 深度反应离子刻蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degassed silicone rubber",
+    "zh": "脱气硅橡胶（已除去低分子挥发物的硅橡胶）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "detailed balancing principle",
+    "zh": "详细平衡原理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "detailed-estimated design",
+    "zh": "细估设计",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "detailed list",
+    "zh": "明细表",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "deuterium-labelled",
+    "zh": "氘标记的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diamond knurled insert",
+    "zh": "菱纹滚花嵌件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diffusion controlled current",
+    "zh": "扩散控制电流",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diffusion controlled reaction",
+    "zh": "扩散控制的反应*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diffusion controlled termination",
+    "zh": "扩散控制终止*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dimethyl silicone oil",
+    "zh": "二甲基硅油（脱模剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dimethyl silicone polymer fluid",
+    "zh": "二甲基硅氧烷聚合液 〔油压传动系统用油〕",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diode",
+    "zh": "二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diode array detector",
+    "zh": "二极管阵列检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diode array spectrophotometer",
+    "zh": "二极管阵列分光光度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diode laser",
+    "zh": "二极管激光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diode temperature sensor",
+    "zh": "二极管温度传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diphenyl silicon diisocyanate",
+    "zh": "二苯基甲硅烷二异氰酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dip-type cell",
+    "zh": "浸入型电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct-coupled amplifier",
+    "zh": "直接耦合放大器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "direct-distilled",
+    "zh": "直馏的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "disassembled equipment",
+    "zh": "解体设备；拆卸的装置",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "disk-controlled flame (",
+    "zh": "用流线型)圆控制(的火)焰",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled",
+    "zh": "蒸馏过的；馏出的；馏得的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled fatty acid",
+    "zh": "蒸馏脂肪酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled gasoline",
+    "zh": "直馏汽油",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled lime oil",
+    "zh": "蒸馏白柠檬油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled oil",
+    "zh": "馏出油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled oil of vitriol",
+    "zh": "精馏的硫酸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled oleine",
+    "zh": "馏过的甘油三油酸酯；馏油精（俗）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled pyroligneous acid",
+    "zh": "蒸馏木醋液",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled-to-dryness",
+    "zh": "蒸干",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled water",
+    "zh": "蒸馏水",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "distilled water corrosion",
+    "zh": "蒸馏水腐蚀",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dopant-selective etching",
+    "zh": "掺杂选择腐蚀剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "doping",
+    "zh": "掺杂*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doping agent",
+    "zh": "掺杂剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doping gradient",
+    "zh": "掺杂梯度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doubled edge",
+    "zh": "卷边",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "doubled goods（",
+    "zh": "复） 双料货物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "doubled pipe exchanger(=double pipe heat exchanger)",
+    "zh": "套管换热器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double labeled compound",
+    "zh": "双标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double pipe heat exchanger(=doubled pipe exchanger)",
+    "zh": "套管换热器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double resonance with coupled multiplets",
+    "zh": "多重耦合双共振",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double stretching",
+    "zh": "双拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "double-walled",
+    "zh": "夹壁的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double-walled annulus",
+    "zh": "双壁圆环",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double-walled can",
+    "zh": "复壁罐；两层器壁的桶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double-walled kettle",
+    "zh": "二重釜",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "double walled tank",
+    "zh": "双壁(储)罐",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "drilled passage",
+    "zh": "钻道",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dribbled fuel",
+    "zh": "没有蒸发的燃料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dry etching",
+    "zh": "干法腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "drying and stretching frame",
+    "zh": "干燥展开架",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry-milled clay",
+    "zh": "干法黏土；干磨细瓷土",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ECB(electrically controlled birefringence)",
+    "zh": "电控双折射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "elastic stretching",
+    "zh": "弹性伸长",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical diffused collector phototransistor",
+    "zh": "电化学扩散集电极光电晶体管",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrochemical etching",
+    "zh": "电化学刻蚀；电化学抛光",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrochemical transistor",
+    "zh": "电化学晶体管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrolysis at controlled current",
+    "zh": "控制电流电解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrolysis at controlled potential",
+    "zh": "控制电位电解",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electrolytic etching",
+    "zh": "电解浸蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electrolytic etching technique",
+    "zh": "电解浸蚀技术（可用于制金属长丝）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electronically controlled AC arc",
+    "zh": "电子控制交流电弧",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electronically controlled spark",
+    "zh": "电子控制火花",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electronic band gap",
+    "zh": "电子能带距离(范围)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electronic self-propelled stitch frequency welding",
+    "zh": "电子自动推进缝编高频熔接",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "elemental semiconductor",
+    "zh": "元素半导体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion-type alkyd",
+    "zh": "乳液型醇酸；醇酸树脂乳化液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion-type cleaner-polish",
+    "zh": "乳液型去污抛光剂(膏)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion-type degreasing agent",
+    "zh": "乳液型脱脂剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion-type membrane",
+    "zh": "乳化膜",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enameled leather",
+    "zh": "漆皮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enamelled",
+    "zh": "搪瓷的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enamelled hard board",
+    "zh": "漆面硬质纤维板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enamelled paper(=coated paper; enamel paper)",
+    "zh": "铜版纸；印图纸；蜡图纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enamelled tile",
+    "zh": "釉瓷瓦；琉璃瓦",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enamel paper(=enamelled paper)",
+    "zh": "铜版纸：印图纸：蜡图纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Engler-distilled",
+    "zh": "恩氏蒸馏的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "entangled thread",
+    "zh": "乱纱；乱丝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "enthalpy-controlled",
+    "zh": "焓控制的",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "epitaxy",
+    "zh": "外延；取向生长（晶体）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epitaxy mechanism",
+    "zh": "取向机制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equilibrium-controlled reaction",
+    "zh": "平衡控制反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Eschweger soap(=mottled soap)",
+    "zh": "爱氏肥皂；斑纹皂；兰花皂（俗）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "etching",
+    "zh": "蚀刻；侵蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching agent",
+    "zh": "蚀刻剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching effect",
+    "zh": "侵蚀效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching figure",
+    "zh": "蚀刻(图)像",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching-interfering method",
+    "zh": "腐蚀干涉法（测玻璃球的均匀度）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching machine",
+    "zh": "浸蚀机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching mechanism",
+    "zh": "腐蚀机理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching needle",
+    "zh": "蚀刻针",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching of concrete surface",
+    "zh": "混凝土表面的侵蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching off",
+    "zh": "蚀去",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching powder",
+    "zh": "磨毛粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching reagent",
+    "zh": "蚀刻剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching resist",
+    "zh": "抗蚀阻剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching solution",
+    "zh": "磷化处理液；洗涤液;浸蚀液；蚀刻液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching tank",
+    "zh": "浸蚀槽；腐蚀槽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching test",
+    "zh": "蚀刻试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching waste liquor",
+    "zh": "蚀刻废液;磷化(处理)废液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "etching wear",
+    "zh": "浸蚀磨损",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl-siliconic acid",
+    "zh": "乙基硅酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl silicon oil",
+    "zh": "乙基硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "expelled air-vapour mixture",
+    "zh": "排出的空气-蒸气混合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "extension-type",
+    "zh": "伸缩式；伸缩自如的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "externally cooled Fischer-Tropsch process",
+    "zh": "外部冷却的费-托合成过程",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "extrinsic semiconductor",
+    "zh": "含杂质半导体；外赋半导体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extruder rifled barrel",
+    "zh": "挤塑机来复线机筒",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fabric-filled moulding compound",
+    "zh": "布填模塑料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "failed test sample",
+    "zh": "不合规格的样品",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fan-type thin layer chromatograph",
+    "zh": "扇形薄层色谱仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fermentation in sealed vessel",
+    "zh": "密闭(式)发酵法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ferrosilicon",
+    "zh": "高硅铸铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferro-silicon alloy",
+    "zh": "硅铁(合金)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferro-silicon process",
+    "zh": "硅铁法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "field effect transistor(FET)",
+    "zh": "场效晶体管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "filled",
+    "zh": "填充了的；填了料的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled can dump",
+    "zh": "油桶堆栈",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled capacity",
+    "zh": "满装量",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled column",
+    "zh": "填料柱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled plastics",
+    "zh": "填充塑料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled polyisoprene rubber",
+    "zh": "填充聚异戊二烯橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled rubber",
+    "zh": "填充橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled soap",
+    "zh": "填充皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled styrene butadiene rubber",
+    "zh": "填充丁苯橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled system thermometer",
+    "zh": "封入式温度计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled tower",
+    "zh": "填料塔",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled vulcanizate",
+    "zh": "填料硫化胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "filled zero technique",
+    "zh": "添零技术",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flat-top sealed can",
+    "zh": "带平顶盖的密闭罐（润滑油用）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flat wafer",
+    "zh": "平晶片",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "float controlled valve",
+    "zh": "浮子阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluid energy milled mica",
+    "zh": "气流粉碎云母粉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluorinated silicone rubber",
+    "zh": "氟硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorocarbon silicone rubber",
+    "zh": "氟硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluoro silicone rubber",
+    "zh": "氟硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluorosilicon oil",
+    "zh": "氟硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fouled catalyst",
+    "zh": "中毒的催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fouled sulfuric acid",
+    "zh": "不纯的硫酸；沾污了的硫酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "freely settled density of catalyst",
+    "zh": "催化剂自由堆积密度",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "freeze etching",
+    "zh": "冷冻蚀刻(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "full-boiled process",
+    "zh": "全沸煮法（制皂）；热法（煮皂）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "full-boiled soap",
+    "zh": "全沸(煮)皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "full killed steel (",
+    "zh": "完全)镇静钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "funneled pipe",
+    "zh": "带漏斗的管子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas cooled fast breeder reactor(GCFBR)",
+    "zh": "气冷快中子增殖(反应)堆",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas-filled detector",
+    "zh": "充气检测器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas-filled lamp",
+    "zh": "灌气(电)灯泡",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas-filled thermometer",
+    "zh": "充气温度计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas-filled tube",
+    "zh": "充气管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas sensitive semiconductor detector",
+    "zh": "气敏半导体检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Gaussian-type orbital(GTO)",
+    "zh": "高斯型轨道",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gelled acid",
+    "zh": "加胶的酸；浓缩酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled alcohol",
+    "zh": "胶态醇",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled crude",
+    "zh": "胶凝石油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled fiber",
+    "zh": "胶化纤维；凝胶纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gel(led) filament",
+    "zh": "凝胶丝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled flat",
+    "zh": "胶化失光",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled fuel",
+    "zh": "胶凝燃料；胶状油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled hydrocarbon",
+    "zh": "胶态烃",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gelled materials",
+    "zh": "胶化物质",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "germanium",
+    "zh": "锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium chloride",
+    "zh": "氯化锗 GeCl₂; GeCl₄",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium chloroforme",
+    "zh": "三氯甲锗烷；氯锗仿 GeHCl₃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium dioxide",
+    "zh": "二氧化锗（聚酯聚合催化剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium ethide",
+    "zh": "乙基锗 Ge(C₂H₅)₂; Ge(C₂H₅)₄",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium hydride",
+    "zh": "氢化锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium hydride chloride",
+    "zh": "氢氯化锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium methide",
+    "zh": "甲基锗（二甲基锗 Ge(CH₃)₂或四甲基锗 Ge(CH₃)₄）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium monoxide",
+    "zh": "一氧化锗 GeO",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium oxide",
+    "zh": "氧化锗 GeO; GeO₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium rectifier",
+    "zh": "锗整流器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium sulfide",
+    "zh": "硫化锗 GeS; GeS₂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium tetrachloride",
+    "zh": "四氯化锗 GeCl₄",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "germanium tetraethyl",
+    "zh": "四乙锗 (C₂H₅)₄Ge",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glass fibre coupled",
+    "zh": "玻璃纤维黏结的",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gledigenin",
+    "zh": "皂荚配基",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gledinin",
+    "zh": "皂荚宁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gleditschine",
+    "zh": "皂荚碱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gleditsin",
+    "zh": "皂荚素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "grease-spoiled oil",
+    "zh": "润滑脂污染的油料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "half boiled process",
+    "zh": "半沸煮法；热法（煮皂）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "half boiled soap",
+    "zh": "半沸煮皂；热法皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "half-filled-shell effect",
+    "zh": "半充满(电子)壳层效应",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hammer swing sledge mill",
+    "zh": "锤击磨",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hand-propelled tripper",
+    "zh": "手摇推进式倾料器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hand-rabbled furnace",
+    "zh": "人工炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hand-rabbled roaster",
+    "zh": "人工烤炉",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "healed varnish",
+    "zh": "综清漆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heavy-walled",
+    "zh": "厚壁的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hetero epitaxy",
+    "zh": "异质外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "HF-vapor etching",
+    "zh": "氟化氢蒸气腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "highly angled twill",
+    "zh": "急斜纹",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "high silicon cast iron",
+    "zh": "高硅铸铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high silicon iron",
+    "zh": "高硅铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high speed chain-type mercerizing range",
+    "zh": "高速布铗丝光联合机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-speed spinning stretching crimping cutting",
+    "zh": "高速纺丝拉伸卷曲切断一步法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hollow profiled fibre",
+    "zh": "中空异形纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "holographically ruled grating",
+    "zh": "全息光栅",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "homoepitaxy",
+    "zh": "均相外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hopper-cooled",
+    "zh": "连续水冷却的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hot rolled",
+    "zh": "热轧的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hot rolled tube",
+    "zh": "热轧管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hot-vulcanized silicone rubber",
+    "zh": "热硫化硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrogen doping",
+    "zh": "掺氢的; 氢掺杂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrosilicons（",
+    "zh": "复） 硅氢化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydroxy silicone oil",
+    "zh": "羟基硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "imidazole(=glyoxalin)",
+    "zh": "咪唑；1,3-二氮杂茂 4-imidazoleacetic acid 4-咪唑乙酸 α,β-imidazoledicarboxylic acid α,β-咪唑二羧酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "impedance-coupled amplifier",
+    "zh": "阻抗耦合放大器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "in-between-type reinforcing material",
+    "zh": "中间型补强材料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inductively coupled high frequency plasma torch",
+    "zh": "电感耦合高频等离子体焰炬*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inductively coupled microwave plasma torch",
+    "zh": "电感耦合微波等离子体焰炬",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inductively coupled plasma atomic fluorescence spectrometry",
+    "zh": "电感耦合等离子体原子荧光光谱法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inductively coupled plasma ionization source",
+    "zh": "电感耦合等离子体质谱 inductively coupled plasma mass spectrometer(ICP-MS)电感耦合等离子体质谱仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inductively coupled plasma mass spectrometry",
+    "zh": "电感耦合等离子体质谱",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inductively coupled plasma source",
+    "zh": "电感耦合等离子体光源",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inorganically gelled grease",
+    "zh": "无机物稠化的润滑脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inorganic colloid-gelled grease",
+    "zh": "无机胶体凝胶润滑脂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "insulation silicone type coating",
+    "zh": "绝缘性硅烷型涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intensified silicon intensified target",
+    "zh": "增强硅增强靶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inter-coiled loop stitch",
+    "zh": "互绞组织",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "intertangled lamellae",
+    "zh": "互相缠结薄层",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "intrinsic semiconductor",
+    "zh": "本征半导体; 纯半导体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion beam etching",
+    "zh": "离子束刻蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion beam lithography",
+    "zh": "离子束印刷术",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion-etching",
+    "zh": "离子蚀刻(法); 离子浸蚀(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ion selective field effect transistor(ISFET)",
+    "zh": "离子选择场效应晶体管*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion sensitive field effect transistor",
+    "zh": "离子敏感场效应管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iso-epitaxy",
+    "zh": "同质外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isotopically labelled ion",
+    "zh": "同位素标记离子",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "isotropic etching",
+    "zh": "各向同性腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "joggled lap joint",
+    "zh": "啮合搭接",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "junction transistor",
+    "zh": "结式晶体管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "kentledge",
+    "zh": "压重料；压舱用的生铁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "kibbled",
+    "zh": "碎块的；破碎成块的（直径约为 0.64cm）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "kibbled glue",
+    "zh": "碎块胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "killed rubber",
+    "zh": "过炼胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "killed spirit",
+    "zh": "焊酸；焊接用的药水",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "killed steel",
+    "zh": "镇静钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labeled atom",
+    "zh": "标记原子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labeled compound",
+    "zh": "标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labeled molecule",
+    "zh": "标记分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labeled soil",
+    "zh": "标记污垢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labeled substrate",
+    "zh": "标记底物；标记(酶)作用物；标记基体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labelled compound",
+    "zh": "标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labelled formaldehyde",
+    "zh": "标记甲醛；示踪甲醛",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labelled pesticide",
+    "zh": "标记农药",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labelled size",
+    "zh": "标注尺寸；标码",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labelled substrate",
+    "zh": "标记底物；标记(酶)作用物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Labrador tea oil",
+    "zh": "喇叭茶油；矶踯躅油（取自 Ledum palustre）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "laid ledger paper",
+    "zh": "直纹账簿纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "laser-assisted chemical etching",
+    "zh": "激光辅助化学腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser diode",
+    "zh": "激光二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laser drilled pinhole",
+    "zh": "激光钻孔限流器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "laser etching (",
+    "zh": "高分子)光分解蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leddiene",
+    "zh": "喇叭二烯",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledene",
+    "zh": "喇叭烯",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Lederer-Manasse reaction",
+    "zh": "莱德勒-曼纳斯反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledermycin(=demethylchlortetracycline)",
+    "zh": "去甲基金霉素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledger paper",
+    "zh": "帐薄纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "leditannic acid",
+    "zh": "喇叭茶单宁酸",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledixanthin",
+    "zh": "喇叭茶色素",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledol",
+    "zh": "喇叭茶醇",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ledum camphor",
+    "zh": "喇叭茶脑；喇叭茶醇",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "limited expansion of diatomic overlap(LEDO)",
+    "zh": "有限扩展双原子重叠法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "linear coupled dynamic theory",
+    "zh": "线性偶合动态论",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "linear stretching",
+    "zh": "线性伸长；线性伸缩变化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "link-coupled",
+    "zh": "偶联的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "liquid filled thermometer",
+    "zh": "液体温度计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "liquid phase epitaxy(LPE)",
+    "zh": "液相外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid-sealed discharge",
+    "zh": "液封放卸；液封排出",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lithium-drifted germanium detector",
+    "zh": "锂漂移锗检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lithium-drifted semiconductor detector",
+    "zh": "锂漂移半导体探测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lithium-drifted silicon detector",
+    "zh": "锂漂移硅检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lithography",
+    "zh": "石印术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lithography roll",
+    "zh": "石印胶滚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local stretching",
+    "zh": "局部拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "long stapled cotton",
+    "zh": "长绒棉",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "macroetching",
+    "zh": "宏观浸蚀；直观浸蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic semiconductor",
+    "zh": "磁性半导体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magneto-controlled sputter coating",
+    "zh": "磁控溅射镀膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "magnetodiode",
+    "zh": "磁二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnetotransistor",
+    "zh": "磁晶体管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "marbled glass",
+    "zh": "大理石纹玻璃",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "marbled glazed paper",
+    "zh": "斑纹蜡光纸（俗）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "marbled glazed sulfite paper",
+    "zh": "斑纹蜡光亚硫酸盐纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "marbled grain",
+    "zh": "粗粒面",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "marbled lacquer",
+    "zh": "大理石花纹漆器；云纹漆器（大漆）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "marbled soap",
+    "zh": "斑纹皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mechanically controlled valve",
+    "zh": "机械控制阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mechanically rabbled furnace(=mechanically raked furnace)",
+    "zh": "机械搅拌炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mechanically raked furnace(=mechanically rabbled furnace)",
+    "zh": "机械搅拌炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mercury-sealed",
+    "zh": "汞封(口)的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mercury-sealed stirrer",
+    "zh": "水银密封搅拌器；汞封搅拌器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metallomethyl siliconate",
+    "zh": "甲基硅酸金属盐",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methane-siliconic acid",
+    "zh": "甲基硅酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl branching silicone oil",
+    "zh": "甲基支链硅油（脱模剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl-silicone",
+    "zh": "聚甲基硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl silicone gum",
+    "zh": "甲基硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl silicone oil",
+    "zh": "甲基硅(氧烷)油；甲基硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl silicone rubber",
+    "zh": "甲基硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl siliconic acid",
+    "zh": "甲基硅酸 CH₃Si(OH)₃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl vinyl silicone rubber",
+    "zh": "甲基-乙烯基硅橡胶 4-methyl-5-vinylthiazole 4-甲基-5-乙烯基噻唑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcomponent",
+    "zh": "微量组分 microcomputer-controlled recording spectrophotometer微型计算机控制自记分光光度计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "microetching",
+    "zh": "微蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "milled",
+    "zh": "磨碎了的;压紧了的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "milled clay",
+    "zh": "漂白土",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "milled cloth",
+    "zh": "毡合织物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "milled fibre",
+    "zh": "磨碎纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "milled rubber",
+    "zh": "捏炼了的橡胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "milled soap",
+    "zh": "研制皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mineral-gelled grease",
+    "zh": "无机胶凝润滑脂；矿物质胶态润滑脂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "modelled effect",
+    "zh": "模塑效应；造型效应",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "moisture-controlled thin-layer chromatography",
+    "zh": "控(制)湿 (度)薄层色谱(法)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "molecular stretching",
+    "zh": "分子伸展",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molybdenum etching",
+    "zh": "钼腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monoaxial stretching",
+    "zh": "单轴(向)拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mono-crystalline silicon",
+    "zh": "单晶硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mottled",
+    "zh": "花斑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mottled effect",
+    "zh": "斑点效应",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mottled paper",
+    "zh": "暗斑纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mottled pig (iron)",
+    "zh": "斑驳生铁；杂色生铁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mottled silk",
+    "zh": "斑点丝线；异色合股丝线",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mottled soap(=Eschweger soap)",
+    "zh": "爱氏肥皂；斑纹皂；兰花皂（俗）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multipass and baffled heat exchanger",
+    "zh": "多程及折流换热器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multiply-labelled compound",
+    "zh": "多重标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multistage stretching",
+    "zh": "多级拉伸；多阶段伸长",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multistage water-cooled compressor",
+    "zh": "多级水冷压缩机",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multiwalled",
+    "zh": "多层的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multiwalled vessel",
+    "zh": "多层式容器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nanolithography",
+    "zh": "纳米加工技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "needled mat",
+    "zh": "针刺毡(片)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nickel etching",
+    "zh": "镍腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrile silicone",
+    "zh": "氰硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitrile silicone rubber",
+    "zh": "腈硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-etching degreaser",
+    "zh": "非侵蚀性脱脂剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-labelled compound",
+    "zh": "未标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "non-labelled immunoassay",
+    "zh": "非标记免疫分析法（传统免疫分析）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "non-scheduled maintenance",
+    "zh": "非正规维修；不定期维修；计划外维修",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oil-cooled",
+    "zh": "油冷却的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oiled",
+    "zh": "上油的；油过的；涂油的；油化的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oiled cloth",
+    "zh": "油布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oiled leather",
+    "zh": "涂油革",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oiled ore",
+    "zh": "油化矿石",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oiled paper",
+    "zh": "油纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oil-filled cable",
+    "zh": "封油绝缘电缆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oil filled cable oil",
+    "zh": "油浸电缆油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oil sealed stuffer",
+    "zh": "油封填料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "one-quarter-filled shell effect",
+    "zh": "四分之一充满(电子)壳层效应",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "one-sided etching",
+    "zh": "单侧腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-tailed test",
+    "zh": "单侧检验*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "one-way layout",
+    "zh": "一元配置；一元构型;一元分类 one-step high-speed spinning-stretching-crimping-cutting",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open-celled structure",
+    "zh": "开孔结构",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "open-type heat exchanger",
+    "zh": "开口式热交换器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic film etching",
+    "zh": "有机膜腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic semiconductor",
+    "zh": "有机半导体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic silicon compound",
+    "zh": "有机硅化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organo-germanium oxide",
+    "zh": "有机锗氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicon",
+    "zh": "有机硅(化合物)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organo-silicon compound",
+    "zh": "有机硅化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organo-silicone",
+    "zh": "有机硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organo-silicone rubber",
+    "zh": "有机硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicon heatresiant paint",
+    "zh": "有机硅耐高温漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicon oxide",
+    "zh": "有机硅氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicon polyamide",
+    "zh": "有机硅聚酰胺",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosilicon polyester",
+    "zh": "有机硅聚酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organosiliconpolymer",
+    "zh": "有机硅聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overcooled",
+    "zh": "过冷却的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "over-cooled engine",
+    "zh": "过分冷却的发动机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "overstretching",
+    "zh": "过拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paraffin-sealed stirrer",
+    "zh": "石蜡液封搅拌器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "paralleled plate plastometer",
+    "zh": "平行板式可塑计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "particulate-filled composite",
+    "zh": "填料粒子的组分；散填料组成",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pencilled",
+    "zh": "辐射的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "perforated tape controlled",
+    "zh": "穿孔纸带控制的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phenyl-methyl silicone rubber",
+    "zh": "苯基甲基硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenyl silicone",
+    "zh": "聚苯基硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photochemical etching",
+    "zh": "光化学腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photodiode",
+    "zh": "光电二极管：光敏二极管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photodiode array",
+    "zh": "光电二极管阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photodiode array detector",
+    "zh": "光二极管阵列检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photodiode small-signal model",
+    "zh": "光电二极管小信号模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoelectrochemical etching",
+    "zh": "光电化学腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-etching",
+    "zh": "光刻(法); 光蚀(技术)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photolithography",
+    "zh": "光刻(蚀)法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phototransistor",
+    "zh": "光敏晶体管",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photovoltaic cell",
+    "zh": "光电池*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photovoltaic detector",
+    "zh": "光电池检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photovoltaic effect",
+    "zh": "光生伏打效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pickled",
+    "zh": "浸酸的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pickled pelt",
+    "zh": "浸酸裸皮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pickled skin",
+    "zh": "浸酸皮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pigeon-holed arch",
+    "zh": "多孔火拱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "piled beets(",
+    "zh": "复) 垄(壕堆)藏甜菜(糖)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pilled-catalyst",
+    "zh": "丸形催化剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pin-type",
+    "zh": "插入式的；针型的",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piston-type area meter",
+    "zh": "活塞式面积流量计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piston-type pressure controller",
+    "zh": "活塞式压力控制器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plain-type Horton spheroid",
+    "zh": "无内部加固的水滴形油罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pneumatically controlled sample leak",
+    "zh": "气动控制进样漏孔",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyamide intermingled yarn",
+    "zh": "锦纶混纤丝",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polycrystalline silicon",
+    "zh": "多晶硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymeric semiconductor",
+    "zh": "高分子半导体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polysilicone rubber (",
+    "zh": "聚)硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polysilicon etching",
+    "zh": "多晶硅腐蚀",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "pooled sample variance",
+    "zh": "合并样本方差",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pooled standard deviation",
+    "zh": "合并标准(偏)差*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pooled variance",
+    "zh": "合并方差*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "porous silicon",
+    "zh": "多孔硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-assembled",
+    "zh": "预装配的；预组装的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pre-stretching",
+    "zh": "预伸张",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "principle of detailed balance",
+    "zh": "精细平衡原理",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "process diode array analyzer",
+    "zh": "过程二极管阵列分析器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "profiled acrylic fibre",
+    "zh": "聚丙烯腈异形纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "profiled fibre",
+    "zh": "异表纤维；异形截面纤维",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "profiled material",
+    "zh": "异型材",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "profiled strip",
+    "zh": "异型钢带",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "program-controlled dyeing machine",
+    "zh": "程控染色机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pulled bead",
+    "zh": "胎圈绷紧",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pulled surface",
+    "zh": "传动表面;粗糙表面；起皱表面",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pump-type circulation system lubrication",
+    "zh": "泵式循环润滑系统",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "punch tape controlled programming system",
+    "zh": "穿孔纸带控制程序系统",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pyrite gas(=pyrite furnace gas)",
+    "zh": "黄铁矿炉气 pyrite hand-rabbled burner(=pyrite hand-rabbled furnace; pyrite hand-rabbled roaster; pyrite hand-worked burner)黄铁矿手工搅拌炉 pyrite hand-rabbled furnace(=pyrite hand-rabbled burner)黄铁矿手工搅拌炉 pyrite hand-rabbled roaster(=pyrite hand-rabbled burner)黄铁矿手工搅拌炉 pyrite hand-worked burner(=pyrite hand-rabbled burner)黄铁矿手工搅拌炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pyrolytic silicon carbide",
+    "zh": "热解碳化硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quartz etching",
+    "zh": "石英腐蚀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quick drying boiled oil",
+    "zh": "快干性熟油",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radioactively labelled substance",
+    "zh": "放射性标记物",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radio-controlled pump station",
+    "zh": "用无线电自动控制的泵站",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radiodermatitis",
+    "zh": "放射性皮炎",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "radio-labeled",
+    "zh": "放射性标记的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radio-labeled compound",
+    "zh": "放射性标记化合物*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radiolabeled soil",
+    "zh": "放射性标记污垢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radiolabeled surfactant",
+    "zh": "放射标记表面活性剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radio-labelled compound",
+    "zh": "放射性标记化合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rag rolled finish(=rag rolling)",
+    "zh": "碎布滚花涂装",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random labeled",
+    "zh": "随机标记的；不定位标记的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "randomly coiled conformation",
+    "zh": "无规盘旋构象",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reactive ion enhanced etching",
+    "zh": "反应离子增强腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive ion etching",
+    "zh": "反应离子刻蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recycled fuel",
+    "zh": "再循环燃料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "recycled off-gas",
+    "zh": "循环尾气；循环废气",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "recycled powder hose",
+    "zh": "循环粉末的软管；回收粉末的软管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "redistilled",
+    "zh": "再度蒸馏了的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "redistilled oil",
+    "zh": "再蒸馏精油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "redistilled water",
+    "zh": "重蒸(馏)水",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reeled paper",
+    "zh": "捆纸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reflection-type differential refractometer",
+    "zh": "反射型示差折射计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "remilled rubber",
+    "zh": "再炼胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "remote-controlled piping station",
+    "zh": "远距离控制的泵站",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "repeating silicon-carbon atoms",
+    "zh": "硅-碳原子交替(重复)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin-filled rubber",
+    "zh": "树脂配合橡胶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "resistance-capacitance coupled amplifier",
+    "zh": "阻容耦合放大器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "riffled table",
+    "zh": "淘洗台",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rifled pipe",
+    "zh": "输送黏油的内螺丝管(约有3米长的螺丝);焙烤管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rifled tube(=rifled pipe)",
+    "zh": "输送黏油的内螺丝管;焙烤管",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ring-oiled sleeve bearing",
+    "zh": "油环润滑式滑动轴承；油环式滑动轴承",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled",
+    "zh": "滚压的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled angle",
+    "zh": "角钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled glass",
+    "zh": "轧制玻璃",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled gold",
+    "zh": "金箔；包金",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled iron",
+    "zh": "轧制钢",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled laminated tube",
+    "zh": "滚压层压管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled lead",
+    "zh": "薄铅板；铅皮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled leather",
+    "zh": "轧制革",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled metal",
+    "zh": "轧制金属",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled roofing",
+    "zh": "卷材铺顶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled section",
+    "zh": "轧制革",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled sheet material",
+    "zh": "轧制钢板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled sheet metal",
+    "zh": "轧制薄板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled steel",
+    "zh": "辊轧钢；轧制钢材",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled steel wire",
+    "zh": "盘条；铁丝盘",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled tin",
+    "zh": "锌板；锌皮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled-to-death rubber",
+    "zh": "过炼胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled-up stock",
+    "zh": "压制件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rolled up tank",
+    "zh": "折叠式油罐",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "room temperature vulcanized silicone rubber",
+    "zh": "室温硫化硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rotationally cooled laser-induced fluorescence",
+    "zh": "旋转冷却激光诱导荧光",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rough etching",
+    "zh": "粗(浸)蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ruled counting plate",
+    "zh": "分格计数板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ruled grating",
+    "zh": "刻线光栅 rule of absent reflection(=extinction rule of refraction) (折射)消光规则",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "salt-filled exhaust valve",
+    "zh": "充盐排气阀；钠盐冷却的排气阀",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sampled-current polarography (=tast polarography)",
+    "zh": "采流极谱法*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sampled-current voltammetry",
+    "zh": "采流伏安法*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "scaled-down model",
+    "zh": "缩尺模型；按比例缩小的模型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "scaled eyepiece",
+    "zh": "刻度目镜；目镜测微计",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "scheduled shutdown",
+    "zh": "计划停工",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "screen-type centrifuge",
+    "zh": "筛筒式离心机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sealed cavity",
+    "zh": "密封空腔",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed cooling",
+    "zh": "闭式冷却法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed distillator",
+    "zh": "密封蒸馏器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed-in",
+    "zh": "封闭的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed package",
+    "zh": "封闭包装",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed source",
+    "zh": "密封源*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed surface",
+    "zh": "密封表面",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed tube",
+    "zh": "封闭管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed tube furnace",
+    "zh": "封闭管炉",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sealed-tube method",
+    "zh": "封管法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sedimentation-type centrifuge",
+    "zh": "沉降式离心机",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sediment-filled phase",
+    "zh": "沉积物填充相；沉积相",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "self-assembled film",
+    "zh": "自组膜",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "self-assembled monolayer",
+    "zh": "自组装单分子层",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "self-assembled monolayer membrane",
+    "zh": "自组装单分子膜",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "self-etching paint",
+    "zh": "自动浸蚀(洗涤)底漆；自动磷化底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-etching primer",
+    "zh": "磷化底漆；自蚀底漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-propelled",
+    "zh": "自动推进(式)的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "self-scanning diode array",
+    "zh": "自扫描二极管阵列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiboiled process",
+    "zh": "半沸煮法；热法（煮皂）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "semiboiled soap",
+    "zh": "半沸煮皂；热法皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "semiconductor",
+    "zh": "半导体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor cell",
+    "zh": "半导体电池",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor crystal",
+    "zh": "半导体晶体",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor detector",
+    "zh": "半导体检测器*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor electrochemistry",
+    "zh": "半导体电化学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor electron multiplier",
+    "zh": "半导体电子倍增器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor integrated circuit",
+    "zh": "半导体集成电路",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor laser",
+    "zh": "半导体激光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor oxide",
+    "zh": "半导体氧化物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor radiation detector",
+    "zh": "半导体放射检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor rectifier",
+    "zh": "半导体整流器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor solid (radiation) detector (SSD)",
+    "zh": "半导体固体检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor varnish",
+    "zh": "半导体漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiskilled labour",
+    "zh": "半熟练劳动",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sequential inductively coupled plasma spectrometer",
+    "zh": "顺序等离子体光谱仪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled bed",
+    "zh": "澄清床",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled grained soap",
+    "zh": "澄清颗粒皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled grease",
+    "zh": "澄清油脂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled process",
+    "zh": "沉降法；静置法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled solution",
+    "zh": "澄清溶液",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "settled tar",
+    "zh": "沉淀(木)焦油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "short-cooled fuel",
+    "zh": "短期冷却(的核)燃料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "short stapled cotton",
+    "zh": "粗绒棉",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "shrivelled",
+    "zh": "皱织",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "shrunk-and-rolled flange",
+    "zh": "皱卷法兰",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "silastomer(=silicone rubber)",
+    "zh": "硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon",
+    "zh": "硅（14号元素，化学符号 Si）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon alkyl",
+    "zh": "烃基硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon alloys",
+    "zh": "硅合金(类)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon brass",
+    "zh": "硅黄铜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon bromide chloride fluoride",
+    "zh": "氟氯溴化硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon bronze",
+    "zh": "硅青铜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide (=carborundum)",
+    "zh": "碳化硅; 金刚砂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide abrasive",
+    "zh": "碳化硅磨料; 金刚砂磨料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide canals (",
+    "zh": "管式炉的)碳化硅烟道",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide coated fibre",
+    "zh": "碳化硅涂覆纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide fiber",
+    "zh": "碳化硅纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide heating element",
+    "zh": "碳化硅加热原件",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon carbide waterproof paper",
+    "zh": "碳化硅防水砂纸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon-carbon bond",
+    "zh": "硅-碳键",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon-containing polymer",
+    "zh": "含硅聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon controlled rectifier",
+    "zh": "硅可控整流器",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "silicon defoamer",
+    "zh": "硅质去沫剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon detector",
+    "zh": "硅检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone alkyd",
+    "zh": "有机硅(改性)醇酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone-alkyd combination",
+    "zh": "有机硅-醇酸的化合作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone alloy",
+    "zh": "聚硅氧烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone antifoam agent",
+    "zh": "有机硅消泡剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone base (=silicone gum)",
+    "zh": "硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone coating",
+    "zh": "硅酮涂层",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone elastomer",
+    "zh": "硅氧烷弹性体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone emulsion",
+    "zh": "乳化硅油（脱模剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone fluid",
+    "zh": "硅树脂液; 硅酮液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone gasket",
+    "zh": "硅橡胶垫圈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone grease",
+    "zh": "硅(润滑)脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone gum",
+    "zh": "硅橡胶纯胶料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone hydride",
+    "zh": "硅烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone insulating coating",
+    "zh": "有机硅绝缘涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone macromolecule",
+    "zh": "有机硅大分子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone-nitrile rubber",
+    "zh": "硅腈橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone oil",
+    "zh": "硅(氧烷)油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone oil bath",
+    "zh": "硅油浴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone oil emulsion",
+    "zh": "硅油乳液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone paint",
+    "zh": "有机硅漆; 硅酮涂料; 聚硅氧烷漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone plastics",
+    "zh": "有机硅塑料; 聚硅氧烷塑料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone polish",
+    "zh": "有机硅抛光剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone polymers",
+    "zh": "硅氧烷聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone putty",
+    "zh": "有机硅腻子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone resin",
+    "zh": "有机硅树脂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone rubber (=silastomer)",
+    "zh": "硅橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone rubber gasket",
+    "zh": "硅(橡)胶垫圈",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone rubber gun-applied mastic sealant",
+    "zh": "喷涂型硅橡胶厚浆填缝料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone rubber membrane",
+    "zh": "硅橡胶膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone rubber septum",
+    "zh": "硅橡胶隔片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon ester",
+    "zh": "硅酸酯",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon ethyl",
+    "zh": "四乙基硅（因为有乙硅烷、甲硅烷，故基字不宜略去） silicone type surface active agent 硅氧烷系表面活性剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone varnish",
+    "zh": "有机硅清漆；聚硅氧烷清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicone-wax polish",
+    "zh": "有机硅-石蜡抛光剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon hexaboride",
+    "zh": "六硼化硅 silicon hexachloride 六氯化二硅；氯乙硅烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon hydride",
+    "zh": "氢化硅；硅烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon hydride chlorid (",
+    "zh": "氢)氯硅烷；氢氯化硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon-hydrogen bond",
+    "zh": "硅-氢键",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon hydroxide",
+    "zh": "氢氧化硅；原硅酸 siliconic acid 烃基硅羧基酸 silicon intensified target 硅增强靶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon intensified target vidicon",
+    "zh": "硅增强靶光导摄像管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon iodide chloride",
+    "zh": "氯碘化硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon iron sheet",
+    "zh": "硅铁片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconising(=siliconizing) (",
+    "zh": "扩散)渗硅；硅化处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon isothiocyanate",
+    "zh": "异硫氰酸硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconiting",
+    "zh": "硅烷化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconium ion",
+    "zh": "硅正离子",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconization",
+    "zh": "硅氧烷化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconized plate",
+    "zh": "硅钢片",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "siliconizing(=siliconising) (",
+    "zh": "扩散)渗硅；硅化处理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon methyl",
+    "zh": "四甲基硅 silicon modified rubber 硅(改性)橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon mold release agent",
+    "zh": "硅脱模剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon nitride",
+    "zh": "四氮化三硅 silicon nitride whisker 氮化硅须晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon-nitrile rubber",
+    "zh": "硅-腈橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicono",
+    "zh": "硅羧基 silicon oil 硅油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon oxide",
+    "zh": "氧化硅 silicon oxide polymer 氧化硅聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon oxygen bond",
+    "zh": "硅氧键",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon oxysulfide",
+    "zh": "氧硫化硅 silicon-oxy tetrahedron 硅氧四面体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon-photodiode detector",
+    "zh": "硅光二极管检测器",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "silicon polymer",
+    "zh": "硅聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon rectifier welder",
+    "zh": "硅整流焊机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon rhodanide",
+    "zh": "硫氰酸硅",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silicon rubber",
+    "zh": "硅橡胶* $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "single distilled",
+    "zh": "一次蒸馏的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sledge microtome",
+    "zh": "铲式超薄切片机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sledge mill",
+    "zh": "槽磨",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soaped-filled",
+    "zh": "灌皂的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soap-type emulsifier",
+    "zh": "皂型乳化剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sodium ethylsiliconate",
+    "zh": "乙基硅酸钠",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft lithography",
+    "zh": "软光刻：软刻蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soiled",
+    "zh": "污染的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soiled cloth",
+    "zh": "污布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soiled cotton",
+    "zh": "污布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soiled plate",
+    "zh": "染污(的)薄板",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soiled swatch",
+    "zh": "污布样",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "solar cells",
+    "zh": "太阳能电池",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soledon brilliant purple",
+    "zh": "搔勒董亮红紫",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soledon colors",
+    "zh": "搔勒董染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soledon yellow",
+    "zh": "搔勒董黄",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "solid epitaxy",
+    "zh": "固相外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent etching",
+    "zh": "溶剂腐蚀：溶剂蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solvent silicone varnish",
+    "zh": "溶剂型有机硅清漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spalled masonry",
+    "zh": "碎裂的砖石建筑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "speckled appearance",
+    "zh": "图像的斑点性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "speckled finish",
+    "zh": "斑点花纹涂装法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spin labeled",
+    "zh": "自旋示踪;顺磁标记",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spoiled casting",
+    "zh": "残缺铸件",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spray-cooled side",
+    "zh": "淋冷的侧壁",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sputter etching",
+    "zh": "溅射腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "standard soiled cloth",
+    "zh": "标准污布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "steam distilled (",
+    "zh": "蒸)汽(蒸)馏的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "steam-distilled pine oil",
+    "zh": "蒸气蒸馏松油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "steam-distilled (wood) rosin",
+    "zh": "木松香",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "steam-distilled (wood) turpentine",
+    "zh": "木松节油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "stereo-lithography",
+    "zh": "立体蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "still-cooled cylinder",
+    "zh": "自冷式汽缸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "stippled coating",
+    "zh": "复色拉毛涂层",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "straight silicon polymer",
+    "zh": "纯有机硅聚合物；单一有机硅聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching",
+    "zh": "伸缩;拉伸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching board",
+    "zh": "伸张板",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching force",
+    "zh": "张(拉)力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching frame",
+    "zh": "伸张架",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching frequency",
+    "zh": "拉伸频率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching machine",
+    "zh": "拉幅机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching motion",
+    "zh": "拉伸运动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching strain",
+    "zh": "拉伸应变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretching vibration",
+    "zh": "拉伸振动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "subcooled",
+    "zh": "低温冷却的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "substituted organosilicon compound",
+    "zh": "取代的有机硅化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate labeled immunoassay",
+    "zh": "底物标记免疫分析法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sulfurized boiled oil",
+    "zh": "硫化熟油",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "supercooled liquid",
+    "zh": "过冷液体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "supercooled micelle",
+    "zh": "过冷胶束；深冷胶束",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "supercooled state",
+    "zh": "过冷态",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "supercooled vapour",
+    "zh": "过冷蒸气",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "superfine silicone dioxide",
+    "zh": "超微细粒子白炭黑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "super modified controlled weighted centroid simplex method",
+    "zh": "超改进控制加权形心单纯形法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "surface photovoltaic spectroscopy",
+    "zh": "表面光电(压)光谱法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "swing sledge mill",
+    "zh": "摆槌磨",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "symmetrical stretching vibration",
+    "zh": "对称伸缩振动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "syn-type",
+    "zh": "顺式；顺(基)型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tailed peak",
+    "zh": "拖尾峰",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "temperature controlled phase-separation immunoassay (TCPSIA)",
+    "zh": "控温相分离免疫分析法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tetraethyl germanium",
+    "zh": "四乙锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetramethyl ethylene glycol dimethyl silicon ether",
+    "zh": "四甲基乙二醇二甲基硅醚（结构控制剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetraphenothio germanium",
+    "zh": "四苯硫基锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetraphenoxy germanium",
+    "zh": "四苯氧基锗",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetraphenyl-silicon",
+    "zh": "四苯基硅 Si(C₆H₅)₄",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermal etching",
+    "zh": "热腐蚀；热蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermostatically controlled",
+    "zh": "恒温控制的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thick-walled",
+    "zh": "厚壁的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thick-walled needle",
+    "zh": "厚壁针头",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thick-walled tube",
+    "zh": "厚壁管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thin-walled tube",
+    "zh": "薄壁(卷绕)筒管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "three-quarters-filled shell effect",
+    "zh": "四分之三充满(电子)壳层效应",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "torsion-type balance",
+    "zh": "扭力天平；扭秤",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tracer test of labelled drug",
+    "zh": "标记药物示踪实验",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "track etching",
+    "zh": "径迹蚀刻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "track etching dosimeter",
+    "zh": "径迹蚀刻剂量计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transesterification-type polymerization",
+    "zh": "酯基转移型聚合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistor",
+    "zh": "晶体管；换能器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistor amplifier",
+    "zh": "晶体管放大器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistor grade reagent",
+    "zh": "晶体管级(纯)试剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistor ignition",
+    "zh": "晶体管点火",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistor ignitor",
+    "zh": "晶体管点火器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistorized cotton colo(u)rimeter",
+    "zh": "晶体管棉花色泽仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transistorized electronic thermoregulator",
+    "zh": "晶体管化电子调温器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triptych silicon compound",
+    "zh": "三幅联硅化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tritium-labelled",
+    "zh": "用氚示踪(标记)的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "two-handled knife",
+    "zh": "双柄刮皮刀",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unannealed track",
+    "zh": "未退火径迹；未熟炼径迹",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unbaffled",
+    "zh": "无阻板的;无挡板的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uncoiled molecule",
+    "zh": "非盘曲型的分子；伸直的分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uncontrolled flow",
+    "zh": "无控制流动",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uncooled",
+    "zh": "未冷凝的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uncoupled bond",
+    "zh": "非偶联键",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uncoupled electron",
+    "zh": "非偶(联)电子",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "undercooled",
+    "zh": "过冷的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "undercooled liquid",
+    "zh": "过冷液体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unfilled gum vulcanizate",
+    "zh": "纯硫化胶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uniformly labeled",
+    "zh": "均匀标记的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unlabelled",
+    "zh": "未标记的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unsettled soap",
+    "zh": "未静置皂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unsoiled cotton",
+    "zh": "未染污的棉布",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "vacuum epitaxy(VE)",
+    "zh": "真空外延",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor-phase etching",
+    "zh": "气相腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "variable anisotropy etching",
+    "zh": "可变各向异性腐蚀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wafer",
+    "zh": "片;(封信用的)干胶片;糯米纸",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wafer ash",
+    "zh": "忽布根皮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wafer method",
+    "zh": "压片法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "warbled hide",
+    "zh": "虻疮皮（皮革）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water cooled",
+    "zh": "水冷的：用水冷却的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water cooled condenser",
+    "zh": "水冷式冷凝器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water cooled cylinder",
+    "zh": "水冷式汽缸",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water cooled rolls〔",
+    "zh": "复〕 水冷辊",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water-cooled torch tube",
+    "zh": "水冷炬管",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water-cooled welding torch",
+    "zh": "水冷焊炬",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water-repellent silicone",
+    "zh": "防水性有机硅树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-sealed",
+    "zh": "防水的；隔水的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water-sealed gas holder",
+    "zh": "水封储气罐",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water sealed gas meter",
+    "zh": "水封气表",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water sealed producer",
+    "zh": "水封发生器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "water-sealed tank",
+    "zh": "水封罐",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "well-milled paint",
+    "zh": "充分研磨过的漆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wheel stretcher(=wheel stretching machine)",
+    "zh": "轮压展机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wheel stretching machine(=wheel stretcher)",
+    "zh": "轮压展机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "whisker-walled open tubular column",
+    "zh": "晶须开管柱",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wrinkled",
+    "zh": "皱的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wrinkled-ribbon model",
+    "zh": "折带式模型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Zener diode",
+    "zh": "稳压(二极)管",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

@@ -1,0 +1,4760 @@
+[
+  {
+    "en": "achromatic magnetic mass spectrometer",
+    "zh": "消色差磁质谱计(仪)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption magnetic field",
+    "zh": "吸附磁场",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aegerite(=wurtzite)",
+    "zh": "纤维锌矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aeonite(=wurtzite)",
+    "zh": "纤锌矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alloy superconductor",
+    "zh": "合金超导体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "all-solid state reference electrode",
+    "zh": "全固态参比电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alumina soap",
+    "zh": "铝皂 γ-alumina spinel γ型氧化铝尖晶石",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "amphibole lattice",
+    "zh": "闪石晶格；闪石点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "analysing crystal",
+    "zh": "分光晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "analyzing crystal",
+    "zh": "分析晶体；分光晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anatase",
+    "zh": "锐钛矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anatase pigmentary",
+    "zh": "颜料级锐钛型(二氧化钛)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anatase titanium dioxide",
+    "zh": "锐钛矿型钛白粉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "angle of diffraction",
+    "zh": "衍射角",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anomalous magnetic moment",
+    "zh": "反常磁矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anomalous mixed crystal",
+    "zh": "反常混晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "anorthic lattice",
+    "zh": "三斜晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiferroelectric ceramics",
+    "zh": "反铁电陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiferroelectric crystal",
+    "zh": "反铁电晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiferroelectric distortion",
+    "zh": "反铁电畸变",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-ferroelectricity",
+    "zh": "反铁电性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiferro-magnetic",
+    "zh": "抗强磁性(的): 反铁磁性的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antiferromagnetic compound",
+    "zh": "反铁磁(性)化合物",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "antiferromagnetic resonance",
+    "zh": "反铁磁共振",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "apparent crystal size",
+    "zh": "晶体表观尺寸",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "arborescent crystal",
+    "zh": "树枝状晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "asymmetric magnetic lens",
+    "zh": "不对称磁透镜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "atomic lattice",
+    "zh": "原子晶格; 原子点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "atomic magnetic force",
+    "zh": "原子磁力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "balas ruby(=spinel)",
+    "zh": "玖红尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "band gap",
+    "zh": "带隙",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "B-centered lattice B",
+    "zh": "底心格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "belt magnetic separator",
+    "zh": "带式磁力分离器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bent crystal",
+    "zh": "弯晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "biaxial crystal",
+    "zh": "双轴晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "black magnetic ferrosic oxide",
+    "zh": "磁性氧化铁黑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "black magnetic oxide",
+    "zh": "磁性氧化铁黑",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "body-centered cubic lattice",
+    "zh": "体心立方格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "body centered lattice",
+    "zh": "体心点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Bohemian crystal",
+    "zh": "波希米亚玻璃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bragg diffraction",
+    "zh": "布拉格衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Bravais lattice",
+    "zh": "布拉菲晶格",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "bundle (-like) crystal",
+    "zh": "束状结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "C-face centered lattice C",
+    "zh": "心点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbol crystal violet",
+    "zh": "石炭酸结晶紫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "carbon-13 magnetic resonance ( $^{13}$ C-NMR)",
+    "zh": "碳-13(核)磁共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulose lattice",
+    "zh": "纤维素晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cerium perovskite",
+    "zh": "含铈钙钛矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cesium chloride",
+    "zh": "氯化铯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain-folded crystal",
+    "zh": "折叠链结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "chain lattice",
+    "zh": "链格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "charged polymer lattice",
+    "zh": "带电聚合物点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically sensitive semiconductor device",
+    "zh": "化(学)敏(感)半导体器件",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorospinel",
+    "zh": "绿尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chrome garnet",
+    "zh": "铬榴石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cnidium oil",
+    "zh": "川芎油 C nuclear magnetic resonance 碳-13 核磁共振",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "composite lattice",
+    "zh": "复合点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "convergent beam microdiffraction",
+    "zh": "会聚束微衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "coordination lattice",
+    "zh": "配位格子；配位晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crossed electric-magnetic field electron-capture ion source",
+    "zh": "正交电磁场电子捕获离子源",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crossed electric-magnetic fields mass spectrometer",
+    "zh": "正交电磁场质谱计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cryogenic superconductor",
+    "zh": "低温(深冷)超导体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystal",
+    "zh": "晶体*；结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal aggregate",
+    "zh": "结晶聚集(体)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal analysis",
+    "zh": "晶体分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal angle",
+    "zh": "晶角",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal anisotropy",
+    "zh": "晶体各向异性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal axis",
+    "zh": "晶轴*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal boiling",
+    "zh": "结晶煮沸（糖）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal chloroform",
+    "zh": "结晶氯仿",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal class",
+    "zh": "晶类",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal clear",
+    "zh": "无色透明的；清澈透明的",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal clearance",
+    "zh": "晶状透明度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal clear syrup",
+    "zh": "清澈透明的浆状物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal clear transparency",
+    "zh": "无色清澈透明度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal defect",
+    "zh": "晶体缺陷*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal druse",
+    "zh": "晶簇",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal edge",
+    "zh": "晶棱*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal elasticity",
+    "zh": "晶体弹性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal enamel",
+    "zh": "晶纹瓷漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal engineering",
+    "zh": "晶体工程",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal face",
+    "zh": "晶面*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal-field effect",
+    "zh": "晶场效应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal fineness",
+    "zh": "晶体细度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal finish",
+    "zh": "晶纹面漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal form",
+    "zh": "晶形*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal glaze",
+    "zh": "结晶釉",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal grain",
+    "zh": "晶粒",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal growth",
+    "zh": "晶体生长*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal habit",
+    "zh": "晶癖*；晶体习性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal habit modifier",
+    "zh": "晶体习性改变剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal lacquer",
+    "zh": "结晶纤维喷漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal lacquer finish",
+    "zh": "挥发性晶纹面漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal lattice (",
+    "zh": "结)晶格(子)",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal lattice defect",
+    "zh": "晶格缺陷",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal lattice energy",
+    "zh": "晶格能",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline lattice",
+    "zh": "晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystal mass",
+    "zh": "结晶状物",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal model",
+    "zh": "结晶模型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal modifier",
+    "zh": "结晶改良剂",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal modulus",
+    "zh": "晶体模量",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal oil",
+    "zh": "结晶油；未脱蜡的油",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal paper varnish (",
+    "zh": "糊墙)纸用晶纹清漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal pattern",
+    "zh": "晶体图案",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal plane",
+    "zh": "晶面",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal plane slip",
+    "zh": "晶面滑移",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal plasticity",
+    "zh": "晶体塑性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal point",
+    "zh": "结晶点",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal ponceau",
+    "zh": "结晶丽春红（染）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal powder",
+    "zh": "晶体粉末",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal pulling method",
+    "zh": "晶体生长提拉法*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal refractometer",
+    "zh": "结晶(晶体)折射仪；结晶(晶体)折光仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal seeds",
+    "zh": "晶种",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal size",
+    "zh": "晶粒大小",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal skeleton",
+    "zh": "晶体间架",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal spectrometer",
+    "zh": "晶体分光仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal structure",
+    "zh": "晶体结构*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crystal structure analysis",
+    "zh": "晶体结构分析",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crystal structure determination",
+    "zh": "晶体结构测定",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crystal structure of wax",
+    "zh": "蜡的晶体结构",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crystal symmetry",
+    "zh": "晶体对称性",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal system",
+    "zh": "晶系*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "crystal texture",
+    "zh": "晶体组织",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal twin",
+    "zh": "双晶*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal varnish",
+    "zh": "结晶清漆；烘干晶纹清漆",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal violet",
+    "zh": "结晶紫*；龙胆紫",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal water",
+    "zh": "结晶水",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "crystal yarn",
+    "zh": "水晶纱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cubic crystal",
+    "zh": "立方晶体；等轴系晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "cubic lattice",
+    "zh": "立方格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cubic lattice cell",
+    "zh": "立方点阵晶胞",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Curie magnetic susceptibility",
+    "zh": "居里磁化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curve crystal monochromater",
+    "zh": "弯晶单色器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curved crystal",
+    "zh": "弯(曲)晶(体)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "curved crystal spectrometer",
+    "zh": "弯曲晶体分光计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "defect lattice",
+    "zh": "缺陷晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "deformable magnetic material with memory",
+    "zh": "可变形磁性记忆材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deliquescent crystal",
+    "zh": "易潮解的晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "device for repeated diffraction",
+    "zh": "二次衍射装置",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diamagnetic",
+    "zh": "抗磁(性)的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic anisotropy",
+    "zh": "抗磁各向异性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic complex",
+    "zh": "抗磁性配合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic compound",
+    "zh": "抗磁化合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic contribution",
+    "zh": "抗磁性作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic dication",
+    "zh": "抗磁性双阳离子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic exciton",
+    "zh": "反磁激子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic material",
+    "zh": "反磁性物质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic nickel chelate",
+    "zh": "抗磁性镍螯合物（聚烯烃纤维的光稳定剂）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic ring current",
+    "zh": "抗磁环电流*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic screening",
+    "zh": "抗磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic shielding",
+    "zh": "抗磁屏蔽；反磁性屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic shielding effect",
+    "zh": "抗磁性屏蔽效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic shift",
+    "zh": "抗磁位移*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic substance",
+    "zh": "反磁性物质；抗磁性物质；抗磁体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamagnetic susceptibility",
+    "zh": "抗磁化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diamond type lattice",
+    "zh": "金刚石型晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dianil garnet",
+    "zh": "双苯胺紫酱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diazine garnet",
+    "zh": "二嗪紫酱 1,2-diazine(=pyridazine) 哒嗪；1,2-二嗪 1,3-diazine(=pyrimidine) 嘧啶；1,3-二嗪 1,4-diazine(=pyrazine) 吡嗪；1,4-二嗪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diffraction",
+    "zh": "衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction angle",
+    "zh": "衍射角",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction arc",
+    "zh": "衍射弧 ; 衍射条纹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction broadening",
+    "zh": "衍射增宽",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction contrast",
+    "zh": "衍射对比(度); 衍射反差",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction effect",
+    "zh": "衍射效应",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction formula",
+    "zh": "衍射公式",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction grating",
+    "zh": "衍射光栅*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction grating monochrometer",
+    "zh": "衍射光栅单色器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction intensity",
+    "zh": "衍射强度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction of X-rays X",
+    "zh": "射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction order",
+    "zh": "衍射级",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction pattern",
+    "zh": "衍射花样",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction peak",
+    "zh": "衍射峰",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction phenomenon",
+    "zh": "衍射现象",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction spectrum",
+    "zh": "衍射光谱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction spot",
+    "zh": "衍射斑",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction streak",
+    "zh": "衍射条纹",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction symbol",
+    "zh": "衍射群",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diffraction symmetry",
+    "zh": "衍射对称性*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "dipolar decoupling-magic angle spinning-nuclear magnetic resonance",
+    "zh": "去偶-魔角旋转-核磁共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "distorted lattice",
+    "zh": "畸变晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doped crystal",
+    "zh": "掺杂晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "doped rutile",
+    "zh": "金红石型晶格颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "double magnetic prism",
+    "zh": "双重偏转磁棱镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "draw-induced crystal",
+    "zh": "拉伸诱发晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electromagnetic",
+    "zh": "电磁的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic adhesive",
+    "zh": "电磁黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic apparatus",
+    "zh": "电磁仪器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic circulation",
+    "zh": "电磁循环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic clutch",
+    "zh": "电磁离合器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic enhancement model",
+    "zh": "电磁增强模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic field",
+    "zh": "电磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic flowmeter",
+    "zh": "电磁流量计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic force",
+    "zh": "电磁力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic force balance",
+    "zh": "电磁力天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic image shift",
+    "zh": "电磁像位移",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic induction",
+    "zh": "电磁感应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic interference(EMI)",
+    "zh": "电磁干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic lens system",
+    "zh": "电磁透镜系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic pump",
+    "zh": "电磁泵",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic radiation",
+    "zh": "电磁辐射",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic separation",
+    "zh": "电磁分离(法)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic separator",
+    "zh": "电磁分离器：磁选器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic spectrum",
+    "zh": "电磁谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-magnetic strain gauge",
+    "zh": "电磁应变仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic switch",
+    "zh": "电磁开关；电磁阀",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic theory",
+    "zh": "电磁(学)说",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic thermal analysis",
+    "zh": "电磁热分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic thickness gage",
+    "zh": "电磁式测厚仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic transducer",
+    "zh": "电磁换能器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic unit",
+    "zh": "电磁单位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic valve",
+    "zh": "电磁阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic vibratory feeder",
+    "zh": "电磁振动加料器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromagnetic wave",
+    "zh": "电磁波",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electromechanical crystal structure",
+    "zh": "电机结晶构造",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "electron diffraction",
+    "zh": "电子衍射*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron diffraction diagram",
+    "zh": "电子衍射图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron diffraction investigation",
+    "zh": "电子衍射研究",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron diffraction pattern",
+    "zh": "电子衍射图像",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electronic band gap",
+    "zh": "电子能带距离(范围)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electronic magnetic interference",
+    "zh": "电磁干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron-lattice interaction",
+    "zh": "电子晶格相互作用",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron magnetic moment",
+    "zh": "电子磁矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron magnetic resonance",
+    "zh": "电子磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron magnetic resonance spectroscopy",
+    "zh": "电子磁共振波谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron microdiffraction",
+    "zh": "电子显微衍射(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "electron pair repulsion",
+    "zh": "电子对互斥 electron paramagnetic resonance(=electron spin resonance)电子顺磁共振；电子自旋共振",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron paramagnetic resonance spectrometer",
+    "zh": "电子顺磁共振谱仪；电子自旋共振谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron paramagnetic resonance spectroscopy (",
+    "zh": "电子)顺磁共振(波)谱法；电子自旋共振(波)谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron spinning",
+    "zh": "电子自旋 electron spin resonance(=electron paramagnetic resonance)电子自旋共振；(电子)顺磁共振",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "elemental semiconductor",
+    "zh": "元素半导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "English crystal",
+    "zh": "铅玻璃",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "equiaxed crystal",
+    "zh": "等轴晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "eutectic crystal",
+    "zh": "共晶；低共熔晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "extended-chain crystal",
+    "zh": "伸展链晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "extrinsic semiconductor",
+    "zh": "含杂质半导体；外赋半导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "face-centered crystal",
+    "zh": "面心晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "face-centered cubic lattice",
+    "zh": "面心立方格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face centered lattice",
+    "zh": "面心点格*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face-centred lattice",
+    "zh": "面心点阵；面心晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "face of crystal",
+    "zh": "晶面",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "far field diffraction pattern",
+    "zh": "远场衍射图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "F-centered lattice",
+    "zh": "面心格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feather crystal",
+    "zh": "羽毛状晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ferroelectric",
+    "zh": "铁电的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric ceramics",
+    "zh": "铁电陶瓷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric ceramic thin films",
+    "zh": "铁电陶瓷薄膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric copolymer",
+    "zh": "铁电共聚物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric crystal",
+    "zh": "铁电性晶体*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ferroelectric effect",
+    "zh": "铁电效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric hysteresis loop",
+    "zh": "电滞回线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectricity",
+    "zh": "铁电性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric polymer",
+    "zh": "铁电聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferroelectric domain",
+    "zh": "铁电畴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferromagnetic",
+    "zh": "铁磁的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferromagnetic polymer",
+    "zh": "铁磁聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferromagnetic resonance",
+    "zh": "铁磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ferromagnetic resonance absorption",
+    "zh": "铁磁共振吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fiber (diffraction) pattern",
+    "zh": "纤维(衍射)图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fibrillar crystal",
+    "zh": "原纤晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fibrous crystal",
+    "zh": "纤维晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "fibrous seed crystal",
+    "zh": "纤维状子晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "field focused nuclear magnetic resonance",
+    "zh": "磁场聚焦核磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filamentary superconductor",
+    "zh": "线状超导体；丝状超导体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "filament crystal",
+    "zh": "丝(状结)晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flat crystal spectrometer",
+    "zh": "平面晶体光谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "FLC(ferroelectric liquid crystal)",
+    "zh": "铁电液晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "focused electron diffraction",
+    "zh": "会聚束电子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "folded-chain crystal",
+    "zh": "折叠链晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "folded crystal",
+    "zh": "折叠晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "four channel magnetic mass spectrometer",
+    "zh": "四通道磁式质谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "four circle single crystal diffractometer",
+    "zh": "四圆单晶衍射仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Fourier transform electron paramagnetic resonance",
+    "zh": "傅里叶变换顺磁共振；傅里叶变换电子自旋共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Fourier transform near infrared spectroscopy",
+    "zh": "傅里叶变换近红外光谱法 Fourier transform nuclear magnetic resonance(FTNMR)傅里叶变换核磁共振(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fraunhofer diffraction",
+    "zh": "夫琅和费衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Fresnel diffraction",
+    "zh": "菲涅耳衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "full crystal",
+    "zh": "全晶玻璃（含铅晶玻璃）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "garnet",
+    "zh": "石榴子石*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet abrasive",
+    "zh": "石榴石磨料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnetiferous skarn",
+    "zh": "石榴硅卡岩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet lac",
+    "zh": "深红色的精制紫胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet laser",
+    "zh": "石榴石激光器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet paper",
+    "zh": "(金刚)砂纸;红晶色纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet red",
+    "zh": "紫酱红",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnet shellac",
+    "zh": "石榴紫胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "garnetted stock",
+    "zh": "回收纤维",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas sensitive semiconductor detector",
+    "zh": "气敏半导体检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gel-anatase",
+    "zh": "胶锐钛矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gel-rutile",
+    "zh": "胶金红石（矿）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glancing angle X-ray diffraction",
+    "zh": "掠射角 X 射线衍射法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "globular-chain crystal",
+    "zh": "球状链晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "gyro-magnetic ratio",
+    "zh": "磁旋比",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "half-unit cell composition",
+    "zh": "半晶胞组分",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "helium atoms diffraction",
+    "zh": "氦原子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexagonal close-packed lattice",
+    "zh": "六方密装格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexagonal crystal",
+    "zh": "六方晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "hexagonal crystal system",
+    "zh": "六方晶系",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hexagonal lattice",
+    "zh": "六方点格*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high energy electron diffraction (HEED)",
+    "zh": "高能电子衍射*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "high temperature X-ray diffraction analysis",
+    "zh": "高温X射线衍射分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "holographic diffraction grating",
+    "zh": "全息衍射光栅",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "homogeneous magnetic field",
+    "zh": "均匀磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homopolar crystal",
+    "zh": "无极晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "host crystal",
+    "zh": "基质晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "host lattice",
+    "zh": "主晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Iceland crystal",
+    "zh": "冰洲石",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ideal crystal",
+    "zh": "理想晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ideal focusing magnetic field boundary",
+    "zh": "理想聚焦磁场边界",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "imperfect crystal",
+    "zh": "缺陷晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "induced magnetic moment",
+    "zh": "感生磁矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhomogeneous magnetic field mass spectrometer",
+    "zh": "非均匀磁场质谱计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inspection with magnetic powder",
+    "zh": "磁粉探伤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interatomic diamagnetic shielding",
+    "zh": "原子间抗磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intercrystal boundary",
+    "zh": "晶间界面",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "internal crystal structure",
+    "zh": "晶体内部结构",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "intrinsic semiconductor",
+    "zh": "本征半导体; 纯半导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inverse lattice(=reciprocal lattice)",
+    "zh": "倒易晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inverse-spinel type structure",
+    "zh": "反尖晶石晶型结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in vivo nuclear magnetic resonance spectroscopy",
+    "zh": "活体 NMR 波谱学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ionic lattice",
+    "zh": "离子晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ionic magnetic susceptibility",
+    "zh": "离子性磁化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron garnet",
+    "zh": "铁榴石；硅酸钙铁矿石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lamellar crystal",
+    "zh": "片晶片状铁鳞",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lamellar lattice",
+    "zh": "片晶晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Larmor precession of nuclear magnetic moment",
+    "zh": "核磁矩的拉莫尔进动",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser paramagnetic resonance absorption",
+    "zh": "激光顺磁共振吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "laser photothermal diffraction spectrometry",
+    "zh": "激光光热衍射光谱法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lattice",
+    "zh": "晶格*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice amplification",
+    "zh": "晶格放大",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice arrangement",
+    "zh": "晶格排列",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice constants",
+    "zh": "晶胞参数*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice coordination number",
+    "zh": "晶格配位数；点阵配位数",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "latticed drum",
+    "zh": "格子转鼓",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lattice defect(=lattice imperfection)",
+    "zh": "晶格缺陷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice deformation",
+    "zh": "晶格畸变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice dislocation",
+    "zh": "晶格位错",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice disorder",
+    "zh": "晶格无序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice distance",
+    "zh": "点阵间距",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice distortion",
+    "zh": "点阵畸变",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice energy",
+    "zh": "晶格能*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice force",
+    "zh": "晶格力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice hole model",
+    "zh": "点阵空穴模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice image",
+    "zh": "晶格像",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice imperfection(=lattice defect)",
+    "zh": "晶格缺陷",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice match",
+    "zh": "晶格匹配",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice misfit",
+    "zh": "晶格错配",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice mismatch",
+    "zh": "晶格失配",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice model",
+    "zh": "点阵模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice of corundum type",
+    "zh": "刚玉型晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice of diamond type",
+    "zh": "金刚石型晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice of graphite type",
+    "zh": "石墨型晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice of rock-salt type",
+    "zh": "岩盐型晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice of rutile type",
+    "zh": "金红石型晶格",
+    "role": "primary",
+    "confidence": 9.0
+  },
+  {
+    "en": "lattice of wurtzite type",
+    "zh": "纤锌矿型晶格",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "lattice of zincblende type",
+    "zh": "闪锌矿型晶格",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "lattice order",
+    "zh": "晶格序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice orientation (",
+    "zh": "晶体)点阵取向",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice parameters",
+    "zh": "晶胞参数*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice plane (",
+    "zh": "晶)格面*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice point (",
+    "zh": "晶)格点*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice relaxation",
+    "zh": "晶格弛豫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice resolution",
+    "zh": "晶格分辨能力",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice search",
+    "zh": "格点搜索法；格点寻优法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice site",
+    "zh": "晶格格位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice spacing",
+    "zh": "点阵间距",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice structure",
+    "zh": "点阵结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice table",
+    "zh": "栅条台",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice theory of liquid",
+    "zh": "液体点阵理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice truss",
+    "zh": "格构桁架",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice-type network",
+    "zh": "网格形线路; 格架形网络; 桥形网络",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice vacancy",
+    "zh": "晶格空间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice vector (",
+    "zh": "晶)格矢",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice vibration",
+    "zh": "晶格振动*; 点阵振动",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice vibrational spectrum",
+    "zh": "点阵振动光谱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lattice water",
+    "zh": "晶格水",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Laue diffraction camera",
+    "zh": "劳厄衍射照相机",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue diffraction geometric type",
+    "zh": "劳厄衍射几何类型",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Laue diffraction pattern",
+    "zh": "劳厄衍射图样",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "layer crystal",
+    "zh": "层晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "layer lattice",
+    "zh": "层状晶格；层形点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "layer lattice type",
+    "zh": "层格型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "left handed crystal",
+    "zh": "左晶;左旋结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "levorotatory crystal",
+    "zh": "左旋(结)晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "linear crystal growth rate",
+    "zh": "线型结晶生长速率",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "linear magnetic field gradient",
+    "zh": "线性磁场梯度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "line-lattice",
+    "zh": "线型点阵；单向有序",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid crystal panel",
+    "zh": "液晶面板",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "liquid crystal state",
+    "zh": "液晶态",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "liquid crystal structure",
+    "zh": "液晶结构",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lithium-drifted semiconductor detector",
+    "zh": "锂漂移半导体探测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local diamagnetic shielding",
+    "zh": "局部抗磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "local paramagnetic shielding",
+    "zh": "局部顺磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "locking the magnetic field to the radiofrequency",
+    "zh": "场频连锁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "logwood crystal",
+    "zh": "苏木精",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "lozenge magnetic stirring bar",
+    "zh": "菱形磁性搅拌棒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lyotropic liquid crystal",
+    "zh": "溶致性液晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "macrolattice",
+    "zh": "大晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macro-X-ray diffraction",
+    "zh": "粗聚焦 X 射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "magnesia spinel",
+    "zh": "镁氧尖晶石 $$",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "magnetic circular dichroism(MCD)",
+    "zh": "磁性圆二色散",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic coil",
+    "zh": "磁线圈",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic concentrator",
+    "zh": "磁力选矿机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic conductivity permeability",
+    "zh": "导磁率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic cooling",
+    "zh": "磁冷却",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic coupling",
+    "zh": "电磁联轴节",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic-damped balance",
+    "zh": "磁阻尼天平；磁抑天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic declination",
+    "zh": "磁偏角",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic decontamination",
+    "zh": "磁性纯化（催化剂）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic deflection mass spectrometer",
+    "zh": "磁偏转质谱计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic deflection system",
+    "zh": "磁偏转系统",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic diffusivity",
+    "zh": "磁扩散率；导磁性；导磁系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic dipole",
+    "zh": "磁偶极子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic dipole moment",
+    "zh": "磁偶极矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic dipole radiation",
+    "zh": "磁偶极子辐射",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic disturbance",
+    "zh": "磁性干扰",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic drum",
+    "zh": "磁选鼓",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic electron multiplier",
+    "zh": "磁电子倍增器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic elements",
+    "zh": "地磁要素;磁性元件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic equivalence",
+    "zh": "磁全同",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic equivalent nuclei",
+    "zh": "磁等同核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic examination",
+    "zh": "磁性探伤检查",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic exchange",
+    "zh": "磁交换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic extracting device",
+    "zh": "磁选器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic false-twist spindle",
+    "zh": "磁性假捻锭子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field",
+    "zh": "磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field analyzer",
+    "zh": "磁场分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field automatic scanning",
+    "zh": "磁场自动扫描",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field deflection",
+    "zh": "磁场偏转",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field scan",
+    "zh": "磁场扫描",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field scanning",
+    "zh": "磁场扫描",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field stability",
+    "zh": "磁场稳定度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field strength",
+    "zh": "磁场强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field system of NMR NMR",
+    "zh": "谱仪磁场系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic field welding",
+    "zh": "磁场焊接",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic filter",
+    "zh": "磁性过滤器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic flaw detecting",
+    "zh": "磁力探伤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic flow meter",
+    "zh": "电磁流量计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic fluid control device",
+    "zh": "磁性流体控制仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic flux",
+    "zh": "磁通量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic flux density",
+    "zh": "磁通密度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic force microscope",
+    "zh": "磁力显微镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic force microscopy",
+    "zh": "磁力显微镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic gage",
+    "zh": "磁力测厚计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic gap",
+    "zh": "磁隙",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic gauge",
+    "zh": "磁力测微计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic guard",
+    "zh": "磁性钢丝面罩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic hysteresis",
+    "zh": "磁滞",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic hysteresis loop",
+    "zh": "磁滞回线",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic induction",
+    "zh": "磁感应强度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic inspection",
+    "zh": "磁力探伤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic iron",
+    "zh": "磁铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic iron oxide(=magnetic oxide)",
+    "zh": "磁性氧化铁；四氧化三铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic lens",
+    "zh": "磁透镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic medium",
+    "zh": "磁性介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic meridian",
+    "zh": "地磁子午线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic mine",
+    "zh": "磁性水雷",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic mirror effect “",
+    "zh": "磁镜”效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic mixer",
+    "zh": "磁力混合器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic moment",
+    "zh": "磁矩",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic needle",
+    "zh": "磁针",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic optic",
+    "zh": "磁光的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic optical rotation",
+    "zh": "磁致旋光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic oscillograph",
+    "zh": "电磁示波器；电磁示波管",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic oxide(=magnetic iron oxide)",
+    "zh": "四氧化三铁；磁性氧化铁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic particle examination",
+    "zh": "磁粉检验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic particle test",
+    "zh": "磁粉试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic peak-switching",
+    "zh": "磁式峰切换",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic permeability",
+    "zh": "磁导率*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic polarizability",
+    "zh": "磁性极化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic polarization",
+    "zh": "磁性极化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic pole",
+    "zh": "磁极",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic polymer",
+    "zh": "磁性聚合物 magnetic screening 磁筛选",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic sector",
+    "zh": "扇形磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic sector analyzer",
+    "zh": "磁扇形分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic sector spectrometer",
+    "zh": "扇形磁式质谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic selector",
+    "zh": "磁选器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic semiconductor",
+    "zh": "磁性半导体",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "magnetic sensor",
+    "zh": "磁传感器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic separation",
+    "zh": "磁力分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic separator",
+    "zh": "磁选器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic shielding",
+    "zh": "磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic specific heat",
+    "zh": "磁比热容",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic spectrograph",
+    "zh": "磁谱仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic spectrum",
+    "zh": "磁谱",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic stirring bar (",
+    "zh": "电)磁搅拌棒",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic susceptibility",
+    "zh": "磁化率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic switch",
+    "zh": "磁力开关；磁开关",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic tape cassette recorder",
+    "zh": "盒式磁带记录器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic testing",
+    "zh": "磁力探伤",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic texturing spindle",
+    "zh": "磁性变形转子",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic thermobalance",
+    "zh": "磁(性)热天平",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic thickness gauge",
+    "zh": "磁力测厚仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic-type gage",
+    "zh": "磁性测厚仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic units",
+    "zh": "磁单位（真空中磁导率为1）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic valve",
+    "zh": "电磁阀",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic water",
+    "zh": "磁(化)水",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic polymer microsphere",
+    "zh": "磁性高分子微球",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic potential",
+    "zh": "磁势；磁位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic powder",
+    "zh": "磁性粉末；磁(性)铁粉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic prism",
+    "zh": "磁棱镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic pyrite",
+    "zh": "磁性黄铁矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic quantum number",
+    "zh": "磁量子数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic recording pigment",
+    "zh": "磁性录音颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic relaxation",
+    "zh": "磁松弛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic reluctance",
+    "zh": "磁阻",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic repulsion",
+    "zh": "磁(排)斥力；磁推斥",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic resolution",
+    "zh": "磁性离解：磁性分离",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic resonance force microscopy",
+    "zh": "磁共振力显微镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic resonance microscopy",
+    "zh": "磁共振显微镜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic roll",
+    "zh": "磁力辊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic roll squeegee",
+    "zh": "磁性刮浆辊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic rotation",
+    "zh": "磁(致)旋光;磁(场)旋光度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic rotatory power",
+    "zh": "磁旋光本领；磁致偏振转本领",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic rubber",
+    "zh": "磁性橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic sand",
+    "zh": "磁铁(矿)砂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic saturation",
+    "zh": "磁性饱和",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "magnetic scanning",
+    "zh": "磁扫描",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean field lattice model",
+    "zh": "平均场晶格模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallic crystal",
+    "zh": "金属结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "metalloidal crystal",
+    "zh": "准金属晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "metalloid crystal",
+    "zh": "准金属晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micelle molecular lattice",
+    "zh": "胶束分子晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micro-area diffraction",
+    "zh": "微区衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro crystal",
+    "zh": "微晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "microcrystal powder",
+    "zh": "微晶粉末",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro diffraction",
+    "zh": "微衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "micro-X-ray diffraction",
+    "zh": "微焦 X 射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mineral lattice",
+    "zh": "无机物晶体点阵；矿物晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed crystal",
+    "zh": "混晶*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular crystal",
+    "zh": "分子晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "molecular lattice",
+    "zh": "分子晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular lattice theory",
+    "zh": "分子晶格理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "molecular magnetic rotation",
+    "zh": "分子磁(致)旋光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monoclinic crystal",
+    "zh": "单斜晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "monocrystal",
+    "zh": "单晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mosaic liquid crystal",
+    "zh": "镶嵌液晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mosaic structure of crystal",
+    "zh": "结晶镶嵌构造；晶体镶嵌结构",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "mountain crystal",
+    "zh": "水晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "multi-nuclear magnetic resonance",
+    "zh": "多核磁共振*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multiple diffraction",
+    "zh": "多重衍射*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "needle crystal",
+    "zh": "针状结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "needle form of wax crystal",
+    "zh": "针状蜡结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neighboring paramagnetic shielding",
+    "zh": "邻区顺磁屏蔽",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nematic crystal structure",
+    "zh": "向列型晶体结构",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "neutron diffraction",
+    "zh": "中子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "neutron diffraction analysis",
+    "zh": "中子衍射分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "niob-anatase(=nioboanatase)",
+    "zh": "铌锐钛矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "niobate system piezoelectric ceramics",
+    "zh": "铌酸盐系陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "niobium perovskite",
+    "zh": "铌钙钛矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "niobium rutile",
+    "zh": "铌金红石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-linear optic crystal",
+    "zh": "非线性光学晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "non-magnetic isomer",
+    "zh": "无磁性异构体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonmagnetic mass spectrometer",
+    "zh": "非磁质谱计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nonmetal sublattice",
+    "zh": "非金属亚晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonprimitive lattice",
+    "zh": "复格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nuclear magnetic double resonance(NMDR)",
+    "zh": "核磁双共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic moment",
+    "zh": "核磁矩*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic multiple resonance spectroscopy",
+    "zh": "多重核磁共振波谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic-nuclear quadrupole double resonance",
+    "zh": "核磁-核四极双共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic relaxation (",
+    "zh": "原子)核磁(性)松弛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance(NMR)",
+    "zh": "核磁共振*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance computerized tomography (NMRCT)",
+    "zh": "核磁共振计算机化断层显像*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance condition",
+    "zh": "核磁共振条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance imaging",
+    "zh": "核磁共振成像",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance spectrometer",
+    "zh": "核磁共振波谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nuclear magnetic resonance spectroscopy",
+    "zh": "核磁共振波谱法*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oblique crystal",
+    "zh": "单斜晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "oblique lattice",
+    "zh": "斜点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "one dimensional lattice",
+    "zh": "一维点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optical axis of crystal",
+    "zh": "晶体光轴*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "optical detection of magnetic resonance(ODMR)",
+    "zh": "光检测磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical diffraction",
+    "zh": "光衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "optically detected magnetic resonance",
+    "zh": "光检测磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "optical perturbation-electron paramagnetic resonance",
+    "zh": "光微扰-电子顺磁共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ordered lattice",
+    "zh": "有序晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "order of diffraction",
+    "zh": "衍射级",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "organic semiconductor",
+    "zh": "有机半导体*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oriental garnet",
+    "zh": "柘榴石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orthorhombic unit cell",
+    "zh": "正交晶胞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "parallel-chain crystal",
+    "zh": "平行链晶体*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "paramagnetic broadening",
+    "zh": "顺磁加宽；顺磁增宽 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic compound",
+    "zh": "顺磁化合物 $$",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic oxygen analyzer",
+    "zh": "顺磁氧分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic property",
+    "zh": "顺磁性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic property of oxygen",
+    "zh": "氧的顺磁性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic reagent",
+    "zh": "顺磁试剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic relaxation reagent",
+    "zh": "顺磁性弛豫试剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic resonance(PMR)",
+    "zh": "顺磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic resonance absorption",
+    "zh": "顺磁共振吸收",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic resonance method",
+    "zh": "顺磁共振法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic ring current",
+    "zh": "顺磁环电流*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic shielding",
+    "zh": "顺磁屏蔽*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic shift",
+    "zh": "顺磁位移*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic shift reagent",
+    "zh": "顺磁性位移试剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic substance",
+    "zh": "顺磁物质*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paramagnetic susceptibility",
+    "zh": "顺磁磁化率；顺磁性系数 $$",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pathological crystal",
+    "zh": "变态晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "PDF powder diffraction file cards PDF",
+    "zh": "粉末衍射卡片",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "perfect crystal",
+    "zh": "全整晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "perfection of lattice",
+    "zh": "晶格的完整性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perovskite",
+    "zh": "钙钛矿*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perovskite structure",
+    "zh": "钙钛结构矿",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phase analysis by X-ray diffraction X",
+    "zh": "射线衍射物相分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "photomagnetic capture",
+    "zh": "光磁俘获",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photothermal diffraction spectrometer",
+    "zh": "光热衍射光谱仪",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "piezocrystal",
+    "zh": "压晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "piezoelectric ceramics",
+    "zh": "压电陶瓷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezoelectric composite",
+    "zh": "压电复合材料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezo-electric crystal",
+    "zh": "压电晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "piezo-electric crystal hygrometer",
+    "zh": "压电晶体湿度计",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "piezoelectricity",
+    "zh": "压电(现象);压电学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezoelectric polymer",
+    "zh": "压电高分子；压电性聚合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezo-electric quartz crystal resonator",
+    "zh": "压电石英晶体共振器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "piezoelectric transducer",
+    "zh": "压电换能器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezoelectric quartz sensor",
+    "zh": "压电晶体传感器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plane diffraction grating",
+    "zh": "平面衍射光栅",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plane lattice",
+    "zh": "平面晶格；平面点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic crystal",
+    "zh": "塑晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plate crystal",
+    "zh": "片状结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "plate crystal monochromater",
+    "zh": "平面晶体单色器",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "point lattice",
+    "zh": "点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polar crystal",
+    "zh": "极性晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polycrystal",
+    "zh": "多晶*",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "polymeric semiconductor",
+    "zh": "高分子半导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "portable magnetic thickness gauge",
+    "zh": "轻便磁性测厚仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "powder crystal",
+    "zh": "粉晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "powder (diffraction) camera",
+    "zh": "粉末(衍射)摄影箱",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "powder diffraction pattern",
+    "zh": "粉末衍射图",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "powder X-ray diffraction",
+    "zh": "粉末X射线衍射；多晶X射线衍射(法)",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "precious garnet",
+    "zh": "贵榴石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primary crystal",
+    "zh": "初凝晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "primary unit cell",
+    "zh": "初级晶胞",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primitive lattice",
+    "zh": "初基点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "profile of diffraction line",
+    "zh": "衍射线分布图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "proton magnetic resonance(PMR)",
+    "zh": "质子磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton magnetic resonance spectroscopy",
+    "zh": "质子磁共振光谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton nuclear magnetic resonance",
+    "zh": "质子核磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "proton nuclear magnetic resonance spectroscopy",
+    "zh": "质子核磁共振谱法；质子核磁共振谱学",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pseudocrystal",
+    "zh": "假晶; 赝晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "pseudolattice state",
+    "zh": "假晶格态",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pulsed electron paramagnetic resonance",
+    "zh": "脉冲电子顺磁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse Fourier transform nuclear magnetic resonance spectrometer",
+    "zh": "脉冲傅里叶变换核磁共振谱仪",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pulse Fourier transform nuclear magnetic resonance spectroscopy",
+    "zh": "脉冲傅里叶变换核磁共振谱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyromagnetic",
+    "zh": "热磁的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quantum crystal",
+    "zh": "量子晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quasi-crystal",
+    "zh": "准晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "quasi-crystalline lattice",
+    "zh": "准晶格",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasi-lattice model",
+    "zh": "准晶格模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasi-lattice theory(QLT)",
+    "zh": "准晶格理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quasiperiodic crystal",
+    "zh": "准周期性晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "radial magnetic field analyzer",
+    "zh": "径向磁场分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radical (reaction)-yield-detected magnetic resonance",
+    "zh": "自由基(反应)产量检测磁共振",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "real crystal",
+    "zh": "实际晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reciprocal lattice",
+    "zh": "倒易点阵；倒易晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reciprocal lattice vector",
+    "zh": "倒格矢；倒易点阵向量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "recrystal",
+    "zh": "重结晶；再结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rectangular crystal",
+    "zh": "矩形(结)晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "reflection high energy electron diffraction",
+    "zh": "反射式高能电子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "regular crystal",
+    "zh": "正方晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "relative receptivity of magnetic nuclei",
+    "zh": "磁性核的相对可接受度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rhodite",
+    "zh": "天然铑金合金rhombohedral lattice 三方点格*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "right-handed crystal",
+    "zh": "右晶;右旋结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "R lattice R",
+    "zh": "心格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rock crystal",
+    "zh": "水晶（无色的石英）",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "rock salt",
+    "zh": "岩盐*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rock salt prism",
+    "zh": "岩盐棱镜",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "room temperature superconductor",
+    "zh": "室温超导体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rosette crystal",
+    "zh": "莲座晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ruby spinel",
+    "zh": "红尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile",
+    "zh": "金红石",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile-calcium white (",
+    "zh": "金红石型)钛钙白（钛钙复合颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile mixed phase pigment",
+    "zh": "金红石型混相颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile pigment",
+    "zh": "金红石型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile pigmentary",
+    "zh": "颜料级金红石型(二氧化钛)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile titania",
+    "zh": "金红石型二氧化钛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile titanium dioxide",
+    "zh": "金红石型二氧化钛；金红石型钛白",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile-type structure",
+    "zh": "金红石型结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sector magnetic analyzer",
+    "zh": "扇形磁分析器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seed crystal",
+    "zh": "晶种；籽晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "selected area diffraction",
+    "zh": "选区电子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "selected area electron diffraction",
+    "zh": "选区电子衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "semiconductor",
+    "zh": "半导体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor cell",
+    "zh": "半导体电池",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor crystal",
+    "zh": "半导体晶体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semiconductor detector",
+    "zh": "半导体检测器*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor electrochemistry",
+    "zh": "半导体电化学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor electron multiplier",
+    "zh": "半导体电子倍增器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor integrated circuit",
+    "zh": "半导体集成电路",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor laser",
+    "zh": "半导体激光器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor oxide",
+    "zh": "半导体氧化物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor radiation detector",
+    "zh": "半导体放射检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor rectifier",
+    "zh": "半导体整流器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor solid (radiation) detector (SSD)",
+    "zh": "半导体固体检测器",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semiconductor varnish",
+    "zh": "半导体漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "semi-crystal",
+    "zh": "半水晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "sensing crystal",
+    "zh": "敏感晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "shared-cluster crystal",
+    "zh": "共簇晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "single crystal",
+    "zh": "单晶*",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal diffractometer",
+    "zh": "单晶衍射仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal fibre",
+    "zh": "单晶纤维；须晶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal filament",
+    "zh": "单晶丝；须晶",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal graphite",
+    "zh": "单晶石墨",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal X-ray diffraction",
+    "zh": "单晶 X 射线衍射(法)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal X-ray diffraction system",
+    "zh": "单晶 X 射线衍射系统",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "single crystal X-ray diffractometer",
+    "zh": "单晶 X 射线衍射仪",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "skeleton crystal",
+    "zh": "骸晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "small angle X-ray diffraction",
+    "zh": "小角 X射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "small angle X-ray diffraction method",
+    "zh": "小角 X射线衍射法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "smectic liquid crystal",
+    "zh": "近晶型液晶；层列型液晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "soda crystal",
+    "zh": "苏打结晶；钠碱晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "solid state",
+    "zh": "固(体状)态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state chemistry",
+    "zh": "固态化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state electrode",
+    "zh": "固态电极",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state electrolyte",
+    "zh": "固态电解质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state FET pH probe",
+    "zh": "固态场效应晶体管 pH 探头",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state infrared modulator",
+    "zh": "固态红外调制器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state interaction",
+    "zh": "固态相互作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state polyelectrolyte",
+    "zh": "固态高分子电解质",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state reaction",
+    "zh": "固相反应*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid state track detector (SSTD)",
+    "zh": "固态径迹检测器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space group(=spacer;space grouping)",
+    "zh": "空间群;间隔基；间隔团",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space grouping(=space group;spacer)",
+    "zh": "空间群;间隔基；间隔团",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space group symbol",
+    "zh": "空间群符号",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "space lattice",
+    "zh": "立体晶格；空间格子；空间格点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spacing of lattice",
+    "zh": "晶格间隔；点阵间距",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sphalerite(=zinc blende)",
+    "zh": "闪锌矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spinel",
+    "zh": "尖晶石*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinel structure (",
+    "zh": "晶体的)针状结构；尖晶石结构",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinel type pigment",
+    "zh": "尖晶石型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin-lattice relaxation",
+    "zh": "自旋-晶格弛豫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spin-lattice relaxation time in rotation reference",
+    "zh": "旋转坐标系中的自旋-晶格弛豫时间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "staple-garnetting",
+    "zh": "短纤维扯松工艺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stray crystal",
+    "zh": "杂(散)晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "strong magnetic nuclei",
+    "zh": "磁性强核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sublattice",
+    "zh": "亚点阵；子晶格；亚晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superconductor",
+    "zh": "超导体*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "superlattice",
+    "zh": "超(结晶)格子；超点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "superlattice ordering",
+    "zh": "超晶格有序化",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "supermolecular lattice",
+    "zh": "超分子晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "support induced crystal growth",
+    "zh": "载体诱导晶体生长",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "susceptibility",
+    "zh": "(=magnetic susceptibility)磁化率;感受性;敏感度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tabular crystal",
+    "zh": "平片状结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "tetragonal crystal",
+    "zh": "四方晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "the 14 Bravais lattices 14",
+    "zh": "种布拉威点格",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "the 230 crystallographic space groups 230",
+    "zh": "种晶体学空间群",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermomagnetic analysis",
+    "zh": "热磁分析",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermomagnetic converter",
+    "zh": "热磁换能器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermomagnetic curve",
+    "zh": "热磁曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermomagnetic effect",
+    "zh": "热磁效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermotropic liquid crystal",
+    "zh": "热致性液晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "three-dimensional lattice",
+    "zh": "三维点阵",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "three dimensional nuclear magnetic resonance",
+    "zh": "三维核磁",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "topical magnetic resonance",
+    "zh": "定域磁共振",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "topical nuclear magnetic resonance spectrometry",
+    "zh": "定域核磁共振波谱法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transverse magnetic field",
+    "zh": "横向磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "triclinic lattice",
+    "zh": "三斜晶格",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "twin crystal",
+    "zh": "李晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "twinned crystal",
+    "zh": "李晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "two dimensional electron paramagnetic resonance",
+    "zh": "二维电子顺磁共振 two-dimensional electron spin echo envelope modulation二维电子自旋回波包络线调制",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two dimensional exchange spectroscopy",
+    "zh": "二维交换谱 two dimensional Fourier transform magnetic resonance二维傅里叶变换核磁共振",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultramicro-crystal",
+    "zh": "超微结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "ultrasonic diffraction microscope",
+    "zh": "超声衍射显微镜",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uniaxial crystal",
+    "zh": "单轴晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "uniform magnetic field",
+    "zh": "匀强磁场",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unit cell",
+    "zh": "晶胞；格子单位;干电池;单元格子",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell constant",
+    "zh": "晶胞常数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell dimension",
+    "zh": "晶胞大小；晶胞尺寸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit cell parameter",
+    "zh": "晶胞参数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unit lattice",
+    "zh": "晶胞；单元格子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vortex lattice",
+    "zh": "涡旋点阵；涡串；涡栅",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vug crystal",
+    "zh": "窝内结晶",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wax crystal",
+    "zh": "蜡晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "weak magnetic nuclei",
+    "zh": "磁性弱核",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "well-defined crystal",
+    "zh": "完好晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wide angle X-ray diffraction",
+    "zh": "大角度 X 射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wide angle X-ray diffraction method",
+    "zh": "广角 X 射线衍射法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "wurtzite(=aegerite; aeonite)",
+    "zh": "纤锌矿",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "X-ray analysis of crystal structure X",
+    "zh": "射线(法)晶体结构分析",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray crystal density X",
+    "zh": "射线晶体密度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction X",
+    "zh": "射线衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction analysis X",
+    "zh": "射线衍射分析",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction examination X-",
+    "zh": "射线衍射检验",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction intensity X",
+    "zh": "射线衍射强度",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction method X",
+    "zh": "射线衍射法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction pattern X",
+    "zh": "射线衍射图",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction photographic method X",
+    "zh": "射线衍射照相法",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffraction studies X",
+    "zh": "射线衍射研究",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "X-ray diffractometry(XRD) X",
+    "zh": "射线衍射法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "X-ray powder diffraction X",
+    "zh": "射线粉末衍射",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "X-ray resonance diffraction (XRRD) X",
+    "zh": "射线共振衍射",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Y-cut crystal Y",
+    "zh": "截晶体",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "zinc blende",
+    "zh": "闪锌矿",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc blende roaster",
+    "zh": "闪锌矿烤炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc spinel",
+    "zh": "锌尖晶石",
+    "role": "primary",
+    "confidence": 4.5
+  }
+]

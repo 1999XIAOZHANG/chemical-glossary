@@ -1,0 +1,2162 @@
+[
+  {
+    "en": "accelerator-activator",
+    "zh": "促进剂-活性剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acetylmalonyl enzyme",
+    "zh": "乙酰丙二酸单酰酶；乙酰丙二酰(基)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acetyl thiokinase",
+    "zh": "乙酰硫激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid phosphatase",
+    "zh": "酸性磷酸酶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid phosphatase staining",
+    "zh": "酸性磷酸酶染色法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "activation ingredient(=activator)",
+    "zh": "活性剂；活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activator(=activation ingredient)",
+    "zh": "活化剂；活性剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activator level",
+    "zh": "活化剂用量",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "activatory",
+    "zh": "活化(的)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acyl-CoA dehydrogenase",
+    "zh": "酰基辅酶 A 脱氢酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acyl enzyme",
+    "zh": "酰(基)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acylpeptide hydrolase",
+    "zh": "酰基肽水解酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acyltransferase",
+    "zh": "酰基转移酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adaptive enzyme",
+    "zh": "适应酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adenosine hydrolase",
+    "zh": "腺苷水解酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorbent deactivator",
+    "zh": "吸附减活剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adsorption inhibitor",
+    "zh": "吸附型钝化剂；吸附型抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aerobic enzyme",
+    "zh": "需氧酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "AFM(atomic force microscope)",
+    "zh": "原子力显微镜 α-AFP enzyme immuno sensor α-甲胎蛋白酶免疫传感器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "age inhibitor",
+    "zh": "防老化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agon(=prosthetic group)",
+    "zh": "辅基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alanine aminotransferase",
+    "zh": "丙氨酸转氨酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alcohol dehydrogenase (",
+    "zh": "乙)醇脱氢酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aldehyde dehydrogenase(=aldehyde oxidase)",
+    "zh": "醛脱氢酶;醛氧化酶",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "aldehyde oxidase(=aldehyde dehydrogenase)",
+    "zh": "醛脱氢酶;醛氧化酶",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "aldehydrase(=xanthine oxidase)",
+    "zh": "黄嘌呤氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aldose reductase",
+    "zh": "醛糖还原酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline protease",
+    "zh": "碱性蛋白酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric",
+    "zh": "变构(象)的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric activation",
+    "zh": "变构活化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric control",
+    "zh": "别构控制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric effect",
+    "zh": "变构效应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric effector",
+    "zh": "别构效应剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric enzyme",
+    "zh": "变构酶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "allosteric inhibitor",
+    "zh": "变构抑制剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "allosteric model",
+    "zh": "空间变构模型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric site",
+    "zh": "变构部位",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "allosteric transition",
+    "zh": "变构转变；别构转换（由别构剂引起的蛋白质构象变化）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amine oxidase",
+    "zh": "胺氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aminoprotease",
+    "zh": "氨基蛋白酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aminotransferase",
+    "zh": "转氨酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amylase",
+    "zh": "淀粉酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amylolytic enzyme",
+    "zh": "淀粉(分解)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "animal amylase",
+    "zh": "动物淀粉酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anion activator",
+    "zh": "阴离子活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anodic inhibitor",
+    "zh": "阳极(溶解)抑制剂；阳极钝化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anti-activator",
+    "zh": "阻活剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antigum inhibitor",
+    "zh": "防胶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "arginine carboxylyase",
+    "zh": "精氨酸脱羧酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ascorbic acid oxidase",
+    "zh": "抗坏血酸氧化酶;维生素C氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "backmixing",
+    "zh": "逆向混合；回混；反混",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bare substrate",
+    "zh": "裸底材；纯净的底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Beckmann rearrangement",
+    "zh": "贝克曼重排作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Beckmann thermometer",
+    "zh": "贝克曼温度计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Bjorkman's lignin",
+    "zh": "磨木木素；贝克曼木素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Blackmar oil thief",
+    "zh": "布拉克马尔油样采集管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bleach activator",
+    "zh": "漂白活性剂；助漂剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blood amylase",
+    "zh": "血(含)淀粉酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bloom inhibitor",
+    "zh": "防喷霜剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blowing activator",
+    "zh": "发泡活性剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brass substrate",
+    "zh": "黄铜基材; 黄铜底料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brine corrosion inhibitor",
+    "zh": "盐水腐蚀缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Brockmann activity grade",
+    "zh": "布鲁克曼活性级别",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Brockmann activity scale",
+    "zh": "布鲁克曼活度值",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "carbon deposit inhibitor",
+    "zh": "碳沉积抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "carboxyltransferase",
+    "zh": "羧基转移酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalase",
+    "zh": "过氧化氢酶；触酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalase test",
+    "zh": "过氧化氢酶试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catechol oxidase",
+    "zh": "儿茶酚氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalyzing enzyme",
+    "zh": "催化酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cathodic inhibitor",
+    "zh": "阴极抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "caustic stained substrate",
+    "zh": "碱污染底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cellulolytic enzyme",
+    "zh": "纤维素(水解)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulosic substrate",
+    "zh": "纤维质底材",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cementitious substrate",
+    "zh": "水泥底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ceramic substrate",
+    "zh": "陶瓷基质",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain inhibitor",
+    "zh": "链抑制剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemiluminescence enhancer",
+    "zh": "化学发光增强剂 chemiluminescence enzyme-linked immunoassay (CLEIA)化学发光酶联免疫分析法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "choline dehydrogenase",
+    "zh": "胆碱脱氢酶choline ester 胆碱酯",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "choline oxidase",
+    "zh": "胆碱氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cholinephosphotransferase",
+    "zh": "转磷酸胆碱酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "citrate lyase",
+    "zh": "柠檬酸裂合酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cloned enzyme donor immunoassay",
+    "zh": "克隆酶给体免疫分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "clone enzyme immunoassay",
+    "zh": "克隆酶免疫分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coactivator",
+    "zh": "共活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coagulating enzyme",
+    "zh": "凝固酶 coal carbonization (=coal carbonizing) 煤碳化(作用); 煤干馏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coated substrate",
+    "zh": "涂布基材;贴面基材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coenzyme",
+    "zh": "辅酶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme I (NAD; Col; DPN)",
+    "zh": "辅酶I；烟酰胺腺嘌呤二核苷酸；二磷酸吡啶核苷酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme II (NADP; CoII; TPN)",
+    "zh": "辅酶II；烟酰胺腺嘌呤二核苷酸磷酸；三磷酸吡啶核苷酸",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme A(CoA)",
+    "zh": "辅酶A（药）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme Q",
+    "zh": "辅酶Q；泛醌",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme Q10",
+    "zh": "辅酶Q10（药）",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "coenzyme R(=vitamin H; biotin)",
+    "zh": "辅酶R；维生素H；生物素",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "cofactor",
+    "zh": "辅助因素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "color inhibitor for kerosene",
+    "zh": "灯油色泽稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "competitive enzyme linked immunosorbent assay",
+    "zh": "竞争酶联免疫吸附法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound film type inhibitor",
+    "zh": "复合膜型缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous flow enzyme detector",
+    "zh": "连续流动酶检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "copper (greening) inhibitor",
+    "zh": "铜抑制剂；防铜老化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper inhibitor",
+    "zh": "防铜老化剂；铜抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "corrosion inhibitor",
+    "zh": "缓蚀剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crock-meter (=crockmeter)",
+    "zh": "摩擦掉色测定器；耐摩擦牢度试验机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cure activator (",
+    "zh": "硫化)活性剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cytochrome oxidase (=indophenol oxidase)",
+    "zh": "靛酚氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deactivator",
+    "zh": "减活化剂；去活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dead-end inhibitor",
+    "zh": "终端抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decomposition inhibitor",
+    "zh": "分解阻化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "delayed-action activator",
+    "zh": "延迟剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "depolymerase",
+    "zh": "解聚酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "desmoenzyme",
+    "zh": "不溶酶；结合酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "determination of minimum inhibitory concentration",
+    "zh": "最低抑制浓度测定法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of plasminogen activated inhibitor",
+    "zh": "纤溶酶原激活抑制物测定",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of tissue plasminogen activator",
+    "zh": "组织型纤溶酶原激活物测定",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Dieckmann reaction",
+    "zh": "迪克曼反应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "digestive enzyme",
+    "zh": "消化酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimethylallyl transferase",
+    "zh": "二甲烯丙基转移酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disc enzyme electrophoresis",
+    "zh": "盘状酶电泳(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "DNA enzyme DNA",
+    "zh": "酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "DNA polymerase DNA",
+    "zh": "聚合酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drying inhibitor",
+    "zh": "阻干剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dyeing inhibitor",
+    "zh": "染色防胶剂（树脂的形成）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ekmolin",
+    "zh": "鱼素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "emulsion inhibitor",
+    "zh": "乳胶阻化剂；脱乳胶剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "endogenous inhibitor",
+    "zh": "内源性抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "enzyme activation",
+    "zh": "酶激活",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme activator",
+    "zh": "酶活化剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme activity",
+    "zh": "酶活性;酶活度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme activity unit",
+    "zh": "酶活性单位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme allosteric effect",
+    "zh": "酶的别构效应 enzyme-catalytic kinetic spectrophotometry 酶催化动力学分光光度法",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme-containing detergent",
+    "zh": "加酶洗涤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme detergent",
+    "zh": "加酶洗涤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme electrode",
+    "zh": "酶电极",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme electrophoresis",
+    "zh": "酶电泳",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme imitative polymer",
+    "zh": "类酶高分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme immunoassay",
+    "zh": "酶免疫分析法；酶免疫测定",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-immuno sensor",
+    "zh": "酶-免疫传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme inhibition",
+    "zh": "酶抑制",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme inhibitor",
+    "zh": "酶抑制剂",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme labeling",
+    "zh": "酶标记",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-labeled electrochemical immunoassay",
+    "zh": "酶标电化学免疫分析法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme like polymer",
+    "zh": "模拟酶高分子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-linked fluorescence immunoassay",
+    "zh": "酶联荧光免疫分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-linked immunosensor",
+    "zh": "酶联免疫传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-linked immunosensor of α-fetoprotein α-",
+    "zh": "甲胎蛋白酶免疫传感器",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-linked immunosorbent assay",
+    "zh": "酶联免疫吸附测定；酶联免疫分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme multiplied immunoassay technique",
+    "zh": "酶放大免疫分析技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme precursor",
+    "zh": "酶原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme preparation",
+    "zh": "酶制剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme radiochemical assay",
+    "zh": "酶的放射化学测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme receptor assay",
+    "zh": "酶受体分析",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme selective detector",
+    "zh": "酶选择性检测器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme sensor",
+    "zh": "酶传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme steeping",
+    "zh": "酶浸渍退浆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "enzyme-substrate complex",
+    "zh": "酶-底物复合体",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme substrate electrode",
+    "zh": "酶底物电极；酶电极",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "enzyme system",
+    "zh": "酶系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "epoxidase",
+    "zh": "环氧酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy glass substrate",
+    "zh": "环氧玻璃基板",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy substrate",
+    "zh": "环氧树脂底材(基底)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ether inhibitor",
+    "zh": "醚抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extrusion coating(=substrate extrusion coating)",
+    "zh": "挤压涂装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Eykman equation",
+    "zh": "埃克曼方程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fatty acid peroxidase",
+    "zh": "脂(肪)酸过氧物酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fermentation inhibitor",
+    "zh": "发酵抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film type inhibitor (",
+    "zh": "薄)膜式缓蚀剂；膜式防锈剂；缓蚀(防锈)膜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flammable inhibitor",
+    "zh": "发火抑止剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash rust inhibitor",
+    "zh": "闪锈抑制剂；锈抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flex-cracking inhibitor",
+    "zh": "抗挠曲龟裂剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flexible substrate",
+    "zh": "挠曲性底材；柔性底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Flory-Stockmayer's theory",
+    "zh": "弗洛里-施托克迈尔理论（关于高分子凝胶化的理论）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "foamer inhibitor",
+    "zh": "泡沫抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam inhibitor",
+    "zh": "抑泡剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fouling inhibitor",
+    "zh": "污垢抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fungous enzyme",
+    "zh": "霉菌酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas-fading inhibitor",
+    "zh": "气(烟)熏褪色抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gelignite",
+    "zh": "葛里炸药；吉里那特（硝化甘油、硝化纤维、 gel inhibitor 凝胶抑制剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycerophosphatase",
+    "zh": "甘油磷酸酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grain growth inhibitor",
+    "zh": "晶粒生长抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "graphitizable substrate",
+    "zh": "可石墨化(的)基质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gum inhibitor",
+    "zh": "胶质抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat ageing inhibitor",
+    "zh": "防热老化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-stable inhibitor",
+    "zh": "热稳定剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterogeneous enzyme immunoassay",
+    "zh": "非均相酶免疫分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexokinase",
+    "zh": "己糖激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexosediphosphatase",
+    "zh": "己糖二磷酸(酯)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hexoseisomerase",
+    "zh": "己糖异构酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hexosephosphate dehydrogenase",
+    "zh": "磷酸己糖脱氢酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "homogeneous enzyme immunoassay",
+    "zh": "均相酶免疫分析",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "honeycomb substrate",
+    "zh": "蜂窝状载体",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrate inhibitor",
+    "zh": "水化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrolytic enzyme",
+    "zh": "水解酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ignition inhibitor",
+    "zh": "着火抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "immobilized enzyme",
+    "zh": "固定化酶；固相酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inactivator",
+    "zh": "钝化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indophenol oxidase(=cytochrome oxidase)",
+    "zh": "靛酚氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induced enzyme",
+    "zh": "诱导酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inhibitor",
+    "zh": "阻聚剂*；抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor constant",
+    "zh": "抑制剂常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor content",
+    "zh": "抑制剂含量",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor dye",
+    "zh": "抑制剂染料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor efficiency",
+    "zh": "腐蚀抑制效率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor of oxidation",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor of polymerization",
+    "zh": "聚合阻止剂；阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor response",
+    "zh": "抑制剂感应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor solution",
+    "zh": "抑制剂溶液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor susceptibility(=inhibitor response)",
+    "zh": "抑制剂感应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitor sweetening",
+    "zh": "抑制剂脱硫(法)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory concentration",
+    "zh": "抑制浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory effect",
+    "zh": "抑制作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory phase",
+    "zh": "抑制相",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inhibitory quotient",
+    "zh": "抑菌商数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "inorganic inhibitor",
+    "zh": "无机缓蚀剂；无机防腐蚀剂；无机防锈剂；无机抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "insolubilized enzyme",
+    "zh": "固相酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insoluble enzyme",
+    "zh": "固相酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irreversible inhibitor",
+    "zh": "不可逆抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoamylase",
+    "zh": "异淀粉酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isobutyl coenzyme",
+    "zh": "异丁基辅酶",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "isomerase",
+    "zh": "异构糖",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ketoglutaric dehydrogenase",
+    "zh": "酮戊二酸脱氢酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinase",
+    "zh": "激酶；致活酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "labeled substrate",
+    "zh": "标记底物；标记(酶)作用物；标记基体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "labelled substrate",
+    "zh": "标记底物；标记(酶)作用物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light inhibitor",
+    "zh": "光阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lysokinase",
+    "zh": "溶纤维蛋白激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "marker enzyme",
+    "zh": "标志酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal corrosion inhibitor",
+    "zh": "金属腐蚀抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal deactivator",
+    "zh": "金属钝化剂；金属减活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metallic activator(=metallic promoter)",
+    "zh": "金属性活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metallic promoter(=metallic activator)",
+    "zh": "金属性活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metalloenzyme",
+    "zh": "金属酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methylene blue polymerization inhibitor",
+    "zh": "亚甲基蓝阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methylmalonyl-CoA isomerase",
+    "zh": "甲基丙二酸单酰 CoA 异构酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "methyl transferase",
+    "zh": "转甲基酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "minimal inhibitory concentration",
+    "zh": "最小抑菌浓度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "modification enzyme",
+    "zh": "改性酶：修饰酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "monoamine oxidase",
+    "zh": "单胺氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mould inhibitor",
+    "zh": "防霉剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multienzyme",
+    "zh": "多酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multienzyme system",
+    "zh": "多酶系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multifunctional enzyme",
+    "zh": "多功能酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple enzyme system",
+    "zh": "多酶体系",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural inhibitor(=natural oxidation inhibitor)",
+    "zh": "天然抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural oxidation inhibitor",
+    "zh": "天然抗氧剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Newtonian flow equation for tackmeter",
+    "zh": "黏性计的牛顿流动方程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "odor inhibitor",
+    "zh": "恶臭抑制剂；臭气清除剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oil-soluble inhibitor",
+    "zh": "油溶性抗氧化剂;油溶性缓蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic corrosion inhibitor",
+    "zh": "有机阻蚀剂；有机防锈剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic inhibitor",
+    "zh": "有机抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "organic substrate",
+    "zh": "有机基质;有机物底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orthophosphate acetyltransferase (",
+    "zh": "正)磷酸乙酰基转移酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidase(=oxydase)",
+    "zh": "氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation inhibitor(=oxidation retarder)",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation retarder(=oxidation inhibitor)",
+    "zh": "氧化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizing enzyme",
+    "zh": "氧化酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxido-reductase",
+    "zh": "氧化还原酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxoepistephamiersine",
+    "zh": "氧代表千金藤默星碱 9-oxoferruginol(=sugiol) 9-氧代铁锈酚 α-oxoglutarate α-氧代戊二酸盐(酯) 2-oxoglutarate amiontransferase 2-氧代戊二酸氨基转移酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxydase(=oxidase)",
+    "zh": "氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pancreatic enzyme",
+    "zh": "胰酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "peroxidase",
+    "zh": "过氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peroxidase-anti-peroxidase technique",
+    "zh": "过氧化酶-抗过氧化酶技术",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenol oxidase",
+    "zh": "酚氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phosphatase",
+    "zh": "磷酸(酯)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphate acetyltransferase",
+    "zh": "磷酸乙酰基转移酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phospholipase",
+    "zh": "磷脂酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pickling inhibitor",
+    "zh": "酸蚀抑制剂；防酸蚀剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piezo-electric enzyme sensor",
+    "zh": "压电酶传感器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plastic viscosity equation on tackmeter",
+    "zh": "黏性计的塑性黏度方程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plugging inhibitor",
+    "zh": "防堵塞剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pockmarking",
+    "zh": "麻点",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polar activator",
+    "zh": "极性活化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "poly (A) polymerase",
+    "zh": "多(聚)腺苷酸聚合酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyase",
+    "zh": "聚合酶; 多糖酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerase",
+    "zh": "聚合酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymerase chain reaction(PCR)",
+    "zh": "聚合酶链式反应；PCR 扩增法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymerization activator",
+    "zh": "聚合活化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymerization inhibitor",
+    "zh": "阻聚剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer-substrate interaction",
+    "zh": "聚合物-底物相互作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer substrate ion exchanger",
+    "zh": "聚合物基质离子交换剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polynucleotide ligase",
+    "zh": "多核苷酸连接酶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polynucleotide nucleotidyltransferase",
+    "zh": "多核苷酸转核苷酰酶；多核苷酸磷酸化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polysaccharase(=polyase)",
+    "zh": "多糖酶；聚合酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "potassium hypermanganate",
+    "zh": "高锰酸钾；灰锰养（俗） KMnO₄",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pour inhibitor(=pour point depressant)",
+    "zh": "倾点下降剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "precipitating inhibitor",
+    "zh": "沉淀抑制剂；阻沉剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pre-enzyme",
+    "zh": "前体酶；酶原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proenzyme",
+    "zh": "酶原",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "prosthetic group",
+    "zh": "辅基",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "protective enzyme",
+    "zh": "防护酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "protein kinase",
+    "zh": "蛋白激酶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "proteolytic enzyme",
+    "zh": "蛋白(水解)酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyruvate dehydrogenase",
+    "zh": "丙酮酸脱氢酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyruvate kinase",
+    "zh": "丙酮酸激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyruvate oxidase",
+    "zh": "丙酮酸氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyruvate phosphokinase",
+    "zh": "丙酮酸(磷酸)激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyruvic dehydrogenase(=pyruvic oxidase)",
+    "zh": "丙酮酸脱氢酶；丙酮酸氧化酶",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "pyruvic oxidase(=pyruvic dehydrogenase)",
+    "zh": "丙酮酸脱氢酶；丙酮酸氧化酶",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "rackman",
+    "zh": "油桶管理员",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation damage inhibitor",
+    "zh": "防放射线剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactivator",
+    "zh": "再生器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reductase",
+    "zh": "还原酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reduction inhibitor agent",
+    "zh": "还原抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "replicative enzyme",
+    "zh": "复制酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversed transcriptive enzyme",
+    "zh": "逆转录酶；反转录酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible inhibitor",
+    "zh": "可逆抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "riboflavin kinase",
+    "zh": "核黄素激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ribo (nucleo) tide",
+    "zh": "核(糖核)苷酸 3-ribonucleotide phosphohydrolase 3-核苷酸磷酸水解酶；3-核苷酸酶",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Rice-Ramsperger-Kassel-Marcus theory RRKM",
+    "zh": "理论*(反应动力学理论)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "RNA polymerase RNA",
+    "zh": "聚合酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rust inhibitor",
+    "zh": "抗腐蚀添加剂；防锈剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "scale inhibitor",
+    "zh": "阻垢剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "serolipase",
+    "zh": "血清脂酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "silica-gel substrate ion exchanger",
+    "zh": "硅胶基质离子交换剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slackmelt resin",
+    "zh": "半熔树脂 （熔化后仍然是部分可溶）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sludge inhibitor(=sludge preventive)",
+    "zh": "防渣剂；淤渣生成抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sludge preventive(=sludge inhibitor)",
+    "zh": "防渣剂；淤渣生成抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soil redeposition inhibitor",
+    "zh": "污垢再附着抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "solid substrates room temperature phosphorimetry",
+    "zh": "固体基质室温磷光法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soot inhibitor",
+    "zh": "烟灰抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "static inhibitor",
+    "zh": "静电消除剂；抗静电剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate",
+    "zh": "底物;基质;载体;固定液",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate coating",
+    "zh": "底材涂装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate conditions",
+    "zh": "底材状态；被涂物状态",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate constant",
+    "zh": "底物常数；基质常数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate extrusion coating(=extrusion coating)",
+    "zh": "挤压涂装",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate labeled immunoassay",
+    "zh": "底物标记免疫分析法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate material",
+    "zh": "基质材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate nature",
+    "zh": "底材性质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate pollution",
+    "zh": "底质污染",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate specificity",
+    "zh": "底物特异性；基质专一性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate surface",
+    "zh": "底材表面；被涂物表面；基材表面",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate treatment",
+    "zh": "底材处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate web",
+    "zh": "基材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "substrate wetting agent",
+    "zh": "底材润湿助剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "succinate-acetoacetate CoA transferase",
+    "zh": "琥珀酸-乙酰乙酰 CoA 转移酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "succinic oxidase (=succinoxidase)",
+    "zh": "琥珀酸氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "succinoxidase (=succinic oxidase)",
+    "zh": "琥珀酸氧化酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfate adenylyl transferase",
+    "zh": "硫酸腺苷酰转移酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfate transferase",
+    "zh": "硫酸转移酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "supporting substrate",
+    "zh": "基材；底材",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tackmeter",
+    "zh": "黏性试验机；黏合性试验机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tarnish inhibitor",
+    "zh": "晦暗抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrahydrofolate dehydrogenase",
+    "zh": "四氢叶酸脱氢酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thymine deoxyriboside kinase",
+    "zh": "脱氧胸苷激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tissue plasminogen activator",
+    "zh": "组织血纤维蛋白溶酶原激活剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transferase",
+    "zh": "转移酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trimethylamine oxidase",
+    "zh": "三甲胺氧化酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "turnover number",
+    "zh": "转换数*；周转率;酶变率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uridine diphosphate reductase",
+    "zh": "尿苷二磷酸还原酶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "urokinase",
+    "zh": "尿激酶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "valine aminotransferase",
+    "zh": "缬氨酸转氨酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor corrosion inhibitor",
+    "zh": "蒸气(汽)腐蚀抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor phase inhibitor",
+    "zh": "气相(氧化)抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vapor-pressure inhibitor",
+    "zh": "蒸气(汽)压抑低剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vegetable lipase",
+    "zh": "植物(解)脂酶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization activator",
+    "zh": "硫化活化(性)剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water emulsion inhibitor",
+    "zh": "水乳化抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water-insoluble gum inhibitor",
+    "zh": "水不溶性胶质抑制剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Wood-Werkmans'reaction",
+    "zh": "伍德-瓦克曼氏反应（生物体内丙酮酸到琥珀酸的反应）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "workmanship",
+    "zh": "手艺；技术;精工",
+    "role": "primary",
+    "confidence": 2.0
+  }
+]

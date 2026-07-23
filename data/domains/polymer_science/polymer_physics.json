@@ -1,0 +1,830 @@
+[
+  {
+    "en": "accumulative crystallization",
+    "zh": "聚集结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "after-crystallization",
+    "zh": "后结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "banded spherulite",
+    "zh": "环带球晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "batch crystallization",
+    "zh": "分批结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binodal (",
+    "zh": "有)双节的；双结点的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "binodal solubility curve",
+    "zh": "双结点溶解度曲线binode ;双结点;双阳极的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk crystallization",
+    "zh": "大量结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chain conformation",
+    "zh": "链构象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chain entanglement",
+    "zh": "链缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemicrystallization",
+    "zh": "化学结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chloroform of crystallization",
+    "zh": "结晶氯仿",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cocrystallization",
+    "zh": "共结晶*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of orientation-induced crystallization rate",
+    "zh": "取向诱导的结晶速率系数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cohesional entanglement",
+    "zh": "凝聚缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold crystallization",
+    "zh": "冷晶化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "critical entanglement molecular weight",
+    "zh": "临界缠结分子量 critical equation 临界方程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystalline lamellae",
+    "zh": "晶态薄层；片晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crystallization",
+    "zh": "结晶*；晶化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization effect",
+    "zh": "结晶效应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization heat",
+    "zh": "结晶热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization-inhibited rubber",
+    "zh": "抑制结晶橡胶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization initiation time",
+    "zh": "结晶诱导期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization interval",
+    "zh": "结晶间歇",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization kinetic parameter",
+    "zh": "结晶动力(学)参数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization kinetics",
+    "zh": "结晶动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization modifier",
+    "zh": "结晶调节剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization parameter",
+    "zh": "结晶参数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization point",
+    "zh": "结晶点；结晶温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization rate",
+    "zh": "结晶速率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization rate characteristic",
+    "zh": "结晶速率特性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization sensitive band",
+    "zh": "结晶敏感谱带",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization temperature",
+    "zh": "结晶温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization vat",
+    "zh": "结晶桶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallization velocity",
+    "zh": "结晶速度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "decrystallization",
+    "zh": "解晶作用",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "determination of water of crystallization",
+    "zh": "结晶水定量分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "disentanglement",
+    "zh": "解开；解缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "distribution function of chain conformations",
+    "zh": "链构象的分布函数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effective entanglement density",
+    "zh": "有效缠结密度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electrocrystallization",
+    "zh": "电结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "end-to-end distance",
+    "zh": "末端距*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "end-to-end distance of polymer chain",
+    "zh": "高分子链的末端距",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "entanglement",
+    "zh": "缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entanglement crosslink",
+    "zh": "缠结交联点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entanglement network",
+    "zh": "缠结分子网",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "entanglement of polymer chain",
+    "zh": "高分子链的缠结",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "epitaxial crystallization",
+    "zh": "外延结晶；附生结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extended-chain lamellae",
+    "zh": "伸直链片晶；伸直链晶层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibrillar crystallization",
+    "zh": "原纤结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fibrous crystallization",
+    "zh": "纤维状结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Flory-Huggins theory",
+    "zh": "弗洛里-哈金斯理论flooring ;地面材料;地面",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Flory dynamometer",
+    "zh": "弗洛里常数",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Flory-Fox constant",
+    "zh": "弗洛里-福克斯常数",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "Flory-Huggins equation",
+    "zh": "弗洛里-哈金斯方程（有关高分子溶液的统计热力学理论所推导的方程式）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flory temperature(=θ-temperature)",
+    "zh": "弗洛里温度；θ温度",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "flow-induced crystallization",
+    "zh": "流动诱导结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "folded chain lamellae",
+    "zh": "折叠链晶片",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "forced crystallization",
+    "zh": "强制结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional crystallization",
+    "zh": "分级结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractional wax crystallization",
+    "zh": "石蜡分步结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fractionation crystallization",
+    "zh": "分级结晶法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fringed-lamellae structural model",
+    "zh": "缨状片晶结构模型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grain of crystallization",
+    "zh": "结晶中心；晶核；晶籽",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hal-crystallization time",
+    "zh": "半结晶期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "half-time of crystallization",
+    "zh": "半结晶期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Haüy's law of crystallization",
+    "zh": "霍伊结晶定律",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of crystallization",
+    "zh": "结晶热",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "helical chain conformation",
+    "zh": "螺旋形链构象",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hydroentanglement",
+    "zh": "水刺；水力缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hydrothermal crystallization",
+    "zh": "水热结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "induction period of crystallization",
+    "zh": "结晶诱导期；晶化诱导期",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial crystallization",
+    "zh": "工业结晶; 大量结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intertangled lamellae",
+    "zh": "互相缠结薄层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intrinsic viscosity",
+    "zh": "特性黏数*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intrinsic viscosity number",
+    "zh": "特性黏数",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "intrinsic viscosity of polymer",
+    "zh": "聚合物特性黏度（聚合物由分子量决定的黏度）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isothermal crystallization",
+    "zh": "等温结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "kinetics of crystallization",
+    "zh": "结晶(化)动力学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "leach recrystallization process",
+    "zh": "沥滤重结晶法；浸沥重结晶法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limit crystallization temperature",
+    "zh": "极限结晶温度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "limiting inherent viscosity(=intrinsic viscosity)",
+    "zh": "特性黏数；固有黏度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "macromolecular entanglement",
+    "zh": "大分子缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mass crystallization",
+    "zh": "大量结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mean square end-to-end distance",
+    "zh": "均方末端距",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mean square radius of gyration",
+    "zh": "均方旋转半径",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "melt crystallization",
+    "zh": "熔体结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microcrystallization analysis",
+    "zh": "显微结晶分析",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microphase separation",
+    "zh": "微相分离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "molecular entanglement",
+    "zh": "分子缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiple recrystallization",
+    "zh": "多级重结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-isothermal crystallization",
+    "zh": "非等温结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "orientation crystallization",
+    "zh": "取向结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oriented crystallization",
+    "zh": "取向结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percrystallization",
+    "zh": "透析结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "periodic crystallization",
+    "zh": "反复结晶；间歇结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phase separation",
+    "zh": "相分离；析相作用",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phase separation fluoroimmunoassay",
+    "zh": "相分离荧光免疫分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phase separation model",
+    "zh": "析相模型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phase separation temperature",
+    "zh": "析相温度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "physical entanglement",
+    "zh": "物理缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "piezocrystallization",
+    "zh": "加压结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer physics",
+    "zh": "高分子物理；聚合物物理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polymer spherulite",
+    "zh": "高聚物球晶",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "post crystallization",
+    "zh": "后结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pressurized crystallization apparatus",
+    "zh": "加压结晶装置",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary crystallization",
+    "zh": "主结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quiescent nonisothermal crystallization",
+    "zh": "静态非等温结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radius of gyration",
+    "zh": "回转半径",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random coil",
+    "zh": "无规线团",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random coiling molecule",
+    "zh": "无规线团状分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random coiling polymer",
+    "zh": "无规卷曲聚合物",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random coil model",
+    "zh": "无规线团模型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "random coil molecule",
+    "zh": "无规线团形(高)分子",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "recrystallization",
+    "zh": "再结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "recrystallization zone",
+    "zh": "再结晶区",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "repeated crystallization",
+    "zh": "反复结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ringed spherulite",
+    "zh": "环带球晶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "root-mean-square end-to-end distance",
+    "zh": "均方根末端距",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubber elasticity",
+    "zh": "橡皮弹性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "secondary crystallization",
+    "zh": "后期结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second order crystallization",
+    "zh": "二级结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "seeded crystallization",
+    "zh": "接种结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "specific intrinsic viscosity",
+    "zh": "比特性黏度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spherulite",
+    "zh": "球晶*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherulite radial growth rate",
+    "zh": "球晶辐向生长速率",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherulite rock",
+    "zh": "球粒岩",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spherulites",
+    "zh": "球状微结晶；球晶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spinodal decomposition",
+    "zh": "亚稳相分离",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spontaneous crystallization",
+    "zh": "自发结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "spray crystallization",
+    "zh": "喷雾结晶",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stack of lamellae",
+    "zh": "片晶叠层；片晶堆垛",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tank crystallization",
+    "zh": "槽式结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "topological entanglement",
+    "zh": "拓扑缠结",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transcrystallization",
+    "zh": "穿晶(现象); 横结晶(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "trans-crystallization structure",
+    "zh": "晶变结构",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transition parameter in oriented crystallization",
+    "zh": "取向结晶作用中转变参数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unperturbed end-to-end distance",
+    "zh": "无扰末端距",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water of crystallization",
+    "zh": "结晶水",
+    "role": "secondary",
+    "confidence": 3.0
+  }
+]

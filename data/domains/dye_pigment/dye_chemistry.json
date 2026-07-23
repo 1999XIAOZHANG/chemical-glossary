@@ -1,0 +1,5552 @@
+[
+  {
+    "en": "absorptive silica pigment",
+    "zh": "吸收性硅类填充剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "academic pigment mixture",
+    "zh": "非现实混合颜料；学术的理论混合颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acetate dye",
+    "zh": "醋酯染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "acicular pigment",
+    "zh": "针状颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid anthraquinone blue",
+    "zh": "酸性蒽醌蓝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid azo-color",
+    "zh": "酸性偶氮染料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "acid azo-dye",
+    "zh": "酸性偶氮染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "acid azo pigment",
+    "zh": "酸性偶氮颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid light dyestuff",
+    "zh": "酸性耐光染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "acid mordant dye",
+    "zh": "酸性媒染染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "acid pigment",
+    "zh": "酸性颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acridine dye",
+    "zh": "叶啶染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "active pigment",
+    "zh": "活性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acylaminoanthraquinones",
+    "zh": "酰氨基蒽醌类化合物",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adjective dye",
+    "zh": "间接染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "alizarine(=alizarin; 1,2-dihydroxyanthraquinone)",
+    "zh": "茜素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alizarine dyestuff",
+    "zh": "茜素染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "alkali fastness",
+    "zh": "抗碱坚牢度；抗碱性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkaline dye",
+    "zh": "碱性染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "alkaline-sensitive colored pigment",
+    "zh": "碱敏性彩色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "all-pigment point",
+    "zh": "全颜料点",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "all-round fastness",
+    "zh": "全面坚牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "amino-nitrile",
+    "zh": "氨基腈 2-amino-1-nitro-9,10-anthraquinone 2-氨基-1-硝基-9,10-蒽醌 4-amino-2-nitro-diphenylamine 4-氨基-2-硝基二苯胺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amino tri-arylmethane dye",
+    "zh": "氨基取代的三芳甲烷染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "amphiphathic fluorescent dye",
+    "zh": "两亲性荧光染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anatase pigmentary",
+    "zh": "颜料级锐钛型(二氧化钛)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "aniline black dyestuffs",
+    "zh": "苯胺黑染料；苯胺黑类染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "aniline dye",
+    "zh": "苯胺染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "aniline dyeing",
+    "zh": "苯胺染料染色(法)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aniline dyestuff",
+    "zh": "苯胺染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "animal dyes",
+    "zh": "动物染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anion-active dye",
+    "zh": "阴离子活性染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anionic dye",
+    "zh": "阴离子染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "anionic dyestuff",
+    "zh": "阴离子染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "anionic pigment dispersant",
+    "zh": "阴离子型颜料分散剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anthraquinone",
+    "zh": "蒽醌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthraquinone aldehyde",
+    "zh": "蒽醌甲醛",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthraquinone blue",
+    "zh": "蒽醌蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthraquinone-2,6-disulfonic acid",
+    "zh": "蒽醌-2,6-二磺酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthraquinone dye",
+    "zh": "蒽醌染料",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "anthraquinone sulfonic acid",
+    "zh": "蒽醌磺酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "anthragallol(=1,2,3-trihydroxyanthraquinone) 1,2,3-",
+    "zh": "三羟基蒽醌；蒽榕酚",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "antihalation dye",
+    "zh": "抗晕染料（照相）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "argon ion-pumped tunable ring dye laser",
+    "zh": "氩离子泵浦可调环形染料激光器",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Aridye pigment padding Aridye",
+    "zh": "颜料轧染法；颜料树脂固染法",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "arylazobenzthiazole dyes",
+    "zh": "芳基偶氮苯并噻唑染料 4-arylazo-5-pyrazolone 4-芳基偶氮-5-吡唑酮",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arylazothiazole dyes",
+    "zh": "芳基偶氮噻唑染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "arylazothiophene dyes",
+    "zh": "芳基偶氮噻吩染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric (temperature) overflow dyeing machine",
+    "zh": "常温溢流染色机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auripigment",
+    "zh": "金色料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "azine dyes",
+    "zh": "吖嗪染料；对氮杂蒽型染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azo-dye",
+    "zh": "偶氮染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "azo dyeing",
+    "zh": "偶氮(染料)染色法",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "azo dyestuff",
+    "zh": "偶氮染料",
+    "role": "primary",
+    "confidence": 10.0
+  },
+  {
+    "en": "azoic color(=azoic dye)",
+    "zh": "偶氮染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "azoic dye(=azoic colour)",
+    "zh": "偶氮染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "azoic dyestuff",
+    "zh": "偶氮染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "azomethine dyes",
+    "zh": "偶氮甲碱染料；甲亚胺染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azo pigment",
+    "zh": "偶氮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "backing dye",
+    "zh": "防光晕染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Baeyer indigo synthesis",
+    "zh": "拜尔靛合成法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "basic dye",
+    "zh": "碱性染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "basic dyeing",
+    "zh": "碱性染色（染）",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "basic dye pigment",
+    "zh": "碱性染料性颜料；碱性有机颜料",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "basic dyestuff",
+    "zh": "碱性染料",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "batik dyeing",
+    "zh": "蜡染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beam dyer",
+    "zh": "经轴染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "beater dyeing",
+    "zh": "打浆机(中)染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bedye",
+    "zh": "着色；施彩色;染（色）;漆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "benzaminic acid",
+    "zh": "氨基苯甲酸 NH2C6H4COOH 5-benzaminoanthraquinone-2-sulfonic acid 5-苯甲酰氨基蒽醌-2-磺酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "benzo-indigo-blue",
+    "zh": "苯并靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "benzoxanthene dye",
+    "zh": "苯并咕吨染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bichromated dye (stuff)",
+    "zh": "重铬酸盐处理染料；铬(处理)染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "bile pigment(=gall pigment)",
+    "zh": "胆汁色素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black dyes",
+    "zh": "黑色染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black iron oxide pigment",
+    "zh": "黑色氧化铁颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "black pigment",
+    "zh": "炭黑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bleaching fastness",
+    "zh": "漂白坚牢度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bleeding of dye",
+    "zh": "染料印流",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "blue dyes",
+    "zh": "蓝色染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blue pigment",
+    "zh": "蓝色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bobbin dyeing",
+    "zh": "筒染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "body pigment",
+    "zh": "底质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "boiling fastness",
+    "zh": "耐煮性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bottom dyeing",
+    "zh": "底层染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brilliant indigo (",
+    "zh": "还原类)亮靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bromindigo",
+    "zh": "溴靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "brown dyes",
+    "zh": "褐染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "brush dyeing",
+    "zh": "刷染法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bundle dyeing",
+    "zh": "绞纱染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cadmium pigment",
+    "zh": "镉颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cadmium red (=selenium cadmiun pigment)",
+    "zh": "硒镉颜料；镉红",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcined pigment",
+    "zh": "煅烧颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcium ethoxide",
+    "zh": "乙醇钙 Ca(OC H ) calcium ethylate 乙醇钙 Ca(OC H ) calcium ethylsulfate 乙基硫酸钙 CaSO (C H ) calcium-exchanged silica pigment 钙离子交换型硅颜料；钙交换硅颜料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "calcium plumbate-coated pigment",
+    "zh": "铅酸钙包核颜料; 包核铅酸钙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calcium plumbate pigment",
+    "zh": "铅酸钙颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbazole dye",
+    "zh": "咔唑染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "carrier dyeing",
+    "zh": "载体染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cascade dyeing",
+    "zh": "冲流染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cation-dyeable",
+    "zh": "阳离子染料可染的",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cationic thiazine dyestuff",
+    "zh": "阳离子噻嗪颜料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "cationic dye",
+    "zh": "阳离子染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cationic dyeable variant",
+    "zh": "阳离子染料可染型改性体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cationic dyestuff",
+    "zh": "阳离子染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "cationic pigment dispersant",
+    "zh": "阳离子型颜料分散剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cellulose pigment finish",
+    "zh": "有色硝纤涂饰剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cement colorant",
+    "zh": "水泥着色剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemically active pigment",
+    "zh": "化学活性颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical-resistant pigment",
+    "zh": "耐化学(腐蚀)颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorinated copper phthalocyanine",
+    "zh": "氯化酞菁酮",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chlorazol dyes",
+    "zh": "氯唑(类)染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chlorine fastness",
+    "zh": "耐氯漂色牢度；耐氯牢度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chloroanthranilic acid",
+    "zh": "氯代氨茴酸；氯代邻氨基苯甲酸 ClC₆H₃(NH₂)COOH 1-chloroanthraquinone 1-氯蒽醌 C₆H₄(CO)₂C₆H₃Cl 2-chloroanthraquinone 2-氯蒽醌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chloropyrimidine dye",
+    "zh": "氯间二氮(杂)苯类染料；氯嘧啶类染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chromate pigment",
+    "zh": "铬酸盐颜料; 铬系颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromatic dyeing",
+    "zh": "袖笼绞纱染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrome dye",
+    "zh": "铬媒染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chrome dyeing",
+    "zh": "铬染法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chrome dyestuff",
+    "zh": "铬(处理)染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "chrome pigment",
+    "zh": "铬颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chromic dye",
+    "zh": "铬(处理)染料（染）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "chromic dyeing",
+    "zh": "铬染(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "circulating type hank dyeing machine",
+    "zh": "循环式绞纱染色机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cis-thioindigo",
+    "zh": "顺式硫靛(蓝)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cloudy dyeing",
+    "zh": "染色云斑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coated pigment",
+    "zh": "包核颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coated silica pigment",
+    "zh": "碱式硅硫酸铅白（别名）；碱式硫酸铅包(二氧化硅)核颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coating pigment",
+    "zh": "涂料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cobalt pigment",
+    "zh": "钴颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cold pad-batch dyeing",
+    "zh": "冷轧卷堆染色法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "colorant",
+    "zh": "色料；着色剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color fastness (",
+    "zh": "颜)色坚牢度; 颜色耐久性",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "coloring pigment",
+    "zh": "颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "color-reflecting interference pigment",
+    "zh": "色反射干涉颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "colo(u)r fastness",
+    "zh": "染色牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colour fastness test",
+    "zh": "颜色坚牢度试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colour fastness tester for light and weather",
+    "zh": "日晒(气候)色牢度仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colour fastness tester to ironing",
+    "zh": "熨烫色牢度仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "colo(u)r fastness to laundering",
+    "zh": "耐机械洗涤(色)牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "commercial type organic pigment",
+    "zh": "商品有机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "complex dyestuff",
+    "zh": "络合染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "complex subtractive colorant mixture",
+    "zh": "复杂减色剂混合物",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "composite pigment",
+    "zh": "复合颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "condensed azo-pigment",
+    "zh": "缩合偶氮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous dyeing",
+    "zh": "连续染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous pad dyeing range",
+    "zh": "连续轧染联合机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cop dyeing",
+    "zh": "管纱染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper phthalocyanine",
+    "zh": "铜酞菁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper phthalocyanine blue",
+    "zh": "铜酞菁蓝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "copper phthalocyanine green",
+    "zh": "铜酞菁绿",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "core pigment",
+    "zh": "包核颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "corrosion inhibitive pigment",
+    "zh": "腐蚀抑制性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cotton dye",
+    "zh": "棉染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "coupling dyestuff",
+    "zh": "偶合染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "CPVC of multicomponent pigment system",
+    "zh": "多成分(组分)的颜料体系的临界颜料体积浓度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "critical pigment volume concentration (CPVC)",
+    "zh": "临界颜料体积浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "crocking fastness",
+    "zh": "颜色抗摩擦牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cyanine dyes",
+    "zh": "花青染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cyanuric dye",
+    "zh": "氰尿染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "daylight fluorescent pigment",
+    "zh": "白昼荧光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "decolorant",
+    "zh": "脱色剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "delustering pigment",
+    "zh": "消光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "depigmentation",
+    "zh": "脱色素(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "desensitizing dye",
+    "zh": "减感染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "developed dyes",
+    "zh": "显色染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "developing dye",
+    "zh": "显色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diameter of pigment agglomerate",
+    "zh": "颜料附聚物直径",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diameter of primary pigment particle",
+    "zh": "原始颜料粒子直径",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diamine dyes（",
+    "zh": "复） 双胺染料（德国 Cassella 厂偶氮染料商名）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dianiline dye",
+    "zh": "双苯胺染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dianthraquinone",
+    "zh": "联(二)蒽醌 (C₆H₄COC₆H₄C=)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diarylamines",
+    "zh": "二芳基胺(类) 1,4-diarylaminoanthraquinone 1,4-二芳氨基蒽醌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diazo color",
+    "zh": "重氮染料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "diazo indigo blue",
+    "zh": "重氮靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diazotable dye",
+    "zh": "重氮染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "diazotizing dyes(=diazotizing colours)",
+    "zh": "重氮染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dichroic dyestuff",
+    "zh": "二向色染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "differential dyeing",
+    "zh": "差异染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "diimidazole-anthraquinone polymer fibre",
+    "zh": "二咪唑-蒽醌聚合物纤维",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "diketo pyrrolo-pyrrole pigment(DPP pigment)",
+    "zh": "二酮基吡咯并吡咯颜料(红色耐高温有机颜料)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimerising dye",
+    "zh": "二聚染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "N,N'-dimethyl-indigo N,N'-",
+    "zh": "二甲基靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dioxazine violet pigment",
+    "zh": "二噁嗪紫颜料（无金属杂环颜料之一，耐候性极优）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "diphenyl methane dye",
+    "zh": "二苯甲烷染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "direct cotton dye(=substantive azo dye)",
+    "zh": "直接偶氮染料；直接棉染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "direct dye(=salt dye;substantive dye)",
+    "zh": "直接染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "direct dyeing",
+    "zh": "直接染色",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "direct dyestuffs",
+    "zh": "直接染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "disazo dyes",
+    "zh": "双偶氮染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "dischargeable color(=dischargeable dye)",
+    "zh": "拔染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dischargeable dye(=dischargeable color)",
+    "zh": "拔染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "discharging color(=discharging dye)",
+    "zh": "拔染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "discharging dye(=discharging color)",
+    "zh": "拔染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dispersed dyestuff",
+    "zh": "分散(性)染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dispersed sulfur dye",
+    "zh": "分散硫化染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "disperse dyes",
+    "zh": "分散染料",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "disperse dyestuffs",
+    "zh": "分散染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "dope dye",
+    "zh": "纺丝原液染料;调色染料（用量极少，用以调整色相）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dope-dyed fiber",
+    "zh": "着色纤维",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double-bath dyeing",
+    "zh": "双浴染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "drum dyeing",
+    "zh": "转鼓染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dry pigmentation",
+    "zh": "干着色；干混法（颜料不经研磨分散直接加入大量漆料，分散成色漆的过程）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dust fastness",
+    "zh": "耐尘性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dye",
+    "zh": "染料;染(色)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyeability",
+    "zh": "染色性;染色度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeability modifier",
+    "zh": "可染性能改良剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeable",
+    "zh": "可染色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye absorption spectra method",
+    "zh": "染料吸收光谱法（测临界胶束浓度）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-acceptance",
+    "zh": "染料接受性；染料容纳性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-acceptancy",
+    "zh": "染料接受性；染料容纳性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye accessibility",
+    "zh": "染料可及性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye adsorption",
+    "zh": "染料吸附(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye affinity",
+    "zh": "染料亲和力",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye bath",
+    "zh": "染色浴",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyebath stability",
+    "zh": "染浴稳定性；染液稳定性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye beck",
+    "zh": "染槽；染色桶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye binding method",
+    "zh": "染料结合法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye bleeding",
+    "zh": "染料析水",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye cation",
+    "zh": "着色阳离子",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye check",
+    "zh": "着色探伤；染色探伤",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyed gasoline",
+    "zh": "着色汽油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye dichroism",
+    "zh": "染料二向色性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye diffusion velocity",
+    "zh": "染料扩散速度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyed-in",
+    "zh": "渗入；染进",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyed-in screener technique",
+    "zh": "掩蔽剂染进技术；屏蔽剂渗入技术",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyed in the mass",
+    "zh": "原液染色；纺液着色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyed yarn",
+    "zh": "染色纱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye exhausting rate",
+    "zh": "染料吸净率；染料吸尽率",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye exhaustion",
+    "zh": "染料吸净(作用)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye fastness",
+    "zh": "染料坚牢度",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dye fixatives",
+    "zh": "固色剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye fixing",
+    "zh": "染料的固定",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-fixing agent",
+    "zh": "固色剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-forming oxidation",
+    "zh": "成色氧化(作用)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-forming reaction",
+    "zh": "成色反应",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye gigger",
+    "zh": "精染机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye house",
+    "zh": "染坊",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye indicator",
+    "zh": "染料指示剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyeing",
+    "zh": "染色的;染色(作用或工程)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing ability",
+    "zh": "染色本领",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing accelerant",
+    "zh": "促染剂：导染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing affinity",
+    "zh": "染色亲和力",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing assistant",
+    "zh": "染色助剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing auxiliary",
+    "zh": "染色助剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing beck",
+    "zh": "染色桶",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing beck stick",
+    "zh": "染色桶棒",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing behavior",
+    "zh": "染色性能",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing capacity",
+    "zh": "染色力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing defect",
+    "zh": "染疵；色花",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing drum",
+    "zh": "染色转鼓",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing equilibrium",
+    "zh": "染色平衡",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing fastness",
+    "zh": "染色坚牢度",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "dyeing house",
+    "zh": "染坊",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing inhibitor",
+    "zh": "染色防胶剂（树脂的形成）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing intensification",
+    "zh": "染料加厚法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing intensifier",
+    "zh": "染色增强剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing in width",
+    "zh": "宽幅染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing kinetics",
+    "zh": "染色动力学;染色速度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing liquor",
+    "zh": "染色液；染料溶液",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing machine",
+    "zh": "染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing machinery",
+    "zh": "染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing paste",
+    "zh": "染色浆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing-sizing combined technique",
+    "zh": "染浆联合工艺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing speck",
+    "zh": "染色斑点；染色瑕疵",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing strip",
+    "zh": "染色条",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyeing uniformity",
+    "zh": "染色均匀性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye intermediate",
+    "zh": "染料中间体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye laser",
+    "zh": "染料激光器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye level",
+    "zh": "染色水平；染色深度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye leveller",
+    "zh": "均染剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye levelling",
+    "zh": "染料均染性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye liquor",
+    "zh": "染料溶液；染色液",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye migration preventing agent",
+    "zh": "染料迁移防止剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye number",
+    "zh": "染色值（加溶）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyeometer",
+    "zh": "上色率测验器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye paste",
+    "zh": "染料浆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye pasting",
+    "zh": "染料制浆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye penetrant",
+    "zh": "染色渗透液",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye penetration constant",
+    "zh": "染料渗透常数",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-polymer association process",
+    "zh": "染料-聚合物缔合过程",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye printing",
+    "zh": "印染；印花",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye printing paste",
+    "zh": "印染浆",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyer",
+    "zh": "染色工人；染匠",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye receptiveness",
+    "zh": "染料吸取性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-receptive polar group",
+    "zh": "吸取染料极性基团",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye receptive site",
+    "zh": "染料吸取位置",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-receptivity",
+    "zh": "染料吸取性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye receptor",
+    "zh": "染料吸取体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye resisting agent",
+    "zh": "防染剂；拒染剂",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye retarding agent",
+    "zh": "染色阻滞剂；缓染剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyer's bath",
+    "zh": "染浴器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dyers greenweed",
+    "zh": "金雀花",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye sensitified polymerization",
+    "zh": "染料增感聚合(法)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye sensitization",
+    "zh": "染料增感作用",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye-sensitized photoinitiation",
+    "zh": "染料敏化光引发(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye sensitized polymerization",
+    "zh": "染料增感聚合(作用)",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye solubilization",
+    "zh": "染料增溶",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye solution",
+    "zh": "染料溶液",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye sorption",
+    "zh": "染料吸着作用",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye sprayer",
+    "zh": "染料喷枪",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyestain",
+    "zh": "染渍",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dye stain test (",
+    "zh": "染料)着色试验〔染色法鉴定氧化膜气孔的封闭程度〕",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye strength",
+    "zh": "染料浓度",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyestuff",
+    "zh": "染料；颜料;着色剂（橡胶）",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dyestuff fixing",
+    "zh": "染料的固定(固着)",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dyestuff former",
+    "zh": "染料形成体；染料前体",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dyestuff intermediate",
+    "zh": "染料中间体",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dyestuff penetration",
+    "zh": "染料渗透(作用)",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "dye toning",
+    "zh": "染料调色法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye transfer agent",
+    "zh": "染料传递剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye uptake",
+    "zh": "上色率；上染率；吸色率",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye vat",
+    "zh": "染色瓮",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye vatting",
+    "zh": "瓮染法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dye wood",
+    "zh": "染料木",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "dyewood-extract",
+    "zh": "染料木萃",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "earth pigment",
+    "zh": "无机颜料；土性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "easy-to-disperse pigment",
+    "zh": "易分散型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "easy-to-dye",
+    "zh": "易染的",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "edible pigment",
+    "zh": "食用色素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "effect pigment",
+    "zh": "随角异色效应颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elastomer pigmentation",
+    "zh": "弹性体着色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "empty dyeing",
+    "zh": "上色浅淡",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "enamel dye",
+    "zh": "搪瓷颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "engine dyeing",
+    "zh": "机染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "equant alpha form of copper phthalocyanine pigment",
+    "zh": "等径α形铜酞菁颜料",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "erythroxyanthraquinone",
+    "zh": "赤氧基蒽醌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ethyl anthranilate",
+    "zh": "邻氨基苯甲酸乙酯 2-ethyl anthraquinone 2-乙基蒽醌",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "even dye",
+    "zh": "均染染料；均匀染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "even-dyeing colour",
+    "zh": "匀染(性)染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "evenness of dye",
+    "zh": "染料的均染性",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "extender pigments(=pigment extender)",
+    "zh": "体质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "exudation of pigment",
+    "zh": "颜料渗出；颜料渗色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "false indigo",
+    "zh": "假靛蓝；野靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast-dyed",
+    "zh": "不褪色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fast dyed yarn",
+    "zh": "不褪色纱线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fastness",
+    "zh": "坚牢度；不褪色性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness of dye",
+    "zh": "染料的坚牢度（染）",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "fastness of dyeing",
+    "zh": "染色坚牢度（染）",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "fastness rate",
+    "zh": "耐光度；着色坚牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to alkali",
+    "zh": "耐碱度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to bleaching",
+    "zh": "耐漂(白)度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to boiling",
+    "zh": "耐煮度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to decatizing",
+    "zh": "耐蒸度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to dust",
+    "zh": "耐(灰)尘度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to efflorescence",
+    "zh": "抗风化性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to ironing",
+    "zh": "耐熨度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to light",
+    "zh": "耐光度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to perspiration",
+    "zh": "耐汗度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to rubbing",
+    "zh": "耐磨度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to washing",
+    "zh": "耐洗度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to water",
+    "zh": "耐水度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fastness to wear",
+    "zh": "耐磨耗性；抗磨能力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fat dye",
+    "zh": "油溶染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fat dyestuffs",
+    "zh": "油溶染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "fibre-reactive dye",
+    "zh": "纤维用活性染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "fixed dye",
+    "zh": "固定染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flocculated pigment",
+    "zh": "絮凝颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorescein dye",
+    "zh": "荧光素染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluorescent dye",
+    "zh": "荧光染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "fluorescent pigment",
+    "zh": "荧光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fluorocarbon dye dispersion",
+    "zh": "碳氟(化合物)染料分散体",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "flushed blue pigment",
+    "zh": "挤水蓝颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "food dye",
+    "zh": "食用染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "foreign pigment",
+    "zh": "有色杂质",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free-chalking pigment",
+    "zh": "易粉化型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fugitive dye",
+    "zh": "短效染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "functional pigment",
+    "zh": "功能型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fur dyes",
+    "zh": "毛皮染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gall pigment(=bile pigment)",
+    "zh": "胆汁色素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gas fastness",
+    "zh": "耐气体坚牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "glacial dye",
+    "zh": "冰染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gold perchloride",
+    "zh": "三氯化金 AuCl gold pigment ;金粉颜料;金黄色铜粉颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Goodyear angle type abrader",
+    "zh": "固特异变角度型磨耗试验机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "grease dye",
+    "zh": "润滑脂染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "green pigment",
+    "zh": "绿(色)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grinding pigmentation",
+    "zh": "研磨着色法；轧(色)浆法（先将颜料用少量漆料研磨分散成一次粒子的色浆过程）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ground dyeing",
+    "zh": "底施颜料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ground pigment",
+    "zh": "粉末填充剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hard-textured pigment",
+    "zh": "硬质(地)颜料（难分散的颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "heat fastness",
+    "zh": "热牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat indicating paint",
+    "zh": "示温涂料 heat-indicating pigment (=temperature-indicating pigment)示温颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heat of dye absorption",
+    "zh": "染料吸收热",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "heat resistant pigment",
+    "zh": "耐热颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Heumann indigo synthesis",
+    "zh": "霍伊曼靛合成法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hiding pigment",
+    "zh": "盖底颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "highly pigmented film",
+    "zh": "高颜料分漆膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-oil-absorption pigment",
+    "zh": "高吸油量颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high pigment loading (",
+    "zh": "体质)颜料高填充量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high temperature and high pressure yarn dyeing machine",
+    "zh": "高温高压染纱机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature dyeing",
+    "zh": "高温染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature-high pressure dyeing machine",
+    "zh": "高温高压染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature overflow dyeing machine",
+    "zh": "高温溢流染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature-pressure cheese dyeing machine",
+    "zh": "高温高压筒子染色机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-temperature pressure dyeing",
+    "zh": "高温高压染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high temperature sample dyeing machine",
+    "zh": "高温样品染色机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high-visibility pigment",
+    "zh": "高能见度颜料；荧光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "histochemical dyes",
+    "zh": "组织化学染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "homogeneous dye",
+    "zh": "均一染料；同性染料(染色)",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hydrophobic dye",
+    "zh": "疏水染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "hydroxyanthraquinone",
+    "zh": "羟基蒽醌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ice dye",
+    "zh": "冰染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ice dyeing",
+    "zh": "冰染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ice dyestuff",
+    "zh": "冰染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "image-forming dyes",
+    "zh": "成像染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inactive pigment",
+    "zh": "惰性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "indigo(=indigotin)",
+    "zh": "靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo-attapulgite complex",
+    "zh": "靛蓝-凹凸棒土配合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo blue",
+    "zh": "靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo blue printing fabric",
+    "zh": "蓝印花布；靛蓝花布",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo bottom",
+    "zh": "靛蓝打底",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo carmine",
+    "zh": "靛蓝胭脂红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo copper",
+    "zh": "铜蓝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo dicarboxylic acid",
+    "zh": "靛蓝二羧酸 indigo disulfonic acid 靛蓝二磺酸 indigofera oil 槐蓝油",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigoid",
+    "zh": "靛青类",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigoid colors",
+    "zh": "靛类染料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigoid colouring matters",
+    "zh": "靛染料〔含有—COC=CCO—结构〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigoid dyes",
+    "zh": "靛类染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "indigoide colors〔",
+    "zh": "复〕 靛类染料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigometer",
+    "zh": "靛蓝计",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo monosulfonate",
+    "zh": "靛蓝一磺酸盐*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo monosulfonic acid",
+    "zh": "靛蓝一磺酸 indigo paste 靛蓝糊",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo process",
+    "zh": "靛蓝法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol",
+    "zh": "溶靛素（染料）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol brilliant rose",
+    "zh": "溶靛素亮玫瑰红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosole dye",
+    "zh": "溶靛素染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "indigosol golden yellow",
+    "zh": "溶靛素金黄",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol orange",
+    "zh": "溶靛素橙",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol printing black",
+    "zh": "溶靛素印染黑",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol printing blue",
+    "zh": "溶靛素印染蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigosol red-violet",
+    "zh": "溶靛素红紫",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo tetrasulfonate",
+    "zh": "靛蓝四磺酸盐*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo tetrasulfonic acid",
+    "zh": "靛蓝四磺酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigotin(=diindogen; indigo)",
+    "zh": "靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo trisulfonate",
+    "zh": "靛蓝三磺酸盐",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo vat",
+    "zh": "靛蓝瓮",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo vatting",
+    "zh": "靛蓝的瓮化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo violet",
+    "zh": "靛蓝紫",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indigo white",
+    "zh": "靛白",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "indophenol dye",
+    "zh": "靛酚染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inert pigment",
+    "zh": "惰性颜料；体质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ingrain dye",
+    "zh": "显色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "ingrain dyestuff",
+    "zh": "显色染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "inhibitor dye",
+    "zh": "抑制剂染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "inorganic color(ed) pigment",
+    "zh": "无机彩色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "inorganic pigment",
+    "zh": "无机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insolubilizing organic pigment",
+    "zh": "不溶型有机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "insoluble azo color",
+    "zh": "不溶偶氮染料",
+    "role": "secondary",
+    "confidence": 1.5
+  },
+  {
+    "en": "insoluble dry pigment",
+    "zh": "不溶性干颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ion-exchange pigment",
+    "zh": "离子交换(型)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "iron blue pigment",
+    "zh": "铁蓝颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ironing fastness",
+    "zh": "熨烫色牢度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "iron oxide pigment",
+    "zh": "氧化铁颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "irreversible temperature -indicating pigment",
+    "zh": "不可逆性示温颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isoindigo",
+    "zh": "异靛",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isoreactive dyeing system",
+    "zh": "等活性染色体系",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "jet overflow dyeing machine",
+    "zh": "喷射溢流绳状染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "kation(=cation)",
+    "zh": "阳离子kationic laked pigment 阳离子型色淀颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "Konig dye",
+    "zh": "康尼染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "labile pigment surface",
+    "zh": "不稳定颜料表面",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lac dye(=lac lake)",
+    "zh": "紫胶染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lac-la(c)ke(=lac dye)",
+    "zh": "紫胶染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lactonic leuco-dye",
+    "zh": "内酯型无色染料；内酯基隐色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lake dyes",
+    "zh": "色淀染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lake pigment(=lake)",
+    "zh": "色淀颜料；色淀",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lamellar pigment",
+    "zh": "片状颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "laser dyes",
+    "zh": "激光染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lead chromate-coated pigment",
+    "zh": "铬酸铅包核颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead chrome pigment",
+    "zh": "铬酸铅颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "leather dye(=leather dyestuff)",
+    "zh": "皮革染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "leather dyestuff(=leather dye)",
+    "zh": "皮革染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "level dyeing",
+    "zh": "匀染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "level dyeing agent",
+    "zh": "匀染剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "level-dyeing property",
+    "zh": "匀染性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "levelling color(=levelling dye; levelling dyestuff)",
+    "zh": "均染染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "levelling dye(=levelling color)",
+    "zh": "均染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "levelling dyestuff(=levelling color)",
+    "zh": "均染染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "light absorbing pigment",
+    "zh": "光吸收颜料;吸光颜料;紫外线线吸收颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "light fastness",
+    "zh": "耐晒性；耐光性",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "lightfastness in tint",
+    "zh": "色彩的耐光性",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "light-fastness rating",
+    "zh": "耐光牢度等级",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "light fastness standard",
+    "zh": "耐晒度标准",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "light fastness test",
+    "zh": "耐光性试验；耐光度试验",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "light fastness tester",
+    "zh": "日晒牢度仪",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "liquid dye",
+    "zh": "液体染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "liquid-flow hank dyeing machine",
+    "zh": "液流式绞纱染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lithopone-type cadmium pigment",
+    "zh": "镉钡颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "loading pigment",
+    "zh": "颜料填充剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "low-oil-absorption pigment",
+    "zh": "低吸油量颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "luminescent dyes",
+    "zh": "荧光染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "luminescent pigment",
+    "zh": "发光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "luminous pigment",
+    "zh": "发光颜料；发光涂料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "luster pigment",
+    "zh": "闪光颜料;珠光颜料;虹彩颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lutetium-diphthalocyanine",
+    "zh": "镨-二酞菁；镥-双酞菁（变色有机物）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "machine dyeing",
+    "zh": "机器染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "magnetic recording pigment",
+    "zh": "磁性录音颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mail handling pigment",
+    "zh": "邮件分捡颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "maroon pigment",
+    "zh": "紫红颜料；栗红颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mars pigment",
+    "zh": "合成氧化铁颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mass-dyed",
+    "zh": "本体染色的；纺前染色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mass dyeing by injection",
+    "zh": "注射法整体染色：注射法纺前染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mass pigmentation",
+    "zh": "本体着色",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mass pigmented fiber",
+    "zh": "本体着色(的)纤维；纺前着色纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "masstone pigment",
+    "zh": "主色颜料（未用白色颜料冲淡的颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "matting pigment",
+    "zh": "消光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanical colorant dispenser",
+    "zh": "自动调色机；自动混色机",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "meisoindigotin",
+    "zh": "甲异靛（药）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melt-dyed fibre",
+    "zh": "熔体染色纤维",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt pigmentation",
+    "zh": "熔体着色法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melt-spun dyed",
+    "zh": "熔体纺染色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mercadium pigment",
+    "zh": "汞镉颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal chelate pigment",
+    "zh": "金属螯合型颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal chelating dyes",
+    "zh": "金属螯合染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "metal complex dye",
+    "zh": "金属配位染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metal-free phthalocyanine",
+    "zh": "无金属酞菁颜料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal-free phthalocyanine blue",
+    "zh": "无金属酞菁蓝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metallic flake pigment",
+    "zh": "片状金属颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metallic pigment",
+    "zh": "金属(性)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metalliferalous dye (",
+    "zh": "含)金属染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metallized acid dye",
+    "zh": "金属络合酸性染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "metallized dye",
+    "zh": "金属配位染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "metal phthalocyanine complex",
+    "zh": "金属酞菁配合物",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "metal pigment",
+    "zh": "金属颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "methyl anthranilate(=methyl o-aminobenzoate)",
+    "zh": "邻氨基苯甲酸甲酯 β-methyl anthraquinone β-甲基蒽醌",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methyl-indigo",
+    "zh": "甲基靛蓝 -methyl indole -甲基吲哚 -methylindole(=3-methylindole) 3-甲基吲哚",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mica extender pigment",
+    "zh": "云母体质颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "micropigment",
+    "zh": "微细颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "migration fastness (",
+    "zh": "颜色)渗移牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mineral dye",
+    "zh": "无机颜料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mineral pigment",
+    "zh": "矿物性颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "MIOX-based paint incorporating aluminium pigment",
+    "zh": "云母氧化铁铝粉拼用漆；云铁-铝粉漆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mixed dyes (",
+    "zh": "复) 混合染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "monoazo dyes",
+    "zh": "单偶氮染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "monoazo dyestuff",
+    "zh": "单偶氮染料",
+    "role": "primary",
+    "confidence": 10.0
+  },
+  {
+    "en": "monoazo pigment",
+    "zh": "单偶氮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mordant color(=mordant dye)",
+    "zh": "媒染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "mordant dye(=mordant color)",
+    "zh": "媒染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "mordant dyeing",
+    "zh": "媒染(法)",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "mordant-fixed dye",
+    "zh": "固着媒染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "mordanting dye",
+    "zh": "媒染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multicolour dyeing",
+    "zh": "多色染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-pigmented system",
+    "zh": "多种颜料体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-ring dye",
+    "zh": "多环染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nacreous pigment",
+    "zh": "珠光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Naphthal dye",
+    "zh": "纳夫妥染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "naphthalocyanine",
+    "zh": "萘酞菁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural dye",
+    "zh": "天然染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "natural dyestuff",
+    "zh": "天然染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "natural earth pigment",
+    "zh": "天然色料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural iron oxide pigment",
+    "zh": "天然氧化铁颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "needle-like pigment",
+    "zh": "针状颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral colorant",
+    "zh": "中性染料；中性颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral pigment",
+    "zh": "中性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "neutral premetallized dye",
+    "zh": "中性金属络合染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nitroanthraquinone",
+    "zh": "硝基蒽醌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitroanthraquinone sulfonic acid",
+    "zh": "硝基蒽醌磺酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitro-dye",
+    "zh": "硝基染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nitrophenolic dye",
+    "zh": "硝基酚染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "nitrose pigment",
+    "zh": "亚硝基系颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nitroso-dye",
+    "zh": "亚硝基染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "non-black pigment",
+    "zh": "非黑色颜料（指白色颜料和彩色颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonbleeding pigment",
+    "zh": "不渗色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-chalking type pigment",
+    "zh": "不泛白颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-pigmentary type",
+    "zh": "非颜料型",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-pigmented dispersion",
+    "zh": "无颜料的分散液；未着色的分散液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-polar pigment",
+    "zh": "非极性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "nonquenchable pigment",
+    "zh": "非猝灭性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "non-toxic pigment",
+    "zh": "无毒颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "normal temperature oscillating dyeing machine",
+    "zh": "常温振荡试样机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil absorption of pigment",
+    "zh": "颜料吸油量",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-fixative pigment",
+    "zh": "固油颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oil-soluble dyes",
+    "zh": "油溶染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "opacifying pigment",
+    "zh": "不透明颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "opacity pigment",
+    "zh": "不透明颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "opaque pigment",
+    "zh": "不透明颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "optical dye",
+    "zh": "荧光染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "optimum pigment-vehicle ratio",
+    "zh": "最佳颜基比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orange dye",
+    "zh": "橙色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "orange pigment",
+    "zh": "橙色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orange vat pigment",
+    "zh": "橙瓮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "orcein dye",
+    "zh": "苔红素染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "organic colorant",
+    "zh": "有机着色剂;有机染料;有机颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic color pigment",
+    "zh": "有机彩色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic pigment",
+    "zh": "有机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic pigment Florida exposure test",
+    "zh": "有机颜料佛罗里达暴晒试验",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic pigment permanence to heat",
+    "zh": "有机颜料的耐热性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "organic pigment permanence to light",
+    "zh": "有机颜料的耐光性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "over dyeing",
+    "zh": "套染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "overglaze pigment",
+    "zh": "釉上颜料；面釉颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "over-pigmentation",
+    "zh": "颜料过量;颜料分过多",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxazine dye",
+    "zh": "噁嗪染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oxidation dye",
+    "zh": "氧化染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "oxide pigment",
+    "zh": "氧化物颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "oxindigo",
+    "zh": "氧靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxyketone dye",
+    "zh": "醌型染料 -oxyl（词尾） 烃氧基（如: methoxyl 甲氧基, phenoxyl 苯氧基）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "packed pigment bed",
+    "zh": "堆积颜料层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "paddle dyeing",
+    "zh": "划槽染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paddle method of dyeing",
+    "zh": "搅槽染法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pad-jig dyeing",
+    "zh": "浸轧卷染法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pad-steam dyeing",
+    "zh": "轧蒸染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paint pigment",
+    "zh": "漆用颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "para-dye",
+    "zh": "偶合染料〔染〕",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pararosaniline dyes",
+    "zh": "副品红染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "paste dye",
+    "zh": "浆状染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pearlescent pigment",
+    "zh": "珍珠颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pearly pigment",
+    "zh": "珠光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "penetration dyeing",
+    "zh": "渗透染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "percent pigment volume",
+    "zh": "颜料体积百分比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "permanent dye",
+    "zh": "持久染料；不变色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "permanent luminescent pigment",
+    "zh": "恒效发光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "perspiration fastness",
+    "zh": "耐汗坚牢度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perspiration fastness tester",
+    "zh": "耐汗渍(色)牢度试验仪",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "perylen pigment",
+    "zh": "花系颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phenanthraquinone(=phenanthrenequinone)",
+    "zh": "菲醌 C₆H₄(CO)₂C₆H₄ _______",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenanthrenequinone(=phenanthraquinone)",
+    "zh": "菲醌 phenanthrenequinone dioxime 菲醌二肟 phenanthrenequinone dioxime anhydride 菲醌二肟酐 phenanthrenequinone monoxime 菲醌一肟 phenanthrene ring 菲环",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenylazojulolidine dyes",
+    "zh": "苯基偶氮久洛尼定啶染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phosphorescent pigment",
+    "zh": "磷光颜料；夜光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "phosphotungstomolibdic pigment",
+    "zh": "磷钨钼酸颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photochromic pigment",
+    "zh": "光敏颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photoconductive pigment",
+    "zh": "光电导性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "photo rapid dyestuff",
+    "zh": "感光显色染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "phthaiocyanine dye",
+    "zh": "酞菁染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "phthalocyanine(=phthalocyanin)",
+    "zh": "酞菁（染料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalocyanine blue",
+    "zh": "酞菁蓝",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalocyanine dyes and pigments",
+    "zh": "酞菁染料和颜料 phthalocyanine grease(=phthalocyanine pigment grease)酞菁润滑脂",
+    "role": "primary",
+    "confidence": 11.0
+  },
+  {
+    "en": "phthalocyanine intermediate",
+    "zh": "酞菁素 phthalocyanine lubricant(=phthalocyanine pigment grease)酞菁润滑脂",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "phthalocyanine pigment",
+    "zh": "酞菁颜料 phthalocyanine pigment grease(=phthalocyanine grease;",
+    "role": "primary",
+    "confidence": 7.5
+  },
+  {
+    "en": "phthalocyanine lubricant)",
+    "zh": "酞菁润滑脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phthalocyanin(=phthalocyanine)",
+    "zh": "酞菁（染料）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "piece dyeing",
+    "zh": "匹染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pigment",
+    "zh": "色素（生物）;色料;颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigmentability",
+    "zh": "颜料捏合性；颜料掺和性;颜料着色性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmentary(=pigmental)",
+    "zh": "(含)颜料的；(含)色素的;颜料级的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmentation",
+    "zh": "颜料淀积(作用);色素形成(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment binder ratio",
+    "zh": "颜料漆料比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment binding power index",
+    "zh": "颜料结合力指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment bleeding",
+    "zh": "颜料渗色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment bordeaux",
+    "zh": "颜料枣红",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment brown",
+    "zh": "颜料棕",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment carrier",
+    "zh": "颜料载体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment characteristics",
+    "zh": "颜料特性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment chrome yellow",
+    "zh": "颜料铬黄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment crowding",
+    "zh": "颜料密集（颜料过于密集）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment dispersing agent",
+    "zh": "颜料分散剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment dispersion",
+    "zh": "颜料分散体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment dispersion micelle",
+    "zh": "颜料分散胶束",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment dyeing",
+    "zh": "涂料染色",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "pigment dyes(=dry pigments)",
+    "zh": "有机颜料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "pigment dyestuff",
+    "zh": "颜料性染料；有机颜料（指不含金属离子的）",
+    "role": "primary",
+    "confidence": 9.5
+  },
+  {
+    "en": "pigmented",
+    "zh": "着色的",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented coating",
+    "zh": "着色涂料;色漆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented compound",
+    "zh": "填料混炼胶（橡）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented filler",
+    "zh": "着色填孔剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented glass",
+    "zh": "有色玻璃",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented layer",
+    "zh": "着色层",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented preservation",
+    "zh": "着色防腐剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented rubber emulsion",
+    "zh": "橡胶乳化色漆；着色橡胶乳液",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented shellac",
+    "zh": "着色虫胶；紫胶色漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmented yarn",
+    "zh": "纺(前)染(色)丝；无光化纤纱；无光丝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment extender(=extender pigments)",
+    "zh": "体质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment fast red",
+    "zh": "快红颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment fast violet R",
+    "zh": "颜料坚牢紫 R；二噁嗪紫",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment finish",
+    "zh": "涂颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment flocculate",
+    "zh": "颜料絮凝体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment flooding",
+    "zh": "涂料变色(作用)(干燥或加热时的)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment-grade calcium silicate",
+    "zh": "着色用硅酸钙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment grind",
+    "zh": "色浆；漆浆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment identification",
+    "zh": "颜料鉴别(定)；颜料识别",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigmenting(=pigmentation)",
+    "zh": "着色;轧颜料浆；压色浆;颜料化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmenting power (",
+    "zh": "颜料的)着色力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmenting property",
+    "zh": "着色性能",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment lake",
+    "zh": "色淀颜料（含金属离子的有机颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment matrix",
+    "zh": "颜料基质；颜料母体",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigmentolysis",
+    "zh": "解除色素(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigmentophilic anchor",
+    "zh": "亲颜料性锚固；亲颜料性锚碇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pigment orange",
+    "zh": "颜料橙",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment packing factor",
+    "zh": "颜料堆积因数；颜料密集因数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment padding",
+    "zh": "颜料轧染(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment paper",
+    "zh": "色纸；颜料纸;(=carbon tissue)炭素纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment paste",
+    "zh": "颜料膏",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment pulp",
+    "zh": "颜料浆（专指颜料的水分散液）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment ratio",
+    "zh": "颜料比(率)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment reduction",
+    "zh": "颜料冲淡",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment reduction method",
+    "zh": "色素还原法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment sediment",
+    "zh": "颜料沉积物",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment settling gage",
+    "zh": "颜料沉降测定仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment slurry",
+    "zh": "颜料浆；水浆颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment-to-binder ratio",
+    "zh": "颜(料)基(料)比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment volume",
+    "zh": "颜料体积;(=pigment volume concentration)颜料体积浓度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment volume concentration(PVC)",
+    "zh": "颜料体积浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment volume ratio",
+    "zh": "颜料比容;颜料体积比",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment wettability",
+    "zh": "颜料润湿性",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment wiping filler stain (",
+    "zh": "木器用)颜料填孔着色剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pigment yellow",
+    "zh": "颜料黄",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "plain dyeing",
+    "zh": "染素色〔染单一颜色〕",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plant pigments",
+    "zh": "植物色素",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "plumbate pigment",
+    "zh": "铅酸盐颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "PMA pigment",
+    "zh": "磷钼酸颜料;(=precipitated basic dye blue)(磷钼酸)碱性蓝色淀",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "polar pigment",
+    "zh": "极性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyanthraquinone-bisbenzazole fibre",
+    "zh": "聚蒽醌-双吲哚纤维",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polyazo dye",
+    "zh": "多偶氮染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "polychloro copper phthalocyanine",
+    "zh": "多氯酞菁铜",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polycrystalline pigment",
+    "zh": "多晶形颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyene pigment",
+    "zh": "多烯色素",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polygenetic dye",
+    "zh": "多色染料；多色性染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyindigo",
+    "zh": "聚靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer-soluble dye",
+    "zh": "能溶于聚合物的染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polymethin dyes",
+    "zh": "聚甲炔染料；多次甲基染料；甲川染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "precipitated basic dye blues",
+    "zh": "磷钨酸碱性蓝色淀;磷钼酸碱性蓝色淀",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "precipitated basic dye violets",
+    "zh": "磷钨酸碱性紫色淀;磷钼酸碱性紫色淀",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "precipitated pigment",
+    "zh": "沉淀颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "predispersed pigment preparations",
+    "zh": "预分散颜料制剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pre-dyed",
+    "zh": "预染色的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pre-metallised dye",
+    "zh": "预金属络合的染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "primary colorant",
+    "zh": "主着色剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "prime pigment",
+    "zh": "主颜料；着色颜料（具有着色力和遮盖力的颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "priming pigment",
+    "zh": "底漆(用)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "primulin(e) dye",
+    "zh": "樱草灵(类)染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "printing dye",
+    "zh": "印染染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "program-controlled dyeing machine",
+    "zh": "程控染色机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "proportioning pigment-binder ratio",
+    "zh": "按颜-基比配料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pseudoplastic pigment",
+    "zh": "假塑性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "purple pigment",
+    "zh": "红紫色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyrazoloquinazolone pigment",
+    "zh": "吡唑喹唑(啉)酮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pyridine dye",
+    "zh": "吡啶染料；氮苯染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pyrindigo",
+    "zh": "吡啶靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pyrogene dyes",
+    "zh": "焦精染料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pyronine dye",
+    "zh": "焦宁染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "pyrrolopyrrole pigment",
+    "zh": "吡咯并吡咯颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "quinoline dye",
+    "zh": "喹啉染料：氮萘染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "quinone oxime dye (",
+    "zh": "苯)醌肟染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "quinone pigments",
+    "zh": "醌颜料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quinonimine dye",
+    "zh": "醌亚胺染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "radiochromic dye",
+    "zh": "放射致色染料；辐射致色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "rating for light fastness",
+    "zh": "耐光等级",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "reactive dye",
+    "zh": "活性染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "reactive dyeing",
+    "zh": "活性染料",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "reactive dyestuff",
+    "zh": "活性染料",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "reactive pigment",
+    "zh": "活性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "red indigo",
+    "zh": "红靛；紫花",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "red lead-coated pigment",
+    "zh": "包核红丹颜料（以二氧化硅为核，上包红丹的颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "red oxide micropigment",
+    "zh": "微细氧化铁红颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reduced pigment packing factor",
+    "zh": "降低的颜料堆积因数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reduced pigment volume concentration",
+    "zh": "对比颜料体积浓度",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reducing dye",
+    "zh": "还原染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "redye",
+    "zh": "复染",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reflective pigment",
+    "zh": "反光颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractive index of extender pigment",
+    "zh": "体质颜料折光指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "refractory pigment",
+    "zh": "难熔颜料；硬质颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reinforcing pigment",
+    "zh": "增强性颜料；补强颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resinated pigment",
+    "zh": "树脂酸(盐)化颜料；树脂酸颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin-bonded pigment",
+    "zh": "彩色树脂型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "resin-pigment ratio(=pigment-binder ratio)",
+    "zh": "树脂颜料比;",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reversible temperature-indicating pigment",
+    "zh": "可逆性示温颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ring dyeing",
+    "zh": "环染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roasted copperas pigment",
+    "zh": "焙烧硫酸亚铁制的铁红颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rope dyeing",
+    "zh": "捆染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rubbing fastness",
+    "zh": "耐摩擦程度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ruberythric acid(=rubianic acid)",
+    "zh": "茜根酸; 玉红氨酸 rub fastness(=rub proofness) 耐磨程度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rub proofness (=rub fastness)",
+    "zh": "耐磨程度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rust-stabilizing pigment",
+    "zh": "防锈颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile mixed phase pigment",
+    "zh": "金红石型混相颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile pigment",
+    "zh": "金红石型颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rutile pigmentary",
+    "zh": "颜料级金红石型(二氧化钛)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "safranine dye (",
+    "zh": "碱性)藏红染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "salt dye(=direct dye)",
+    "zh": "直接染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "scattering pigment",
+    "zh": "散射颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screened without pigment",
+    "zh": "滤除颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sheet coloring(=sheet dyeing)",
+    "zh": "全张着色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sheet dyeing(=sheet coloring)",
+    "zh": "全张着色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shot-dye",
+    "zh": "闪色染色",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "silicate pigment",
+    "zh": "硅酸盐颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "silica pigment",
+    "zh": "硅补强剂；白炭黑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "simple acid dye",
+    "zh": "普通酸性染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "size fastness",
+    "zh": "上胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap dye",
+    "zh": "皂模",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "soap fastness",
+    "zh": "耐皂性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sodium indigodisulfonate",
+    "zh": "酸性靛蓝；靛二磺酸钠",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soft-textured pigment",
+    "zh": "软质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solanthren dye",
+    "zh": "搔兰士林染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sole pigment",
+    "zh": "专用颜料；单用颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solf-textured pigment",
+    "zh": "软质地颜料（易于分散的颜料）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solubilised sulfur dye",
+    "zh": "溶性硫化染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "solubilised vat dye",
+    "zh": "溶性还原染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "solubilized sulfur dye",
+    "zh": "溶性硫化染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "solubilized vat dye",
+    "zh": "溶性还原染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "soluble colorant",
+    "zh": "可溶着色剂",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "soluble dye",
+    "zh": "可溶染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "solvent dye",
+    "zh": "溶剂染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "solvent-free encapsulated pigment",
+    "zh": "无溶剂胶囊颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solvent-soluble dye",
+    "zh": "溶剂溶解染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sparging (jet) dyeing machine",
+    "zh": "喷射式染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "special dye",
+    "zh": "特种染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "specialized conventional sulfur dye",
+    "zh": "特型惯用硫化染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "specific gravity of pigment",
+    "zh": "颜料的比重",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spectral dye method",
+    "zh": "光谱染料法（测临界胶束浓度）",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "spinel type pigment",
+    "zh": "尖晶石型颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spirit dye(=spirit dyestuff)",
+    "zh": "醇溶染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "spirit dyestuff(=spirit dye)",
+    "zh": "醇溶染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "spirit soluble dye(=spirit soluble dyestuff)",
+    "zh": "醇溶性染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "spirit soluble dyestuff(=spirit soluble dye)",
+    "zh": "醇溶性染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "spray dyeing",
+    "zh": "喷染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spun-dyed",
+    "zh": "纺时染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spun-dyeing injector",
+    "zh": "纺前着色注射器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spum-dyed rayon",
+    "zh": "色纺嫘萦",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stilbene dye",
+    "zh": "芪染料；二苯乙烯染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "stock dyeing",
+    "zh": "散纤维染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "streaky dyeing",
+    "zh": "染色条痕花",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "structured pigment",
+    "zh": "结构性颜料；造型性颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stuff coloring(=stuff dyeing)",
+    "zh": "布料着色；呢料着色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "stuff dyeing(=stuff coloring)",
+    "zh": "布料着色；呢料着色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subindanthrene dye",
+    "zh": "亚士林染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "substantive azo dye(=direct cotton dye)",
+    "zh": "直接偶氮染料；直接棉染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "substantive color(=substantive dye)",
+    "zh": "直接染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "substantive dye(=direct dye;substantive color)",
+    "zh": "直接染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "substantive dyeing",
+    "zh": "直接染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subtractive colorant mixture theory",
+    "zh": "减色法混色理论",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfate pigment",
+    "zh": "硫酸盐颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sulfide dye",
+    "zh": "硫化钠浴中用的染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sulfindigotic acid",
+    "zh": "硫靛酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfonated copper phthalocyanine",
+    "zh": "磺化铜酞菁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur dye",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "sulfur dyeing",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "sulfur dyestuff",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "sulphide dye(=sulphur dye)",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sulphur dye(=sulphide dye)",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "synthetic dye",
+    "zh": "合成染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "synthetic dyestuff",
+    "zh": "合成染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "synthetic organic pigment",
+    "zh": "合成有机颜料",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "temperature-indicating paint(=heat-sensitive paint)",
+    "zh": "示温漆 temperature indicating pigment(=heat indicating pigment)示温颜料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "test dye",
+    "zh": "试验用染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tetrabenzoporphyrazine(=phthalocyanine)",
+    "zh": "四苯并紫菜嗪；酞菁",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetrachloroanthraquinone",
+    "zh": "四氯蒽醌 C₁₄H₄Cl₄O₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tetranitro-anthraquinone",
+    "zh": "四硝基蒽醌",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "texture of color pigment",
+    "zh": "彩色颜料的质地",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermographic type pigment",
+    "zh": "热敏型颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermo pigment",
+    "zh": "示温颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thiazine dye",
+    "zh": "噻嗪染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thiazole dye",
+    "zh": "噻唑染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thin flaky pigment",
+    "zh": "薄片状颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thiocyano dyestuffs",
+    "zh": "氰硫染料",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "thiogenic dye",
+    "zh": "硫化染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "thioindigo",
+    "zh": "硫靛(蓝)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo blue",
+    "zh": "硫靛蓝",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo bordeaux",
+    "zh": "硫靛枣红(瓮颜料)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo color",
+    "zh": "硫靛颜料；硫靛染料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thioindigo dye",
+    "zh": "硫靛染料",
+    "role": "primary",
+    "confidence": 8.0
+  },
+  {
+    "en": "thioindigoid dye",
+    "zh": "硫准靛染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "thioindigoid maroon",
+    "zh": "硫准靛紫红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo pink",
+    "zh": "硫靛桃红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo scarlet",
+    "zh": "硫靛猩红",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigotic acid",
+    "zh": "硫靛蓝酸",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo violet",
+    "zh": "硫靛紫",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thioindigo white",
+    "zh": "硫靛白 C₁₆H₁₀O₂S₂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thion dye",
+    "zh": "硫化染料 -thione 硫酮 —CS—",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tie and dye leather",
+    "zh": "扎染革",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tie dyeing",
+    "zh": "扎染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tinting pigment",
+    "zh": "着色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titanium-calcium pigment",
+    "zh": "钛-钙(白)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titanium pigment",
+    "zh": "钛白粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "titanium-silicon pigment",
+    "zh": "钛-硅颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "toner pigment",
+    "zh": "调色颜料；有机颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "top-chrome dyeing",
+    "zh": "铬盐后处理染色；后铬媒染色；套铬媒染色",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trans-thioindigo",
+    "zh": "反式硫靛(蓝)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "tray dyeing",
+    "zh": "浸染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tray method of dyeing",
+    "zh": "浸染(干燥)法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treated pigment (",
+    "zh": "表面)处理的颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "triarylmethane dye",
+    "zh": "三芳甲烷染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "trihydroxy alcohol",
+    "zh": "三元醇 1,2,3-trihydroxyanthraquinone(=anthragallol) 1,2,3-三羟基蒽醌；蒽 Madrid酚 CH(CO)CH(OH)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trinuclear dye",
+    "zh": "三核染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "triphenylmethane dye",
+    "zh": "三苯甲烷染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "triphenylmethane lactone leuco dye",
+    "zh": "三苯甲烷内酯无色染料",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "triphenylmethane leuco-dyes",
+    "zh": "三苯甲烷无色染料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "triple dye",
+    "zh": "三重染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "trisazo dye",
+    "zh": "三偶氮染料",
+    "role": "primary",
+    "confidence": 7.0
+  },
+  {
+    "en": "trisazo pigment",
+    "zh": "三偶氮颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "tunable dye-laser",
+    "zh": "可调谐染料激光器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tunable organic dye laser",
+    "zh": "可调谐有机染料激光器",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "tungstomolybdic pigment",
+    "zh": "钨钼酸颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultra fine talc pigment",
+    "zh": "超细粒子滑石粉",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "ultrasonic vibration dyeing",
+    "zh": "超声波振荡染色",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "undyed fuel",
+    "zh": "未染色的燃料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uneven color(=uneven dye)",
+    "zh": "不匀染色",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "uneven dye(=uneven color)",
+    "zh": "不匀染色",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unfast color(=unfast dye)",
+    "zh": "不牢染色",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unfast dye(=unfast color)",
+    "zh": "不牢染色",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unfast dyeing",
+    "zh": "不牢染(色)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unfast dyestuff",
+    "zh": "不牢染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "uniform dyed fabric",
+    "zh": "匀染织物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uniform dyeing",
+    "zh": "均(匀)染(色)；素染（染）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uniformly dyed fabric",
+    "zh": "素染织物；匀染织物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "uniformly dyeing",
+    "zh": "均(匀)染(色)；素染",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "unlevelling color(=unlevelling dye)",
+    "zh": "不匀染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unlevelling dye(=unlevelling color)",
+    "zh": "不匀染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "unpigmented rubber",
+    "zh": "素橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vat dye",
+    "zh": "瓮染料：还原染料",
+    "role": "primary",
+    "confidence": 5.5
+  },
+  {
+    "en": "vat dyeing",
+    "zh": "瓮染(法)",
+    "role": "primary",
+    "confidence": 4.0
+  },
+  {
+    "en": "vat dyestuff",
+    "zh": "瓮染料",
+    "role": "primary",
+    "confidence": 8.5
+  },
+  {
+    "en": "vat ester dye",
+    "zh": "酯化还原染料（可溶性还原染料）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "vat pigment",
+    "zh": "瓮染料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "vinyl sulfone dyestuff",
+    "zh": "乙烯砜染料",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "washfastness",
+    "zh": "耐洗性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "washing fastness",
+    "zh": "耐洗性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "washing fastness tester",
+    "zh": "水洗牢度机",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "weather fastness",
+    "zh": "耐气候性；耐天气性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet crocking fastness rating",
+    "zh": "湿摩擦牢度等级",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wet fastness",
+    "zh": "耐湿性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "white dye(=fluorescent brightening agent)",
+    "zh": "荧光增白剂",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "white lead pigment",
+    "zh": "铅白颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white molybdate pigment",
+    "zh": "钼白颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white non-opaque pigment",
+    "zh": "白色透光颜料；白色体质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white opaque pigment",
+    "zh": "白色不透明颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "white pigment",
+    "zh": "白色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wollastonite extender pigment",
+    "zh": "硅灰石体质颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wood dye",
+    "zh": "植物染料；木材染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "wool dye",
+    "zh": "羊毛(用)染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "xanthene dye",
+    "zh": "咽吨染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "yarn dyeing",
+    "zh": "染纱（纺）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "yellow dye",
+    "zh": "黄色染料",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "yellow ocher pigment",
+    "zh": "赫黄颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "yellow pigment",
+    "zh": "黄色颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "yellow vat pigment (s)",
+    "zh": "黄瓮颜料(类)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc phthalocyanine",
+    "zh": "酞花菁锌",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "zinc pigment",
+    "zh": "锌(系)颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zinc yellow pigment",
+    "zh": "锌黄颜料",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "zwitterionic dyestuff",
+    "zh": "两性染料",
+    "role": "primary",
+    "confidence": 6.5
+  }
+]

@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>英汉化学化工词汇表 | Chemical Glossary</title>
+<script src="https://cdn.jsdelivr.net/npm/animejs@3/dist/anime.min.js"></script>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #0a0e17;
+    --bg2: #111827;
+    --surface: #1a2035;
+    --surface2: #1e2a42;
+    --border: #2a3a5c;
+    --text: #e2e8f0;
+    --text2: #94a3b8;
+    --accent: #38bdf8;
+    --accent2: #818cf8;
+    --accent3: #a78bfa;
+    --green: #34d399;
+    --orange: #fb923c;
+    --pink: #f472b6;
+    --cyan: #22d3ee;
+    --glow: rgba(56, 189, 248, 0.15);
+  }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ===== Particle Canvas ===== */
+  #particles {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  /* ===== Main Container ===== */
+  .app {
+    position: relative;
+    z-index: 1;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+
+  /* ===== Hero ===== */
+  .hero {
+    text-align: center;
+    padding: 80px 0 40px;
+    position: relative;
+  }
+
+  .hero h1 {
+    font-size: clamp(36px, 6vw, 64px);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 16px;
+  }
+
+  .hero h1 .gradient {
+    background: linear-gradient(135deg, var(--accent), var(--accent2), var(--accent3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hero p {
+    font-size: 18px;
+    color: var(--text2);
+    max-width: 600px;
+    margin: 0 auto 32px;
+  }
+
+  /* ===== Stats Bar ===== */
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 48px;
+  }
+
+  .stat {
+    text-align: center;
+  }
+
+  .stat-num {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+    background: linear-gradient(135deg, var(--accent), var(--cyan));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .stat-label {
+    font-size: 12px;
+    color: var(--text2);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 4px;
+  }
+
+  /* ===== Search Box ===== */
+  .search-wrapper {
+    position: relative;
+    max-width: 680px;
+    margin: 0 auto 32px;
+  }
+
+  .search-box {
+    width: 100%;
+    padding: 18px 24px 18px 56px;
+    font-size: 17px;
+    font-family: 'Inter', sans-serif;
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: 16px;
+    color: var(--text);
+    outline: none;
+    transition: all 0.3s ease;
+  }
+
+  .search-box::placeholder { color: var(--text2); opacity: 0.6; }
+
+  .search-box:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 4px var(--glow), 0 8px 32px rgba(0,0,0,0.3);
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text2);
+    font-size: 20px;
+    pointer-events: none;
+  }
+
+  .search-count {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 13px;
+    color: var(--text2);
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* ===== Domain Tags ===== */
+  .domains {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 40px;
+  }
+
+  .domain-tag {
+    padding: 7px 16px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text2);
+    transition: all 0.25s ease;
+    user-select: none;
+  }
+
+  .domain-tag:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(56, 189, 248, 0.08);
+  }
+
+  .domain-tag.active {
+    border-color: var(--accent);
+    background: rgba(56, 189, 248, 0.15);
+    color: var(--accent);
+    box-shadow: 0 0 12px rgba(56, 189, 248, 0.2);
+  }
+
+  .domain-tag .count {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    opacity: 0.7;
+    margin-left: 4px;
+  }
+
+  /* ===== Results ===== */
+  .results-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .results-title {
+    font-size: 15px;
+    color: var(--text2);
+  }
+
+  .results-title strong {
+    color: var(--text);
+    font-weight: 600;
+  }
+
+  .results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 12px;
+    margin-bottom: 60px;
+  }
+
+  .word-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px 20px;
+    cursor: default;
+    transition: all 0.25s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .word-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0;
+    width: 3px;
+    height: 100%;
+    background: linear-gradient(180deg, var(--accent), var(--accent2));
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .word-card:hover {
+    border-color: rgba(56, 189, 248, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
+  .word-card:hover::before {
+    opacity: 1;
+  }
+
+  .word-en {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 6px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .word-zh {
+    font-size: 15px;
+    color: var(--accent);
+    margin-bottom: 10px;
+  }
+
+  .word-domains {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .word-domain-tag {
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 11px;
+    background: rgba(129, 140, 248, 0.1);
+    color: var(--accent2);
+    border: 1px solid rgba(129, 140, 248, 0.15);
+  }
+
+  .word-domain-tag.primary {
+    background: rgba(52, 211, 153, 0.1);
+    color: var(--green);
+    border-color: rgba(52, 211, 153, 0.2);
+  }
+
+  /* ===== Loading ===== */
+  .loading {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--text2);
+  }
+
+  .loading-spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ===== Footer ===== */
+  .footer {
+    text-align: center;
+    padding: 40px 0;
+    border-top: 1px solid var(--border);
+    color: var(--text2);
+    font-size: 13px;
+  }
+
+  .footer a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  /* ===== Scroll to top ===== */
+  .scroll-top {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--accent);
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s;
+    z-index: 10;
+  }
+
+  .scroll-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .scroll-top:hover {
+    background: var(--surface2);
+    border-color: var(--accent);
+  }
+
+  /* ===== Empty State ===== */
+  .empty-state {
+    text-align: center;
+    padding: 60px 0;
+    color: var(--text2);
+  }
+
+  .empty-state .icon {
+    font-size: 48px;
+    margin-bottom: 16px;
+    opacity: 0.5;
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 640px) {
+    .hero { padding: 60px 0 24px; }
+    .stats { gap: 24px; }
+    .stat-num { font-size: 22px; }
+    .results-grid { grid-template-columns: 1fr; }
+    .domains { gap: 6px; }
+    .domain-tag { padding: 5px 12px; font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<canvas id="particles"></canvas>
+
+<div class="app">
+  <div class="hero">
+    <h1><span class="gradient">英汉化学化工词汇</span></h1>
+    <p>基于《英汉化学化工词汇（第五版）》的 151,337 条中英文对照化学词汇数据集</p>
+  </div>
+
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-num" id="stat-total">151,337</div>
+      <div class="stat-label">词汇总量</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">16</div>
+      <div class="stat-label">化学领域</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num">57</div>
+      <div class="stat-label">细分方向</div>
+    </div>
+  </div>
+
+  <div class="search-wrapper">
+    <span class="search-icon">&#128269;</span>
+    <input type="text" class="search-box" id="searchInput" placeholder="搜索英文或中文词汇..." autocomplete="off">
+    <span class="search-count" id="searchCount"></span>
+  </div>
+
+  <div class="domains" id="domainTags"></div>
+
+  <div class="results-header">
+    <div class="results-title" id="resultsTitle"></div>
+  </div>
+
+  <div class="results-grid" id="resultsGrid">
+    <div class="loading">
+      <div class="loading-spinner"></div>
+      <div>正在加载词汇数据...</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <p>Data source: 英汉化学化工词汇（第五版） | ISBN: 978-7-03-046913-7 | <a href="https://github.com">GitHub</a></p>
+  </div>
+</div>
+
+<div class="scroll-top" id="scrollTop">&#8593;</div>
+
+<script>
+// ===== Domain Config =====
+const DOMAIN_CN = {
+  organic_chemistry: '有机化学', inorganic_chemistry: '无机化学',
+  physical_chemistry: '物理化学', analytical_chemistry: '分析化学',
+  biochemistry: '生物化学', pharmaceutical_chemistry: '药物化学',
+  chemical_engineering: '化工', materials_science: '材料科学',
+  polymer_science: '高分子科学', environmental_science: '环境科学',
+  food_science: '食品科学', geological_chemistry: '地球化学',
+  general_chemistry: '通用化学', nuclear_science: '核科学',
+  dye_pigment: '染料颜料', catalysis: '催化',
+};
+
+const DOMAIN_COLORS = {
+  organic_chemistry: '#38bdf8', inorganic_chemistry: '#fb923c',
+  physical_chemistry: '#a78bfa', analytical_chemistry: '#34d399',
+  biochemistry: '#f472b6', pharmaceutical_chemistry: '#fbbf24',
+  chemical_engineering: '#22d3ee', materials_science: '#c084fc',
+  polymer_science: '#4ade80', environmental_science: '#2dd4bf',
+  food_science: '#fb7185', geological_chemistry: '#a3a3a3',
+  general_chemistry: '#64748b', nuclear_science: '#ef4444',
+  dye_pigment: '#e879f9', catalysis: '#facc15',
+};
+
+// ===== State =====
+let allWords = [];
+let domainData = {};
+let currentDomain = null;
+let currentQuery = '';
+const PAGE_SIZE = 60;
+let displayCount = PAGE_SIZE;
+
+// ===== Particle Background =====
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+let particles = [];
+const PARTICLE_COUNT = 50;
+
+function resizeCanvas() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+
+function createParticle() {
+  return {
+    x: Math.random() * canvas.width,
+    y: Math.random() * canvas.height,
+    vx: (Math.random() - 0.5) * 0.3,
+    vy: (Math.random() - 0.5) * 0.3,
+    r: Math.random() * 2 + 1,
+    color: ['rgba(56,189,248,', 'rgba(129,140,248,', 'rgba(167,139,250,'][Math.floor(Math.random() * 3)],
+    alpha: Math.random() * 0.4 + 0.1,
+  };
+}
+
+function initParticles() {
+  resizeCanvas();
+  particles = Array.from({ length: PARTICLE_COUNT }, createParticle);
+}
+
+function drawParticles() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  for (let i = 0; i < particles.length; i++) {
+    const p = particles[i];
+    p.x += p.vx; p.y += p.vy;
+    if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
+    if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+    ctx.fillStyle = p.color + p.alpha + ')';
+    ctx.fill();
+    // Draw connections
+    for (let j = i + 1; j < particles.length; j++) {
+      const p2 = particles[j];
+      const dx = p.x - p2.x, dy = p.y - p2.y;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist < 150) {
+        ctx.beginPath();
+        ctx.moveTo(p.x, p.y);
+        ctx.lineTo(p2.x, p2.y);
+        ctx.strokeStyle = `rgba(56,189,248,${0.06 * (1 - dist / 150)})`;
+        ctx.lineWidth = 0.5;
+        ctx.stroke();
+      }
+    }
+  }
+  requestAnimationFrame(drawParticles);
+}
+
+window.addEventListener('resize', resizeCanvas);
+initParticles();
+drawParticles();
+
+// ===== Data Loading =====
+async function loadData() {
+  try {
+    // Try loading from relative path first, fallback to data/
+    let resp;
+    try {
+      resp = await fetch('data/full/glossary.json');
+      if (!resp.ok) throw new Error();
+    } catch {
+      resp = await fetch('data/glossary.json');
+    }
+    allWords = await resp.json();
+    document.getElementById('stat-total').textContent = allWords.length.toLocaleString();
+  } catch (e) {
+    // Fallback: try by_domain.json
+    try {
+      const resp = await fetch('data/by_domain.json');
+      domainData = await resp.json();
+      allWords = [];
+      for (const [domain, words] of Object.entries(domainData)) {
+        for (const w of words) {
+          allWords.push({ ...w, _domain: domain });
+        }
+      }
+      document.getElementById('stat-total').textContent = allWords.length.toLocaleString();
+    } catch (e2) {
+      document.getElementById('resultsGrid').innerHTML = '<div class="empty-state"><div class="icon">&#128533;</div><p>无法加载数据文件</p><p style="font-size:13px;margin-top:8px;color:var(--text2)">请确保 data/full/glossary.json 或 data/by_domain.json 存在</p></div>';
+      return;
+    }
+  }
+  renderDomainTags();
+  renderResults();
+  animateEntrance();
+}
+
+// ===== Domain Tags =====
+function renderDomainTags() {
+  const container = document.getElementById('domainTags');
+  // Count domains from allWords
+  const counts = {};
+  for (const w of allWords) {
+    const domains = w.domains || (w._domain ? [{ domain: w._domain }] : []);
+    for (const d of domains) {
+      const key = d.domain || d;
+      counts[key] = (counts[key] || 0) + 1;
+    }
+  }
+  // Sort by count
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  let html = `<div class="domain-tag active" data-domain="all">全部<span class="count">${allWords.length.toLocaleString()}</span></div>`;
+  for (const [key, count] of sorted) {
+    const cn = DOMAIN_CN[key] || key;
+    html += `<div class="domain-tag" data-domain="${key}">${cn}<span class="count">${count.toLocaleString()}</span></div>`;
+  }
+  container.innerHTML = html;
+
+  // Click handlers
+  container.querySelectorAll('.domain-tag').forEach(tag => {
+    tag.addEventListener('click', () => {
+      container.querySelectorAll('.domain-tag').forEach(t => t.classList.remove('active'));
+      tag.classList.add('active');
+      currentDomain = tag.dataset.domain === 'all' ? null : tag.dataset.domain;
+      displayCount = PAGE_SIZE;
+      renderResults();
+      animateResults();
+    });
+  });
+}
+
+// ===== Search & Filter =====
+function getFiltered() {
+  let words = allWords;
+  if (currentDomain) {
+    words = words.filter(w => {
+      const domains = w.domains || (w._domain ? [{ domain: w._domain }] : []);
+      return domains.some(d => (d.domain || d) === currentDomain);
+    });
+  }
+  if (currentQuery) {
+    const q = currentQuery.toLowerCase();
+    words = words.filter(w => {
+      if (w.en && w.en.toLowerCase().includes(q)) return true;
+      if (w.zh && w.zh.includes(q)) return true;
+      return false;
+    });
+  }
+  return words;
+}
+
+// ===== Render Results =====
+function renderResults() {
+  const filtered = getFiltered();
+  const grid = document.getElementById('resultsGrid');
+  const title = document.getElementById('resultsTitle');
+  const countEl = document.getElementById('searchCount');
+
+  const display = filtered.slice(0, displayCount);
+  const hasMore = filtered.length > displayCount;
+
+  if (currentQuery) {
+    countEl.textContent = `${filtered.length.toLocaleString()} 条`;
+  } else {
+    countEl.textContent = '';
+  }
+
+  if (display.length === 0) {
+    grid.innerHTML = '<div class="empty-state"><div class="icon">&#128270;</div><p>未找到匹配的词汇</p></div>';
+    title.innerHTML = '';
+    return;
+  }
+
+  title.innerHTML = `显示 <strong>${Math.min(displayCount, filtered.length).toLocaleString()}</strong> / ${filtered.length.toLocaleString()} 条`;
+
+  let html = '';
+  for (let i = 0; i < display.length; i++) {
+    const w = display[i];
+    const domains = w.domains || (w._domain ? [{ domain: w._domain, role: 'primary' }] : []);
+
+    let domainTags = '';
+    for (const d of domains) {
+      const key = d.domain || d;
+      const cn = DOMAIN_CN[key] || key;
+      const isPrimary = d.role === 'primary' || domains.indexOf(d) === 0;
+      domainTags += `<span class="word-domain-tag${isPrimary ? ' primary' : ''}">${cn}</span>`;
+    }
+
+    html += `<div class="word-card" data-idx="${i}">
+      <div class="word-en">${highlightQuery(w.en || '')}</div>
+      <div class="word-zh">${highlightQuery(w.zh || '')}</div>
+      <div class="word-domains">${domainTags}</div>
+    </div>`;
+  }
+
+  if (hasMore) {
+    html += `<div class="word-card" id="loadMore" style="text-align:center;cursor:pointer;color:var(--accent);border-style:dashed;" data-idx="${display.length}">
+      加载更多 (${filtered.length - displayCount} 条剩余)
+    </div>`;
+  }
+
+  grid.innerHTML = html;
+
+  // Load more handler
+  const loadMore = document.getElementById('loadMore');
+  if (loadMore) {
+    loadMore.addEventListener('click', () => {
+      displayCount += PAGE_SIZE;
+      renderResults();
+      animateResults();
+    });
+  }
+}
+
+function highlightQuery(text) {
+  if (!currentQuery) return text;
+  const q = currentQuery;
+  const regex = new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+  return text.replace(regex, '<mark style="background:rgba(56,189,248,0.25);color:var(--accent);border-radius:2px;padding:0 2px;">$1</mark>');
+}
+
+// ===== Animations =====
+function animateEntrance() {
+  // Hero elements
+  anime({ targets: '.hero h1', opacity: [0, 1], translateY: [30, 0], duration: 800, easing: 'easeOutExpo' });
+  anime({ targets: '.hero p', opacity: [0, 1], translateY: [20, 0], duration: 700, easing: 'easeOutExpo', delay: 300 });
+  anime({ targets: '.stats', opacity: [0, 1], translateY: [20, 0], duration: 600, easing: 'easeOutExpo', delay: 400 });
+  anime({ targets: '.search-wrapper', opacity: [0, 1], translateY: [20, 0], duration: 600, easing: 'easeOutExpo', delay: 500 });
+  anime({ targets: '.domains', opacity: [0, 1], translateY: [20, 0], duration: 600, easing: 'easeOutExpo', delay: 600 });
+
+  // Animate stat numbers
+  document.querySelectorAll('.stat-num').forEach(el => {
+    const target = parseInt(el.textContent.replace(/,/g, ''));
+    if (!isNaN(target)) {
+      const obj = { val: 0 };
+      anime({
+        targets: obj,
+        val: target,
+        duration: 1500,
+        easing: 'easeOutExpo',
+        delay: 500,
+        update: () => { el.textContent = Math.round(obj.val).toLocaleString(); }
+      });
+    }
+  });
+
+  setTimeout(animateResults, 700);
+}
+
+function animateResults() {
+  anime({
+    targets: '.word-card',
+    opacity: [0, 1],
+    translateY: [24, 0],
+    scale: [0.97, 1],
+    duration: 400,
+    easing: 'easeOutExpo',
+    delay: anime.stagger(30),
+  });
+}
+
+// ===== Search Input =====
+let searchTimer;
+document.getElementById('searchInput').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    currentQuery = e.target.value.trim();
+    displayCount = PAGE_SIZE;
+    renderResults();
+    animateResults();
+  }, 200);
+});
+
+// ===== Scroll to Top =====
+const scrollBtn = document.getElementById('scrollTop');
+window.addEventListener('scroll', () => {
+  scrollBtn.classList.toggle('visible', window.scrollY > 400);
+});
+scrollBtn.addEventListener('click', () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// ===== Init =====
+loadData();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,7082 @@
+[
+  {
+    "en": "absolute crystallinity",
+    "zh": "绝对结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "abutment joint",
+    "zh": "对接接头",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "accelerated sulfur vulcanization",
+    "zh": "促进硫硫化*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid-curing",
+    "zh": "酸固化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "acid mist analysis at atmosphere",
+    "zh": "大气中的酸雾分析",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "acid spinning bath",
+    "zh": "酸性纺丝浴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid spinning process",
+    "zh": "酸性(浴)纺丝法；酸性纺丝过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "acid treatment",
+    "zh": "酸处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "activated montmorillonite clay",
+    "zh": "活性微晶高岭土",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "activating treatment",
+    "zh": "活化处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adaptor coextrusion",
+    "zh": "接套式共挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "additional treatment",
+    "zh": "补充处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "additional vulcanization",
+    "zh": "后硫化；二次硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "adduct curing agent(=crosslinking agent)",
+    "zh": "加成固化剂；交联剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "adiabatic extrusion",
+    "zh": "绝热压出；自热压出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "adjustment",
+    "zh": "调节；调整;安排",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adjustment of mixture",
+    "zh": "混合物组分的调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "adjustment tank",
+    "zh": "调配槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "advanced treatment",
+    "zh": "深度处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "advanced treatment method",
+    "zh": "高级处理法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "advanced wastewater treatment",
+    "zh": "高级废水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aerobic treatment",
+    "zh": "好氧处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aerosphere(=atmosphere)",
+    "zh": "大气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after-treatment",
+    "zh": "后处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after treatment aids",
+    "zh": "后处理助剂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after treatment bath",
+    "zh": "后处理浴",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "after-vulcanization",
+    "zh": "后硫化作用",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "agricultural rheology",
+    "zh": "农业流变学；农艺流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air-assist vacuum thermoforming",
+    "zh": "气助真空热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air blowing treatment",
+    "zh": "吹气处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "air curing",
+    "zh": "空气固化；常温固化；自然硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air curing type cement",
+    "zh": "硫化型胶浆；常温硫化胶浆",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air plus steam vulcanization",
+    "zh": "混气硫化（空气和蒸气并用）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "air spinning",
+    "zh": "气流纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "airspinning-cell",
+    "zh": "干法纺丝仓",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "airspinning die",
+    "zh": "干法纺丝板",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "airspinning-dope",
+    "zh": "干法纺丝液",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "air vulcanization",
+    "zh": "常温硫化；室温硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "alkali method of spinning",
+    "zh": "碱法纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "alkaline chromate treatment",
+    "zh": "碱性铬酸盐处理法（铝的表面处理法）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkali treatment",
+    "zh": "碱处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkali weight-loss treatment",
+    "zh": "碱(法)减量处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alkylammonium montmorillonite",
+    "zh": "烷基铵蒙脱石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Alocrom pretreatment tank",
+    "zh": "阿铝克铬姆预处理槽；酸式铬酸盐-磷酸盐预处理槽",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating damp heat atmosphere",
+    "zh": "交变湿热环境; 湿热交变气氛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alternating humidity atmosphere",
+    "zh": "交变湿度环境",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "alumilite treatment",
+    "zh": "阳极氧化铝被膜处理法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "amine curing agent",
+    "zh": "胺固化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ammonia treatment",
+    "zh": "氨处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anaerobic biological treatment",
+    "zh": "厌氧生物处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anaerobic sewage treatment",
+    "zh": "厌氧性污水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anaerobic treatment",
+    "zh": "厌气处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "angle extrusion head",
+    "zh": "斜角压出机头；Y形机头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "anhydride curing agent",
+    "zh": "酸酐固化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "annealing treatment",
+    "zh": "退火处理；热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anode chamber(=anode compartment)",
+    "zh": "阳极室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anode compartment(=anode chamber)",
+    "zh": "阳极室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anodic treatment",
+    "zh": "阳极处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anolyte compartment",
+    "zh": "阳极液室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anticoking treatment",
+    "zh": "防焦处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "antidimming ointment",
+    "zh": "抗朦软膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "anti-extrusion ring",
+    "zh": "抗挤胶圈",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "antiseptic treatment",
+    "zh": "防腐处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "antistatic treatment",
+    "zh": "抗静电处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apartment kiln",
+    "zh": "分室干燥窑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apodization treatment",
+    "zh": "截趾处理；变迹处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "apparent double glass transition",
+    "zh": "表观双重玻璃化转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "appendix number(=ASTM appendix number)",
+    "zh": "美国材料试验学会附录号",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "aqueous salt spinning",
+    "zh": "盐溶液纺丝(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "aqueous spinning bath",
+    "zh": "水溶液纺丝浴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "arrestment",
+    "zh": "制动",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "artificial catgut",
+    "zh": "人造肠线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "assembling department",
+    "zh": "成型车间;装配车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "assembly department",
+    "zh": "装配间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "assessment of atmospheric environment",
+    "zh": "大气环境评价",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "assortment",
+    "zh": "品种；花式;分类；分级拣选；拣选；挑拣",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM appendix number ASTM",
+    "zh": "临时规范号",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM colour standard ASTM",
+    "zh": "标准色泽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM designation",
+    "zh": "美国材料试验学会标准编号",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM end point ASTM",
+    "zh": "终沸点（根据 ASTM 法蒸馏石油产品的终沸点）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM gum test ASTM",
+    "zh": "胶质测定",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM octane number ASTM",
+    "zh": "辛烷值（马达法）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM sampling procedures ASTM",
+    "zh": "取样程序",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM specifications ASTM",
+    "zh": "技术规范",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM standards",
+    "zh": "美国材料试验学会标准；ASTM 标准",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ASTM timer tube",
+    "zh": "美国材料试验学会式自动定时管",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atm",
+    "zh": "(=atmosphere)大气;(=atmospheric pressure)(标准)大气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmolysis",
+    "zh": "微孔分气法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmometer",
+    "zh": "汽化计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmophile element",
+    "zh": "亲气元素",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmos",
+    "zh": "大气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmosphere (=aerosphere)",
+    "zh": "大气;(大)气压;气氛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmosphere pressure ionization source",
+    "zh": "大气压电离源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric",
+    "zh": "大气的;空气的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric acidity",
+    "zh": "大气酸度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric aging",
+    "zh": "大气(作用)老化；自然老化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospherical",
+    "zh": "大气的;空气的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric ambient factors",
+    "zh": "周围自然因素；天候因素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric background",
+    "zh": "大气本底值",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric brown clouds",
+    "zh": "大气棕色云",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric chemistry",
+    "zh": "大气化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric circulation",
+    "zh": "大气环流",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric circulation type water cooler",
+    "zh": "空气循环式水冷器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric circulation water cooler",
+    "zh": "空气循环凉水器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric-compartment drier",
+    "zh": "常压干燥室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric composition",
+    "zh": "大气组成",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric condenser",
+    "zh": "空气冷凝器；常压冷凝器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric cooling tower",
+    "zh": "空气冷却塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric corrosive agent",
+    "zh": "大气腐蚀剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric crack",
+    "zh": "风化裂纹；大气(作用)开裂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric cracking",
+    "zh": "大气(作用)龟裂；自然龟裂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric dispersion",
+    "zh": "大气色散",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric drier",
+    "zh": "空气干燥器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric drum drier",
+    "zh": "鼓式常压干燥器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric drying",
+    "zh": "大气干燥",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric dynamics",
+    "zh": "大气动力学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric environment capacity",
+    "zh": "大气环境容量",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric exposure test",
+    "zh": "空气暴露试验；耐候性试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric fading protective agent",
+    "zh": "大气褪色防护剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric fallout",
+    "zh": "大气沉降物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric flash tower",
+    "zh": "常压闪蒸塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric fluidized bed combustion",
+    "zh": "常压流化床燃烧",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric homeostasis",
+    "zh": "大气(成分)稳态",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric humidity",
+    "zh": "大气湿度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric isolation",
+    "zh": "大气隔绝",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric marine environment",
+    "zh": "海洋大气环境",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric moisture",
+    "zh": "空气湿度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric monitoring",
+    "zh": "大气监测",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric nitric acid process",
+    "zh": "常压硝酸工艺",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric oxidant",
+    "zh": "大气氧化剂；大气中氧化性污染物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric oxidation",
+    "zh": "空气氧化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric oxygen",
+    "zh": "大气氧；空气氧",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric particulate matter",
+    "zh": "大气颗粒物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric particulates",
+    "zh": "大气颗粒物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric photolysis",
+    "zh": "大气光解作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pipe",
+    "zh": "通大气管路",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollutant",
+    "zh": "大气污染物（指大气中的二氧化硫、二氧化氮等污染物）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollutant monitoring",
+    "zh": "大气污染监测",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric polluting material",
+    "zh": "大气污染物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution",
+    "zh": "大气污染",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution chemistry",
+    "zh": "大气污染化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution continue automatic monitoring system",
+    "zh": "大气污染连续自动监测系统",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution control engineering",
+    "zh": "大气污染防治工程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution network",
+    "zh": "大气污染监视网",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pollution sources",
+    "zh": "大气污染源",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure",
+    "zh": "大气压(力)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure chemical ionization(APCI)",
+    "zh": "大气压化学电离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure ionization",
+    "zh": "大气压电离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure ionization mass spectroscopy",
+    "zh": "常压电离质谱；常压电离质谱法；大气压电离质谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure kiln",
+    "zh": "常压炉；常压加热炉",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure photoionization",
+    "zh": "大气压光致电离",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure storage tank",
+    "zh": "常压油罐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric pressure vulcanization",
+    "zh": "常压硫化",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "atmospheric radical",
+    "zh": "大气自由基",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric radiochemistry",
+    "zh": "大气放射化学",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric relief value",
+    "zh": "大气安全阀；泄气阀",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric re-run",
+    "zh": "常压重馏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric sampling method without power",
+    "zh": "大气样品无动力采集法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric sampling technology",
+    "zh": "大气样品采集技术",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric sphere",
+    "zh": "大气圈，气圈",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric steam",
+    "zh": "常压蒸汽（一个大气压的水蒸气）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric still",
+    "zh": "常压管式加热炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric storage tank",
+    "zh": "常压储槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric suspended matter",
+    "zh": "大气悬浮物",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric temperature",
+    "zh": "常温",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric (temperature) overflow dyeing machine",
+    "zh": "常温溢流染色机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric topping",
+    "zh": "常压拔顶(蒸馏)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric trace gas",
+    "zh": "大气痕量气体",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric turbulence",
+    "zh": "大气湍流",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmospheric valve",
+    "zh": "空气阀；放空阀",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "atmotherapy",
+    "zh": "吸汽疗法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "auto-centering adjustment device in sectional warping machine",
+    "zh": "筒子架自动对中装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "autogenous extrusion",
+    "zh": "自热挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "autothermal extrusion",
+    "zh": "自热挤塑；自热挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "auto-vulcanization",
+    "zh": "常温硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auxiliary curing agent",
+    "zh": "助硫化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "auxiliary department",
+    "zh": "辅助车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "average outgoing quality",
+    "zh": "平均检出质量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "avivage treatment (",
+    "zh": "人造丝)增柔处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azolitmin",
+    "zh": "石蕊素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "azolitmin paper",
+    "zh": "石蕊素试纸；石蕊精试纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "back-extrusion",
+    "zh": "反向挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baking compartment",
+    "zh": "焙烤间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "band extrusion process",
+    "zh": "带条挤压法；铸带方法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "band spinning",
+    "zh": "条料纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "baseline adjustment",
+    "zh": "基线调整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bast fiber spinning",
+    "zh": "麻纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "batch method of treatment",
+    "zh": "分批处理法; 间歇式处理方法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bergamot petitgain oil",
+    "zh": "香柠檬叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "best available treatment",
+    "zh": "最佳可行处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bilateral vulcanization",
+    "zh": "双面硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bin curing(=shelf curing)",
+    "zh": "存放自硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "biochemical treatment process",
+    "zh": "生化处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biological monitoring for atmospheric pollution",
+    "zh": "大气污染的生物监测",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biological treatment",
+    "zh": "生物处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "biorheology",
+    "zh": "生物流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bitter orange leaf oil(=petitgrain bigarade oil)",
+    "zh": "苦橙叶油bituminous rock 沥青岩",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bituminous treatment",
+    "zh": "沥青处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "black oxide treatment",
+    "zh": "黑化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blanketing atmosphere",
+    "zh": "覆盖大气层；保护性气层",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blasting treatment",
+    "zh": "喷砂处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "blended spinning",
+    "zh": "共混纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blocked curing agent",
+    "zh": "封存性固化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "blow extrusion",
+    "zh": "挤出吹胀（薄膜）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blow-extrusion film",
+    "zh": "吹挤薄膜",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blow molding",
+    "zh": "吹塑*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "blow molding cycle",
+    "zh": "吹塑周期",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "blown extrusion",
+    "zh": "吹胀挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "blown-film extrusion",
+    "zh": "吹胀薄膜挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "box of the spinning machine",
+    "zh": "纺机箱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "box spinning (",
+    "zh": "离心)罐式纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "box spinning machine",
+    "zh": "离心纺机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "brush treatment",
+    "zh": "(钢)刷除锈;刷涂防腐蚀漆(剂)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "bulge extrusion",
+    "zh": "鼓泡挤塑法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "bulk longitudinal viscoelasticity",
+    "zh": "体积纵向黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "bulk viscoelasticity(=volume viscoelasticity)",
+    "zh": "体积黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "burn ointment",
+    "zh": "烧伤油膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Burrell-Severs extrusion rheometer",
+    "zh": "伯勒尔-西弗斯挤压流变仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cage spinning",
+    "zh": "尘笼纺纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cake spinning",
+    "zh": "丝饼式纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "calander department",
+    "zh": "研光车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calcining compartment",
+    "zh": "煅烧室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "calendering",
+    "zh": "压延 ; 轧光",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Ca-montmorillonite",
+    "zh": "钙-蒙脱石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "can of spinning machine",
+    "zh": "纺丝罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "can spinning machine",
+    "zh": "罐式纺丝机解器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capillary extrusion",
+    "zh": "毛细管挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "capillary extrusion rheometer",
+    "zh": "毛细管挤出流变仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "carbonizing treatment",
+    "zh": "碳化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cast film extrusion (=chill roll extrusion)",
+    "zh": "平挤薄膜挤塑;骤冷辊挤塑法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "catalyst pretreatment",
+    "zh": "催化剂预处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catalytic curing",
+    "zh": "催化固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "catalytic thermal treatment",
+    "zh": "催化热处理; 催化热加工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cathode box",
+    "zh": "阴极箱 cathode chamber (=cathode compartment; cathode",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "department)",
+    "zh": "阴极区；阴极室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cathode compartment (=cathode chamber)",
+    "zh": "阴极区；阴极室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cathode department (=cathode chamber)",
+    "zh": "阴极区",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catholyte compartment",
+    "zh": "阴极液室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "catmint",
+    "zh": "荆芥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cell compartment",
+    "zh": "池间隔；吸收池室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cell-type spinning system",
+    "zh": "仓式熔体纺丝装置",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "centrifugal box-spinning machine",
+    "zh": "离心罐式纺丝机；离心式纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "centrifugal spinning",
+    "zh": "离心纺丝(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "centrifugal viscose rayon spinning machine",
+    "zh": "离心式黏胶人造丝纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chain extension-crosslinking",
+    "zh": "扩链交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chamber drier (=compartment drier)",
+    "zh": "间格干燥器;分室干燥器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "charring-and-spraying treatment",
+    "zh": "炭化喷涂处理（木材防腐）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical crosslinking",
+    "zh": "化学交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical crosslinking agent",
+    "zh": "化学交联剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemical after-treatment",
+    "zh": "化学后处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical fibre spinning machinery",
+    "zh": "化学纤维纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical pretreatment agent",
+    "zh": "化学预处理剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical spinning",
+    "zh": "化学(反应)纺丝法；反应纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chemical treatment",
+    "zh": "化学处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "chemical vulcanization",
+    "zh": "化学硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chemorheology",
+    "zh": "化学流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "chill roll extrusion (=cast film extrusion)",
+    "zh": "平挤薄膜挤塑；骤冷辊挤塑法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "chlorotrimethylsilane (TMCS)",
+    "zh": "三甲基氯硅烷 (CH₃)₃SiCl",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cholic acid (=chololic acid; colalin)",
+    "zh": "胆酸; 3,7,12-三羟甾代异戊酸 cholic acid treatment 胆酸处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "citrine ointment",
+    "zh": "柠檬色软膏；硝酸汞软膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clay treating process (=clay treatment)",
+    "zh": "黏土处理过程；白土精制过程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "clay treatment (=clay treating process)",
+    "zh": "黏土处理过程；白土精制过程",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cleaning treatment",
+    "zh": "净化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "close tolerance extrusion",
+    "zh": "精密压出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coagulation treatment",
+    "zh": "凝结处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coarse adjustment",
+    "zh": "粗调",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "coaxial extrusion",
+    "zh": "同轴挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "co-crosslinking",
+    "zh": "共交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cocuring agent",
+    "zh": "助硫化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coefficient of vulcanization",
+    "zh": "硫化系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "coextrusion",
+    "zh": "复合挤压；共挤压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion barrier",
+    "zh": "共挤阻透层",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion blow",
+    "zh": "共挤吹塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion blow molding",
+    "zh": "共挤吹塑",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "coextrusion casting",
+    "zh": "共挤流延",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion coating",
+    "zh": "共挤贴合",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion die",
+    "zh": "共挤塑模头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion laminating",
+    "zh": "共挤层合",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coextrusion molding",
+    "zh": "共挤出成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "coinjection molding",
+    "zh": "共注塑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "cold acid treatment",
+    "zh": "冷酸处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cold compression molding",
+    "zh": "冷压模制法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cold-curing",
+    "zh": "冷固化;冷熟化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cold vulcanization",
+    "zh": "冷硫化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "collapsing treatment (",
+    "zh": "纤维)致密处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combination treatment",
+    "zh": "联合处理，混合处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "combined spinning twisting frame",
+    "zh": "纺捻联合机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "Committee D-2 D-2",
+    "zh": "委员会(ASTM)(负责石油产品及润滑刘方面分析技术规范的议定)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Committee D-3 D-3",
+    "zh": "委员会(ASTM)(负责气体燃料分析技术规范的议定)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Committee D-4 D-4",
+    "zh": "委员会(ASTM)(负责筑路及路面材料分析技术规范的议定)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Committee D-16 D-16",
+    "zh": "委员会(ASTM)(负责工业芳烃分析技术规范的议定)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compact spinning",
+    "zh": "紧凑纺丝；短程纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compartment",
+    "zh": "室；间格;层",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartmentalization",
+    "zh": "区域化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartmentalization effect",
+    "zh": "分隔效应",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartmentation",
+    "zh": "区域化",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartment drier (=chamber drier)",
+    "zh": "间格干燥器；分室干燥器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartment furnace (=compartment kiln)",
+    "zh": "间格窑；间格炉",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartment mill",
+    "zh": "间格磨；分室磨碎机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compartment tray",
+    "zh": "间格盘",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "complete treatment",
+    "zh": "完全处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "composite extrusion",
+    "zh": "复合挤塑;复合材料挤塑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "compound department",
+    "zh": "混合(车)间",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "compression molding",
+    "zh": "平板硫化(法);压缩模塑(法);压模(法)(塑料)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "condensing spinning system",
+    "zh": "集聚纺纱装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "conditioned atmosphere",
+    "zh": "公定温湿度",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "conditions of vulcanization",
+    "zh": "硫化条件",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "confined-growth crystallinity",
+    "zh": "限制生长结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "conjugate spinning",
+    "zh": "复合纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "constant-length heat treatment",
+    "zh": "定长热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "contact treatment with Fuller's earth (",
+    "zh": "石油产品)用白土接触精制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "continuous curing",
+    "zh": "连续硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "continuous extrusion",
+    "zh": "连续挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous extrusion blowing",
+    "zh": "连续挤坏吹塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous extrusion cold tube process",
+    "zh": "连续挤出冷管坯(吹塑)法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous extrusion moulding",
+    "zh": "连续挤出模塑(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous spinning",
+    "zh": "连续纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous spinning process",
+    "zh": "连续纺丝过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous thermoforming",
+    "zh": "连续热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "continuous vulcanization",
+    "zh": "连续硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "contour extrusion",
+    "zh": "异型挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "controlled atmosphere",
+    "zh": "控制气氛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "converter spinning process",
+    "zh": "牵切纺纱法；直接成条纺纱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "cooling water treatment",
+    "zh": "冷却水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "copper aftertreatment",
+    "zh": "铜后处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "corrosive atmosphere",
+    "zh": "腐蚀性空气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cospinning",
+    "zh": "共纺*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "counter-current treatment",
+    "zh": "逆流处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "crosslinking",
+    "zh": "交联*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking action",
+    "zh": "交联反应",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking agent (=adduct curing agent)",
+    "zh": "加成固化剂；交联剂",
+    "role": "primary",
+    "confidence": 6.0
+  },
+  {
+    "en": "crosslinking catalyst",
+    "zh": "交联催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking coefficient",
+    "zh": "交联系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking degree",
+    "zh": "交联度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking density",
+    "zh": "交联密度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking efficiency",
+    "zh": "交联效率",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking index",
+    "zh": "交联指数*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking indicator",
+    "zh": "交联指示剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking ligand",
+    "zh": "交联配体",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking of polymer",
+    "zh": "聚合物交联反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking plasticizer",
+    "zh": "交联性增塑剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking rate",
+    "zh": "交联速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking side reaction",
+    "zh": "交联副反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking site",
+    "zh": "交联点",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crosslinking structure",
+    "zh": "交联结构",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallinity",
+    "zh": "结晶性；结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "crystallinity index",
+    "zh": "结晶度指数",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curative treatment",
+    "zh": "修补处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "cure agent (=curing agent)",
+    "zh": "固化剂；硬化剂;硫化剂;熟化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cure cycle (=curing cycle)",
+    "zh": "固化周期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "cure reaction (= curing reaction)",
+    "zh": "固化反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing",
+    "zh": "固化*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing accelerator",
+    "zh": "固化促进剂;硫化促进剂（橡胶）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing agent",
+    "zh": "熟化剂；硫化剂（在橡胶工业中 curing 意指硫化）；固化剂；腌制剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing agent blush",
+    "zh": "固化剂(致)泛白（环氧涂料用胺类固化剂，如湿度大，则易泛白）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing aid dispersions",
+    "zh": "预分散硫化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing arm",
+    "zh": "熟化心轴",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing bag",
+    "zh": "熟化室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing behaviour",
+    "zh": "固化特性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing bladder",
+    "zh": "硫化胶囊",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing catalyst",
+    "zh": "硫化促进剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing chamber",
+    "zh": "熟化室",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing characteristics",
+    "zh": "固化特性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing core",
+    "zh": "熟化心轴",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing cycle",
+    "zh": "硫化周期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing degree",
+    "zh": "固化度;硫化度;熟化度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing diaphragm",
+    "zh": "硫化隔膜",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing exotherm",
+    "zh": "固化放热",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing fixture",
+    "zh": "固化夹具",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing fluid",
+    "zh": "硫化流体〔指硫化介质〕",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing level",
+    "zh": "硫化(程)度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing mechanism",
+    "zh": "固化机理；固化机制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing medium",
+    "zh": "硫化介质",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing oven",
+    "zh": "固化烘箱；固化炉；固化烘干炉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing parameter",
+    "zh": "硫化参数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing period",
+    "zh": "养护期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing polyol",
+    "zh": "固化用多元醇",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing press",
+    "zh": "平板(硫化)机",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing rate",
+    "zh": "硫化速度；固化速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing speed",
+    "zh": "硫化速度；固化速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing stress",
+    "zh": "固化应力",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing system",
+    "zh": "硫化体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing temperature",
+    "zh": "熟化温度;固化温度;硫化温度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing test",
+    "zh": "熟化试验",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing time",
+    "zh": "熟化期;硫化期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing time lag",
+    "zh": "硫化时间滞后",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing tube",
+    "zh": "薄壁水胎;硫化管道",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "curing tunnel",
+    "zh": "隧道式固化炉;隧道式塑化箱",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dash adjustment",
+    "zh": "缓冲调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "de-",
+    "zh": "脱；去；除；解；减；消；反；止 11-deacetoxywortmamin 11-去乙酸基渥曼青霉素",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deaerated biological treatment",
+    "zh": "脱气生化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "degree of crosslinking",
+    "zh": "交联度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "degree of crystallinity",
+    "zh": "结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "demi-sec spinning",
+    "zh": "半干纺精纺工艺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "density crystallinity",
+    "zh": "密度结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "deoxythymidylic acid(TMP; dTMP)",
+    "zh": "脱氧胸苷酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "department",
+    "zh": "车间;部门",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "derivative thermogravimetric analysis(DTG)",
+    "zh": "导数热重量分析；导数热重分析；微分热重分析",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "derivative thermogravimetry(DTG)",
+    "zh": "导数热重量分析法: 微商热重法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "detector compartment",
+    "zh": "检测器室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "deviation adjustment",
+    "zh": "偏差调整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "devulcanization",
+    "zh": "脱硫",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dicycuring agent",
+    "zh": "双氰胺固化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dielectric curing (",
+    "zh": "热固性塑料)介电固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "die-spinning nozzle",
+    "zh": "喷丝嘴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "differential distribution of crosslinking",
+    "zh": "交联微分分布",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "digital voltmeter",
+    "zh": "数字电压表",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Dillon extrusion plastometer",
+    "zh": "狄朗挤出塑度仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dimensionless glass transition",
+    "zh": "无因次玻璃化转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dipolar decoupling-magic angle spinning-nuclear magnetic resonance",
+    "zh": "去偶-魔角旋转-核磁共振",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "direct spinning",
+    "zh": "直接纺纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dirt-repellent treatment",
+    "zh": "防污处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "discontinuous extrusion",
+    "zh": "不连续挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "displacement crosslinking",
+    "zh": "置换交联(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "divided threadline extrusion",
+    "zh": "双丝束纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "doctor process(=doctor treatment)",
+    "zh": "博士法精制过程；亚铅酸钠精制过程",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "doctor treatment",
+    "zh": "博士法精制；亚铅酸钠精制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "double glass transition",
+    "zh": "双玻璃化转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "downward extrusion",
+    "zh": "向下挤塑(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "drawing-spinning machine",
+    "zh": "纺丝拉伸(联合)机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry acid treatment",
+    "zh": "干酸处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dry-air curing",
+    "zh": "干空气固化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry crosslinking",
+    "zh": "干交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry heating curing",
+    "zh": "干热熟化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry heat treatment method",
+    "zh": "干热处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "dry heat vulcanization",
+    "zh": "干热硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dry jet wet spinning",
+    "zh": "喷湿法纺丝；干喷湿纺法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry ring spinning",
+    "zh": "环锭干纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry spinning",
+    "zh": "干纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry spinning cell",
+    "zh": "干纺甬道；干纺丝室",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry-spinning column",
+    "zh": "干纺甬道；干纺丝室",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dry wet spinning",
+    "zh": "干湿法纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual curing technology",
+    "zh": "双重固化工艺（紫外线热固）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dual-die extrusion system",
+    "zh": "双模头挤塑装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dual-line pipe extrusion",
+    "zh": "双列管材挤塑",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "dynamic chemorheology",
+    "zh": "动态化学流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic steam devulcanization",
+    "zh": "废胶动态再生法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic viscoelasticity",
+    "zh": "动态黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "dynamic vulcanization",
+    "zh": "动态硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Eastman-Kodak process",
+    "zh": "伊斯门-科达法（由甲烷-丁烷制乙炔法）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effective atmosphere",
+    "zh": "有效(大)气压；表压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "efficient vulcanization",
+    "zh": "有效硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "effluent gas treatment system",
+    "zh": "废气处理系统",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effluent treatment",
+    "zh": "废水处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effluent treatment plant",
+    "zh": "污水净化装置；污水处理站",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "effluent treatment unit",
+    "zh": "排出物处理装置：污水处理装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrochemical treatment",
+    "zh": "电化学处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrocuring",
+    "zh": "电子束固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electro-driven spindle spinning frame",
+    "zh": "电锭细纱机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron atmosphere",
+    "zh": "电子云",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron beam crosslinking",
+    "zh": "电子束交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron beam curing",
+    "zh": "辐射交联；电子束固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron beam vulcanization",
+    "zh": "电子束硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electron curing",
+    "zh": "电子射线固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "electronic voltmeter",
+    "zh": "电子伏特计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electron spinning",
+    "zh": "电子自旋 electron spin resonance(=electron paramagnetic resonance)电子自旋共振；(电子)顺磁共振",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "electron tube voltmeter(=vacuum tube voltmeter)",
+    "zh": "电子管伏特计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "electrostatic spinning",
+    "zh": "静电纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "elementary rheology",
+    "zh": "初等流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "emulsion flash spinning method",
+    "zh": "乳液闪蒸纺丝法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion flash spinning process",
+    "zh": "乳液闪蒸纺丝法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "emulsion spinning",
+    "zh": "乳液纺丝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "endless vulcanization",
+    "zh": "连续硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "epoxy curing agent",
+    "zh": "环氧交联剂 β-(3,4-epoxycyclohexyl) ethyl trimethoxysilane β-(3,4-环氧环己基)乙基三甲氧基硅烷",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "equipment investment",
+    "zh": "设备投资",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "equivalent vulcanization",
+    "zh": "等效硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "explosive atmosphere",
+    "zh": "爆燃性空气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extent of crosslinking",
+    "zh": "交联度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "external crosslinking",
+    "zh": "外交联(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "extract atmospheric flash tower",
+    "zh": "抽出液常压闪蒸塔",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "extrusion",
+    "zh": "挤出*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion aid",
+    "zh": "助挤剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion blow molding",
+    "zh": "挤出吹塑",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "extrusion casting",
+    "zh": "挤出流铸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion coater",
+    "zh": "挤涂机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion coloring",
+    "zh": "挤出(压)着色挤塑着色",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion device",
+    "zh": "挤出装置",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion die",
+    "zh": "挤出模板；挤出模头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion die swell",
+    "zh": "挤出胀大",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion direction",
+    "zh": "挤压(出)方向",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion coating(=substrate extrusion coating)",
+    "zh": "挤压涂装",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion draw blow molding",
+    "zh": "拉吹塑成型",
+    "role": "primary",
+    "confidence": 6.5
+  },
+  {
+    "en": "extrusion-dried rubber",
+    "zh": "压出干燥法橡胶",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion dryer",
+    "zh": "螺杆脱水机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion grade",
+    "zh": "挤出级",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion head",
+    "zh": "压出机机头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion index",
+    "zh": "压出指数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion lamination",
+    "zh": "挤塑层合；挤压黏合(法)；挤压贴膜(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion land",
+    "zh": "压出口型唇口",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion line",
+    "zh": "压出(生产)流水线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion machine",
+    "zh": "压出机；挤出机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion mandrel",
+    "zh": "挤塑模芯",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion manifold",
+    "zh": "挤出料道",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion mark",
+    "zh": "挤塑印迹",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion method",
+    "zh": "顶出法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion molding",
+    "zh": "挤出成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion output",
+    "zh": "挤出量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion packing",
+    "zh": "挤压填充",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion plastometer",
+    "zh": "挤压式塑性计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion pressure",
+    "zh": "挤出压力；压出力",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion quality",
+    "zh": "压出质量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion rheometer",
+    "zh": "挤出式流变仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion rheometry",
+    "zh": "挤出流变测定法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion screw",
+    "zh": "挤出机螺杆",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion stress",
+    "zh": "挤压应力（塑性变形）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion stretched blow moulding",
+    "zh": "挤拉吹塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion swelling",
+    "zh": "挤出胀大",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion technique",
+    "zh": "压出工艺：顶出技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion technology",
+    "zh": "挤塑工艺学；挤出(压)工艺学",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion temperature",
+    "zh": "挤出温度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion theory",
+    "zh": "挤塑理论",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion type injection machine",
+    "zh": "压出式注压机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion type plastometer",
+    "zh": "挤压式塑性计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion variable",
+    "zh": "挤塑变量",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "extrusion viscometer",
+    "zh": "挤出式黏度计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fast curing cement",
+    "zh": "快硫化胶浆；常温硫化胶浆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast curing property",
+    "zh": "快速硫化特性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast curing rubber",
+    "zh": "快速硫化橡胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fast extrusion furnace",
+    "zh": "快速压出炉",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "faulty acid treatment",
+    "zh": "不合规定的硫酸精制",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "feed adjustment",
+    "zh": "调料；料液调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "feedblock coextrusion",
+    "zh": "供料头式共挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "feed compartment",
+    "zh": "加料室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fiber spinning",
+    "zh": "纤维纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "fibre aftertreatment",
+    "zh": "纤维后处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fibre crystallinity",
+    "zh": "纤维结晶度;纤维结晶性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film casting",
+    "zh": "薄膜铸塑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "film curing",
+    "zh": "漆膜固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "film extrusion",
+    "zh": "挤出成膜；薄膜挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "final curing",
+    "zh": "终固化;终塑化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "final treatment",
+    "zh": "后处理；最终处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fine adjustment",
+    "zh": "精密校正；细调；微调",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "finishing department",
+    "zh": "整理车间;完成车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "finite linear viscoelasticity",
+    "zh": "有限线性黏弹性 finite perturbation theory(FPT) 有限微扰理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Firestone extrusion plastometer",
+    "zh": "费尔斯通挤出式可塑计",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "firmo viscosity(=viscoelasticity)",
+    "zh": "黏弹性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flame curing",
+    "zh": "火焰固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flash spinning",
+    "zh": "瞬时纺丝法；急骤纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash spinning method",
+    "zh": "闪(蒸)纺(丝)法（超细纤维成形法之一）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "flash vulcanization",
+    "zh": "超速硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flow cell compartment",
+    "zh": "流动池室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flower ointment",
+    "zh": "花香软膏；花香油膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "flue curing",
+    "zh": "烟熏（烟草）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "flue gas treatment",
+    "zh": "烟道气处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fluid bed vulcanization",
+    "zh": "流动床硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fluid rheology",
+    "zh": "流体流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "foam curing",
+    "zh": "泡沫交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "formalization treatment",
+    "zh": "缩甲醛化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "formal treatment",
+    "zh": "形式处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "formula adjustment",
+    "zh": "配方调整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Fourier transform mass spectrometer(FTMS)",
+    "zh": "傅里叶变换质谱仪",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "four-point adjustment",
+    "zh": "四点调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "frame spinning",
+    "zh": "环锭纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "free-radical crosslinking agent",
+    "zh": "自由基交联剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free radical curing",
+    "zh": "自由基硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "free vulcanization",
+    "zh": "无模硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "friction calendering",
+    "zh": "擦胶压延（橡胶加工）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "fuel gas treatment",
+    "zh": "燃料气精制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "fuel volatility adjustment",
+    "zh": "燃料挥发度调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "funnel spinning process",
+    "zh": "漏斗式纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "furnace treatment",
+    "zh": "炉热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas aided injection molding",
+    "zh": "气辅注塑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas-assist injection molding",
+    "zh": "气体辅助注射成型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "gas compartment",
+    "zh": "气体空间；气体室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "gas vulcanization （",
+    "zh": "用）气体硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "gear spinning pump",
+    "zh": "纺丝齿轮泵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "gel spinning",
+    "zh": "凝胶纺(丝)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass spinning",
+    "zh": "玻璃丝纺",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "glass transition",
+    "zh": "玻璃化转变",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glass transition point",
+    "zh": "玻璃化点",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "glycol-modified polyethylene terephthalate(PETG)",
+    "zh": "醇化聚酯",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "godetless spinning machine",
+    "zh": "无导丝盘纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "grapefruit petitgrain oil",
+    "zh": "圆柚叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hardening treatment",
+    "zh": "硬化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hartmann diaphragm",
+    "zh": "哈特曼光阑",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hartmann formula",
+    "zh": "哈特曼公式",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Hartmann-Hahn matching condition",
+    "zh": "哈特曼-哈恩匹配条件",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat curing",
+    "zh": "热硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat curing accelerator",
+    "zh": "热硫化促进剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat curing system",
+    "zh": "热硫化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat of vulcanization",
+    "zh": "硫化热",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heat-relaxing treatment",
+    "zh": "热松弛处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment",
+    "zh": "热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment after welding",
+    "zh": "焊后热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment controller",
+    "zh": "热处理控制器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat treatment oil",
+    "zh": "热处理用油",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "heat vulcanization",
+    "zh": "热硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hemorheology",
+    "zh": "血液流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "heterogeneous vulcanization",
+    "zh": "不均匀硫化*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-frequency vulcanization",
+    "zh": "高频(率)硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high-pressure spinning",
+    "zh": "高压纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-speed spinning stretching crimping cutting",
+    "zh": "高速纺丝拉伸卷曲切断一步法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high-speed vulcanization",
+    "zh": "快速硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "high tenacity viscose rayon spinning machine",
+    "zh": "黏胶强力丝纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "high tension voltmeter",
+    "zh": "高压伏特计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "high voltage atmospheric ionizer",
+    "zh": "高压大气电离器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "horizontal spinning extruder",
+    "zh": "卧式挤出纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot acid treatment",
+    "zh": "热酸处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-air vulcanization",
+    "zh": "热空气硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hot compression molding",
+    "zh": "热压成型(法); 热压模塑法(碳纤维复合材料成型法之一)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot-doctor treatment (",
+    "zh": "汽油)含硫处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "hot extrusion",
+    "zh": "热挤法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot extrusion molding",
+    "zh": "热挤模塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "hot vulcanization",
+    "zh": "热硫化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hybrid curing technology",
+    "zh": "混合式固化工艺",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "hydrotreatment",
+    "zh": "加氢处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "image treatment",
+    "zh": "图像处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "incomplete vulcanization",
+    "zh": "不完全硫化；部分硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "independent chain(=uncrosslinking chain)",
+    "zh": "独立链；未交联链",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "index for routine analysis for atmospheric pollution",
+    "zh": "大气污染常规分析指标",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "index of routine analysis for atmospheric pollution",
+    "zh": "大气污染常规分析指标",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "indicator organism for atmospheric pollution",
+    "zh": "大气污染指示生物",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "individual curing",
+    "zh": "单独硫化;单独处理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial rheology",
+    "zh": "工业流变学*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "industrial waste treatment",
+    "zh": "工业废物处理；工业废液处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "industrial waste water treatment",
+    "zh": "工业废水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inert atmosphere",
+    "zh": "惰性气氛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inert-atmosphere glove box",
+    "zh": "惰性气氛手套箱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "inert-atmosphere processing cell",
+    "zh": "惰性气氛处理热室",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "infrared vulcanization",
+    "zh": "红外(线)硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "initial adjustment",
+    "zh": "初调；零度调正",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "initial vulcanization step",
+    "zh": "硫化开始阶段；硫化初期",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "injection compression molding",
+    "zh": "注塑压缩成型",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "injection molding",
+    "zh": "注射成型*",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "injection molding machine",
+    "zh": "注压(硫化)机;注(射)模(塑)机（塑料）",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "in-line extrusion-stretch-blow",
+    "zh": "串联挤坯拉伸吹塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "in-line sheet-fed thermoformer",
+    "zh": "串联单片喂料式热成型机",
+    "role": "primary",
+    "confidence": 1.5
+  },
+  {
+    "en": "in-situ curing",
+    "zh": "现场硫化法；注入硫化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "in situ pretreatment",
+    "zh": "原位预处理*",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "integral extrusion",
+    "zh": "整体挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "intercrosslinking",
+    "zh": "链间交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "interfacial rheology",
+    "zh": "界面流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "internal crosslinking",
+    "zh": "内交联(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intersystem crosslinking",
+    "zh": "体系间交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "intramolecular crosslinking",
+    "zh": "分子内交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "investment",
+    "zh": "蜡模铸造",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "investment cost",
+    "zh": "投资额",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion-atmosphere",
+    "zh": "离子氛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion atmosphere effect",
+    "zh": "离子氛作用；离子氛效应",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion atmosphere radius",
+    "zh": "离子氛半径",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion exchange treatment",
+    "zh": "离子交换处理；离子交换法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ionic atmosphere",
+    "zh": "离子氛*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ionic strength adjustment buffer",
+    "zh": "离子强度缓冲剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ion trap mass spectrography(ITMS)",
+    "zh": "离子阱质谱法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "irradiation crosslinking",
+    "zh": "辐射交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isopropyl-β-D-thiogalactoside(IPTG)",
+    "zh": "异丙基-β-D-硫代半乳糖苷",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "isotactic crystallinity",
+    "zh": "全同(立构)结晶性; 等规结晶性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "isothermal spinning threading",
+    "zh": "等温纺丝线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "isothermal vulcanization",
+    "zh": "等温硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "jet spinning",
+    "zh": "喷射纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "knitmesh",
+    "zh": "织网",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "knitmesh packing",
+    "zh": "网卷填料",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lacca coerula(=litmus)",
+    "zh": "石蕊",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lamellar-extrusion technique",
+    "zh": "层状挤压成形技术",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "latent curing agent",
+    "zh": "潜固化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "latent curing resin",
+    "zh": "潜在固化树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "lay-flat extrusion",
+    "zh": "平折挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lead extrusion press",
+    "zh": "压铅(硫化)机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "lemon petitgrain oil",
+    "zh": "柠檬叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "lime treatment (",
+    "zh": "用)石灰处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "linear extrusion speed",
+    "zh": "挤出线速度",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "linear theory of viscoelasticity",
+    "zh": "线性黏弹性理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear viscoelasticity",
+    "zh": "线性黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "linear viscoelasticity with couple-stress",
+    "zh": "具偶合应力的线性黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid crystal spinning",
+    "zh": "液晶纺丝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "liquid curing",
+    "zh": "液体硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "liquid injection molding(LIM)",
+    "zh": "液体注射模压成型",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "lithiated montmorillonite",
+    "zh": "锂氧蒙脱石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmopyrine",
+    "zh": "乙酰水杨酸锂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus",
+    "zh": "石蕊",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus blue",
+    "zh": "石蕊蓝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus milk",
+    "zh": "石蕊汁",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus neutral test paper",
+    "zh": "中性石蕊试纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus paper",
+    "zh": "石蕊试纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus red test paper",
+    "zh": "红色石芯试纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus silk",
+    "zh": "石蕊丝",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus test",
+    "zh": "石蕊试验",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus test paper",
+    "zh": "石蕊试纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "litmus tincture",
+    "zh": "石蕊酊",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low sulfur curing system",
+    "zh": "低硫硫化系统",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature curing",
+    "zh": "低温固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "low-temperature heat treatment",
+    "zh": "低温热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low-temperature sulfuric acid treatment",
+    "zh": "低温硫酸处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "low-temperature treatment",
+    "zh": "低温处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Macklow-Smith extrusion viscosity test",
+    "zh": "米克劳-史密斯挤出黏度试验",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "macrocrystallinity",
+    "zh": "宏观结晶性;宏观结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "macro-rheology",
+    "zh": "宏观流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "maintained treatment",
+    "zh": "维修处理；保养处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "maintenance painting treatment",
+    "zh": "维修涂装处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mandarin petitgrain oil",
+    "zh": "橘叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "marine atmosphere",
+    "zh": "海洋大气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "matched-mold thermoforming",
+    "zh": "对模热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "match-mo(u)ld thermoforming",
+    "zh": "合模热成型；对模热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mathematical treatment",
+    "zh": "数学处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanical denaturation spinning",
+    "zh": "力学变性纺丝；索引纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mechanical treatment",
+    "zh": "机械加工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mechanism of crosslinking",
+    "zh": "交联机理",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium curing asphalt",
+    "zh": "中级处理沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "medium curing cut back (asphalt) （",
+    "zh": "沥青）中级处理回收段",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "megaroentgen",
+    "zh": "兆伦琴（ 伦琴）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt extrusion",
+    "zh": "熔体挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt extrusion method",
+    "zh": "熔体挤出法（测定聚合物分子量用）",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt flow",
+    "zh": "熔体流动",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt flow instability",
+    "zh": "熔体流动不稳定性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt flow rate(MFR)",
+    "zh": "熔体流动速率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "melt grid type spinning machine",
+    "zh": "熔栅式纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt index apparatus",
+    "zh": "熔体指数仪（测定熔体黏度用） melt indexer(=melt index plastometer;extrusion type",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "melt rheology",
+    "zh": "熔体流变学培养法",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "melt spinning",
+    "zh": "熔纺*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "melt-spinning process",
+    "zh": "熔纺工艺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mercury ointment",
+    "zh": "汞软膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Merz-Colwell extrusion rheometer",
+    "zh": "梅尔茨-科威尔挤压式流变仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "metal-conditioning treatment",
+    "zh": "金属磷化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "metallo-organic curing catalyst",
+    "zh": "金属有机固化催化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "meta rheology",
+    "zh": "亚流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "method of Hartman interpolation",
+    "zh": "哈特曼内插法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "methylol crosslinking agent",
+    "zh": "羟甲基交联剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microbiological treatment",
+    "zh": "微生物处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "microcrystallinity",
+    "zh": "微结晶性;微结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro-rheology",
+    "zh": "微观流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "micro wave curing",
+    "zh": "微波硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "microwave vulcanization",
+    "zh": "微波硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "milliroentgen",
+    "zh": "毫伦琴",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "millivoltmeter",
+    "zh": "毫伏(特)计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mist spinning",
+    "zh": "喷雾纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "moist curing",
+    "zh": "润湿处理（保持在润湿介质中）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "moisture curing",
+    "zh": "湿固化；潮气固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mold vulcanization",
+    "zh": "模型硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "molecular rheology",
+    "zh": "分子流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "monitoring car for atmospheric pollution",
+    "zh": "大气污染监测车",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmartrite",
+    "zh": "石膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmorillonite",
+    "zh": "蒙脱石；蒙脱土",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmorillonite-acrylic ester",
+    "zh": "蒙脱石-丙烯酸酯",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmorillonite-acrylonitrile system",
+    "zh": "蒙脱石-丙烯腈体系",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmorillonite clay",
+    "zh": "蒙脱土",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "montmorillonite grease",
+    "zh": "蒙脱土润滑脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "motorized nip adjustment",
+    "zh": "电动调距(装置)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "moulding curing",
+    "zh": "模压硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "mould vulcanization",
+    "zh": "模塑硫化（橡）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "multi-colo(u)r profile extrusion",
+    "zh": "多色型材挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multi-compartment reactor",
+    "zh": "多室反应器；多间隔反应器",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-layer blow molding",
+    "zh": "多层吹塑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "multi-layer extrusion",
+    "zh": "多层挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiload treatment",
+    "zh": "多次(离子交换)吸附处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "multi-purpose compact spinning system",
+    "zh": "多用途短程纺丝系统；多功能紧凑纺丝系统",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "multiscrew extrusion machine",
+    "zh": "多螺杆挤压机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "mustmeter",
+    "zh": "浊度计;比浊计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "mutmeg",
+    "zh": "肉豆蔻",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "natural curing",
+    "zh": "自然发酵；应时发酵（烟草）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "natural fibre spinning machinery",
+    "zh": "天然纤维纺织机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "natural time of viscoelasticity",
+    "zh": "黏弹性特征时间",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "neutralizing treatment",
+    "zh": "中和处理; 碱洗涤",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neutral to litmus",
+    "zh": "石蕊(测试)中性",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "neutron curing",
+    "zh": "中子固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "nitriding treatment",
+    "zh": "氮化处理；渗氮",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nitrogen atmosphere",
+    "zh": "氮气氛；氮气层",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-linear theory of viscoelasticity",
+    "zh": "非线性黏弹性理论",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-linear viscoelasticity",
+    "zh": "非线性黏弹性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "non-oxidizing atmosphere",
+    "zh": "非氧化(性)气氛；非氧化环境",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "non-sulfur vulcanization",
+    "zh": "非硫硫化*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "normal atmosphere",
+    "zh": "正常大气；标准大气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "null adjustment",
+    "zh": "零位调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nutgall",
+    "zh": "榀子；五倍子；没食子",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nutmeg",
+    "zh": "肉豆蔻",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nutmeg butter",
+    "zh": "肉豆蔻脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "nutmeg oil",
+    "zh": "肉豆蔻油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oatmeal",
+    "zh": "燕麦粉;燕麦粥",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oatmeal paper",
+    "zh": "粉纸",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "octadecyl ammonitm bentonite",
+    "zh": "十八烷基铵膨润土",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oil-treatment of coal",
+    "zh": "煤的油处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ointment",
+    "zh": "软膏；药膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ointment base",
+    "zh": "软膏基料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ointment for gas protection",
+    "zh": "防毒软膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ointment of zinc oxide",
+    "zh": "氧化锌软膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "one-point adjustment",
+    "zh": "一点调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "one-step curing",
+    "zh": "一次硫化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "one-way layout",
+    "zh": "一元配置；一元构型;一元分类 one-step high-speed spinning-stretching-crimping-cutting",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "open-air atmosphere",
+    "zh": "露天环境（测试）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open to atmosphere",
+    "zh": "与大气通连的",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "open vulcanization",
+    "zh": "无模硫化*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ordering beat treatment",
+    "zh": "有序化热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "organo montmorillonite",
+    "zh": "有机蒙脱土；有机高岭土",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oriental sweetgum",
+    "zh": "安息香香脂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgas",
+    "zh": "除气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgassed ionexchange",
+    "zh": "脱气离子交换",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgassing",
+    "zh": "除气作用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgassing cooler",
+    "zh": "除气冷却器；脱气冷却器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgassing rate",
+    "zh": "脱气速率；除气速率",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgoing beam",
+    "zh": "发出光束；射出光束",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgoing gas",
+    "zh": "出气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "outgrowth",
+    "zh": "悬出；横出；侧出",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oven atmosphere",
+    "zh": "炉气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oven cavity atmosphere",
+    "zh": "烘炉内气氛(体)；炉膛气氛",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "overall crystallinity",
+    "zh": "总结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overcuring",
+    "zh": "过固化;过熟化;硫化过度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "overvulcanization",
+    "zh": "过度硫化；硫化过度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidation channels treatment",
+    "zh": "氧化沟法处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxidation treatment of waste water",
+    "zh": "废水氧化处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxidative crosslinking",
+    "zh": "氧化交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "oxidizing atmosphere",
+    "zh": "氧化氛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxygen-enriched atmosphere",
+    "zh": "富氧气气氛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxygen-free atmosphere",
+    "zh": "无氧大气；无氧气氛",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxygen treatment",
+    "zh": "氧(气)(治)疗(法)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "oxygen treatment apparatus",
+    "zh": "氧(气)(治)疗器",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ozonation treatment of waste water",
+    "zh": "废水臭氧化处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pan vulcanization",
+    "zh": "罐中硫化法（橡）",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "paracrystallinity",
+    "zh": "次晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "partial vulcanization",
+    "zh": "部分硫化 α-particle α粒(子)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "passivating treatment",
+    "zh": "钝化处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Peachey process of vulcanization",
+    "zh": "皮契硫化法",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percentage crystallinity",
+    "zh": "结晶百分率",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percent crystallinity",
+    "zh": "结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "percolation treatment",
+    "zh": "渗滤处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "peroxide crosslinking",
+    "zh": "过氧化物交联*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "peroxide vulcanization",
+    "zh": "过氧化物硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "petitgrain bergamot oil",
+    "zh": "香柠檬叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain bigarade oil(=bitter orange leaf oil)",
+    "zh": "苦橙叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain lemon oil",
+    "zh": "柠檬叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain mandarin oil",
+    "zh": "橘叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain oil",
+    "zh": "橙叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain pomelo oil",
+    "zh": "香泡叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petitgrain sweet orange oil",
+    "zh": "甜橙叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petrl ointment",
+    "zh": "石油软膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petrolatum ointment",
+    "zh": "矿脂；凡士林",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "petroleum ointment",
+    "zh": "矿脂；凡士林",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pH adjustment tank pH",
+    "zh": "调节槽；酸碱度调节槽",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pharmaceutical ointment",
+    "zh": "药用软膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phenomenological rheology",
+    "zh": "唯象流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "phenomenological treatment",
+    "zh": "唯象处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "phosphate treatment",
+    "zh": "磷化处理；磷酸基处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photochemical crosslinking",
+    "zh": "光化学交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photocrosslinking",
+    "zh": "光致交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photocuring",
+    "zh": "光固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-curing material",
+    "zh": "光固化材料",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photocuring reaction",
+    "zh": "光(致)固化反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photo-induced crosslinking reaction",
+    "zh": "光诱导交联反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "photooxidation treatment of waste water",
+    "zh": "废水光氧化处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "photovulcanization",
+    "zh": "光硫化(作用)",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "physical crosslinking",
+    "zh": "物理交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pitman",
+    "zh": "连接杆；摇杆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "planetary atmosphere",
+    "zh": "行星雾围",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "plumbite treatment",
+    "zh": "铅酸盐处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pollution treatment of potable water",
+    "zh": "饮用水除污染处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyamine treatment",
+    "zh": "聚胺处理；多胺处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "polyaziridine crosslinking agent",
+    "zh": "聚氮丙啶交联剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer blend spinning method",
+    "zh": "聚合物混合纺丝法",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polymeric crystallinity",
+    "zh": "高聚物的结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polymer rheology",
+    "zh": "聚合物流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "polytropic extrusion",
+    "zh": "多热源挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "polyurethane reaction-injection molding",
+    "zh": "聚氨酯反应性-注射成形法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "polyvalent retreatment plant",
+    "zh": "多用途(核燃料)后处理工厂",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "portmanteau leather",
+    "zh": "旅行皮包革",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Portugal petitgrain oil",
+    "zh": "葡萄牙橙叶油",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-calcination treatment",
+    "zh": "后煅烧处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post curing treatment",
+    "zh": "后固化处理；后熟化处理",
+    "role": "primary",
+    "confidence": 5.0
+  },
+  {
+    "en": "postdeposition heat treatment",
+    "zh": "沉积后热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-heat treatment",
+    "zh": "后热处理；二次热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "postmicellar region",
+    "zh": "胶束化后(浓度)区",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-shaping treatment",
+    "zh": "后成形处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post-treatment",
+    "zh": "后处理；后加工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "post vulcanization",
+    "zh": "后硫化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "postweld heat treatment",
+    "zh": "焊后热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pot (of) spinning machine",
+    "zh": "纺丝罐;离心罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pot spinning machine",
+    "zh": "罐纺机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "precuring",
+    "zh": "预硫化；预固化;预熟化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "preliminary heat treatment in oxidizing",
+    "zh": "初步氧化热处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "preliminary treatment",
+    "zh": "初步处理；预处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "premature curing",
+    "zh": "早期固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "premature vulcanization(=bin cure) (",
+    "zh": "橡胶)早期硫化；仓储硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "press-flow extrusion rheometer",
+    "zh": "压流型挤出流变仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "pressure melter type spinning machine",
+    "zh": "压熔式纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "press vulcanization",
+    "zh": "加压硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "pretreatment",
+    "zh": "预处理；前处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pretreatment of paper",
+    "zh": "滤纸预处理；滤纸前处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pretreatment primer(=wash primer)",
+    "zh": "前处理底漆；磷化底漆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pretreatment streaks",
+    "zh": "预处理条痕状污迹",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "pretreatment unit",
+    "zh": "预处理装置",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "prevulcanization",
+    "zh": "预(先)硫化(作用)；过早硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary crystallinity",
+    "zh": "主结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primary sewage treatment",
+    "zh": "污水一次处理；污水一级处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primary treatment",
+    "zh": "一次处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "primary vulcanization",
+    "zh": "第一次硫化；定型硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "primer curing oven",
+    "zh": "底漆固化炉",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "product rheology",
+    "zh": "产品流变性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "profile extrusion",
+    "zh": "型材挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "prolonged treatment",
+    "zh": "延伸处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "promoter of vulcanization",
+    "zh": "硫化活性(促进)剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "quaternary ammonium montmorillonite",
+    "zh": "季铵蒙脱石",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiation crosslinking",
+    "zh": "辐射交联*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation crosslinking of polymer",
+    "zh": "聚合物辐射交联反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation curing",
+    "zh": "辐射固化*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation induced crosslinking",
+    "zh": "辐射诱导交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiation vulcanization",
+    "zh": "辐射硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radical crosslinking",
+    "zh": "自由基交联(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radioactive waste treatment",
+    "zh": "放射性废物处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radio frequency curing",
+    "zh": "射频熟化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "radiotreatment",
+    "zh": "放射处理；辐射处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "radiovulcanization",
+    "zh": "无线电硫化；高频硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "random crosslinking",
+    "zh": "无规交联",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid-curing",
+    "zh": "快固的；快凝的",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid-curing asphalt(=rapid-curing cutback)",
+    "zh": "快干(铺路)沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid curing cutback asphalt",
+    "zh": "快干(铺路)沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rapid-curing paving binder(=rapid-curing cutback)",
+    "zh": "快干(铺路)沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rate of crosslinking",
+    "zh": "交联速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reaction injection molding(RIM)",
+    "zh": "反应注射模塑；反应注射成型",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "reaction spinning",
+    "zh": "反应纺丝",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reactive curing agent",
+    "zh": "活性固化剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "reactive extrusion",
+    "zh": "反应性挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "reducing atmosphere",
+    "zh": "还原空气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reinforced reaction injection molding",
+    "zh": "增强反应注塑法：增强反应性注射成形法",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "relative crystallinity",
+    "zh": "相对结晶度；相对结晶性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "release treatment",
+    "zh": "消除处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rem(=roentgen equivalent man)",
+    "zh": "雷姆；人体伦琴当量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "remote sensing for atmospheric pollution",
+    "zh": "大气污染遥测",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "repeated crystallinity",
+    "zh": "重复结晶性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "resin injection molding",
+    "zh": "树脂注塑成型",
+    "role": "secondary",
+    "confidence": 3.5
+  },
+  {
+    "en": "resin treatment",
+    "zh": "树脂加工(处理)",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "resistance to atmosphere",
+    "zh": "耐候性",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Retger's law",
+    "zh": "雷奇尔混合晶体物性定律",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "retreatment",
+    "zh": "再精制；再加工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "reverse osmosis water treatment",
+    "zh": "反渗透水处理法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "revulcanization",
+    "zh": "再(次)硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheoelastic extrusion(=elastic melt extrusion)",
+    "zh": "流变弹性挤塑",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rheology",
+    "zh": "流变学*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheology control agent",
+    "zh": "流变控制剂；流变调节剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheology modifier",
+    "zh": "流变改性(改进)剂；流变性调节剂;黏弹性调节剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheology of suspension",
+    "zh": "悬浮体流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rheology remains",
+    "zh": "流变残余",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ring spinning frame",
+    "zh": "环锭细纱机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "roentgen",
+    "zh": "伦琴（射线剂量单位）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen-equivalent-man(rem)",
+    "zh": "人体伦琴当量；雷姆",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen machine X",
+    "zh": "光机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgenogram X",
+    "zh": "射线照相",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgenography X",
+    "zh": "射线照相法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgenology X",
+    "zh": "射线学；伦琴射线学",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgenometry",
+    "zh": "伦琴射线测试法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgenoscope",
+    "zh": "伦琴射线透视机；X光机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen photograph",
+    "zh": "伦琴射线照相",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen(r)",
+    "zh": "伦琴（射线辐射量单位）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen rays",
+    "zh": "伦琴射线：X射线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen tube",
+    "zh": "伦琴管",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roentgen unit",
+    "zh": "伦琴单位",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "roll adjustment",
+    "zh": "滚距调整；调距",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "röntgen(=roentgen)",
+    "zh": "伦琴（单位）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "röntgen equivalent physical",
+    "zh": "物理伦琴当量",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "röntgenogram",
+    "zh": "伦琴照片：X射线照片",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "röntgen ray(=X-ray)",
+    "zh": "伦琴射线；X 射线",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "room temperature curing",
+    "zh": "室温固化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "room temperature curing varnish",
+    "zh": "室温固化清漆；常温固化清漆",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "room temperature vulcanization",
+    "zh": "室温硫化；常温硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "rosin oil adulterant(=rosin oil adultment)",
+    "zh": "松香油的(石油)代用品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rosin oil adultment(=rosin oil adulterant)",
+    "zh": "松香油的(石油)代用品",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotary compression molding press",
+    "zh": "旋转式压缩成型机",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotational molding",
+    "zh": "旋转模塑",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "rotor spinning machine",
+    "zh": "转杯纺纱机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "rotor spinning unit",
+    "zh": "转杯纺纱单位",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "runnerless injection molding",
+    "zh": "无流道冷料注塑",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "salt atmosphere",
+    "zh": "含盐大气",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sample on-line pretreatment",
+    "zh": "试样在线预处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sample pretreatment",
+    "zh": "试样预处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scanning tunneling microscopy (STM)",
+    "zh": "扫描隧道显微法",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "scanning tunnel microscope (STM)",
+    "zh": "扫描隧道显微镜*",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "screw extrusion",
+    "zh": "螺旋挤压",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screw extrusion machine",
+    "zh": "螺杆压出机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screw extrusion press",
+    "zh": "螺杆挤压机；螺杆压榨机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screw injection molding machine",
+    "zh": "螺杆式注塑机",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "screw-melter-fed spinning machine",
+    "zh": "螺杆(式)纺丝机；螺杆式熔(化器喂)料纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "screw speed adjustment",
+    "zh": "螺杆速度调节;螺杆调速装置",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "screw-type extrusion machine",
+    "zh": "螺杆压出机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "sealing treatment",
+    "zh": "封闭处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "seaside atmosphere",
+    "zh": "海滨大气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "secondary crystallinity",
+    "zh": "次级结晶度；后期结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "secondary sewage treatment",
+    "zh": "二次污水处理；污水二级处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "secondary treatment",
+    "zh": "二次处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "second axiom of rheology",
+    "zh": "流变学第二公理",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second order viscoelasticity",
+    "zh": "二阶黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "second-stage treatment",
+    "zh": "二级处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selective hydrotreatment",
+    "zh": "选择加氢处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "selective treatment",
+    "zh": "选择加工；选择处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "self-crosslinking",
+    "zh": "自交联(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-crosslinking acrylic resin",
+    "zh": "自交联丙烯酸树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-curing",
+    "zh": "自动硫化*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-curing adhesive",
+    "zh": "自固化黏合剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-curing cement",
+    "zh": "自动硫化胶",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "self-texturing yarn",
+    "zh": "自变形丝 self-thermosetting(=self-curing;ambient cure,self-vulcanizing)自(热)固化；室温固化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "semi-continuous centrifuge spinning method",
+    "zh": "半连续离心纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "semi-vulcanization",
+    "zh": "半硫化(作用)",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sensitivity adjustment screw",
+    "zh": "灵敏度调节螺旋",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "separable conjugate fiber spinning method",
+    "zh": "裂离型复合纤维纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "service department expenses",
+    "zh": "服务部门费用",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "setting treatment",
+    "zh": "定形处理；硬化处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sewage treatment plants",
+    "zh": "污水处理厂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sewage treatment structure",
+    "zh": "污水处理结构",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sewage treatment system",
+    "zh": "污水处理系统",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "shelf curing(=bin curing)",
+    "zh": "存放自硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "short cycle curing",
+    "zh": "短时硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "short term curing",
+    "zh": "短时硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "side injection molding",
+    "zh": "侧面注压法",
+    "role": "primary",
+    "confidence": 3.5
+  },
+  {
+    "en": "sieving department",
+    "zh": "筛选车间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "silk spinning",
+    "zh": "丝纺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "siloxane crosslinking acrylic coatings",
+    "zh": "硅氧烷交联型丙烯酸涂料",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "simulate treatment process",
+    "zh": "模拟处理法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "slow-curing asphalt",
+    "zh": "慢干道路沥青（用柴油馏分稀释的道路沥青）",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow curing cut back (asphalt)",
+    "zh": "慢干道路沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow-curing paving binder",
+    "zh": "慢干的液体道路沥青",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "slow curing resin",
+    "zh": "慢干树脂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sludge treatment",
+    "zh": "污泥处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "smoke curing",
+    "zh": "烟熏制",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "soap treatment(=soap process)",
+    "zh": "皂化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium-hydroxide treatment",
+    "zh": "氢氧化钠处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sodium plumbite treatment",
+    "zh": "铅酸钠处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "soft petroleum ointment",
+    "zh": "矿脂：凡士林软膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "solid-phase extrusion",
+    "zh": "固相挤出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "solvent-free melt extrusion",
+    "zh": "无溶剂熔体挤出",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "specific investment",
+    "zh": "比投资",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spent lye treatment",
+    "zh": "废(碱)液处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "spinning",
+    "zh": "自旋;纺丝；纺纱",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning acid",
+    "zh": "纺丝酸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning assistant",
+    "zh": "纺纱(工艺)助剂；纺丝(工艺)助剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning-band column",
+    "zh": "旋带精馏塔",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning band distillation column",
+    "zh": "自旋带蒸馏柱",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning bath",
+    "zh": "纺丝浴",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning bath stretch",
+    "zh": "纺丝浴拉伸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning box",
+    "zh": "纺丝罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning cake (",
+    "zh": "纺丝)丝饼",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning can",
+    "zh": "纺丝罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning cell",
+    "zh": "纺丝套筒",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning detonation",
+    "zh": "旋焰爆震；有特殊火焰前峰传播的爆震",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning die(=spinning jet)",
+    "zh": "喷丝头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning disc atomizer",
+    "zh": "旋转式圆盘雾化器；喷雾转盘",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning-disk applicator",
+    "zh": "转盘式涂膜器",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning drop interfacial tensiometer",
+    "zh": "旋滴界面张力仪",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning duration",
+    "zh": "纺丝期间",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning electron",
+    "zh": "自转电子；自旋电子",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning fly",
+    "zh": "飞花",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning funnel",
+    "zh": "纺丝漏斗",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning head",
+    "zh": "喷丝头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning-in-coefficient",
+    "zh": "纺纱系数",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning jet(=spinning die)",
+    "zh": "喷丝头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning line",
+    "zh": "纺纱流程；纺丝流程；纺纱路线；纺丝线路",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning machine",
+    "zh": "纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning machinery",
+    "zh": "旋压机床;离心机;纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning metering pump",
+    "zh": "纺丝计量泵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning nozzle",
+    "zh": "纺丝头",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning oil",
+    "zh": "纺丝油剂",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning paper",
+    "zh": "纺织纸",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning pot",
+    "zh": "纺丝罐",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning power",
+    "zh": "纺丝本领",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning process",
+    "zh": "纺丝过程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning pump",
+    "zh": "纺丝泵",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning quality of viscose",
+    "zh": "黏胶的纺丝性能",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning side bands",
+    "zh": "旋转边峰；旋转边带",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning solution",
+    "zh": "纺丝溶液",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning top",
+    "zh": "陀螺",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spinning way",
+    "zh": "纺丝程",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "split caustic treatment",
+    "zh": "裂化碱处理（裂化馏分的苛性钠精制）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "split-flow spinning machine",
+    "zh": "热风分流(型)干式纺丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "spray spinning",
+    "zh": "喷纺成形",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "standard atmosphere",
+    "zh": "标准大气；标准温湿度",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard atmosphere pressure",
+    "zh": "标准大气压力；正常压力",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "standard international atmosphere",
+    "zh": "国际标准气压",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "staple-fibre aftertreatment machine",
+    "zh": "短纤维后处理机；人造短纤维后处理机",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "state of vulcanization",
+    "zh": "硫化程度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steam curing",
+    "zh": "蒸汽硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "steam spinning",
+    "zh": "蒸汽纺丝法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "steam treatment",
+    "zh": "水蒸气处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "steam vulcanization",
+    "zh": "蒸汽硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "straight through extrusion",
+    "zh": "直通压出",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stress crystallinity",
+    "zh": "应力结晶性;应力结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "stretch spinning",
+    "zh": "拉伸纺丝",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "stretch thermoforming",
+    "zh": "拉伸热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "structural rheology",
+    "zh": "结构流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "structure collapsing treatment",
+    "zh": "结构致密处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subatmospheric pressure",
+    "zh": "低于大气压(的)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "subsequent treatment",
+    "zh": "后处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "substrate extrusion coating(=extrusion coating)",
+    "zh": "挤压涂装",
+    "role": "secondary",
+    "confidence": 4.5
+  },
+  {
+    "en": "substrate treatment",
+    "zh": "底材处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfosuccinic acid",
+    "zh": "磺基琥珀酸；磺基丁二酸 sulfur chloride vulcanization 氯化硫溶液硫化；冷硫化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "sulfur-free vulcanization",
+    "zh": "无硫硫化；无硫硬化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sulfur vulcanization",
+    "zh": "硫黄硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sun atmosphere",
+    "zh": "太阳大气",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "superatmospheric pressure",
+    "zh": "超级大气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "surface treatment",
+    "zh": "表面处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "suspension rheology",
+    "zh": "悬浮体流变学",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "sweetening treatment",
+    "zh": "脱硫；香化；用博士溶液精制",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tank compartment",
+    "zh": "油罐分隔室",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tanker oil compartment",
+    "zh": "油槽船船舱",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tape extrusion line",
+    "zh": "带条挤出生产线",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "teleroentgentherapy",
+    "zh": "远距 X 射线疗法",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "temperature-slope adjustment",
+    "zh": "温度-斜率调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tertiary treatment (",
+    "zh": "污水)三级处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal oxidative treatment",
+    "zh": "热氧化处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermal treatment",
+    "zh": "热处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermoforming",
+    "zh": "热成型",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermo-mechanical pulp(TMP)",
+    "zh": "预热机械(磨木)桨",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermometer adjustment",
+    "zh": "温度计调整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thermooxidative crosslinking",
+    "zh": "热氧化交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thermoset extrusion",
+    "zh": "热挤塑法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "thermoviscoelasticity",
+    "zh": "热黏弹性;热黏弹度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "thick molding compound (TMC)",
+    "zh": "厚片模塑料",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thioglycollic acid",
+    "zh": "疏基乙酸；氢硫基乙酸 HSCH₂CO₂H 1-thioguaiacol 1-硫代愈创木酚 6-thioguanine(6TG) 6-硫代鸟嘌呤；6-巯基鸟嘌呤",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "three-dimensional crystallinity",
+    "zh": "三维结晶性",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "threshold treatment",
+    "zh": "极限处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "thymidylic acid (dTMP; TMP)",
+    "zh": "胸(腺嘧啶脱氧核)苷酸；胸苷一磷酸",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tintmeter(=tintometer)",
+    "zh": "色调计；色辉计（物）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tintometer(=tintmeter)",
+    "zh": "色调计；色辉计（物）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total ionic strength adjustment buffer(TISAB)",
+    "zh": "总离子强度缓冲剂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "total obscuring power",
+    "zh": "总蒙蔽本领",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "total treatment",
+    "zh": "完全处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tow-to-sliver break spinning",
+    "zh": "丝束拉断成条纺纱(法); 丝束剪切成条纺纱法",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "transcrystallinity",
+    "zh": "跨晶结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "transversely excited atmospheric pressure",
+    "zh": "横向激励大气压",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treatment",
+    "zh": "处理;医治;讨论",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treatment losses",
+    "zh": "精制损失：处理损失",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treatment tank",
+    "zh": "精制罐；处理罐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treatment time",
+    "zh": "处理时间",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "treatment transfer",
+    "zh": "处理物转移",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "trimellitic anhydride(TMA) 1,2,4-",
+    "zh": "苯三酸酐",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "tumble curing",
+    "zh": "转动硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "two-compartment oil tank",
+    "zh": "双层油罐",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "ultra-rapid vulcanization",
+    "zh": "超速硫化",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "ultra violet curing",
+    "zh": "紫外线硬化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "undercuring",
+    "zh": "欠熟;欠硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "undervulcanization",
+    "zh": "欠硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "unsaturated polyester curing agent",
+    "zh": "不饱和聚酯固化剂",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "UV curing",
+    "zh": "辐射交联",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vacuum tube voltmeter (=electron tube voltmeter)",
+    "zh": "电子管伏特计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vacuum voltmeter(=vacuum tube voltmeter)",
+    "zh": "电子管伏特计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "valence adjustment",
+    "zh": "调价; 价态调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "valve voltmeter",
+    "zh": "电子管伏特计",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vapor-phase treatment",
+    "zh": "气相处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vatman",
+    "zh": "捞工",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vector treatment",
+    "zh": "向量处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "viscoelasticity",
+    "zh": "黏弹性*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "viscose staple spinning machine",
+    "zh": "黏胶短丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "viscose filament spinning machine",
+    "zh": "黏胶长丝机",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "voltmeter",
+    "zh": "伏特计；电压表",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "voltmeter panel",
+    "zh": "伏特计板",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "volume crystallinity",
+    "zh": "体积结晶度",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "volume viscoelasticity(=bulk viscoelasticity)",
+    "zh": "体积黏弹性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "Vortmann-Metzl's method",
+    "zh": "沃尔曼特-梅茨尔法（测锑）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "vulcanization",
+    "zh": "硫化;硬化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization accelerator",
+    "zh": "硫化促进剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization activator",
+    "zh": "硫化活化(性)剂*",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization aid",
+    "zh": "硫化助剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization bond",
+    "zh": "硫化结合",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization characteristic",
+    "zh": "硫化特性",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization coefficient",
+    "zh": "硫化系数",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization curve",
+    "zh": "硫化曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization cycle controller",
+    "zh": "硫化时序控制器",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization leveller",
+    "zh": "硫化调节剂；硫化活性剂",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization process",
+    "zh": "硫化工序",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization rate",
+    "zh": "硫化速度",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization reaction",
+    "zh": "硫化反应",
+    "role": "secondary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization relationship",
+    "zh": "硫化关系曲线",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization retarder",
+    "zh": "硫化延迟剂*",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "vulcanization system",
+    "zh": "硫化体系",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "waste treatment",
+    "zh": "废物处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "waste water treatment",
+    "zh": "废水处理",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water curing",
+    "zh": "水处理;热水硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "water treatment",
+    "zh": "水处理；水的净化",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water treatment plant",
+    "zh": "水处理厂",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water treatment station",
+    "zh": "净水站；水处理站",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "water vulcanization (",
+    "zh": "过)热水硫化",
+    "role": "primary",
+    "confidence": 3.0
+  },
+  {
+    "en": "wattmeter",
+    "zh": "瓦特计",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wavelength adjustment",
+    "zh": "波长调节",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "weighted function treatment",
+    "zh": "权函数处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "wet extrusion molding",
+    "zh": "湿压(出)模塑(法)",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet spinning",
+    "zh": "湿纺*",
+    "role": "primary",
+    "confidence": 4.5
+  },
+  {
+    "en": "wet treatment",
+    "zh": "湿处理;湿选",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Whitfield's ointment",
+    "zh": "苯甲酸、水杨酸、聚乙二醇膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "whole genome shotgun sequencing",
+    "zh": "全基因组鸟检测序 (技术)",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "window function treatment",
+    "zh": "窗(口)函数处理",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "yeatmanite",
+    "zh": "锑硅锰锌石",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "yellow-cross ointment",
+    "zh": "防黄十字(气)软膏",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "Zelan treatment",
+    "zh": "泽伦整理（棉、麻、人造线、丝织物的防水和防污整理）",
+    "role": "primary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero adjustment",
+    "zh": "零点调整",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zero point adjustment screw",
+    "zh": "零点调节螺丝（天平）",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc ointment (",
+    "zh": "氧化)锌油膏",
+    "role": "secondary",
+    "confidence": 2.0
+  },
+  {
+    "en": "zinc oxide ointment (",
+    "zh": "氧化)锌油膏",
+    "role": "secondary",
+    "confidence": 2.0
+  }
+]
