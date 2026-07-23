@@ -2,7 +2,7 @@
 
 An open-source chemical glossary dataset based on *English-Chinese Chemical and Chemical Engineering Vocabulary (5th Edition)*.
 
-[中文版](docs/README_zh.md)
+🧪[中文版](docs/README_zh.md)
 
 ![Visualization Preview](docs/asset/images/view.gif)
 
